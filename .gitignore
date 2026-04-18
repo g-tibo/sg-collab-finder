@@ -1,0 +1,25 @@
+# Node
+node_modules/
+.next/
+out/
+.vercel/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scraper cache (raw HTML dumps are large and regenerable)
+scraper/cache/
+scraper/out/
+
+# Env
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
