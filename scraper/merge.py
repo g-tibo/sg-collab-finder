@@ -30,6 +30,12 @@ def main() -> None:
     # Stable sort by institution then name for predictable diffs.
     all_records.sort(key=lambda r: (r.get("institution", ""), r.get("name", "")))
 
+    # Strip faculty emails before publishing. The intent is to reduce
+    # email-harvesting; the canonical institutional profile_url is still
+    # linked from each card, so people can find the real address there.
+    for r in all_records:
+        r.pop("email", None)
+
     TARGET.parent.mkdir(parents=True, exist_ok=True)
     TARGET.write_text(
         json.dumps(all_records, indent=2, ensure_ascii=False), encoding="utf-8"

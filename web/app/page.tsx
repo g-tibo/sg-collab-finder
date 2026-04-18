@@ -21,7 +21,7 @@ export default function BrowsePage() {
         <h1 className="text-3xl font-semibold tracking-tight">
           Singapore research collaboration finder
         </h1>
-        <p className="mt-2 text-black/70 max-w-2xl">
+        <p className="mt-2 text-black/70 dark:text-white/70 max-w-2xl">
           Browse {FACULTY.length} faculty at NTU, NUS, and A*STAR — or head to{" "}
           <a href="/match" className="text-accent hover:underline">AI Match</a>{" "}
           to describe your project and get ranked suggestions.
@@ -33,12 +33,12 @@ export default function BrowsePage() {
           value={q}
           onChange={(e) => setQ(e.target.value)}
           placeholder="Search names, departments, keywords…"
-          className="rounded-lg border border-black/15 bg-white px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/30"
+          className="rounded-lg border border-black/15 dark:border-white/15 bg-white dark:bg-neutral-900 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/30"
         />
         <select
           value={inst}
           onChange={(e) => { setInst(e.target.value); setDept(""); }}
-          className="rounded-lg border border-black/15 bg-white px-3 py-2 text-sm"
+          className="rounded-lg border border-black/15 dark:border-white/15 bg-white dark:bg-neutral-900 px-3 py-2 text-sm"
         >
           <option value="">All institutions</option>
           {institutions().map((i) => (
@@ -48,7 +48,7 @@ export default function BrowsePage() {
         <select
           value={dept}
           onChange={(e) => setDept(e.target.value)}
-          className="rounded-lg border border-black/15 bg-white px-3 py-2 text-sm"
+          className="rounded-lg border border-black/15 dark:border-white/15 bg-white dark:bg-neutral-900 px-3 py-2 text-sm"
         >
           <option value="">All departments</option>
           {deptOptions.map((d) => (
@@ -57,7 +57,7 @@ export default function BrowsePage() {
         </select>
       </section>
 
-      <p className="text-xs text-black/50 mb-3">
+      <p className="text-xs text-black/50 dark:text-white/40 mb-3">
         {results.length} result{results.length === 1 ? "" : "s"}
       </p>
 

@@ -68,7 +68,7 @@ export default function MatchPage() {
     <>
       <section className="mb-6">
         <h1 className="text-3xl font-semibold tracking-tight">AI Match</h1>
-        <p className="mt-2 text-black/70 max-w-2xl">
+        <p className="mt-2 text-black/70 dark:text-white/70 max-w-2xl">
           Describe your project, question, or technique. Claude ranks the 5 most
           relevant faculty across the directory. Your description and the directory
           are sent to the Anthropic API; nothing is stored by this site.
@@ -80,21 +80,21 @@ export default function MatchPage() {
         value={project}
         onChange={(e) => setProject(e.target.value)}
         placeholder="e.g., We're looking for a collaborator who can study ER stress in aging neurons using C. elegans, to complement a new mouse aging cohort we're setting up."
-        className="w-full min-h-[160px] rounded-lg border border-black/15 bg-white px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/30"
+        className="w-full min-h-[160px] rounded-lg border border-black/15 dark:border-white/15 bg-white dark:bg-neutral-900 px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/30"
       />
 
       {!keyFromServer && (
         <div className="mt-4">
           <label className="block text-sm font-medium mb-1">
             Anthropic API key{" "}
-            <span className="text-black/50 font-normal">(stored locally, never sent to this site)</span>
+            <span className="text-black/50 dark:text-white/40 font-normal">(stored locally, never sent to this site)</span>
           </label>
           <input
             type="password"
             value={apiKey}
             onChange={(e) => setApiKey(e.target.value)}
             placeholder="sk-ant-…"
-            className="w-full rounded-lg border border-black/15 bg-white px-3 py-2 text-sm font-mono focus:outline-none focus:ring-2 focus:ring-accent/30"
+            className="w-full rounded-lg border border-black/15 dark:border-white/15 bg-white dark:bg-neutral-900 px-3 py-2 text-sm font-mono focus:outline-none focus:ring-2 focus:ring-accent/30"
           />
         </div>
       )}
@@ -112,7 +112,7 @@ export default function MatchPage() {
 
       {matches.length > 0 && (
         <section className="mt-8">
-          <h2 className="text-sm font-medium text-black/60 mb-3">Top matches</h2>
+          <h2 className="text-sm font-medium text-black/60 dark:text-white/60 mb-3">Top matches</h2>
           <div className="grid gap-3">
             {matches.map((m, i) => {
               const f = byId.get(m.id);
