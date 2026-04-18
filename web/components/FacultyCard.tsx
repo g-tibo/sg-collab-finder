@@ -5,6 +5,18 @@ import type { Faculty } from "@/lib/faculty";
 // A*STAR and NUS have no such restriction and can be loaded directly.
 const HOSTS_NEEDING_PROXY = new Set(["www.ntu.edu.sg"]);
 
+// Expand the short institution code used in the data to the full name shown
+// in the UI. Keep the data short; only the presentation layer is verbose.
+const INSTITUTION_FULL: Record<string, string> = {
+  "NTU": "Nanyang Technological University",
+  "NUS": "National University of Singapore",
+  "A*STAR": "Agency for Science, Technology and Research",
+};
+
+function institutionLabel(short: string): string {
+  return INSTITUTION_FULL[short] ?? short;
+}
+
 function imgSrc(url: string): string {
   try {
     const u = new URL(url);
@@ -50,8 +62,8 @@ export function FacultyCard({ f, rank, rationale }: { f: Faculty; rank?: number;
           {f.title && <span className="text-xs text-black/60 dark:text-white/60">· {f.title}</span>}
         </div>
         <div className="text-xs text-black/60 dark:text-white/60 mt-0.5">
-          {f.institution}
-          {f.department ? ` · ${f.department}` : ""}
+          {f.department ? `${f.department} · ` : ""}
+          {institutionLabel(f.institution)}
         </div>
         {f.research_areas && f.research_areas.length > 0 && (
           <div className="mt-2 flex flex-wrap gap-1.5">
