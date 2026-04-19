@@ -2329,18 +2329,6 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/filloux_alain-ange-marie.png"
   },
   {
-    "id": "ntu-lkc-alain-filloux",
-    "name": "Alain Filloux",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Professor",
-    "roles": [],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02081",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/08b3efe9-78cf-4198-9bcf-d80e97668613/content"
-  },
-  {
     "id": "ntu-lkc-albert-lim",
     "name": "Albert Lim",
     "institution": "NTU",
@@ -2473,18 +2461,6 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/eee/faculty",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/visiting-faculty/alvandpour-atila.jpg?sfvrsn=142dcc76_1"
-  },
-  {
-    "id": "ntu-lkc-alvin-chan",
-    "name": "Alvin Chan",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Assistant Professor",
-    "roles": [],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01664",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/c06e7120-8eb0-49c7-8e8d-1428a19ab148/content"
   },
   {
     "id": "ntu-ccds-alvin-chan-guo-wei",
@@ -2631,18 +2607,6 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00116",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/c024802f-c228-44fc-a867-2565e4de5269/content"
-  },
-  {
-    "id": "ntu-lkc-andy-khong",
-    "name": "Andy Khong",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Associate Professor",
-    "roles": [],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00972",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/62dc21bc-d09d-43c1-9100-f4ea4c6efc97/content"
   },
   {
     "id": "ntu-eee-andy-khong-wai-hoong",
@@ -3005,20 +2969,6 @@
     "summary": "Atul N. Parikh is Professor in the School of Materials Science and Engineering (MSE) at NTU, Singapore. Research interests: Materials Science & Engineering",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Atul-N-Parikh",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/4697fa85-358e-40aa-8319-7c33fca1c098/content"
-  },
-  {
-    "id": "ntu-lkc-aung-myint-oo-ye-jian-guo",
-    "name": "Aung Myint Oo @ Ye Jian Guo",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Assistant Professor",
-    "roles": [
-      "Assistant Clinical Module Lead (Gastrointestinal System)"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Aung-Myint-Oo-Ye-Jian-Guo",
-    "photo_url": ""
   },
   {
     "id": "ntu-lkc-aziz-ul-haque-sheikh",
@@ -3573,22 +3523,6 @@
     "summary": "Research interests: Mixed-Mode Circuits and Systems; Precision Analog Circuit Design; Integrated Circuit Analysis; Circuit Theory & Applications; Sensor Circuits & Systems; Sensor Interface ICs for Biomedical, Chemical, Environmental; Nanotechnology based Sensors; Power Management ICs for Integrated Sensors and System-on-Chip",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Chan-Pak-Kwong",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/chan-pak-kwong_edited.jpg?sfvrsn=a244db12_2"
-  },
-  {
-    "id": "ntu-cceb-chan-park-b-mary",
-    "name": "Chan Park B., Mary",
-    "institution": "NTU",
-    "department": "School of Chemistry, Chemical Engineering and Biotechnology (CCEB)",
-    "title": "Professor",
-    "roles": [
-      "President's Chair in Chemistry, Chemical Engineering and Biotechnology",
-      "[email protected]"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01028",
-    "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/marychan.jpg?sfvrsn=fb0bb5f9_3",
-    "lab_url": "http://www3.ntu.edu.sg/home/mbechan/"
   },
   {
     "id": "ntu-mae-chan-siew-hwa",
@@ -4476,18 +4410,6 @@
     "summary": "Research interests: Electric Motors and Drives; Renewable Energies; Electric Vehicles; Electric Aircraft; Robotics; Wind Turbine",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Christopher-H-T-Lee",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/lee-christopher.jpg?sfvrsn=4cf35e7c_2"
-  },
-  {
-    "id": "ntu-lkc-christopher-lee",
-    "name": "Christopher Lee",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Associate Professor",
-    "roles": [],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00563",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/89bd5ce2-8679-4e0e-9533-44f18bb7dd15/content"
   },
   {
     "id": "ntu-cee-chu-jian",
@@ -7667,18 +7589,6 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/d7dadcd4-0dbf-4309-961d-fda7c046c209/content"
   },
   {
-    "id": "ntu-lkc-joachim-loo",
-    "name": "Joachim Loo",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Professor",
-    "roles": [],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/lucky-search?index=legacy-id&value=rp00213",
-    "photo_url": ""
-  },
-  {
     "id": "ntu-lkc-joanne-ngeow",
     "name": "Joanne Ngeow",
     "institution": "NTU",
@@ -7769,18 +7679,6 @@
     "summary": "Research interests: Arithmetic Circuits; VLSI Architectures; Digital IC Design; Rapid Prototyping of VLSI systems",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Jong-Ching-Chuen",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/jong-ching-chuen_edited.jpg?sfvrsn=cfc35fc5_2"
-  },
-  {
-    "id": "ntu-lkc-joseph-chang",
-    "name": "Joseph Chang",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Professor",
-    "roles": [],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00843",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/281d6886-5fc4-4606-89df-81c943f057b9/content"
   },
   {
     "id": "ntu-lkc-joseph-sung",
@@ -10549,20 +10447,6 @@
     "summary": "Research interests: Machine Learning; Deep Learning for Big Data; Natural Language Processing; Image/Video Processing; Information Fusion; Cognitive Science",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Mao-Kezhi",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/about-us/our-people/faculty/assoc-professor-kezhi-mao.jpg?sfvrsn=9096ea2a_1&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=CBF9CE771ACD8492C1347C9EB26B0DAB9FE9526A"
-  },
-  {
-    "id": "ntu-lkc-marie-loh",
-    "name": "Marie Loh",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Assistant Professor of Molecular Epidemiology",
-    "roles": [
-      "Scientist Course Lead, Scientific Enquiry and Evidence Based Medicine (SEEM)"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01262",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/620801d1-76d7-49cf-86af-b1d6ff3e5ba4/content"
   },
   {
     "id": "ntu-lkc-martin-mckeown",
@@ -13403,21 +13287,6 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/suzuki_sho.png"
   },
   {
-    "id": "ntu-mae-shu-dong-wei-david",
-    "name": "Shu Dong Wei, David",
-    "institution": "NTU",
-    "department": "School of Mechanical and Aerospace Engineering (MAE)",
-    "title": "Associate",
-    "roles": [
-      "Professor",
-      "[email protected]"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00949?ST_EMAILID=mdshu",
-    "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/shu-dong-wei--david_jpg-1-a9c9b245-dca3-4a3c-888d-fbd6e4419e3f.jpg?sfvrsn=be5c22d3_3"
-  },
-  {
     "id": "ntu-mae-shu-jian-jun",
     "name": "Shu Jian Jun",
     "institution": "NTU",
@@ -13965,23 +13834,6 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/schuster_stephan-christoph.png"
   },
   {
-    "id": "ntu-ase-stephane-paul-vannitsem",
-    "name": "Stephane Paul Vannitsem",
-    "institution": "NTU",
-    "department": "Asian School of the Environment (ASE)",
-    "title": "Professor",
-    "roles": [
-      "Email",
-      "[email protected]",
-      "Office Location",
-      ": SPMS-MAS-05-10"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://www.ntu.edu.sg/ase/aboutus/staff-directory/faculty",
-    "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/stephane-vannitsem958f955e-941e-40cb-bc49-7e94aa4c02ad.jpg?sfvrsn=2d98f213_1"
-  },
-  {
     "id": "ntu-ase-steve-hung-lam-yim",
     "name": "Steve Hung-Lam Yim",
     "institution": "NTU",
@@ -13998,18 +13850,6 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/ase/aboutus/staff-directory/management-team",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/steve_yim_resized_new69f85379-4f20-40f0-889e-aceb3ba4867f.jpg?sfvrsn=93460f6e_1"
-  },
-  {
-    "id": "ntu-lkc-steve-yim",
-    "name": "Steve Yim",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Professor",
-    "roles": [],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/entities/person/Steve-Yim",
-    "photo_url": ""
   },
   {
     "id": "ntu-lkc-steven-thng",
@@ -17769,25 +17609,6 @@
     "scholar_url": "https://scholar.google.com/citations?user=zXlpn_YAAAAJ&hl=en",
     "orcid": "https://orcid.org/0000-0002-2679-0800",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2026-faculty-photos/xiao_yufeng.png"
-  },
-  {
-    "id": "ntu-ase-yun-sang-ho-associate-professor",
-    "name": "Yun Sang-Ho Associate Professor",
-    "institution": "NTU",
-    "department": "Asian School of the Environment (ASE)",
-    "title": "YUN Sang-Ho",
-    "roles": [
-      "Associate Professor",
-      "Director (Remote Sensing Lab)",
-      "Email",
-      "[email protected]",
-      "Office Location",
-      ": N2-01a-9b"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://www.ntu.edu.sg/ase/aboutus/staff-directory/faculty",
-    "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/yun-sang-ho_resized.jpg?sfvrsn=6886fc0a_1"
   },
   {
     "id": "ntu-lkc-yusuf-ali",

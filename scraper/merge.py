@@ -34,6 +34,8 @@ SOURCES = [
 def _norm_name(name: str) -> str:
     """Case/accent/punctuation-insensitive key for cross-institution matching."""
     s = unicodedata.normalize("NFKD", name).encode("ascii", "ignore").decode()
+    # Drop parenthesized content (e.g. Chinese names in "Luke Ong (...)").
+    s = re.sub(r"\([^)]*\)", " ", s)
     s = re.sub(r"[^a-zA-Z\s]", " ", s).lower()
     # Sort tokens so "Kanaga Sabapathy" == "Sabapathy, Kanaga" after reorder.
     tokens = [t for t in s.split() if t]
@@ -59,12 +61,39 @@ def _priority(rec: dict) -> tuple:
     )
 
 
+def _merge_subset_keys(by_key: dict[str, list[dict]]) -> dict[str, list[dict]]:
+    """Merge groups where one key's tokens are a subset of another's. Catches
+    "Alain Filloux" vs "Alain Ange Marie Filloux" as the same person. Requires
+    both sides to have >=2 tokens so single-token keys don't collide."""
+    keys = sorted(by_key.keys(), key=lambda k: len(k.split()))
+    merged: dict[str, list[dict]] = {}
+    for k in keys:
+        toks = set(k.split())
+        if len(toks) < 2:
+            merged[k] = list(by_key[k])
+            continue
+        target = None
+        for existing in merged:
+            etoks = set(existing.split())
+            if len(etoks) < 2:
+                continue
+            if toks.issubset(etoks) or etoks.issubset(toks):
+                target = existing
+                break
+        if target is None:
+            merged[k] = list(by_key[k])
+        else:
+            merged[target].extend(by_key[k])
+    return merged
+
+
 def _dedup(records: list[dict]) -> tuple[list[dict], list[tuple[str, str, str]]]:
     """Collapse records by normalized name. Returns (kept, dropped) where
     `dropped` is a list of (name, institution, reason) for logging."""
     by_key: dict[str, list[dict]] = {}
     for r in records:
         by_key.setdefault(_norm_name(r.get("name", "")), []).append(r)
+    by_key = _merge_subset_keys(by_key)
     kept: list[dict] = []
     dropped: list[tuple[str, str, str]] = []
     for key, group in by_key.items():
