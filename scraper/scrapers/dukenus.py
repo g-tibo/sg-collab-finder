@@ -141,31 +141,27 @@ def _extract_research(html: str) -> str:
 # mapping
 # --------------------------------------------------------------------------- #
 
-# Position titles that are faculty/research (exclude pure admin/support).
-# All 11 observed titles fit, so this is effectively "include everyone with
-# ToDisplay=true and Employment_Status=Active".
-_FACULTY_POS = {
-    "Adjunct Assistant Professor",
-    "Adjunct Associate Professor",
-    "Assistant Professor",
-    "Associate Professor",
-    "Clinical Assistant Professor",
-    "Clinical Associate Professor",
-    "Clinical Professor",
-    "Professor",
-    "Research Assistant",
-    "Research Fellow",
-    "Senior Research Fellow",
-}
-
-
 def _should_include(rec: dict) -> bool:
+    """Keep only primary Duke-NUS faculty.
+
+    Excludes:
+    - Inactive / hidden records.
+    - Adjunct titles (per-user request).
+    - SingHealth Duke-NUS Academic Clinical Programme faculty — these are
+      SingHealth hospital clinicians (SGH/NUH/KKH/etc.) with affiliate
+      ACP appointments, not based at the Duke-NUS campus.
+    """
     if not rec.get("ToDisplay"):
         return False
     if rec.get("Employment_Status") != "Active":
         return False
     pos = (rec.get("Position_Title") or "").strip()
-    return pos in _FACULTY_POS
+    if not pos or "Adjunct" in pos:
+        return False
+    team = (rec.get("Lab_Section_Team") or "").strip()
+    if not team or team.startswith("SingHealth Duke-NUS"):
+        return False
+    return True
 
 
 def _profile_url(slug: str) -> str:
