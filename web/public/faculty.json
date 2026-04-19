@@ -85,22 +85,6 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-anandjeyasekharan.jpg?sfvrsn=d9918344_1"
   },
   {
-    "id": "astar-imcb-andrea-pavesi",
-    "name": "Andrea Pavesi",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "3D tumour microenvironment for disease modelling"
-    ],
-    "research_areas": [
-      "3D tumour microenvironment for disease modelling"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-andreapavesi.jpg?sfvrsn=cb2c421_1"
-  },
-  {
     "id": "astar-imcb-ashok-venkitaraman",
     "name": "Ashok Venkitaraman",
     "institution": "A*STAR",
@@ -297,22 +281,6 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-chitfangcheok.jpg?sfvrsn=498f4211_2"
   },
   {
-    "id": "astar-imcb-christine-cheung",
-    "name": "Christine Cheung",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Molecular and vascular medicine"
-    ],
-    "research_areas": [
-      "Molecular and vascular medicine"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-christinecheung.jpg?sfvrsn=77ec2085_1"
-  },
-  {
     "id": "astar-imcb-christopher-ang",
     "name": "Christopher Ang",
     "institution": "A*STAR",
@@ -490,24 +458,6 @@
     "summary": "",
     "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-nov2024-derrick-ong.jpg?sfvrsn=e84d1bd6_1"
-  },
-  {
-    "id": "astar-imcb-ern-yu-tan",
-    "name": "Ern Yu Tan",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Breast diseases, biomarker discovery, artificial intelligence imaging and data analytics."
-    ],
-    "research_areas": [
-      "Breast diseases",
-      "biomarker discovery",
-      "artificial intelligence imaging and data analytics."
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-ernyutan.jpg?sfvrsn=38998891_1"
   },
   {
     "id": "astar-imcb-farid-ghadessy",
@@ -796,22 +746,6 @@
     "summary": "",
     "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-justinchu.jpg?sfvrsn=4b2397b4_1"
-  },
-  {
-    "id": "astar-imcb-kah-leong-lim",
-    "name": "Kah Leong Lim",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Neurodegenerative diseases - mechanisms and therapeutics"
-    ],
-    "research_areas": [
-      "Neurodegenerative diseases - mechanisms and therapeutics"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-limkahleong.jpg?sfvrsn=bbe1d84a_1"
   },
   {
     "id": "astar-sign-kenji-kabashima",
@@ -2305,6 +2239,30 @@
     "lab_url": "https://earthobservatory.sg/about-us/our-people/adam-switzer"
   },
   {
+    "id": "ntu-lkc-adeline-ng",
+    "name": "Adeline Ng",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nni.com.sg/doctor?",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-aditya-nair",
+    "name": "Aditya Nair",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Aditya-Nair",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-ahmad-khairyanto",
     "name": "Ahmad Khairyanto",
     "institution": "NTU",
@@ -2338,6 +2296,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/vyas_ajai.png"
   },
   {
+    "id": "ntu-lkc-akshar-saxena",
+    "name": "Akshar Saxena",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00735",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-sbs-alain-ange-marie-filloux",
     "name": "Alain Ange Marie Filloux",
     "institution": "NTU",
@@ -2357,6 +2327,33 @@
     "scholar_url": "https://scholar.google.co.uk/citations?user=1Qrq4Y4AAAAJ&hl=en",
     "orcid": "https://orcid.org/0000-0003-1307-0289",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/filloux_alain-ange-marie.png"
+  },
+  {
+    "id": "ntu-lkc-alain-filloux",
+    "name": "Alain Filloux",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02081",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-albert-lim",
+    "name": "Albert Lim",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Respiratory Medicine)",
+      "Assistant Clinical Module Lead (Respiratory Medicine)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Lim-Yick-Hou-Albert",
+    "photo_url": ""
   },
   {
     "id": "ntu-mae-alessandro-romagnoli",
@@ -2435,6 +2432,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/851d987a-17be-470f-8e2d-bbebfcf6c7c0/content"
   },
   {
+    "id": "ntu-lkc-alfred-cheng-sze-lok",
+    "name": "Alfred Cheng Sze-Lok",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Visiting Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.med.cuhk.edu.hk/staff/professor-cheng-sze-lok-alfred",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mse-ali-miserez",
     "name": "Ali Miserez",
     "institution": "NTU",
@@ -2464,6 +2473,18 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/eee/faculty",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/visiting-faculty/alvandpour-atila.jpg?sfvrsn=142dcc76_1"
+  },
+  {
+    "id": "ntu-lkc-alvin-chan",
+    "name": "Alvin Chan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01664",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-alvin-chan-guo-wei",
@@ -2512,6 +2533,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/adjunct-faculty/agupta_edited.jpg?sfvrsn=6fae717c_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=17E3ADE2B08B70D499FD56B44F1F2F5B690220D3"
   },
   {
+    "id": "ntu-lkc-amit-singhal",
+    "name": "Amit Singhal",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "ID Labs",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/joint-investigators/amit-singhal",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-anamitra-makur",
     "name": "Anamitra Makur",
     "institution": "NTU",
@@ -2528,6 +2561,18 @@
     "summary": "Research interests: Compressed Sensing; Filterbanks and Multirate Signal Processing; Signal/Image/Video Compression and Processing",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Anamitra-Makur",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/about-us/our-people/faculty/assoc-professor-anamitra-makur.jpg?sfvrsn=41a92cca_1&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=AE5E46E6178A65400CDEFD70BCF898517FF00FFE"
+  },
+  {
+    "id": "ntu-lkc-andrea-pavesi",
+    "name": "Andrea Pavesi",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Cancer Biology",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02552",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-andrew-clive-grimsdale",
@@ -2547,6 +2592,57 @@
     "summary": "Assoc.-Prof. Grimsdale joined the School of Materials Science and Engineering in Nov 2006. He received his Bachelors, Master and Ph.D. degrees in Chemistry from the University of Auckland, New Zealand in 1983, 1984 and 1990 respectively. His researc ... Research interests: Chemistry and Chemical Engineering | Electronic, Optical and Magnetic Materials | Nanomaterials and Nanotechnology",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Andrew-Clive-Grimsdale",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/dec4a222-cf4f-4678-945b-96d10c432d99/content"
+  },
+  {
+    "id": "ntu-lkc-andrew-john-farmer",
+    "name": "Andrew John Farmer",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Lim Wee Chai Visiting Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.phc.ox.ac.uk/team/andrew-farmer",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-andrew-tan",
+    "name": "Andrew Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Vice Dean",
+    "roles": [
+      "Associate Professor of Metabolic Disorders",
+      "Provost's Chair in Metabolic Disorder"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00393",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-andy-ho",
+    "name": "Andy Ho",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00116",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-andy-khong",
+    "name": "Andy Khong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00972",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-andy-khong-wai-hoong",
@@ -2597,6 +2693,70 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00218",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/ang-wei-tech_jpg-1-9b4a0223-31b1-4017-9dcb-52b8059aa772.jpg?sfvrsn=f3a701ec_3"
+  },
+  {
+    "id": "ntu-lkc-angela-chow",
+    "name": "Angela Chow",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-angeline-lai",
+    "name": "Angeline Lai",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Clinical Module Lead (Child Health and Development)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.kkh.com.sg/profile/angeline-lai-hwei-meeng",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-anjali-kusumbe",
+    "name": "Anjali Kusumbe",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Stem Cell Biology and Regenerative Medicine",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02539",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-anna-barron",
+    "name": "Anna Barron",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Neuroscience",
+    "roles": [
+      "Scientist Module Lead, Mental Health"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01255",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-annabel-chen",
+    "name": "Annabel Chen",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01013",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-annalisa-bruno",
@@ -2799,6 +2959,20 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/9a0f36d3-b8b2-4832-af98-eaca2332d8c8/content"
   },
   {
+    "id": "ntu-lkc-ashutosh-prakash",
+    "name": "Ashutosh Prakash",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Assistant Lead (Radiology)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ashutosh-Prakash",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-atsushi-nitanda",
     "name": "Atsushi Nitanda",
     "institution": "NTU",
@@ -2833,6 +3007,44 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/4697fa85-358e-40aa-8319-7c33fca1c098/content"
   },
   {
+    "id": "ntu-lkc-aung-myint-oo-ye-jian-guo",
+    "name": "Aung Myint Oo @ Ye Jian Guo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Assistant Clinical Module Lead (Gastrointestinal System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Aung-Myint-Oo-Ye-Jian-Guo",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-aziz-ul-haque-sheikh",
+    "name": "Aziz Ul Haque Sheikh",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of Oxford",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.phc.ox.ac.uk/team/aziz-sheikh",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-azra-ghani",
+    "name": "Azra Ghani",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imperial.ac.uk/people/a.ghani",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-bansal-mukta",
     "name": "Bansal Mukta",
     "institution": "NTU",
@@ -2845,6 +3057,44 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00760",
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/mukta_site.jpg?sfvrsn=cc89cf4e_3"
+  },
+  {
+    "id": "ntu-lkc-baosheng-yu",
+    "name": "Baosheng Yu",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Digital Health",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02563",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-baptiste-janela",
+    "name": "Baptiste Janela",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Skin Immunology",
+    "roles": [
+      "Assistant Dean, Innovation and Enterprise"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02162",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-barnaby-young",
+    "name": "Barnaby Young",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Young-Barnaby-Edward",
+    "photo_url": ""
   },
   {
     "id": "ntu-cceb-basuri-pallab",
@@ -2886,6 +3136,18 @@
     "lab_url": "https://www.idmxs.org/about-idmxs/"
   },
   {
+    "id": "ntu-lkc-benjamin-seet",
+    "name": "Benjamin Seet",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "NHG Health",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nhghealth.com.sg/about-us/group-leadership",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ase-benoit-taisne",
     "name": "Benoit Taisne",
     "institution": "NTU",
@@ -2906,6 +3168,35 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00416",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/benoit_taisne_small7eb0cfb12bd84f1bb34d951fcc3a8b99.jpg?sfvrsn=62b8dc6c_1",
     "lab_url": "https://earthobservatory.sg/about-us/our-people/benoit-taisne"
+  },
+  {
+    "id": "ntu-lkc-bernett-lee",
+    "name": "Bernett Lee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Biomedical Informatics",
+    "roles": [
+      "Director, Centre for Biomedical Informatics",
+      "Programme Director of Data Science"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01662",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-bhanu-gupta",
+    "name": "Bhanu Gupta",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Clinical Module Lead (Mental Health)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imh.com.sg/Patients-and-Visitors/Pages/Directory-of-Doctors.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-bin-wu",
@@ -3008,6 +3299,30 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/tang_bozeng.png"
   },
   {
+    "id": "ntu-lkc-brian-david-nicholson",
+    "name": "Brian David Nicholson",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Visiting Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.phc.ox.ac.uk/team/brian-nicholson",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-bridgette-wilson",
+    "name": "Bridgette Wilson",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Singapore Institute of Technology (SIT)",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.singaporetech.edu.sg/directory/faculty/bridgette-jane-wilson",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-math-bruckstein-alfred-m",
     "name": "Bruckstein, Alfred M.",
     "institution": "NTU",
@@ -3027,6 +3342,18 @@
     "profile_url": "http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=AMBRUCKSTEIN",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/alfredbruckstein36f2ad52-3045-463a-9f40-8266cd2777e9.jpg?Status=Master&sfvrsn=dc3fcdd9_5",
     "lab_url": "http://www.cs.technion.ac.il/~freddy/"
+  },
+  {
+    "id": "ntu-lkc-bryan-ang-chin-hou",
+    "name": "Bryan Ang Chin Hou",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Tan Tock Seng Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ang-Chin-Hou-Bryan",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-bryan-german-pantoja-rosero",
@@ -3049,6 +3376,18 @@
     "summary": "Dr. Bryan German Pantoja-Rosero is an Assistant Professor at Nanyang Technological University (NTU) in Singapore, where he leads the Digital Intelligence for Structures and Construction (DISC) Laboratory. His research integrates machine learning, com ... Research interests: Artificial and Augmented Intelligence | Computer Vision and Sensing | Internet of Things | Natural Hazards Monitoring and Disaster Response | Robotics and Intelligent Systems | Smart Cities | Structural Engineeering",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Bryan-German-Pantoja-Rosero",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/78e544b7-fd63-4740-bc4f-47ea5a68e565/content"
+  },
+  {
+    "id": "ntu-lkc-bryan-tan",
+    "name": "Bryan Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.wh.com.sg/ForPatientsVisitors/doctorsdirectory/Pages/doctors-directory.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-mae-cai-yiyu",
@@ -3100,6 +3439,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/visiting-faculty/carlo-sirtoria_edited.jpg?sfvrsn=28599888_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=63EF09CD5C29089950979EE3BDD99D3901495FAC"
   },
   {
+    "id": "ntu-lkc-caroline-victoria-choong",
+    "name": "Caroline Victoria Choong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Surgery - Year 3)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-cesare-soci",
     "name": "Cesare Soci",
     "institution": "NTU",
@@ -3117,6 +3470,18 @@
     "summary": "Research interests: Nanoelectronics and Nanophotonics; Organic Semiconductors and Plasmonic Materials; Specialty Optical Fibers and Cognitive Photonic Networks; Hybridization and Artificial Nanostructuring",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Cesare-Soci",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/joint-(180x220)/prof-cesare-soci.jpg?sfvrsn=cf442aaa_2"
+  },
+  {
+    "id": "ntu-lkc-ch-ng-toh-hean",
+    "name": "Ch'ng Toh Hean",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01236",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-chae-sanghoon",
@@ -3280,6 +3645,20 @@
     "summary": "Dr. Chan Syin is currently Associate Professor in the College of Computing & Data Science, Nanyang Technological University. She graduated with first class honours in Electrical Engineering from the National University of Singapore in 1987 and ob ... Research interests: Computer Science and Engineering | Info-Communication Technology | Interactive Digital Media | Internet & Communications",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Chan-Syin",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/805a399b-17bb-45a9-b60f-7c3b5472f19e/content"
+  },
+  {
+    "id": "ntu-lkc-chan-wai-mon-lester",
+    "name": "Chan Wai Mon Lester",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Clinical Module Lead (Musculoskeletal System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Chan-Wai-Mon-Lester",
+    "photo_url": ""
   },
   {
     "id": "ntu-cceb-chan-warren",
@@ -3842,6 +4221,20 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/99ecd57e-dbf4-4d5c-bc68-e4fddeee212e/content"
   },
   {
+    "id": "ntu-lkc-chia-siew-chin",
+    "name": "Chia Siew Chin",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Palliative Medicine - Year 4)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Chia-Siew-Chin",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-chiba-shunsuke",
     "name": "Chiba Shunsuke",
     "institution": "NTU",
@@ -3940,6 +4333,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/tejschoksi.jpg?sfvrsn=9af746bb_3"
   },
   {
+    "id": "ntu-lkc-chong-chin-ted",
+    "name": "Chong Chin Ted",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Vertical Theme Lead (Clinical Pharmacology and Therapeutics)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cee-chong-tzyy-haur",
     "name": "Chong Tzyy Haur",
     "institution": "NTU",
@@ -3994,6 +4401,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/chou-siaw-meng_jpg-1-95321d38-1660-4c55-bab8-e7e2463bb21d.jpg?sfvrsn=c5a53cc6_3"
   },
   {
+    "id": "ntu-lkc-chow-minyang",
+    "name": "Chow Minyang",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-chow-wai-tuck",
     "name": "Chow Wai Tuck",
     "institution": "NTU",
@@ -4006,6 +4425,36 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00465?ST_EMAILID=wtchow",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/chow-wai-tuck_jpg-1-48ab7689-ae35-4eee-a6a8-23ac552a20d9.jpg?sfvrsn=b592c293_3"
+  },
+  {
+    "id": "ntu-lkc-christine-cheung",
+    "name": "Christine Cheung",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Dean",
+    "roles": [
+      "Associate Professor of Vascular Biomedicine",
+      "Provost's Chair in Medicine",
+      "Scientist Module Lead, Child Development and Health"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00955",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-christine-wong",
+    "name": "Christine Wong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Assistant Professor",
+    "roles": [
+      "Lead for Science Practicals"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01140",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-christopher-h-t-lee",
@@ -4027,6 +4476,18 @@
     "summary": "Research interests: Electric Motors and Drives; Renewable Energies; Electric Vehicles; Electric Aircraft; Robotics; Wind Turbine",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Christopher-H-T-Lee",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/lee-christopher.jpg?sfvrsn=4cf35e7c_2"
+  },
+  {
+    "id": "ntu-lkc-christopher-lee",
+    "name": "Christopher Lee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00563",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-chu-jian",
@@ -4105,6 +4566,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/880d8a1c-eb55-48bb-96e4-b53dad1e7f8a/content"
   },
   {
+    "id": "ntu-lkc-chuchu-wang",
+    "name": "Chuchu Wang",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Chuchu-Wang",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-sbs-chun-chau-sze",
     "name": "Chun Chau Sze",
     "institution": "NTU",
@@ -4149,6 +4622,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/b5d4f180-122d-4287-9b4f-1b1cacdcc3cc/content"
   },
   {
+    "id": "ntu-lkc-chung-kian-fan",
+    "name": "Chung Kian Fan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imperial.ac.uk/people/f.chung",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-sbs-claudio-bussi",
     "name": "Claudio Bussi",
     "institution": "NTU",
@@ -4168,6 +4653,42 @@
     "scholar_url": "https://scholar.google.es/citations?user=BDmaAhAAAAAJ&hl=es",
     "orcid": "https://orcid.org/0000-0002-9396-9042",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/bussi_claudio.png"
+  },
+  {
+    "id": "ntu-lkc-clement-chia-luck-khng",
+    "name": "Clement Chia Luck Khng",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Khoo Teck Puat Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ktph.com.sg/i-want-to/find-a-specialist?name=Clement+Chia",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-clive-tan",
+    "name": "Clive Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://sph.nus.edu.sg/faculty-directory/tan-clive/",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-colin-tan",
+    "name": "Colin Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Adjunct Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Tan-Siang-Hui-Colin",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-cong-gao",
@@ -4210,6 +4731,18 @@
     "summary": "Dr. YUAN Congcong specializes in geophysics and geomechanics. He received his Ph.D. from Harvard University (2024) and his Master’s degree from the University of Science and Technology of China (2019). Prior to joining NTU in November 2025, he was a ... Research interests: Active Tectonics and Earthquarkes | Artificial and Augmented Intelligence | Coastal and Useable Space | Geotechnical Engineering | Natural Hazards Monitoring and Disaster Response | Renewable Energy and Sustainability | Robotics and Intelligent Systems | Smart Cities | Underground Engineering | Volcanology",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Congcong-Yuan",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/b4a304a7-48c6-4708-8845-f554221d9d68/content"
+  },
+  {
+    "id": "ntu-lkc-conrad-chan",
+    "name": "Conrad Chan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Communicable Diseases Agency",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://prepare.cda.gov.sg/our-programme/labresearch",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-conrad-watt",
@@ -4266,6 +4799,18 @@
     "summary": "Dr Bertrand CZARNY joined the French governmental agency CEA (Atomic Energy Commission) in 2001. For more than 10 years, he was responsible, as a Team Leader, for the biodistribution, drug delivery and toxicology studies of nanoparticles. During this ... Research interests: Biomedical Sciences & Life Sciences | Interface of Biology & Engineering (Engineering in Biology) | Materials Science & Engineering | Nanotechnology & Nano-Science",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Czarny-Bertrand",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/6c6996bc-b09c-434a-925e-d2515378866d/content"
+  },
+  {
+    "id": "ntu-lkc-daisy-chen",
+    "name": "Daisy Chen",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02492",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-dalton-tay-chor-yong",
@@ -4354,6 +4899,30 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/b5168d54-6193-4d31-946a-eed75a7d47b8/content"
   },
   {
+    "id": "ntu-lkc-danny-soon",
+    "name": "Danny Soon",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Consortium for Clinical Research and Innovation",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.scri.edu.sg/bio/dr-danny-soon/",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-darryl-knight",
+    "name": "Darryl Knight",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of British Columbia",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.med.ubc.ca/person/darryl-knight/",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-das-anuvab",
     "name": "Das Anuvab",
     "institution": "NTU",
@@ -4373,6 +4942,18 @@
     "lab_url": "https://www.das-chemlab.org"
   },
   {
+    "id": "ntu-lkc-david-becker",
+    "name": "David Becker",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor of Tissue Repair & Regeneration",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/David-Lawrence-Becker",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ase-david-lallemant",
     "name": "David Lallemant",
     "institution": "NTU",
@@ -4389,6 +4970,33 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01045",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/david_lallemant-_small.jpg?sfvrsn=46d66ae7_1",
     "lab_url": "https://earthobservatory.sg/research/risk-and-society/disaster-risk-and-resilience-analytics-lab"
+  },
+  {
+    "id": "ntu-lkc-david-lye",
+    "name": "David Lye",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ncid.sg/About-NCID/NCID-Doctors/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-david-mathew",
+    "name": "David Mathew",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Deputy Head Clinical Practice and Patient Safety",
+      "Co-Lead (Clinical Communication - Year 3"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ktph.com.sg/i-want-to/find-a-specialist?name=Mathew+David",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-deepu-rajan",
@@ -4433,6 +5041,30 @@
     "lab_url": "http://www.eee.ntu.edu.sg/research/Luminous/Pages/Home.aspx"
   },
   {
+    "id": "ntu-lkc-dermot-kelleher",
+    "name": "Dermot Kelleher",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of British Columbia",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://datascienceandhealth.ubc.ca/people/dermot-kelleher",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-dimpy-gupta",
+    "name": "Dimpy Gupta",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02376",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-phys-ding-shilei",
     "name": "Ding Shilei",
     "institution": "NTU",
@@ -4451,6 +5083,18 @@
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Shilei-Ding",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/ding-shilei_edit.tmb-0.jpg?Culture=en&sfvrsn=85b5d95b_1",
     "lab_url": "https://sites.google.com/view/shileiding"
+  },
+  {
+    "id": "ntu-lkc-ding-yew-yoong",
+    "name": "Ding Yew Yoong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Tan Tock Seng Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ding-Yew-Yoong",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-ding-zhiguo",
@@ -4532,6 +5176,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/adjunct_faculty/dorahujj.jpg?sfvrsn=be1b8ab4_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=3456645E819E99B6A8A79C4844DA2C1C9D5393FF"
   },
   {
+    "id": "ntu-lkc-dorai-raj-d-appadorai",
+    "name": "Dorai Raj D Appadorai",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Assistant Dean, Year 3"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Dorai-Raj-D-Appadorai",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-du-hejun",
     "name": "Du Hejun",
     "institution": "NTU",
@@ -4577,6 +5235,18 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00625",
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/duanhongwei.jpg?sfvrsn=cc0e9589_3",
     "lab_url": "https://personal.ntu.edu.sg/hduan/Index.html"
+  },
+  {
+    "id": "ntu-lkc-duan-hongwei",
+    "name": "Duan Hongwei",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00625",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-phys-dumke-rainer",
@@ -4679,6 +5349,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/edward_park_resized.webp?sfvrsn=6b122ee5_1"
   },
   {
+    "id": "ntu-lkc-edwin-seet",
+    "name": "Edwin Seet",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Hesed Surgical Pte Ltd",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.thomsonmedical.com/find-an-expert",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ase-eleanor-slade",
     "name": "Eleanor Slade",
     "institution": "NTU",
@@ -4698,6 +5380,18 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00568",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/eleanor_slade_100x1502d133bb8-172e-4703-976b-b08b147f7eed.jpg?sfvrsn=126f80a2_1",
     "lab_url": "https://teelabntu.wixsite.com/home"
+  },
+  {
+    "id": "ntu-lkc-elio-riboli",
+    "name": "Elio Riboli",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://profiles.imperial.ac.uk/e.riboli",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-elva-zou",
@@ -4735,6 +5429,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/elvira-arregui-victor.tmb-0.jpg?Culture=en&sfvrsn=6bddaf3f_1"
   },
   {
+    "id": "ntu-lkc-emeritus-prof-lionel-lee",
+    "name": "Emeritus Prof Lionel Lee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Emeritus Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ntu.edu.sg/docs/librariesprovider77/default-document-library/proflionelleecv1june2024.pdf?sfvrsn=e7bd77ff_3",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ase-emma-hill",
     "name": "Emma Hill",
     "institution": "NTU",
@@ -4755,6 +5461,35 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00926",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/emma-hill58ef8d69-5a25-4c3d-8bf9-7335d5316297.jpg?sfvrsn=80e1b011_1",
     "lab_url": "https://earthobservatory.sg/research/tectonics/geodesy-group"
+  },
+  {
+    "id": "ntu-lkc-emmanuel-tan",
+    "name": "Emmanuel Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Dean",
+    "roles": [
+      "Senior Lecturer, Medical Education"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01335",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-endean-tan",
+    "name": "Endean Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Medicine - Year 5)",
+      "SBA Lead (Medicine - Year 5)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Endean-Tan",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-er-meng-hwa",
@@ -4786,6 +5521,18 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/eee/faculty",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/adjunct_faculty/eric-phua-jian-rong.jpg?sfvrsn=1724d9e2_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=59702BFA4BBC95DDC736E5F7AEE5D1CF5DADAFD9"
+  },
+  {
+    "id": "ntu-lkc-eric-yap",
+    "name": "Eric Yap",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Human and Microbial Genetics",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01231",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-erick-lansard",
@@ -4838,6 +5585,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/erkan-kayacan.jpg?sfvrsn=746789e5_0"
   },
   {
+    "id": "ntu-lkc-ernst-kuipers",
+    "name": "Ernst Kuipers",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Distinguished University Professor",
+    "roles": [
+      "Vice President (Research)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02431",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-erry-gunawan",
     "name": "Erry Gunawan",
     "institution": "NTU",
@@ -4857,6 +5618,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/erry-gunawan.jpg?sfvrsn=d74efe1d_2"
   },
   {
+    "id": "ntu-lkc-etienne-wang-cho-ee",
+    "name": "Etienne Wang Cho Ee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nsc.com.sg/patients-and-visitors/Find-a-Doctor/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ase-euan-mutch",
     "name": "Euan Mutch",
     "institution": "NTU",
@@ -4871,6 +5644,20 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/ase/aboutus/staff-directory/faculty",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/euan-mutch28705bd1-5301-403a-83b6-bec3f2362c59.png?sfvrsn=a74cc677_1"
+  },
+  {
+    "id": "ntu-lkc-evelyn-dunston",
+    "name": "Evelyn Dunston",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Lecturer",
+    "roles": [
+      "Assistant Lead Clinical Communication"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02416",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-math-ezerman-martianus-frederic",
@@ -4890,6 +5677,46 @@
     "summary": "Research interests: Cryptography; coding theory; quantum information; and discrete algebraic structures",
     "profile_url": "https://www.ntu.edu.sg/spms/about-us/mathematics/people",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/fredezerman_id.tmb-0.jpeg?Culture=en&sfvrsn=2d6e732f_1"
+  },
+  {
+    "id": "ntu-lkc-fabian-lim",
+    "name": "Fabian Lim",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Scientist Module Lead, Musculoskeletal System"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01224",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-faith-chia",
+    "name": "Faith Chia",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Vice-Dean",
+    "roles": [
+      "Associate Professor"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Chia-Li-Ann-Faith",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-fan-bingwen-eugene",
+    "name": "Fan Bingwen Eugene",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Haematology/Pages/default.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-phys-fan-hongjin",
@@ -5047,6 +5874,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/d310c6cd-4cb8-48f0-a233-33e97bf286a9/content"
   },
   {
+    "id": "ntu-lkc-foo-jia-nee",
+    "name": "Foo Jia Nee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Neurogenetics",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01243",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-foo-yi-shyh-eddy",
     "name": "Foo Yi Shyh Eddy",
     "institution": "NTU",
@@ -5065,6 +5904,56 @@
     "summary": "Research interests: Multi-Agent Systems; Microgrid Energy Management Systems; Electricity Markets; Power Hardware in the Loop; Renewable Energy Resources; Machine Learning for Forest Recovery Management; 2D and 3D Point Cloud Datasets",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Foo-Yi-Shyh-Eddy",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/senior-lecturer-and-lecturer/eddy-foo-yi-shyh_edited.jpg?sfvrsn=b770c2a0_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=304E05559A27DA438B1531990683A424013FEB73"
+  },
+  {
+    "id": "ntu-lkc-francisco-mesquita",
+    "name": "Francisco Mesquita",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Microbiology",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Francisco-Mesquita",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-frank-kelly",
+    "name": "Frank Kelly",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://profiles.imperial.ac.uk/frank.kelly",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-franklin-zhong-lei",
+    "name": "Franklin Zhong Lei",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Franklin-Zhong",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-fu-weizhong-ernest",
+    "name": "Fu Weizhong Ernest",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Otorhinolaryngology)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ernest-Fu-Weizhong",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-fu-yuguang",
@@ -5179,6 +6068,18 @@
     "lab_url": "https://ntufusion.github.io/"
   },
   {
+    "id": "ntu-lkc-gary-frost",
+    "name": "Gary Frost",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imperial.ac.uk/people/g.frost",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-math-gay-balmaz-francois-joachim-marcel",
     "name": "Gay-Balmaz, Francois Joachim Marcel",
     "institution": "NTU",
@@ -5215,6 +6116,44 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/senior-lecturer-and-lecturer/dr-ge-tong.png?sfvrsn=d80f4c51_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=293E7A1BE77FDB38AA6326ABAC9A23BD84F19743"
   },
   {
+    "id": "ntu-lkc-george-chandy",
+    "name": "George Chandy",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of California",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.faculty.uci.edu/profile.cfm?faculty_id=2178",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-georgios-christopoulos",
+    "name": "Georgios Christopoulos",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Georgios-Christopoulos",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-gerald-tan",
+    "name": "Gerald Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Lead (Radiology)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Tan-Jit-Shen-Gerald",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-sbs-gerhard-gruber",
     "name": "Gerhard Grüber",
     "institution": "NTU",
@@ -5234,6 +6173,32 @@
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0002-5730-8319",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/grüber_gerhard.png"
+  },
+  {
+    "id": "ntu-lkc-gervais-wansaicheong",
+    "name": "Gervais Wansaicheong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Vertical Theme Lead (Patient Safety)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Wansaicheong-Khin-Lin-Gervais",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-giulia-adriani",
+    "name": "Giulia Adriani",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "A*STAR",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/giulia-adriani",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-phys-gluza-marek",
@@ -5490,6 +6455,18 @@
     "lab_url": "https://ntufusion.github.io/"
   },
   {
+    "id": "ntu-lkc-guillaume-carissimo",
+    "name": "Guillaume Carissimo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "ID Labs",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/idlabs/people/Investigators",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-sbs-guillaume-thibault",
     "name": "Guillaume Thibault",
     "institution": "NTU",
@@ -5580,6 +6557,18 @@
     "lab_url": "http://www1.spms.ntu.edu.sg/~erik/"
   },
   {
+    "id": "ntu-lkc-guy-rutter",
+    "name": "Guy Rutter",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imperial.ac.uk/people/g.rutter",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-gwee-bah-hwee",
     "name": "Gwee Bah Hwee",
     "institution": "NTU",
@@ -5651,6 +6640,18 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02144",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/endaohan.tmb-0.jpg?Culture=en&sfvrsn=8a0be2aa_1",
     "lab_url": "https://endaohan1988.wixsite.com/hanlab"
+  },
+  {
+    "id": "ntu-lkc-han-siew-ping",
+    "name": "Han Siew Ping",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01294",
+    "photo_url": ""
   },
   {
     "id": "ntu-cceb-he-dan",
@@ -5770,6 +6771,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/prof-ho-jun-yao-hires.jpg?sfvrsn=1e6b0f03_3"
   },
   {
+    "id": "ntu-lkc-ho-peiying-esther",
+    "name": "Ho Peiying Esther",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Professionalism, Ethics, Law and Leadership Working Group Member"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ho-Peiying-Esther",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-phys-ho-shen-yong",
     "name": "Ho Shen Yong",
     "institution": "NTU",
@@ -5788,6 +6803,18 @@
     "summary": "Research interests: Techniques for solving quantum many body problems; Foundational issues in quantum mechanics; Physics education research.",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00120",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/hoshenyongf4ac9929-462a-48c5-bdf7-9e6782084c7d.jpg?Status=Master&sfvrsn=57dcb1c9_5"
+  },
+  {
+    "id": "ntu-lkc-ho-teck-hua",
+    "name": "Ho Teck Hua",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02171",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-math-hoang-viet-ha",
@@ -5864,6 +6891,18 @@
     "profile_url": "https://www.ntu.edu.sg/spms/about-us/mathematics/people",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/seokyounghong.jpg?sfvrsn=512e75c2_3",
     "lab_url": "https://sy-hong.com"
+  },
+  {
+    "id": "ntu-lkc-hongbin-yang",
+    "name": "Hongbin Yang",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Cancer Biology",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02555",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-hortense-le-ferrand",
@@ -6063,6 +7102,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/huang-weimin_jpg-1-8bba1ad1-2fd1-4f1b-be82-4cdcf0acd8fb.jpg?sfvrsn=3e0081d5_3"
   },
   {
+    "id": "ntu-lkc-huang-wenhui",
+    "name": "Huang Wenhui",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Assistant Clinical Lead (Year 5 Electives)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Huang-Wenhui",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mse-huang-yizhong",
     "name": "Huang Yizhong",
     "institution": "NTU",
@@ -6212,6 +7265,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/1d1f6c44-3a0d-4093-bc00-f994918d5f2a/content"
   },
   {
+    "id": "ntu-lkc-jack-tong",
+    "name": "Jack Tong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Jack-Tong",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-jaehong-yoon",
     "name": "Jaehong Yoon",
     "institution": "NTU",
@@ -6250,6 +7315,18 @@
     "summary": "Jagath Rajapakse is Professor of College of Computing & Data Science at the Nanyang Technological University (NTU), Singapore. He has BSc degree in Electronics and Telecommunication Engineering from University of Moratuwa (UM), Sri Lanka, and MS ... Research interests: Artificial and Augmented Intelligence | Biomedical Engineering | Biomedical Informatics and Data Science | Computational Intelligence | Healthy Brain Ageing | Information Sciences and Systems | Mental Health | Neuroscience",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Jagath-Chandana-Rajapakse",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/0ec45bbc-81dd-47d1-af04-e7aa9cd53882/content"
+  },
+  {
+    "id": "ntu-lkc-james-best",
+    "name": "James Best",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of Melbourne",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://findanexpert.unimelb.edu.au/profile/2334-james-best",
+    "photo_url": ""
   },
   {
     "id": "ntu-mae-james-wang-ming",
@@ -6365,6 +7442,58 @@
     "summary": "I am an Australian who likes to solve puzzles. I enjoy taking ideas and inspiration from upstream research and foundational principals, and translating these ideas down into concrete designs. My research thus lies at the intersection of quantum algor ... Research interests: Information Sciences and Systems | Mathematics | Physics",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Jayne-Thompson",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/671f193a-1be2-4885-a830-879ee9fdee70/content"
+  },
+  {
+    "id": "ntu-lkc-jeffrey-leow",
+    "name": "Jeffrey Leow",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Tan Tock Seng Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Jeffrey-Leow",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-jegathesan-thiruchelvam",
+    "name": "Jegathesan Thiruchelvam",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Urology - Year 3)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Thiruchelvam-Jegathesan",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-jennifer-cleland",
+    "name": "Jennifer Cleland",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor of Medical Education Research",
+    "roles": [
+      "President's Chair in Medical Education"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01284",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-jens-samol",
+    "name": "Jens Samol",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Medical-Oncology/Pages/default.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-ji-jon-sit",
@@ -6510,6 +7639,117 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/jimmy-hsia_jpg-1-1c403abb-70df-4a3b-94bb-8ec2886309b4.jpg?sfvrsn=b13b6d3a_3"
   },
   {
+    "id": "ntu-lkc-jimmy-lee",
+    "name": "Jimmy Lee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imh.com.sg/Patients-and-Visitors/Pages/Directory-of-Doctors.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-jo-anne-manski-nankervis",
+    "name": "Jo-Anne Manski-Nankervis",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Primary Care",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02375",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-joachim-loo",
+    "name": "Joachim Loo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/lucky-search?index=legacy-id&value=rp00213",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-joanne-ngeow",
+    "name": "Joanne Ngeow",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Genomic Medicine",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01259",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-joe-sim",
+    "name": "Joe Sim",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "NHG Health",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://corp.nhg.com.sg/BMNSM/Pages/Group Leadership.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-john-abisheganaden",
+    "name": "John Abisheganaden",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Respiratory-and-Critical-Care-Medicine/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-john-chambers",
+    "name": "John Chambers",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Toh Kian Chui Distinguished Professor in Cardiovascular Epidemiology",
+    "roles": [
+      "Director of Health Screening Centre",
+      "Programme Director of Population/Global Health"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01258",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-jon-emery",
+    "name": "Jon Emery",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor of Family Medicine",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Jonathan-David-Emery",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-jon-townley-heaversedge",
+    "name": "Jon Townley Heaversedge",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.chi.sg/about-us/our-leadership/",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-jong-ching-chuen",
     "name": "Jong Ching Chuen",
     "institution": "NTU",
@@ -6525,6 +7765,33 @@
     "summary": "Research interests: Arithmetic Circuits; VLSI Architectures; Digital IC Design; Rapid Prototyping of VLSI systems",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Jong-Ching-Chuen",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/jong-ching-chuen_edited.jpg?sfvrsn=cfc35fc5_2"
+  },
+  {
+    "id": "ntu-lkc-joseph-chang",
+    "name": "Joseph Chang",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00843",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-joseph-sung",
+    "name": "Joseph Sung",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Dean",
+    "roles": [
+      "Distinguished University Professor",
+      "Senior Vice President (Health and Life Sciences)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01310",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-josephine-chong",
@@ -6560,6 +7827,20 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/3d983f7d-c524-4a6a-b589-f3ba620971e7/content"
   },
   {
+    "id": "ntu-lkc-jue-tao-lim",
+    "name": "Jue Tao Lim",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Co-Lead (Scientific Enquiry and Evidence-based Medicine [SEEM])"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02092",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-sbs-julien-lescar",
     "name": "Julien Lescar",
     "institution": "NTU",
@@ -6582,6 +7863,30 @@
     "scholar_url": "https://scholar.google.com/citations?user=2PdcTukAAAAJ&hl=en&oi=ao",
     "orcid": "https://orcid.org/0000-0001-7298-0835",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/lescar_julien.png"
+  },
+  {
+    "id": "ntu-lkc-junaid-bajwa",
+    "name": "Junaid Bajwa",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Flagship Pioneering",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.flagshippioneering.com/people/junaid-bajwa",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-jung-younbo",
+    "name": "Jung Younbo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Jung-Younbo",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-kam-chan-hin",
@@ -6644,6 +7949,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/24c2c850-213e-4837-b84d-5dca889b0da6/content"
   },
   {
+    "id": "ntu-lkc-kazuyuki-kasahara",
+    "name": "Kazuyuki Kasahara",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Metabolic",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02039",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-ke-yiping-kelly",
     "name": "Ke Yiping, Kelly",
     "institution": "NTU",
@@ -6681,6 +7998,30 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/f58a5a8a-fbea-4e73-b2c5-fdefc1ab2952/content"
   },
   {
+    "id": "ntu-lkc-keisuke-ejima",
+    "name": "Keisuke Ejima",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Infectious Disease Modelling",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02108",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-kelvin-li-zhenghao",
+    "name": "Kelvin Li Zhenghao",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Ophthalmology/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cee-kelvin-pang",
     "name": "Kelvin Pang",
     "institution": "NTU",
@@ -6697,6 +8038,42 @@
     "summary": "Dr Pang is currently the Programme Director of MSc (Maritime Studies) at the School of Civil and Environmental Engineering, Nanyang Technological University, Singapore. He has extensive teaching experience at reputable UK and Hong Kong universities s ... Research interests: Business and Management | Education and Pedagogy | Marine Engineering",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Kelvin-Pang-Ka-Liong",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/bc0b4e4f-cb14-45e0-9ed3-d680fdce0d90/content"
+  },
+  {
+    "id": "ntu-lkc-kelvin-tan",
+    "name": "Kelvin Tan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Ministry of Health",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.moh.gov.sg/prepare/our-programme/analytics-disease-behaviour-modelling",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-kelvin-tsoi",
+    "name": "Kelvin Tsoi",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "The Chinese University of Hong Kong",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.sphpc.cuhk.edu.hk/kelvintsoi?lang=zh",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-kendall-ho",
+    "name": "Kendall Ho",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of British Columbia",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://digem.med.ubc.ca/the-team/kendall-ho/",
+    "photo_url": ""
   },
   {
     "id": "ntu-ase-kerry-sieh-emeritus-professor",
@@ -6900,6 +8277,20 @@
     "lab_url": "https://personal.ntu.edu.sg/rkinjo/"
   },
   {
+    "id": "ntu-lkc-koh-nien-yue",
+    "name": "Koh Nien Yue",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Adjunct Associate Professor",
+    "roles": [
+      "Co-Lead, Medical Humanities"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Koh-Nien-Yue",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-koh-soo-ngee",
     "name": "Koh Soo Ngee",
     "institution": "NTU",
@@ -6973,6 +8364,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/junichirokono743be2b5-7c5d-4007-a8d7-62b504eb7443.jpg?Status=Master&sfvrsn=fc9da5e5_5"
   },
   {
+    "id": "ntu-lkc-konstadina-griva",
+    "name": "Konstadina Griva",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01260",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-sbs-konstantin-pervushin",
     "name": "Konstantin Pervushin",
     "institution": "NTU",
@@ -7030,6 +8433,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/andrewkricker41848712-8be8-48e2-8779-0141672f4a9a.jpg?Status=Master&sfvrsn=ff4d8a87_5"
   },
   {
+    "id": "ntu-lkc-kristijan-ramadan",
+    "name": "Kristijan Ramadan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Toh Kian Chui Distinguished Professor in Cancer and Stem Cell Biology",
+    "roles": [
+      "Programme Director of Cancer Discovery & Regenerative Medicine"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02415",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-math-ku-cheng-yeaw",
     "name": "Ku Cheng Yeaw",
     "institution": "NTU",
@@ -7082,6 +8499,21 @@
     "summary": "Research interests: Foundation in quantum mechanics including quantifying multipartite quantum entanglement; quantum cryptography, quantum synchronization, quantum computation and atomtronics",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Kwek-Leong-Chuan",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/about-us/our-people/faculty/prof-kwek-leong-chuan-180x220.jpg?sfvrsn=112ed8dd_0"
+  },
+  {
+    "id": "ntu-lkc-kwek-tong-kiat",
+    "name": "Kwek Tong Kiat",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Vice-Dean",
+    "roles": [
+      "Professor",
+      "Clinical Module Lead (Cardiorespiratory System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ntu.edu.sg/medicine/our-people/faculty/professor-kwek-tong-kiat",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-kwoh-chee-keong",
@@ -7349,6 +8781,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/nolan_laura.png"
   },
   {
+    "id": "ntu-lkc-laurent-renia",
+    "name": "Laurent Renia",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "President’s Chair in Infectious Diseases",
+    "roles": [
+      "Programme Director of Respiratory & Infectious Diseases"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01319",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-law-choi-look",
     "name": "Law Choi Look",
     "institution": "NTU",
@@ -7423,6 +8869,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/jameslee6b68524b-b70d-49fc-8279-900a78a489a7.jpg?Status=Master&sfvrsn=6edcfa19_5"
   },
   {
+    "id": "ntu-lkc-lee-eng-sing",
+    "name": "Lee Eng Sing",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "MOHT",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Lee-Eng-Sing",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-lee-hiang-kwee",
     "name": "Lee Hiang Kwee",
     "institution": "NTU",
@@ -7441,6 +8899,34 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00433",
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/leehiangkee.jpg?sfvrsn=156d3886_3",
     "lab_url": "https://www.hiangkweelee.com/"
+  },
+  {
+    "id": "ntu-lkc-lee-hsien-xiong-raphael",
+    "name": "Lee Hsien Xiong Raphael",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Dean",
+    "roles": [
+      "Assistant Professor"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ntu.edu.sg/medicine/our-people/faculty/dr-raphael-lee",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-lee-hwei-yee",
+    "name": "Lee Hwei Yee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Vertical Theme Lead (Pathology)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Lee-Hwei-Yee",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-lee-pooi-see",
@@ -7535,6 +9021,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/asst-prof-(180-x-220-px)/lee-sunwoo.jpeg?sfvrsn=cb12d1a6_1"
   },
   {
+    "id": "ntu-lkc-lee-tih-shih",
+    "name": "Lee Tih Shih",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Duke-NUS Medical School",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.duke-nus.edu.sg/directory/detail/lee-tih-shih",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-lee-yee-hui",
     "name": "Lee Yee Hui",
     "institution": "NTU",
@@ -7552,6 +9050,18 @@
     "summary": "Research interests: Antenna Design; Computational Electromagnetics; Electromagnetic; Compatibility and Susceptibility; Channel Characterisation; Rain Propagation",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Lee-Yee-Hui",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/professor/leeyeehui.jpg?sfvrsn=cd96f253_1"
+  },
+  {
+    "id": "ntu-lkc-lee-zheng-wei",
+    "name": "Lee Zheng Wei",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02138",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-phys-leek-meng-lee",
@@ -7597,6 +9107,18 @@
     "scholar_url": "https://scholar.google.com/citations?user=zw9X2gEAAAAJ&hl=en",
     "orcid": "https://orcid.org/my-orcid?orcid=0000-0002-8192-1471",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/lu_lei.png"
+  },
+  {
+    "id": "ntu-lkc-leo-yee-sin",
+    "name": "Leo Yee Sin",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ncid.sg/About-NCID/Leadership/Pages/Professor-LEO-Yee-Sin.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-leong-eng-choon",
@@ -7814,6 +9336,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/li-king-ho-holden_jpg-1-9694dd33-5525-414a-94b3-c6e3d9d99436.jpg?sfvrsn=ad1c74e0_3"
   },
   {
+    "id": "ntu-lkc-li-ren-kong",
+    "name": "Li Ren Kong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Cancer and Stem Cell Biology",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Kong-Li-Ren",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mse-li-shuzhou",
     "name": "Li Shuzhou",
     "institution": "NTU",
@@ -7864,6 +9398,20 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/28923292-3caf-43e2-b06b-8a8eac630f22/content"
   },
   {
+    "id": "ntu-lkc-li-yunkai-andrew",
+    "name": "Li Yunkai Andrew",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Deputy Head",
+    "roles": [
+      "Senior Lecturer"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.wh.com.sg/ForPatientsVisitors/doctorsdirectory/Pages/Dr-Andrew-Li.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-liang-kaicheng",
     "name": "Liang Kaicheng",
     "institution": "NTU",
@@ -7884,6 +9432,18 @@
     "lab_url": "https://liangresearch.com/"
   },
   {
+    "id": "ntu-lkc-liang-kun",
+    "name": "Liang Kun",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Cutaneous Drug Delivery",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02536",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-liang-xuan",
     "name": "Liang Xuan",
     "institution": "NTU",
@@ -7896,6 +9456,18 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02364",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/liang-xuan.jpg?sfvrsn=bd826332_3"
+  },
+  {
+    "id": "ntu-lkc-liang-yao",
+    "name": "Liang Yao",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Digital Health",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02566",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-lianggong-ding",
@@ -7957,6 +9529,20 @@
     "summary": "Research interests: Nanomagnetism; Spintronic Devices for Emerging Memory and Computing Applications; Magnetic Materials and Devices; Nano/Micro-fabrication Techniques",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Lim-Chu-Keong-Gerard-Joseph",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/gerard-lim.tmb-0.png?Culture=en&sfvrsn=f234814b_1"
+  },
+  {
+    "id": "ntu-lkc-lim-kah-leong",
+    "name": "Lim Kah Leong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "President's Chair in Translational Neuroscience",
+    "roles": [
+      "Associate Vice President (Biomedical & Life Sciences)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01281",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-math-lim-kay-jin",
@@ -8036,6 +9622,18 @@
     "lab_url": "https://personal.ntu.edu.sg/SLim"
   },
   {
+    "id": "ntu-lkc-lim-su-chi",
+    "name": "Lim Su Chi",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ktph.com.sg/i-want-to/find-a-specialist?name=Lim+Su+Chi",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cee-lim-teik-thye",
     "name": "Lim Teik Thye",
     "institution": "NTU",
@@ -8053,6 +9651,30 @@
     "summary": "Prof. Lim is currently in the Division of Environmental & Water Resources Engineering, School of Civil & Environmental Engineering. He received his Bachelor degree in Civil Engineering (University of Malaya, Malaysia), Masters degree in Geo-e ... Research interests: Membrane Technology | Nanomaterials and Nanotechnology | Optimising Water and Energy Systems | Water & Sustainability",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Lim-Teik-Thye",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/707660aa-90d7-4cd3-abdb-eee4cc0be6ad/content"
+  },
+  {
+    "id": "ntu-lkc-lim-tock-han",
+    "name": "Lim Tock Han",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Ophthalmology/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-lim-wee-shiong",
+    "name": "Lim Wee Shiong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Geriatric-Medicine/Pages/default.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-lim-wei-quan",
@@ -8088,6 +9710,20 @@
     "summary": "Wei Yang Bryan Lim is an Assistant Professor at the College of Computing & Data Science at Nanyang Technological University (NTU), Singapore. He was Tan Chin Tuan exchange fellow with the University of Tokyo (2024-2025) and Wallenberg-NTU Preside ... Research interests: Artificial and Augmented Intelligence | Internet of Things | Parallel and Distributed Computing | Smart Cities",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Lim-Wei-Yang-Bryan",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/98639dfe-45d8-4dd4-bc1b-f9540b39577a/content"
+  },
+  {
+    "id": "ntu-lkc-lim-wei-yen",
+    "name": "Lim Wei-Yen",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Vertical Theme Lead (Public and Population Health)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Lim-Wei-Yen",
+    "photo_url": ""
   },
   {
     "id": "ntu-mae-lim-zhi-jun",
@@ -8214,6 +9850,18 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00119",
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/xy.jpg?sfvrsn=84c93ff_3",
     "lab_url": "https://www.lingxingyi.com/"
+  },
+  {
+    "id": "ntu-lkc-lisa-ng",
+    "name": "Lisa Ng",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "A*STAR",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/idlabs/people",
+    "photo_url": ""
   },
   {
     "id": "ntu-mae-liu-lerwen",
@@ -8437,6 +10085,18 @@
     "lab_url": "https://personal.ntu.edu.sg/teckpeng/"
   },
   {
+    "id": "ntu-lkc-loh-yong-joo",
+    "name": "Loh Yong Joo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Tan Tock Seng Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Loh-Yong-Joo",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-phys-loh-zhi-heng",
     "name": "Loh Zhi Heng",
     "institution": "NTU",
@@ -8653,6 +10313,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/0bfbea47-c1a7-4b80-874e-52f0517ef727/content"
   },
   {
+    "id": "ntu-lkc-lum-fok-moon",
+    "name": "Lum Fok Moon",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "A*STAR",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/idlabs/people",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-lum-guo-zhan",
     "name": "Lum Guo Zhan",
     "institution": "NTU",
@@ -8681,6 +10353,20 @@
     "summary": "Dr. Lum Kit Meng is an Associate Professor in the School of Civil and Environmental Engineering, NTU, Singapore. He graduated with First Class Honours in Civil Engineering and a Master of Science in Industrial Engineering from the National University ... Research interests: Civil and Environmental Engineering",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Lum-Kit-Meng",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/f78944fe-983b-4c33-bad7-46329c195aff/content"
+  },
+  {
+    "id": "ntu-lkc-luo-dahai",
+    "name": "Luo Dahai",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Infection and Immunity",
+    "roles": [
+      "Provost’s Chair in Medicine"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00464",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-luo-jun",
@@ -8773,6 +10459,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/lye-sun-woh_jpg-1-7b7601c9-6a84-4df2-8f74-e18095f44e18.jpg?sfvrsn=5a754138_3"
   },
   {
+    "id": "ntu-lkc-lynn-yap",
+    "name": "Lynn Yap",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Cardiometabolic Medicine",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02163",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-lyu-chen",
     "name": "Lyu Chen",
     "institution": "NTU",
@@ -8786,6 +10484,47 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00161?ST_EMAILID=lyuchen",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/lyu-chen_jpg-1-1862a015-9b98-420b-b894-70e4c51e9231.jpg?sfvrsn=5a5aba11_3"
+  },
+  {
+    "id": "ntu-lkc-madelynn-chan-tsu-li",
+    "name": "Madelynn Chan Tsu-Li",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Rheumatology)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Chan-Tsu-Li-Madelynn",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-malini-olivo",
+    "name": "Malini Olivo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "A*STAR",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/asrl/principal-investigators/malini-olivo",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-manohar-bairy",
+    "name": "Manohar Bairy",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Renal Medicine)",
+      "Clinical Module Lead (Renal and Urinary System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Ophthalmology/Pages/default.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-mao-kezhi",
@@ -8808,6 +10547,32 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/about-us/our-people/faculty/assoc-professor-kezhi-mao.jpg?sfvrsn=9096ea2a_1&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=CBF9CE771ACD8492C1347C9EB26B0DAB9FE9526A"
   },
   {
+    "id": "ntu-lkc-marie-loh",
+    "name": "Marie Loh",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Molecular Epidemiology",
+    "roles": [
+      "Scientist Course Lead, Scientific Enquiry and Evidence Based Medicine (SEEM)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01262",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-martin-mckeown",
+    "name": "Martin Mckeown",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of British Columbia",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://neurology.med.ubc.ca/faculty-listing/academic/martin-j-mckeown/",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-marvin-carl-may",
     "name": "Marvin Carl May",
     "institution": "NTU",
@@ -8820,6 +10585,30 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Marvin-Carl-May",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/marvin-carl-may.jpg?sfvrsn=c44da214_1"
+  },
+  {
+    "id": "ntu-lkc-mary-chan",
+    "name": "Mary Chan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01028",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-matae-ahn",
+    "name": "Matae Ahn",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Matae-Ahn",
+    "photo_url": ""
   },
   {
     "id": "ntu-cceb-matsunami-kensaku",
@@ -8877,6 +10666,44 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/e80d1814-859d-41f3-a189-ee1756c8e4fb/content"
   },
   {
+    "id": "ntu-lkc-maurice-van-steensel",
+    "name": "Maurice van Steensel",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor of Dermatology and Skin Biology",
+    "roles": [
+      "Scientist Module Lead, Skin"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01240",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-max-lam",
+    "name": "Max Lam",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Institute of Mental Health",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imh.com.sg/Research/Pages/Our-Researchers.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-may-lwin",
+    "name": "May Lwin",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00537",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-melanie-herschel",
     "name": "Melanie Herschel",
     "institution": "NTU",
@@ -8914,6 +10741,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/fullwood_melissa-jane.png"
   },
   {
+    "id": "ntu-lkc-melvin-leow",
+    "name": "Melvin Leow",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ncid.sg/About-NCID/NCID-Doctors/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-miao-chun-yan",
     "name": "Miao Chun Yan",
     "institution": "NTU",
@@ -8932,6 +10771,18 @@
     "summary": "Dr Chunyan Miao is a President’s Chair Professor and Chair of the College of Computing & Data Science (CCDS) at Nanyang Technological University, Singapore. Under her leadership, CCDS has contributed greatly to NTU’s top world rankings in CS, CE ... Research interests: Artificial and Augmented Intelligence | Computer Science and Engineering | Info-Communication Technology | Interactive Digital Media | Internet & Communications",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Miao-Chun-Yan",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/4f260665-d838-4c5d-8083-023c15ae8c28/content"
+  },
+  {
+    "id": "ntu-lkc-michael-stanley-baker",
+    "name": "Michael Stanley-Baker",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00874",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-mingxiao-yang",
@@ -9043,6 +10894,21 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/mohammed-yakoob-siyal_edited.jpg?sfvrsn=99097218_2"
   },
   {
+    "id": "ntu-lkc-mok-kwang-how",
+    "name": "Mok Kwang How",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Cardiology)",
+      "Assistant Clinical Module Lead (Cardiology)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Mok-Kwang-How",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-moon-seung-ki",
     "name": "Moon Seung Ki",
     "institution": "NTU",
@@ -9135,6 +11001,33 @@
     "lab_url": "https://sites.google.com/site/muyglab/"
   },
   {
+    "id": "ntu-lkc-mucheli-sharavan-sadasiv",
+    "name": "Mucheli Sharavan Sadasiv",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Mucheli-Sharavan-Sadasiv",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-muhammad-nursuhairi-bin-sumarni",
+    "name": "Muhammad Nursuhairi Bin Sumarni",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Digital Health and Precision Medicine",
+      "Working Group Member"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Muhammad-Nursuhairi-Bin-Sumarni",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-murukeshan-vadakke-matham",
     "name": "Murukeshan Vadakke Matham",
     "institution": "NTU",
@@ -9150,6 +11043,30 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00135",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/murukeshan-vadakke-matham_jpg-1-7d927d20-e513-44ff-a3fd-c3c089a9bf39.jpg?sfvrsn=bd64a21f_3"
+  },
+  {
+    "id": "ntu-lkc-mythily-subramaniam",
+    "name": "Mythily Subramaniam",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imh.com.sg/Research/Pages/Our-Researchers.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-nagaendran-kandiah",
+    "name": "Nagaendran Kandiah",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Neuroscience",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01676",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-naoki-higashitarumizu",
@@ -9190,6 +11107,48 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01031",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/natasha-bhatia.jpg?sfvrsn=a6507c36_1",
     "lab_url": "https://wcms-prod-admin.ntu.edu.sg/ase/aboutus/staff-directory/staff-details/natasha-bhatia"
+  },
+  {
+    "id": "ntu-lkc-navin-kumar-verma",
+    "name": "Navin Kumar Verma",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Immunology & Cell Biology",
+    "roles": [
+      "Programme Director of Skin Diseases & Wound Repair",
+      "Scientist Module Lead, Blood and Lymphatic System",
+      "Research Integrity Officer"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00490",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-neena-modi",
+    "name": "Neena Modi",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://profiles.imperial.ac.uk/n.modi",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-neo-han-yee",
+    "name": "Neo Han Yee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Vertical Theme Lead (Professionalism, Ethics, Law and Leadership)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Neo-Han-Yee",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-math-neufeld-ariel",
@@ -9289,6 +11248,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/ng--heong-wah_jpg-1-64e9104c-4c67-48b6-b0c2-da58a49c87f0.jpg?sfvrsn=412fa497_7&MaxWidth=100&MaxHeight=130&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=CC963894EE380E98BDC77CDB391A6E0AEFB2CFA5"
   },
   {
+    "id": "ntu-lkc-ng-huck-hui",
+    "name": "Ng Huck Hui",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "BMRC",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/huck-hui-ng",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-phys-ng-huei-ying-nelly",
     "name": "Ng Huei Ying, Nelly",
     "institution": "NTU",
@@ -9352,6 +11323,18 @@
     "lab_url": "https://personal.ntu.edu.sg/kmng"
   },
   {
+    "id": "ntu-lkc-ng-oon-tek",
+    "name": "Ng Oon Tek",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ncid.sg/About-NCID/NCID-Doctors/Pages/Dr-Ng-Oon-Tek.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-ng-teng-yong",
     "name": "Ng Teng Yong",
     "institution": "NTU",
@@ -9365,6 +11348,20 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00106?ST_EMAILID=mtyng",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/ng-teng-yong_jpg-1-0cab8564-742f-4feb-92d8-0f38c03b2bf3.jpg?sfvrsn=26c2fbfb_3"
+  },
+  {
+    "id": "ntu-lkc-ng-wee-khoon",
+    "name": "Ng Wee Khoon",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Assistant Dean, Year 5"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ng-Wee-Khoon",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-ng-wei-tat-leonard",
@@ -9402,6 +11399,18 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00847",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/ng-yin-kwee-eddie_jpg-1-1fd8dfed-3346-4198-953e-ebc4bb5556c3.jpg?sfvrsn=ab6e0a28_3"
+  },
+  {
+    "id": "ntu-lkc-ngo-wei-kiong",
+    "name": "Ngo Wei Kiong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Tan Tock Seng Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ngo-Wei-Kiong",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-math-nguyen-michele",
@@ -9493,6 +11502,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/mueller-cajar_oliver.png"
   },
   {
+    "id": "ntu-lkc-olivia-ng",
+    "name": "Olivia Ng",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02587",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-ong-chi-wei",
     "name": "Ong Chi Wei",
     "institution": "NTU",
@@ -9526,6 +11547,36 @@
     "summary": "Research interests: Computer Vision and Sensing | Curriculum Design and Assessment | Cyber Security and Forensics | Education and Pedagogy | Information Sciences and Systems | Science of Learning",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Ong-Chin-Ann",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/cc016ce0-8302-4693-ba5f-6cb7899405ad/content"
+  },
+  {
+    "id": "ntu-lkc-ong-kiat-hoe",
+    "name": "Ong Kiat Hoe",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Haematology)",
+      "Clinical Module Lead (Blood and Lymphatic System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Ong-Kiat-Hoe",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-ong-say-how",
+    "name": "Ong Say How",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Psychiatry)",
+      "Clinical Module Lead (Mental Health)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imh.com.sg/Patients-and-Visitors/Pages/Directory-of-Doctors.aspx and is duplicated in adjunct",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-ong-yew-soon",
@@ -9598,6 +11649,18 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01317",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/juan-pabloortega88183351-e87c-4b3b-8bdb-3ee43fc58bf6.jpg?Status=Master&sfvrsn=41b722da_5",
     "lab_url": "https://juan-pablo-ortega.com"
+  },
+  {
+    "id": "ntu-lkc-owen-ko",
+    "name": "Owen Ko",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "The Chinese University of Hong Kong",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.med.cuhk.edu.hk/staff/dr-ko-ho-owen",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-owen-noel-newton-fernando",
@@ -9726,6 +11789,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/patrick_martin2c7cecbafacb4e649e0f358e54a096ce.jpg?sfvrsn=11e16b7f_1"
   },
   {
+    "id": "ntu-lkc-paul-ross",
+    "name": "Paul Ross",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University College Cork",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ucc.ie/en/apc/people/director/paulross/",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-paulo-jorge-da-silva-bartolo",
     "name": "Paulo Jorge Da Silva Bartolo",
     "institution": "NTU",
@@ -9819,6 +11894,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/preiser_peter.png"
   },
   {
+    "id": "ntu-lkc-peter-schulz",
+    "name": "Peter Schulz",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of Lugano",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://search.usi.ch/en/people/9494d34ce54c85d6c4258adca3d18706/schulz-peter-johannes",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-petr-vorobev",
     "name": "Petr Vorobev",
     "institution": "NTU",
@@ -9910,6 +11997,20 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/eee/faculty",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/adjunct-faculty/pcoquet_edited.jpg?sfvrsn=b34b724a_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=38BCA11A5EF301C23C47B973C2C95FCA0DED9C42"
+  },
+  {
+    "id": "ntu-lkc-phua-dong-haur",
+    "name": "Phua Dong Haur",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Dean, Assessment"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Phua-Dong-Haur",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-phys-phua-kok-khoo",
@@ -10089,6 +12190,18 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01022",
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/pukanyi.jpg?sfvrsn=47eca1e9_3",
     "lab_url": "https://personal.ntu.edu.sg/kypu/index.html"
+  },
+  {
+    "id": "ntu-lkc-puah-ser-hon",
+    "name": "Puah Ser Hon",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Tan Tock Seng Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Puah-Ser-Hon",
+    "photo_url": ""
   },
   {
     "id": "ntu-cceb-pui-tze-sian",
@@ -10309,6 +12422,47 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/07843ed4-50d3-4042-bdc3-bb1d8451dfd3/content"
   },
   {
+    "id": "ntu-lkc-quek-peng-lim-timothy",
+    "name": "Quek Peng Lim Timothy",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Clinical Module Lead (Endocrine System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Quek-Peng-Lim-Timothy",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-quek-yong-jing-daniel",
+    "name": "Quek Yong Jing Daniel",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Assistant Dean, MBBS Lead",
+      "Vertical Theme Co-Lead (Clinical Pharmacology and Therapeutics)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Quek-Yong-Jing-Daniel",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-rachel-watson",
+    "name": "Rachel Watson",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "A*STAR",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/asrl/principal-investigators/rachel_watson",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-rajesh-piplani",
     "name": "Rajesh Piplani",
     "institution": "NTU",
@@ -10321,6 +12475,21 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00150",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/piplani-rajesh_jpg-1-f7de4d24-6687-4163-8435-b00833a80d39.jpg?sfvrsn=c0f20b2_3"
+  },
+  {
+    "id": "ntu-lkc-rajeswari-kathirvel",
+    "name": "Rajeswari Kathirvel",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Assistant Clinical Module Lead (Female Reproductive System)",
+      "Principal Lead (Obstetrics and Gynaecology)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.kkh.com.sg/doctor?",
+    "photo_url": ""
   },
   {
     "id": "ntu-mse-raju-v-ramanujan",
@@ -10342,6 +12511,18 @@
     "summary": "Prof. Raju V. Ramanujan is Full Professor and former Assistant Chair, School of Materials Science and Engineering, Nanyang Technological University, Singapore. He earned his undergraduate and Ph.D. degrees from IIT-Bombay and Carnegie Mellon Univers ... Research interests: Energy | Interface of Biology & Engineering (Engineering in Biology) | Materials Science & Engineering | Nanotechnology & Nano-Science | Spintronics | Water & Sustainability",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Raju-V-Ramanujan",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/4740fe74-9f4a-4b08-9580-7809bc78b348/content"
+  },
+  {
+    "id": "ntu-lkc-ranganath-vallabhajosyula",
+    "name": "Ranganath Vallabhajosyula",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01263",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-math-ratiu-tudor-stefan",
@@ -10384,6 +12565,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/case_rebecca.png"
   },
   {
+    "id": "ntu-lkc-reddy-mogali",
+    "name": "Reddy Mogali",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor (Teaching)",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01225",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-reed-graham-trevor",
     "name": "Reed Graham Trevor",
     "institution": "NTU",
@@ -10394,6 +12587,21 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/eee/faculty",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/visiting-faculty/graham-trevor-reed.jpg?sfvrsn=6e452db6_0"
+  },
+  {
+    "id": "ntu-lkc-richard-lee-meng-kam",
+    "name": "Richard Lee Meng Kam",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Family Medicine)",
+      "SBA Lead (Year 4)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nhghealth.com.sg/FindDS/doctors",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-richard-she",
@@ -10413,6 +12621,30 @@
     "scholar_url": "",
     "orcid": "https://orcid.org/0000-0003-3056-3800",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/she_richard.png"
+  },
+  {
+    "id": "ntu-lkc-rinkoo-dalan",
+    "name": "Rinkoo Dalan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Endocrinology/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-ritu-jain",
+    "name": "Ritu Jain",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00096",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-rob-cornish",
@@ -10509,6 +12741,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/f85d3dee-9211-4a33-8585-9aefb9a12d54/content"
   },
   {
+    "id": "ntu-lkc-rupesh-agrawal",
+    "name": "Rupesh Agrawal",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Rupesh-Agrawal",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-s-supraja",
     "name": "S Supraja",
     "institution": "NTU",
@@ -10526,6 +12770,46 @@
     "summary": "Research interests: Natural language processing & machine learning, curriculum design & pedagogical practices, as well as, learning analytics & educational data mining",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/S-Supraja",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/about-us/our-people/faculty/dr-supraja-s.jpg?sfvrsn=4d27f6bc_1&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=9DAC93900F197B5FE7ACCFF2C4928F5263D14398"
+  },
+  {
+    "id": "ntu-lkc-sabrina-wong-kay-wye",
+    "name": "Sabrina Wong Kay Wye",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Clinical Director, Primary Care and Family Medicine"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nhghealth.com.sg/FindDS/doctors",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-sadat-reza",
+    "name": "Sadat Reza",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Sadat-Reza",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-saleem-ahmed-abdul-kareem",
+    "name": "Saleem Ahmed Abdul Kareem",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Surgery - Year 5)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Saleem-Ahmed",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-sam-li",
@@ -10629,6 +12913,20 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/about-us/our-people/faculty/sang-ho-yun-(assoc-prof).jpg?sfvrsn=456c61c_1&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=F1C3CCEDF9BC117246583953ABB85EAB7E4A0C48"
   },
   {
+    "id": "ntu-lkc-sanjay-chotirmall",
+    "name": "Sanjay Chotirmall",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Vice-Dean",
+    "roles": [
+      "Associate Professor of Molecular Medicine Provost’s Chair in Molecular Medicine"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01220",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-phys-sanvitto-daniele",
     "name": "Sanvitto, Daniele",
     "institution": "NTU",
@@ -10650,6 +12948,30 @@
     "profile_url": "https://www.ntu.edu.sg/spms/people",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/sanvitto-daniele_ori---330.tmb-0.png?Culture=en&sfvrsn=9dd8b731_1",
     "lab_url": "https://polaritonics.nanotec.cnr.it/"
+  },
+  {
+    "id": "ntu-lkc-sapna-sadarangani",
+    "name": "Sapna Sadarangani",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ncid.sg/About-NCID/NCID-Doctors/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-saravana-ramasamy",
+    "name": "Saravana Ramasamy",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Metabolic Medicine",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02489",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-saulo-mendes",
@@ -10739,6 +13061,21 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/baba1d92-c175-49a3-b729-cfed14ee3c75/content"
   },
   {
+    "id": "ntu-lkc-see-jee-jian",
+    "name": "See Jee Jian",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Dean, Admissions and Overseas Electives",
+      "Principal Lead (Anaesthesia)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=See-Jee-Jian",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-see-kye-yak",
     "name": "See Kye Yak",
     "institution": "NTU",
@@ -10811,6 +13148,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/emeritus-professor/serwee.jpg?sfvrsn=a00042cd_1"
   },
   {
+    "id": "ntu-lkc-shannon-ang",
+    "name": "Shannon Ang",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00414",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-shao-huiling",
     "name": "Shao Huiling",
     "institution": "NTU",
@@ -10865,6 +13214,32 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00951",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/shawn_lum_enhanced7519c6c037f5446da9869bb5621bab9e.jpg?sfvrsn=1e9c3720_1"
+  },
+  {
+    "id": "ntu-lkc-shawn-vasoo",
+    "name": "Shawn Vasoo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "National Centre for Infectious Diseases",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ncid.sg/About-NCID/NCID-Doctors/Pages/Dr-Shawn-Vasoo.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-sheila-srinivasan",
+    "name": "Sheila Srinivasan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Clinical Module Lead (Nervous System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nni.com.sg/our-specialties/neurology/specialists-ttsh",
+    "photo_url": ""
   },
   {
     "id": "ntu-cceb-shen-xiaotao",
@@ -10957,6 +13332,18 @@
     "summary": "Dr. Shen Zhiqi is currently a Senior Lecturer and a Senior Research Scientist in College of Computing & Data Science since Dec. 2011. He obtained BSc in Peking Univ., MEng in Beijing Univ. of Technology, and PhD in Nan. Tech. Univ. respectively. ... Research interests: Ageing | Artificial and Augmented Intelligence | Computational Intelligence | Computer Vision and Sensing | Graphics and Interactive Computing",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Shen-Zhiqi",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/5d2a01af-2378-49cd-8cdf-892dfffc1729/content"
+  },
+  {
+    "id": "ntu-lkc-shermyn-neo-xiumin",
+    "name": "Shermyn Neo Xiumin",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nni.com.sg/profile/shermyn-neo",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-shi-chao",
@@ -11060,6 +13447,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/asst-prof-(180-x-220-px)/sia-jia-xu-brian.jpeg?sfvrsn=c78e7b91_1"
   },
   {
+    "id": "ntu-lkc-sia-tiong-heng-alex",
+    "name": "Sia Tiong Heng Alex",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "KK Women's and Children's Hospital",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.kkh.com.sg/doctor?",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-spms-math-sim-siang-meng",
     "name": "Sim Siang Meng",
     "institution": "NTU",
@@ -11076,6 +13475,18 @@
     "summary": "Research interests: Symmetric-key cryptography; Lightweight cryptography; Cryptanalysis",
     "profile_url": "https://www.ntu.edu.sg/spms/about-us/mathematics/people",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/simsiangmeng49d1485e-bb16-4717-bc4d-c498e9e0ce58.jpg?Status=Master&sfvrsn=4d9b51c_5"
+  },
+  {
+    "id": "ntu-lkc-simon-henry-parson",
+    "name": "Simon Henry Parson",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of Aberdeen",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.abdn.ac.uk/ims/research/profiles/simon.parson",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-simon-liu",
@@ -11353,6 +13764,21 @@
     "lab_url": "https://personal.ntu.edu.sg/hansen/Webpage/Public/Main.htm"
   },
   {
+    "id": "ntu-lkc-soon-yong-quan-alvin",
+    "name": "Soon Yong Quan Alvin",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Digital Health and Precision Medicine",
+      "Working Group Member"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Alvin-Soon-Yong-Quan",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-soong-boon-hee",
     "name": "Soong Boon Hee",
     "institution": "NTU",
@@ -11368,6 +13794,18 @@
     "summary": "Research interests: Ad Hoc and Wireless Sensors Networks; Mobility Management; Network Planning and Capacity Optimisation; Adaptive Video Rate Control",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Soong-Boon-Hee",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/soong-boon-hee.jpg?sfvrsn=49fd1b3_2"
+  },
+  {
+    "id": "ntu-lkc-soren-brage",
+    "name": "Soren Brage",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "University of Cambridge",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.mrc-epid.cam.ac.uk/people/soren-brage/",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-soujanya-poria",
@@ -11444,6 +13882,30 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/7e6a2079-334a-4ce6-99c6-e202b02d4a0d/content"
   },
   {
+    "id": "ntu-lkc-stefan-oehlers",
+    "name": "Stefan Oehlers",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "ID Labs",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/idlabs/people",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-stefan-richard-bornstein",
+    "name": "Stefan Richard Bornstein",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Visiting Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://tu-dresden.de/bereichsuebergreifendes/mentalhealth/vision-and-people/People/prof-dr-stefan-r-bornstein",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cee-stefan-wuertz",
     "name": "Stefan Wuertz",
     "institution": "NTU",
@@ -11462,6 +13924,18 @@
     "summary": "EDUCATION 2000 Habilitation, Technical University of Munich, College of Engineering, Germany, Dr. rer. nat. habil., Thesis: “In situ analysis of spatial structure and function of biofilms“, 1986 – 1992 Doctoral student ... Research interests: Civil and Environmental Engineering | Climate and Environment | Food Science and Technology | Interface of Biology & Engineering (Engineering in Biology) | Water & Sustainability",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Stefan-Wuertz",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/1d38347f-714a-4841-8d06-92ff99ba3309/content"
+  },
+  {
+    "id": "ntu-lkc-stephan-c-schuster",
+    "name": "Stephan C. Schuster",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00897",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-stephan-christoph-schuster",
@@ -11520,6 +13994,30 @@
     "summary": "",
     "profile_url": "https://www.ntu.edu.sg/ase/aboutus/staff-directory/management-team",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/steve_yim_resized_new69f85379-4f20-40f0-889e-aceb3ba4867f.jpg?sfvrsn=93460f6e_1"
+  },
+  {
+    "id": "ntu-lkc-steve-yim",
+    "name": "Steve Yim",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Steve-Yim",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-steven-thng",
+    "name": "Steven Thng",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "National Skin Centre",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://talentdev.gri.nhg.com.sg/files/Researcher Directory/NSC/NSC___Steven_Thng_Tien_Guan_v2103.pdf",
+    "photo_url": ""
   },
   {
     "id": "ntu-ase-stuart-davies",
@@ -11720,6 +14218,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/sunhandong---330.tmb-0.png?Culture=en&sfvrsn=6a425ed3_1"
   },
   {
+    "id": "ntu-lkc-sun-hsiao-li-shirley",
+    "name": "Sun Hsiao-Li Shirley",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00385",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-sunil-chandrakant-joshi",
     "name": "Sunil Chandrakant Joshi",
     "institution": "NTU",
@@ -11733,6 +14243,21 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00157",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/sunil-chandrakant-joshi_jpg-1-9401c287-e45f-4458-aed1-45a13d7ee8de.jpg?sfvrsn=c1ecc513_3"
+  },
+  {
+    "id": "ntu-lkc-sunny-wong",
+    "name": "Sunny Wong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Nutrition",
+    "roles": [
+      "Programme Director of Microbiome Medicine and Assistant Dean, Academic Medicine",
+      "Scientist Module Lead, Gastrointestinal System"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01651",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-surajit-bhattacharyya",
@@ -11776,6 +14301,18 @@
     "lab_url": "https://earthobservatory.sg/about-us/our-people/susanna-jenkins"
   },
   {
+    "id": "ntu-lkc-swapna-kamal-verma",
+    "name": "Swapna Kamal Verma",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Institute of Mental Health",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imh.com.sg/Patients-and-Visitors/Pages/Directory-of-Doctors.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-tai-kang",
     "name": "Tai Kang",
     "institution": "NTU",
@@ -11800,6 +14337,32 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Tan-Chee-Wah-Wesley",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/senior-lecturer-and-lecturer/tan-chee-wah-wesley.jpg?sfvrsn=a8056abf_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=39F40478157C09E21CFD63876AD3447570D12603"
+  },
+  {
+    "id": "ntu-lkc-tan-cher-heng",
+    "name": "Tan Cher Heng",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Dean, Clinical Research"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ntu.edu.sg/medicine/our-people/faculty/associate-professor-tan-cher-heng",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-tan-chin-hong",
+    "name": "Tan Chin Hong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00730",
+    "photo_url": ""
   },
   {
     "id": "ntu-cceb-tan-choon-hong",
@@ -11842,6 +14405,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/professor/tan-chuan-sengbd264113-4947-421f-af8d-9eeea06adc92.jpg?sfvrsn=70710716_1"
   },
   {
+    "id": "ntu-lkc-tan-eng-king",
+    "name": "Tan Eng King",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "National Neuroscience Institute",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nni.com.sg/profile/tan-eng-king",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-tan-eng-leong",
     "name": "Tan Eng Leong",
     "institution": "NTU",
@@ -11861,6 +14436,18 @@
     "summary": "Research interests: Computational Electromagnetics/Optics/Acoustics - FDTD, ADI/LOD/SS, Fundamental Implicit Schemes; Hybrid Matrix; Scattering Matrix; Multilayered Biisotropic Media; Bianisotropic Media; Photonic Crystals; Phononic Crystals; Periodic Structures; RF/Microwave Circuit Design",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Tan-Eng-Leong",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/tan-eng-leong_edited.jpg?sfvrsn=5687fde5_2"
+  },
+  {
+    "id": "ntu-lkc-tan-ern-yu",
+    "name": "Tan Ern Yu",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Breast-and-Endocrine-Surgery/Pages/default.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-phys-tan-hong-qi",
@@ -11902,6 +14489,18 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00363",
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/tanhowesiang.jpg?sfvrsn=cff3171e_3",
     "lab_url": "https://personal.ntu.edu.sg/howesiang/"
+  },
+  {
+    "id": "ntu-lkc-tan-hwei-ee",
+    "name": "Tan Hwei Ee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Assistant Professor (NRF)",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02418",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-tan-kang-hai",
@@ -12052,6 +14651,35 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/esytan.jpg?sfvrsn=f332decc_2"
   },
   {
+    "id": "ntu-lkc-tan-teng-hong",
+    "name": "Tan Teng Hong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Principal Lead (Paediatrics)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.kkh.com.sg/doctor?",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-tan-teong-jin-lester",
+    "name": "Tan Teong Jin Lester",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Orthopaedic Surgery - Year 3)",
+      "Assistant Clinical Module Lead (Musculoskeletal System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Tan-Teong-Jin-Lester",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-tan-thatt-yang-timothy",
     "name": "Tan Thatt Yang, Timothy",
     "institution": "NTU",
@@ -12068,6 +14696,20 @@
     "lab_url": "http://www3.ntu.edu.sg/home/tytan/"
   },
   {
+    "id": "ntu-lkc-tan-wei-ping-joanne",
+    "name": "Tan Wei Ping Joanne",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Student Assistantship Programme - Medicine)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Tan-Wei-Ping-Joanne",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-tan-wen-jun",
     "name": "Tan Wen Jun",
     "institution": "NTU",
@@ -12082,6 +14724,21 @@
     "summary": "Wen Jun TAN is a lecturer in the College of Computing & Data Science (CCDS) at Nanyang Technological University (NTU), Singapore. He received his Ph.D. in Computer Science from NTU in 2020. Prior to joining NTU, he was a research fellow at NTU wi ... Research interests: Parallel and Distributed Computing",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Tan-Wen-Jun",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/3ce3b787-f422-44d1-9602-6764e3628272/content"
+  },
+  {
+    "id": "ntu-lkc-tan-xiu-ling",
+    "name": "Tan Xiu Ling",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Principal Lead (Ophthalmology)",
+      "Clinical Module Lead (Visual System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Tan-Xiu-Ling",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-tan-yong-kiam",
@@ -12119,6 +14776,22 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00417",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/tangweekeed5bf57da-3335-4f64-8b2d-eba12213270a.jpg?Status=Master&sfvrsn=5c998b10_5",
     "lab_url": "https://personal.ntu.edu.sg/weekeetang"
+  },
+  {
+    "id": "ntu-lkc-tang-wern-ee",
+    "name": "Tang Wern Ee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Dean, Family Medicine",
+      "Lead (Community Engagement)",
+      "Principal Lead (Student Assistantship Programme - Family Medicine)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ntu.edu.sg/medicine/our-people/faculty/associate-professor-tang-wern-ee",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-tang-xiaohong",
@@ -12330,6 +15003,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/bb48820b-3472-4f75-b505-bc976875de4d/content"
   },
   {
+    "id": "ntu-lkc-teo-teck-hui",
+    "name": "Teo Teck Hui",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "A*STAR",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/idlabs/people",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cee-teoh-bak-koon",
     "name": "Teoh Bak Koon",
     "institution": "NTU",
@@ -12366,6 +15051,32 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/ba792bdb-9e6c-4594-a65f-529cac5266a6/content"
   },
   {
+    "id": "ntu-lkc-tey-hong-liang",
+    "name": "Tey Hong Liang",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nsc.com.sg/patients-and-visitors/Find-a-Doctor/Pages/default.aspx",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-tham-kum-ying",
+    "name": "Tham Kum Ying",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [
+      "Assistant Dean, Graduate Programmes, Continuing Education & Training (CET)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Tham-Kum-Ying",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-themistoklis-gouleakis",
     "name": "Themistoklis Gouleakis",
     "institution": "NTU",
@@ -12383,6 +15094,18 @@
     "summary": "I have worked as a postdoctoral researcher at the University of Southern California and as a postdoctoral fellow at the Algorithms & complexity department of Max-Planck-Institute for informatics and as a senior research fellow at National Univers ... Research interests: Artificial and Augmented Intelligence | Computational Intelligence | Mathematics | Parallel and Distributed Computing",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Themistoklis-Gouleakis",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/5775171a-edce-49fe-91f8-4342cf01b250/content"
+  },
+  {
+    "id": "ntu-lkc-theresia-handayani-mina",
+    "name": "Theresia Handayani Mina",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Health Informatics and Chronic Disease Epidemiology",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Theresia-Handayani-Mina",
+    "photo_url": ""
   },
   {
     "id": "ntu-sbs-thirumaran-thanabalu",
@@ -12403,6 +15126,18 @@
     "scholar_url": "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Thanabalu+T&oq=",
     "orcid": "https://orcid.org/my-orcid?orcid=0000-0001-5871-3829",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/thanabalu_thirumaran_sep2025.png"
+  },
+  {
+    "id": "ntu-lkc-thomas-lam",
+    "name": "Thomas Lam",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "The Chinese University of Hong Kong",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nur.cuhk.edu.hk/people/professoriate-academic-staff/professor-lam-yuen-tung-thomas/",
+    "photo_url": ""
   },
   {
     "id": "ntu-ase-thomas-michael-blattmann",
@@ -12462,6 +15197,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/xiao_tianshu.png"
   },
   {
+    "id": "ntu-lkc-tiew-pei-yee",
+    "name": "Tiew Pei Yee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.sgh.com.sg/profile/tiew-pei-yee",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mse-tim-white",
     "name": "Tim White",
     "institution": "NTU",
@@ -12497,6 +15244,21 @@
     "summary": "Vacancies for PhD Students, Postdocs, and Research Assistants : please see my website for more information. Timothy van Bremen is an Assistant Professor in the College of Computing and Data Science at Na ... Research interests: Artificial and Augmented Intelligence | Information Sciences and Systems",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Timothy-van-Bremen",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/3af05356-d79e-434a-8f95-580bda310c30/content"
+  },
+  {
+    "id": "ntu-lkc-tom-carney",
+    "name": "Tom Carney",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Developmental Biology",
+    "roles": [
+      "Assistant Dean, Year 1",
+      "Scientist Module Lead (Foundations of Medicine)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01233",
+    "photo_url": ""
   },
   {
     "id": "ntu-eee-tong-ling",
@@ -12580,6 +15342,18 @@
     "summary": "Research interests: Nonlinear multiscale modelling; Geometric mechanics; Computational particle schemes; Liquid crystals; Micropolar fluids; Mathematical and omputational chemistry mixed quantum-classical models; Plasma confinement fusion; Space plasmas; Theoretical spintronics; hydrodynamic models.",
     "profile_url": "https://www.surrey.ac.uk/people/cesare-tronci",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/cesare-tronci.tmb-0.jpg?Culture=en&sfvrsn=492a1391_1"
+  },
+  {
+    "id": "ntu-lkc-tsukasa-kamigaki",
+    "name": "Tsukasa Kamigaki",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Systems Neuroscience",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01272",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-tuti-mariana-lim",
@@ -12700,6 +15474,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/image-(20).tmb-0.jpeg?Culture=en&sfvrsn=887ae459_1"
   },
   {
+    "id": "ntu-lkc-victoria-leong",
+    "name": "Victoria Leong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00508",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-vidya-badrinarayanan",
     "name": "Vidya Badrinarayanan",
     "institution": "NTU",
@@ -12748,6 +15534,20 @@
     "summary": "Virgil Andrei is a Nanyang Assistant Professor (NAP) in the School of Materials Science and Engineering at NTU Singapore. His research revolves around the integration of renewable energy technologies (photoelectrocatalysis, photovoltaics, thermoelect ... Research interests: Chemistry and Chemical Engineering | Circular Economy | Nanomaterials and Nanotechnology | Renewable Energy and Sustainability | Semiconductor Nanocrystals and Devices",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Virgil-Andrei",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/84415ad6-778e-490a-8e5d-72f087935910/content"
+  },
+  {
+    "id": "ntu-lkc-vivek-perumal",
+    "name": "Vivek Perumal",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Science Module Lead (Musculoskeletal System)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01305",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-vun-chan-hua-nicholas",
@@ -12905,6 +15705,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/asst-prof-(180-x-220-px)/wang-lin.jpeg?sfvrsn=70f62b8c_1"
   },
   {
+    "id": "ntu-lkc-wang-linfa",
+    "name": "Wang Linfa",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "PREPARE",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.duke-nus.edu.sg/directory/detail/wang-linfa",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-wang-lipo",
     "name": "Wang Lipo",
     "institution": "NTU",
@@ -13047,6 +15859,18 @@
     "summary": "Dr. Yong Wang is a tenure-track assistant professor at the College of Computing and Data Science, Nanyang Technological University, Singapore. Before that, he was a faculty member and Lee Kong Chian Fellow at the School of Computing and Information S ... Research interests: Graphics and Interactive Computing",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Wang-Yong",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/7060b0fa-0b1f-4cd1-bc13-2edd979ce430/content"
+  },
+  {
+    "id": "ntu-lkc-wang-yulan",
+    "name": "Wang Yulan",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Professor of Metabolomics",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01267",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-wang-zhiwei",
@@ -13255,6 +16079,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/261008fd-5385-4cea-9fb3-944a8b7c091f/content"
   },
   {
+    "id": "ntu-lkc-weiqiang-chen",
+    "name": "Weiqiang Chen",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Viral Immunopathogenesis",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/entities/person/Weiqiang-Chen",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-wen-bihan",
     "name": "Wen Bihan",
     "institution": "NTU",
@@ -13405,6 +16241,30 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/8bafbd59-0913-4637-a0af-ce31d225e270/content"
   },
   {
+    "id": "ntu-lkc-wilson-goh",
+    "name": "Wilson Goh",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Biomedical Informatics",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00171",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-wisia-wedzicha",
+    "name": "Wisia Wedzicha",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Imperial College London",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.imperial.ac.uk/people/j.wedzicha",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-eee-wong-jia-yiing-patricia",
     "name": "Wong Jia Yiing, Patricia",
     "institution": "NTU",
@@ -13477,6 +16337,47 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00661",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/wong-teck-neng_jpg-1-e61440b2-4282-488b-bd07-24a1fc1b546a.jpg?sfvrsn=fad0e6b4_3"
+  },
+  {
+    "id": "ntu-lkc-wong-teck-yee",
+    "name": "Wong Teck Yee",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Lead (Clinical Encounter and Long-Term Patient Project)",
+      "Clinical Course Lead for OSCE (Year 4)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://wcms-prod-admin.ntu.edu.sg/medicine/about-us/our-people/faculty-staff/faculty/associate-professor-wong-teck-yee",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-wong-tien-yin",
+    "name": "Wong Tien Yin",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Professor of The Practice (Clinical)",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.med.tsinghua.edu.cn/en/info/1129/1542.htm",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-wong-wei-chin",
+    "name": "Wong Wei Chin",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Dean, Year 4"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Wong-Wei-Chin",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-wong-yiik-diew",
@@ -13624,6 +16525,21 @@
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00954",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider123/spms-headshots/xiakelin10217a6c-609c-43c4-9af1-5034350b3f7c.jpg?Status=Master&sfvrsn=aa767e20_5",
     "lab_url": "https://personal.ntu.edu.sg/xiakelin"
+  },
+  {
+    "id": "ntu-lkc-xia-yun",
+    "name": "Xia Yun",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Nanyang Assistant Professor",
+    "roles": [
+      "Provost's Chair in Stem Cell Biology",
+      "Scientist Module Lead, Renal and Urinary System"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01239",
+    "photo_url": ""
   },
   {
     "id": "ntu-spms-math-xiang-liming",
@@ -14199,6 +17115,18 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/about-us/our-people/faculty/asst-professor-yang-jianfei.jpg?sfvrsn=905112ed_1&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=2BCAF9ACC80F20EA2CD18EE832EB61CE9F585D7B"
   },
   {
+    "id": "ntu-lkc-yang-xulei",
+    "name": "Yang Xulei",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "A*STAR",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://research.a-star.edu.sg/archives/?r",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cee-yang-yaowen",
     "name": "Yang Yaowen",
     "institution": "NTU",
@@ -14293,6 +17221,37 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/faculty-(assc-prof-180x220)/yap-kim-hui_edited.jpg?sfvrsn=4a6052a3_2"
   },
   {
+    "id": "ntu-lkc-yap-kwee-yong-joyce",
+    "name": "Yap Kwee Yong, Joyce",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [
+      "Clinical Module Lead (Ageing)",
+      "Principal Lead (Geriatric Medicine)"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Pages/Find-Specialist-Details.aspx?specialist=Yap-Kwee-Yong-Joyce-Ye-Guirong",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-yasunori-saheki",
+    "name": "Yasunori Saheki",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Vice-Dean",
+    "roles": [
+      "Irene Tan Liang Kheng Chair Professor in Neuroscience",
+      "Associate Professor of Cell Biology and Neuroscience",
+      "Scientist Module Lead, Ageing"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01245",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-ye-hui",
     "name": "Ye Hui",
     "institution": "NTU",
@@ -14311,6 +17270,20 @@
     "summary": "Research interests: Functional food, Energy homeostasis, Metabolism, Nutrition, and Neuroscience",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02175",
     "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/wechatimg24-copy.jpg?sfvrsn=d44f2c89_3"
+  },
+  {
+    "id": "ntu-lkc-yen-choo",
+    "name": "Yen Choo",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor of Stem Cell Science and Regenerative Medicine",
+    "roles": [
+      "Longitudinal Course Lead, Innovations in Medicine"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01279",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-yeo-chai-kiat",
@@ -14334,6 +17307,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/aac74b9f-9f62-4f64-8989-360fb8cc4bc9/content"
   },
   {
+    "id": "ntu-lkc-yeo-si-yong",
+    "name": "Yeo Si Yong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medvisailab.github.io/",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-mae-yeo-song-huat",
     "name": "Yeo Song Huat",
     "institution": "NTU",
@@ -14347,6 +17332,30 @@
     "summary": "",
     "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00793",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider122/faculty-photos/yeo-song-huat_jpg-1-7c4014ee-7afd-4064-ab2e-6c59b1c8cd73.jpg?sfvrsn=2c98c3c4_3"
+  },
+  {
+    "id": "ntu-lkc-yeo-tianrong",
+    "name": "Yeo Tianrong",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nni.com.sg/doctor?",
+    "photo_url": ""
+  },
+  {
+    "id": "ntu-lkc-yeo-tsin-wen",
+    "name": "Yeo Tsin Wen",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.ttsh.com.sg/Patients-and-Visitors/Medical-Services/Infectious-Diseases/Pages/default.aspx",
+    "photo_url": ""
   },
   {
     "id": "ntu-mae-yeong-wai-yee",
@@ -14404,6 +17413,18 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/53b23d07-fe58-4dcb-bee2-42b8b8a52459/content"
   },
   {
+    "id": "ntu-lkc-yew-yik-weng",
+    "name": "Yew Yik Weng",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nsc.com.sg/e-Services/Pages/Find-a-Doctor.aspx",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-ccds-yewen-pu",
     "name": "Yewen Pu",
     "institution": "NTU",
@@ -14418,6 +17439,18 @@
     "summary": "Currently: Nanyang Assistant Professor, CCDS Previously: Principal Research Scientist, Autodesk Research (2020 - 2025) Education: • B.A. Math, UC Berkeley (2011) • B.A. Computer Science, UC Berkeley (2011) • PhD. Computer Science, MIT ... Research interests: Computational Intelligence",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Yewen-Pu",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/676c3755-287e-4a91-bf13-97649c023720/content"
+  },
+  {
+    "id": "ntu-lkc-yi-liu",
+    "name": "Yi Liu",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Assistant Professor of Stem Cell Biology and Regenerative Medicine",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp02602",
+    "photo_url": ""
   },
   {
     "id": "ntu-cee-yi-yaolin",
@@ -14753,6 +17786,22 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider139/ase-faculty/yun-sang-ho_resized.jpg?sfvrsn=6886fc0a_1"
   },
   {
+    "id": "ntu-lkc-yusuf-ali",
+    "name": "Yusuf Ali",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "Vice-Dean",
+    "roles": [
+      "Ong Tiong Tat Chair Professor in Metabolic Research",
+      "Associate Professor of Metabolic Disease",
+      "Scientist Module Lead, Endocrine System"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00609",
+    "photo_url": ""
+  },
+  {
     "id": "ntu-cceb-zaher-judeh",
     "name": "Zaher Judeh",
     "institution": "NTU",
@@ -14786,6 +17835,18 @@
     "scholar_url": "https://scholar.google.com/citations?user=89dK8XEAAAAJ&hl=en&inst=8669986779262753491&oi=ao",
     "orcid": "https://orcid.org/0000-0002-9830-8446",
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider115/faculty/2025-faculty-photos/bozdech_zbynek.png"
+  },
+  {
+    "id": "ntu-lkc-zeng-li",
+    "name": "Zeng Li",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "National Neuroscience Institute",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.nni.com.sg/researcher?",
+    "photo_url": ""
   },
   {
     "id": "ntu-ase-zeng-yiwen",
@@ -14862,6 +17923,18 @@
     "summary": "Jie Zhang is a Professor of the College of Computing & Data Science at NTU Singapore, leading the Computational Intelligence Group. He obtained Ph.D. in Cheriton School of Computer Science from University of Waterloo and was the recipient of Alum ... Research interests: Artificial and Augmented Intelligence | Computational Intelligence",
     "profile_url": "https://dr.ntu.edu.sg/entities/person/Zhang-Jie",
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/7bafcfce-0c9c-435c-9832-08e7d84fecd4/content"
+  },
+  {
+    "id": "ntu-lkc-zhang-li",
+    "name": "Zhang Li",
+    "institution": "NTU",
+    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
+    "title": "The Chinese University of Hong Kong",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www4.mae.cuhk.edu.hk/peoples/zhang-li/",
+    "photo_url": ""
   },
   {
     "id": "ntu-ccds-zhang-mengmi",

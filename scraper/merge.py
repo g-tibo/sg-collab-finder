@@ -21,6 +21,7 @@ SOURCES = [
     "ntu_mae.json",
     "ntu_mse.json",
     "ntu_ccds.json",
+    "ntu_lkc.json",
     "astar_imcb.json",
     "astar_gis.json",
     "astar_bii.json",
