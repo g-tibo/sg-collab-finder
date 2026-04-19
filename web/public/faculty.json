@@ -427,23 +427,6 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-dedrickchan.jpg?sfvrsn=6dfd1187_1"
   },
   {
-    "id": "astar-imcb-derrick-ong",
-    "name": "Derrick Ong",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Mechanisms of proliferation/self-renewal of cancerous and normal brain stem cells"
-    ],
-    "research_areas": [
-      "Mechanisms of proliferation",
-      "self-renewal of cancerous and normal brain stem cells"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-nov2024-derrick-ong.jpg?sfvrsn=e84d1bd6_1"
-  },
-  {
     "id": "astar-imcb-farid-ghadessy",
     "name": "Farid Ghadessy",
     "institution": "A*STAR",
@@ -619,22 +602,6 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-joepohshengyeong.jpg?sfvrsn=5a6dcbd2_1"
-  },
-  {
-    "id": "astar-imcb-john-chua",
-    "name": "John Chua",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Interactomics and intracellular trafficking"
-    ],
-    "research_areas": [
-      "Interactomics and intracellular trafficking"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-johnchua.jpg?sfvrsn=8d32bb90_2"
   },
   {
     "id": "astar-imcb-john-e-connolly",
@@ -1582,22 +1549,6 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-sooyongtan.jpg?sfvrsn=4a7bd58f_1"
-  },
-  {
-    "id": "astar-imcb-sriram-ajay-mathuru",
-    "name": "Sriram Ajay Mathuru",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Mechanisms underlying behavior"
-    ],
-    "research_areas": [
-      "Mechanisms underlying behavior"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-ajaymathuru.jpg?sfvrsn=5d51bc39_2"
   },
   {
     "id": "astar-gis-tam-wai-leong",
@@ -2564,21 +2515,6 @@
     "summary": "",
     "profile_url": "https://www.phc.ox.ac.uk/team/andrew-farmer",
     "photo_url": ""
-  },
-  {
-    "id": "ntu-lkc-andrew-tan",
-    "name": "Andrew Tan",
-    "institution": "NTU",
-    "department": "Lee Kong Chian School of Medicine (LKCMedicine)",
-    "title": "Vice Dean",
-    "roles": [
-      "Associate Professor of Metabolic Disorders",
-      "Provost's Chair in Metabolic Disorder"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00393",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/4f0dc339-a809-4f97-b506-83ae58d3ad44/content"
   },
   {
     "id": "ntu-lkc-andy-ho",
@@ -18159,6 +18095,18 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2023/09/AWHD-1-150x150.jpg"
   },
   {
+    "id": "nus-yll-phys-ajay-sriram-mathuru",
+    "name": "Ajay Sriram Mathuru",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Neurogenetics\n\nBehavioural Neuroscience.\n\nThe fundamental question that drives research in my laboratory is understanding how brains operate to generate behavior.\n\nWe develop new tools to study and analyze natural behaviors motivated by rewards and risks – such as social behaviors, predator avoidance, and behaviors triggered by appetitive, aversive, or olfactory cues. We then apply their findings to understand the neurogenetics of human disorders of the brain.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/ajay-sriram-mathuru/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Tenure-Track_08-Ajay-S-Mathuru-e1725866052882.jpg"
+  },
+  {
     "id": "nus-yll-medphc-alan-prem-kumar",
     "name": "Alan Prem KUMAR",
     "institution": "NUS",
@@ -18175,6 +18123,30 @@
     "summary": "Identification of prognostic markers for metastatic cancers to support personalized treatment strategies.\n\nFunctional characterization of oncogenes implicated in cancer progression and chemotherapy resistance.\n\nDevelopment of targeted therapies for female reproductive cancers based on oncogenic pathway activation.\n\nStudy of post-translational modifications (phosphorylation, acetylation, SUMOylation) of nuclear receptors.",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-adnjpfg5u73w",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2025/08/Dr-Alan-Prem-Kumar-2025-scaled.jpg"
+  },
+  {
+    "id": "nus-yll-phys-amanda-wong",
+    "name": "Amanda Wong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Blended learning design and implementation\n\nInterdisciplinary and transdisciplinary learning\n\nUtility of questions in teaching and learning\n\nGenerative AI in teaching and learning strategies",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/amanda-wong/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/08/Educator-Track_-07-Amanda-Wong-e1725865172242.jpg"
+  },
+  {
+    "id": "nus-yll-phys-anthony-khong",
+    "name": "Anthony Khong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Asisstant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "The Khong lab aspires to describe how biomolecular condensates participate in cancer biology with the goal of developing cancer therapeutics.\n\nBiochemical processes are often carried out at subcellular locations in eukaryotic cells. One approach that eukaryotic cells use to compartmentalize biochemistry is through lipid membranes. Alternatively, eukaryotic cells can also compartmentalize biochemistry without using lipid membranes through the self-assembly of proteins and nucleic acids. These structures are known as biomolecular condensates. Some examples of biomolecular condensates include the nucleolus, paraspeckles, nuclear speckles, P-bodies, and stress granules (Figure 1).\n\nFigure 1: Examples of biomolecular condensates found in eukaryotic cells\n\nBiomolecular condensates are involved in a range of biological processes including DNA replication and repair, telomere maintenance, transcription, RNA metabolism and trafficking, misfolded protein quality control, stress resistance, and signal transduction. Cancers and tumors have usurped biomolecular condensate biology to promote tumorigenesis.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/anthony-khong/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Tenure-Track_AssistProf_AnthonyKhong-e1725867568981.jpg"
   },
   {
     "id": "nus-dbs-antonia-monteiro",
@@ -18336,6 +18308,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-2-1.jpg"
   },
   {
+    "id": "nus-yll-phys-chen-zhi-xiong",
+    "name": "Chen Zhi Xiong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/chen-zhi-xiong/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/ChenZhixiong-e1727751255627.jpg"
+  },
+  {
     "id": "nus-yll-patho-cheok-chit-fang",
     "name": "Cheok Chit Fang",
     "institution": "NUS",
@@ -18406,6 +18390,18 @@
     "summary": "Dementia\n\nStroke\n\nClinical Trials",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-znw8xatg5fvy",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Christopher-Chen-Li-Hsian-2E1.jpg"
+  },
+  {
+    "id": "nus-yll-phys-crasta-karen-carmelina",
+    "name": "Crasta Karen Carmelina",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Therapy-induced senescence and tumour recurrence\n\nChromosome instability as driver of inflammation in age-related disease\n\nExtracellular vesicles as means of systemic communication in healthy longevity\n\nImpact of aged tumour microenvironment in cancers",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/crasta-karen-carmelina/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Research-Track_ResAssisProf_KarenCrasta.jpg"
   },
   {
     "id": "nus-dbs-cynthia-he",
@@ -18714,6 +18710,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/gerw.jpg"
   },
   {
+    "id": "nus-yll-phys-goh-jor-ming",
+    "name": "Goh Jor Ming",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Exercise Immunology and Oncology\n\nDamage-Associated Molecular Patterns (DAMPs)\n\nExerkines, Inflammation\n\nIntegrative Exercise Physiology",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Research-Track_03-Goh-Jor-Ming-scaled.jpg"
+  },
+  {
     "id": "nus-dbs-greg-tucker-kellogg",
     "name": "Greg Tucker-Kellogg",
     "institution": "NUS",
@@ -18737,6 +18745,18 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/04/Bazan-3.jpg"
   },
   {
+    "id": "nus-yll-phys-hanry-yu",
+    "name": "Hanry Yu",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Drug Testing Platforms\n\nDigital Liver Projects\n\nMicro-tissue Fabrication Factory",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/hanry-yu/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/HanryYu-1.jpg"
+  },
+  {
     "id": "nus-dbs-hao-tang",
     "name": "Hao Tang",
     "institution": "NUS",
@@ -18751,6 +18771,30 @@
     "summary": "Ecosystem; forest ecology; satellite observation; macroecology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/hao-tang/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2022/02/Hao-Tang-1.jpg"
+  },
+  {
+    "id": "nus-yll-phys-herbert-schwarz",
+    "name": "Herbert Schwarz",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Immune regulation\n\nCostimulation\n\nTumor immunology\n\nImmunotherapy",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/herbert-schwarz/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/SchwarzHerbert-e1727750852826.jpg"
+  },
+  {
+    "id": "nus-yll-phys-hooi-shing-chuan",
+    "name": "Hooi Shing Chuan",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Learning environments and pedagogy in medical education\n\nRegulation and function of C/EBPalpha in hepatocellular carcinoma",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/hooi-shing-chuan/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/HooiShingChuan.jpg"
   },
   {
     "id": "nus-dbs-hu-chunyi",
@@ -18770,6 +18814,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2023/01/hu-chunyi.jpg"
   },
   {
+    "id": "nus-yll-phys-huang-hua",
+    "name": "Huang Hua",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Ion Channelopathy\n\nPatch clamp Electrophysiology\n\nNucleic Acid Therapeutics",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/huang-hua/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/Huang-Hua.jpg"
+  },
+  {
     "id": "nus-yll-medphc-inthrani-raja-indran",
     "name": "Inthrani RAJA INDRAN",
     "institution": "NUS",
@@ -18780,6 +18836,30 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-h1j492qyobse",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/06/InthraniRI.jpg"
+  },
+  {
+    "id": "nus-yll-phys-ira-agrawal",
+    "name": "Ira Agrawal",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Instructor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Experiential learning, Inquiry-based learning, Interdisciplinary learning\n\nMental health education for improved student wellbeing\n\nComputational Biology\n\nApplication of integrative multi-omics analysis to neurodegenerative diseases",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/ira-agrawal/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Educator-Track_Inst_IraAgrawal-e1725864350684.jpg"
+  },
+  {
+    "id": "nus-yll-phys-ivan-low-cherh-chiet",
+    "name": "Ivan Low Cherh Chiet",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Sports Science and Exercise\n\nCurriculum and Pedagogy\n\nExercise Physiology\n\nPublic Health",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/ivan-low-cherh-chiet/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/IvanLow.jpg"
   },
   {
     "id": "nus-dbs-j-sivaraman",
@@ -18815,6 +18895,18 @@
     "summary": "Jan Gruber’s laboratory focuses on: Ageing, Age-dependent dieseases, Interventions against Basic / Molecular Mechanisms of Ageing C. elegans as a Model Organism Role of Mitochondria and Free Radicals in Ageing and Age-dependent Diseases Biomarkers of Oxidative Damage Computational Biology Evolution of ageing",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/jan-gruber/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-5-1.jpg"
+  },
+  {
+    "id": "nus-yll-phys-jason-kai-wei-lee",
+    "name": "Jason Kai Wei Lee",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Research Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Fluid balance and heat stress\n\nExtreme physiology\n\nMilitary, occupational and applied performance and safety\n\nHeat on health and work productivity",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/jason-kai-wei-lee/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/JasonLee-e1727751327768.jpg"
   },
   {
     "id": "nus-yll-medphc-jerold-chun",
@@ -18856,6 +18948,18 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Prof.-John-Climax.jpg"
   },
   {
+    "id": "nus-yll-phys-john-chua-jia-en",
+    "name": "John Chua Jia En",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Neuronal network establishment and maintenance\n\nNeurodevelopmental disorders\n\nNeurodegeneration and neuronal aging",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/john-chua-jia-en/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/JohnChua_edited-scaled-e1585109064698.jpg"
+  },
+  {
     "id": "nus-yll-medphc-john-mok",
     "name": "John MOK",
     "institution": "NUS",
@@ -18866,6 +18970,18 @@
     "summary": "-\n\n-",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-lvb3aj2rif9p",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/11/Mok.png"
+  },
+  {
+    "id": "nus-yll-phys-john-wang",
+    "name": "John Wang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Sport and Exercise Psychology\n\nMotivation in human behaviours\n\nSelf-determination theory, achievement goal theory\n\nAdvanced Statistical Analysis such as Structural Equation Modeling, Multilevel Analysis, Latent Growth Curves Analysis",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/john-wang/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Tenure-Track_Prof_JohnWang-e1725865937901.jpg"
   },
   {
     "id": "nus-yll-medphc-judy-sng-chia-ghee",
@@ -18974,6 +19090,18 @@
     "summary": "* Potential therapeutics from venoms and toxins. * Role of nitric oxide in liver diseases. * Medical education.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/khoo-hoon-eng/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchkhe.jpg"
+  },
+  {
+    "id": "nus-yll-phys-koh-dow-rhoon",
+    "name": "Koh Dow Rhoon",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Medical education\n\nAutoimmunity of lupus and rheumatoid arthritis",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/koh-dow-rhoon/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/KohDowRhoon-1.jpg"
   },
   {
     "id": "nus-dbs-koh-lian-pin",
@@ -19298,6 +19426,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2025/07/thumbnail_WechatIMG4131.jpg"
   },
   {
+    "id": "nus-yll-phys-lim-hsiu-kim-lina",
+    "name": "Lim Hsiu Kim, Lina",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Tumor microenvironment\n\nInflammation and cancer\n\nInnate immunity",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/lim-hsiu-kim-lina/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/08/Group-56-2-e1727749829386.png"
+  },
+  {
     "id": "nus-dbs-lim-jun-ying",
     "name": "Lim Jun Ying",
     "institution": "NUS",
@@ -19370,6 +19510,18 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Professor-He-Hong-Gu-Promotion-Photo-after-Dec-2022-150x150.jpg"
   },
   {
+    "id": "nus-yll-phys-ling-shuo-chien",
+    "name": "Ling Shuo-Chien",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Aging and neurodegeneration\n\nThe current projects in my laboratory will use an integrated approach (i.e., combining molecular, cellular, biochemical, genetic and physiological techniques) by constructing in vitro and in vivo models to address the following critical issues: (1) how does aging and disease-causing mutations provoke neurodegeneration; (2) why specific neuron types are more susceptible to these disease-causing mutations, and (3) how do different cell types, such as astrocytes and oligodendrocytes, contribute to disease progression. Specifically, we will utilize different sets of transgenic mice expressing wild type and disease-linked mutations in human TDP-43, FUS/TLS and C9ORF72, including a novel model in which mouse TDP-43 is replaced with human gene. Furthermore, we will gain insight into molecular and cellular signatures of ALS-linked mutations in TDP-43, FUS/TLS and C9ORF72 with a genome-wide unbiased and quantitative approach to identify the protein and RNA interactors for these proteins.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/ling-shuo-chien/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/LingShuoChien-e1727749670930.jpg"
+  },
+  {
     "id": "nus-dbs-liou-yih-cherng",
     "name": "Liou Yih-Cherng",
     "institution": "NUS",
@@ -19379,6 +19531,18 @@
     "summary": "The phosphorylation of specific proteins on Ser/Thr residues preceding proline is thought to be a major cellular signaling mechanism; however, very little is known about how the phosphorylation actually regulates protein function. Pin1 is an 18 kDa protein with two domains: the N-terminal WW domain (named after two invariant Trp residues, amino acids 1-39) and the C-terminal PPIase domain (amino acids 45-163). The WW domain acts as a binding module to bind its substrate via the phosphoserine (p-Ser) or phosphothreonine (p-Thr)-proline motifs in its substrates. The C-terminal PPIase domain is the catalytic domain to isomerize the conformational changes of specific pSer/Thr-Pro motifs. Unlike other peptidyl-prolyl isomerases (PPIases), Pin1 is a unique peptidyl isomerase that recognizes only the phosphorylated Ser/Thr motif preceding a proline residue. In addition, Pin1 is very prominent in isomerizing the cis-trans conformation of prolyl-peptidyl bonds in its substrates, resulting in regulation of their biological functions, suggesting the conformational changes mediated by Pin1 or Pin1-like isomerase may be crucial for the normal functioning of cells.\n\nOur research directions lie in the area of how protein structure impacts signaling in the cells. The objectives are to characterize further the biology function of Pin1 and its downstream substrates. We are interested in understanding how the prolyl isomerase regulates its targets by changing the conformation on the pSer/Thr-Pro motifs in different organisms and in human diseases.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/liou-yih-cherng/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Liou-Yih-Cherng.jpg"
+  },
+  {
+    "id": "nus-yll-phys-liu-chuang",
+    "name": "Liu Chuang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Chuang Lab (Laboratory for Gene Medicine, www.chuangliulab.com) is a multidisciplinary research team dedicated to unlocking the power of genetic science to develop the next generation of therapies. Our research interests lie in immunotherapy, particularly for cancer, using modalities such as mRNA, gene-engineered cells and bacteria, and oncolytic viruses. By bridging fundamental discovery with translational innovation, we strive to make curative genetic medicines a reality.\n\nGene medicine : Designing and optimizing next-generation gene therapeutics (e.g. mRNA) for immunomodulation, cancer therapy, and treatment of inflammatory and neurological diseases\n\nCell medicine : Leveraging gene-engineered cells as therapeutic candidates for targeted immune regulation and anti-tumor applications\n\nDelivery platforms : Developing novel lipid-based and biomaterial-enabled gene delivery platforms to enhance therapeutic efficacy, tissue specificity, and clinical translatability",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/liu-chang/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/08/Chuang-LIU.jpg"
   },
   {
     "id": "nus-dbs-loh-ne-te-duane",
@@ -19486,6 +19650,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/10/luomin2.jpg"
   },
   {
+    "id": "nus-yll-phys-manoor-prakash-hande",
+    "name": "Manoor Prakash Hande",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Radiation Biology – biological response markers of exposure and radiological protection\n\nToxicogenomics and Environmental Toxicology\n\nTelomeres and Telomerase in Ageing and Cancer\\\n\nDNA damage response and repair",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/manoor-prakash-hande/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/ManoorPrakashHande-e1727749787425.jpg"
+  },
+  {
     "id": "nus-yll-bch-marie-veronique-clement",
     "name": "Marie-Veronique, Clement",
     "institution": "NUS",
@@ -19579,6 +19755,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/DBS_NP_ProfilePicture_Dec2025-scaled-e1766543987280.jpg"
   },
   {
+    "id": "nus-yll-phys-nathasha-luke",
+    "name": "Nathasha Luke",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Artificial Intelligence in Medical Education\n\nNon-communicable diseases",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/wanigatunga-arachchige-nathasha-vihangi-luke/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Educator-Track_NathashaLuke-e1725864606105.jpg"
+  },
+  {
     "id": "nus-yll-medphc-neelima-gupta",
     "name": "Neelima GUPTA",
     "institution": "NUS",
@@ -19631,6 +19819,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/Nguyen-Nam-Long-5_2.jpg"
   },
   {
+    "id": "nus-yll-phys-nicholas-ravanelli",
+    "name": "Nicholas Ravanelli",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/nicholas-ravanelli/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Research-Track_ResAssisProf_NicholasRavanelli-e1725865769243.jpg"
+  },
+  {
     "id": "nus-yll-patho-nicholas-tan-jin-hong",
     "name": "Nicholas Tan Jin Hong",
     "institution": "NUS",
@@ -19641,6 +19841,18 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/patho/team-member/nicholas-tan-jin-hong/",
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Nicholas-TAN-Jin-Hong-circle-944ff7a029be45ac01a347db672f8ad7-jemqyogu28n0.jpg"
+  },
+  {
+    "id": "nus-yll-phys-noof-abdullah-saad-shaif",
+    "name": "Noof Abdullah Saad Shaif",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Instructor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/noof-abdullah-saad-shaif/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2025/01/Noof-Shaif-updated.png"
   },
   {
     "id": "nus-yll-medphc-nurulhuda-mustafa",
@@ -19669,6 +19881,30 @@
     "summary": "Chronic Illness and Long-term Care\n\nEducation Innovation\n\nGeriatric Care and Wellness\n\nPatient Safety and Quality Care",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/oh-olivia/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/Olivia-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-phys-olona-ferrer-antoni-maria",
+    "name": "Olona Ferrer Antoni Maria",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Postgraduate learning design and implementation\n\nGeroscience and Geromedicine\n\nImmunometabolism in ageing",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/olona-ferrer-antoni-maria/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2025/12/Dr-Antoni-500X500.jpg"
+  },
+  {
+    "id": "nus-yll-phys-ong-sek-tong-derrick",
+    "name": "Ong Sek Tong Derrick",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Mechanisms of proliferation/self-renewal of cancerous and normal brain stem cells\n\nCancer stem cells in glioblastoma (i.e. glioma stem cells)\n\nEmbryonic neural stem cells\n\nHow neural stem cell function can be enhanced during aging",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/ong-sek-tong-derrick/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/DerrickOng.jpg"
   },
   {
     "id": "nus-yll-patho-ooi-li-yin",
@@ -19878,6 +20114,18 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/04/Raj-1.png"
   },
   {
+    "id": "nus-yll-phys-reshma-taneja",
+    "name": "Reshma Taneja",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Epigenetic regulation of skeletal muscle differentiation and regeneration\n\nChromatin signalling networks in myopathies",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/reshma-taneja/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/10/Reshma-Taneja-e1727750775840.jpg"
+  },
+  {
     "id": "nus-yll-nursing-ronel-tan-xian-rong",
     "name": "Ronel Tan Xian Rong",
     "institution": "NUS",
@@ -19961,6 +20209,30 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Saima.png"
   },
   {
+    "id": "nus-yll-phys-saji-kumar-sreedharan",
+    "name": "Saji Kumar Sreedharan",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Aging and Neurodegeneration\n\nNeural basis of long-term memory (LTM).\n\nSynaptic tagging and capture (STC) as an elementary mechanism for storing LTM in neural networks.\n\nMetaplasticity as a compensatory mechanism for improving memory in neural networks.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/saji-kumar-sreedharan/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Tenure-Track_AssocProf_Sajikumar-e1725867047649.jpg"
+  },
+  {
+    "id": "nus-yll-phys-sanjay-khanna",
+    "name": "Sanjay Khanna",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Role of Septo-hippocampal Region in Pain\n\nHypothalamic regulation of hippocampal function\n\nCircuit mechanism of dementia",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/sanjay-khanna/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/SanjayKhanna-e1727170790430.jpg"
+  },
+  {
     "id": "nus-dbs-sanjay-swarup",
     "name": "Sanjay Swarup",
     "institution": "NUS",
@@ -19984,6 +20256,30 @@
     "summary": "Co-Director of Studies, College of Alice & Peter Tan\n\nDeputy Director, Centre for Development of Teaching and Learning",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/seow-teck-keong/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Seow-Teck-Keong-scaled.jpeg"
+  },
+  {
+    "id": "nus-yll-phys-shailaja-seetharaman",
+    "name": "Shailaja Seetharaman",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Asisstant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Cardio- and cerebro-vascular biology – endothelial dysfunction in disease\n\nMechanobiology and biophysics of tissue adaptation\n\nAI/ML for cell and tissue mechanobiology",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/shailaja-seetharaman/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2025/12/Shailaja_photo_whiteb.jpg"
+  },
+  {
+    "id": "nus-yll-phys-shazib-pervaiz",
+    "name": "Shazib Pervaiz",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Regulation of Cell Death Signaling in Cancer Cells\n\nReactive Oxygen Species and Cell Fate\n\nBcl-2 Family and Mitochondrial Metabolism\n\nProtein Phosphatase PP2A and Cancer",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/shazib-pervaiz/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/ShazibPervaiz.jpg"
   },
   {
     "id": "nus-yll-nursing-shefaly-shorey",
@@ -20014,6 +20310,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2022/04/sjh3.png"
   },
   {
+    "id": "nus-yll-phys-soong-tuck-wah",
+    "name": "Soong Tuck Wah",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Investigations into diversification of calcium channel function via alternative splicing and RNA editing and their implications in neurological disorders such as anxiety or fear and in cardiovascular disorders such as hypertension and heart failure.\n\nInvestigations into physiological significance of alternative splicing and RNA editing of CaV channels in hippocampal learning and memory and cerebellar motor learning, and in feeding behavior and circadian rhythm.\n\nInvestigations into the implications of functional coupling between galectin-1, galectin-3 or filamin A and Cav1.2 channel in the cardiovascular system, and in heart failure and hypertension.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/soong-tuck-wah/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/SoongTuckWah-e1727750082157.jpg"
+  },
+  {
     "id": "nus-dbs-stephen-brian-pointing",
     "name": "Stephen Brian Pointing",
     "institution": "NUS",
@@ -20029,6 +20337,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Pointing_colour_photo-scaled.jpg"
   },
   {
+    "id": "nus-yll-phys-stephen-chong-jun-fei",
+    "name": "Stephen Chong Jun Fei",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Lee Kuan Yew Fellow",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Drug resistance mechanisms Identifying actionable targets using functional precision medicine techniques Hematologic Malignancies Kinase and Phosphatase regulation in cancer Bcl-2 family proteins and cell death regulations in cancer Redox and mitochondrial metabolism in cancer\n\nDr Stephen Chong received his PhD in redox and cancer biology at the National University of Singapore (NUS). He subsequently did his postdoctoral training at Dana-Farber Cancer Institute and Harvard Medical School, under the Charles A. King Trust Post-doctoral research fellowship award. In 2024, he returned to NUS after being awarded the prestigious Lee Kuan Yew research fellowship to start his independent research in the Department of Physiology. His principal effort is in basic and translational research, with the aim of incorporating complementary functional precision medicine techniques to unravel the molecular mechanisms of drug resistance and identify therapeutic actionable nodes in solid and hematologic malignancies.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/stephen-chong-junfei/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/11/d.png"
+  },
+  {
     "id": "nus-yll-patho-susan-hue-swee-shan",
     "name": "Susan Hue Swee Shan",
     "institution": "NUS",
@@ -20039,6 +20359,18 @@
     "summary": "Investigating the molecular mechanism driving R-CHOP resistance in diffuse large B-cell lymphoma (DLBCL)\n\nHarnessing computational image analysis and microRNA (miRNA) expression profiling with integrative machine learning to advance pathology diagnoses and predictive analytics",
     "profile_url": "https://medicine.nus.edu.sg/patho/team-member/susan-hue-swee-shan/",
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Susan-HUE-Swee-Shan-circle-7644ef813e206af0b6029bfbab7ce446-h7btmyodlp3j.jpg"
+  },
+  {
+    "id": "nus-yll-phys-swapna-teckwani",
+    "name": "Swapna Teckwani",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Instructor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Experiential learning, Interdisciplinary learning and Transdisciplinary learning\n\nGenerative AI in teaching and learning strategies\n\nSoft skills development and assessment (qualitative research)\n\nMental wellness and resilience for student wellbeing",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/swapna-teckwani/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Educator-Track_TA_Swapna-e1725864840317.jpg"
   },
   {
     "id": "nus-yll-nursing-tam-wai-san-wilson",
@@ -20146,6 +20478,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/08/tanyongzi.jpg"
   },
   {
+    "id": "nus-yll-phys-tan-yong-yi-andrew",
+    "name": "Tan Yong-Yi, Andrew",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Synaptic mechanisms of complex sound processing in the central auditory system\n\nSynaptic mechanisms of adult plasticity in the central auditory system",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/tan-yong-yi-andrew/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/AndrewTan-e1727751106816.jpg"
+  },
+  {
     "id": "nus-yll-bch-tang-bor-luen",
     "name": "Tang Bor Luen",
     "institution": "NUS",
@@ -20172,6 +20516,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtmsy.jpg"
   },
   {
+    "id": "nus-yll-phys-tee-wee-wei",
+    "name": "Tee Wee Wei",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Targeting chromatin vulnerabilities in cancer\n\nIdentifying epigenetic drivers of therapeutic resistance\n\nInvestigating a role of early-embryonic factor reactivation in cancer cell plasticity\n\nRegenerative medicine: Exploiting chromatin plasticity to promote developmental potency (e.g. totipotency, stem cells, reprogramming)",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/tee-wee-wei/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/TeeWeeWei-1.jpg"
+  },
+  {
     "id": "nus-yll-patho-teh-ming",
     "name": "Teh Ming",
     "institution": "NUS",
@@ -20182,6 +20538,18 @@
     "summary": "Tumour pathology especially of the upper gastrointestinal tract",
     "profile_url": "https://medicine.nus.edu.sg/patho/team-member/teh-ming/",
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/TEH-Ming-2-circle-f88db1c0b1ce06f3466ecef56bd8e09d-r5j0el928wxt.jpg"
+  },
+  {
+    "id": "nus-yll-phys-thai-tran",
+    "name": "Thai Tran",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "The overarching research focus of the TT laboratory is in the investigation of how the microenvironment (laminin, an extracellular matrix protein and its adaptor protein, CD151) interacts with cells of the lung and how dysregulation of this interaction contributes to lung disease pathophysiology, in particular asthma, respiratory infections and lung cancer. The long-term goal of our research is to identify novel therapeutic targets for these diseases.\n\nOur laboratory has two major areas of research focus: (A) Role of laminin and CD151 in lung disease pathophysiology through molecular, cellular and disease model approaches. (B) Identification of novel therapeutic targets of lung diseases.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/thai-tran/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/ThaiTran-1.jpg"
   },
   {
     "id": "nus-yll-bch-thilo-hagen",
@@ -20239,6 +20607,30 @@
     "summary": "Bioanalytics (qPCR, bionanotechnology), MicroRNA, GDNF, Metabolic Engineering of Isoprenoids, Gene Delivery, Stem Cells.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/too-heng-phon/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtoohp.jpg"
+  },
+  {
+    "id": "nus-yll-phys-tsai-shih-yin",
+    "name": "Tsai Shih-Yin",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Protein Homeostasis in Aging : Aging disrupts protein homeostasis in skeletal muscle, contributing to sarcopenia—the progressive loss of muscle mass and function. Our research investigates how autophagy and proteasomal degradation regulate protein quality and reshape the muscle microenvironment through cell-nonautonomous signaling. By targeting these pathways, we aim to uncover interventions that mitigate muscle atrophy, delay sarcopenia, and promote healthier aging.\n\nSex-Specific Mechanisms in Muscle Aging : Biological sex plays a critical role in aging, yet its impact is often overlooked. Our work examines how sex-specific factors influence protein homeostasis and muscle aging trajectories. By elucidating these differences, we seek to design tailored interventions that enhance the effectiveness of anti-aging strategies across diverse populations.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/tsai-shih-yin/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Tenure-Track_AssisProf_TsaiShihYin-e1725867914583.jpg"
+  },
+  {
+    "id": "nus-yll-phys-tsuyoshi-hirashima",
+    "name": "Tsuyoshi Hirashima",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Emergent property of collective cell behaviors in epithelial tissues\n\nBiophysical understanding of sperm-epithelial interaction in male reproduction\n\nMathematical modeling of multicellular tissue dynamics",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/tsuyoshi-hirashima/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/10/Image-2.jpeg"
   },
   {
     "id": "nus-dbs-utkur-mirsaidov",
@@ -20401,6 +20793,30 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2023/12/Jiangbo_photo_updated-scaled.jpg"
   },
   {
+    "id": "nus-yll-phys-wong-lik-wei",
+    "name": "Wong Lik Wei",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "The Science of Learning and Memory in Teaching and Education\n\nThe Influence of Sleep, Aging and Neurodegenerative Diseases on Learning and Memory",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/wong-lik-wei/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Educator-Track_Inst_Wong-Lik-Wei-e1725864485614.jpg"
+  },
+  {
+    "id": "nus-yll-phys-wong-siew-peng-esther",
+    "name": "Wong Siew Peng Esther",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "I have extensive experience working on autophagy and neurodegeneration research using mammalian cellular systems, pathological and aging animal models. My research investigates the physiological roles of autophagy in maintaining health and how autophagy becomes compromised in aging and neurodegenerative pathologies. In Centre for Healthy Longevity, I look at ways to improve autophagy to delay aging, promote better cellular homeostasis to extend longevity and mitigate age-related pathologies. I am overseeing the animal intervention studies platform under Healthy Longevity Translational Research Programme (HL TRP) to test the effects of repurposed drugs and natural products on frailty, healthspan and lifespan in aged mice. I am also involved in the HL TRP stem cell platform to use iPSCs, different types of stem cells and organoids to test geroprotectors on regenerative medicines.",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/wong-siew-peng-esther/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2023/05/EstherWong-e1725865825238.jpg"
+  },
+  {
     "id": "nus-dbs-wu-jinlu",
     "name": "Wu Jinlu",
     "institution": "NUS",
@@ -20468,6 +20884,18 @@
     "summary": "",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/yang-daiwen/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/yangdw.jpg"
+  },
+  {
+    "id": "nus-yll-phys-yap-suen-mei-celestial-therese",
+    "name": "Yap Suen Mei, Celestial Therese",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Cancer progression, with a focus on mechanisms of tumour cell dissemination and survival\n\nSignaling pathways in cancer and inflammatory diseases\n\nEducation-related research: special interests in medical education & graduate research training",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/yap-suen-mei-celestial-therese/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/01/team-1.jpg"
   },
   {
     "id": "nus-yll-bch-yeong-foong-may",
@@ -20611,6 +21039,18 @@
     "summary": "Advanced Practice Nurses Development (Education, Competencies, Practice model, Outcomes and Policies)\n\nContinuing Education and Training\n\nPatient-Centred Care",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/leadership-teams-directors/zhou-wentao/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/01/Zhou-Wentao-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-phys-zakaria-ali-moh-almsherqi",
+    "name": "Zakaria Ali Moh. Almsherqi",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Physiology",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/zakaria-ali-moh-almsherqi/",
+    "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/Zakaria-e1725864675827.jpg"
   },
   {
     "id": "nus-dbs-zeehan-jaafar",

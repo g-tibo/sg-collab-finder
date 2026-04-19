@@ -83,9 +83,12 @@ DEPARTMENTS: list[dict] = [
             "/nursing/our-people/our-faculty/teaching-faculty/",
         ],
     },
-    # Not yet wired up — phys/pcm render via JS after page load and our
-    # Playwright wait_for_selector missed their faculty cards. Revisit with a
-    # longer JS settle / explicit selector for those sites.
+    # "anchor-card" layout: bare <a><img><h3>Name</h3><p>Title</p></a>.
+    {
+        "slug": "phys", "layout": "anchor-card",
+        "name": "Department of Physiology",
+        "listings": ["/phys/about-us/academic-staff/"],
+    },
 ]
 
 
@@ -324,11 +327,50 @@ def _parse_listing_faculty_list_profile(dept_slug: str, dept_name: str, html: st
     return out
 
 
+def _parse_listing_anchor_card(dept_slug: str, dept_name: str, html: str) -> list[dict]:
+    """Simple <a href=profile><img><h3>Name</h3><p>Title</p></a> cards (phys)."""
+    soup = BeautifulSoup(html, "lxml")
+    out: list[dict] = []
+    seen: set[str] = set()
+    # Anchors that wrap both an img and an h3 are almost certainly faculty cards.
+    for a in soup.find_all("a", href=True):
+        h = a.find("h3")
+        if not h:
+            continue
+        if not a.find("img"):
+            continue
+        profile_url = a["href"].strip()
+        if not profile_url or f"/{dept_slug}/" not in profile_url:
+            continue
+        profile_url = _absolutize(profile_url)
+        if profile_url in seen:
+            continue
+        seen.add(profile_url)
+
+        name = clean_text(h.get_text(" ", strip=True))
+        if not name:
+            continue
+        p = a.find("p")
+        title_lines = _br_lines(p) if p else []
+
+        photo_url = ""
+        img = a.find("img")
+        if img and img.get("src"):
+            photo_url = _absolutize(img["src"])
+
+        out.append(_make_record(
+            dept_slug, dept_name, name=name, title_lines=title_lines,
+            email="", profile_url=profile_url, photo_url=photo_url,
+        ))
+    return out
+
+
 _LAYOUT_PARSERS = {
     "sol-item": _parse_listing_sol_item,
     "fl-photo": _parse_listing_fl_photo,
     "uabb-infobox": _parse_listing_uabb_infobox,
     "faculty-list-profile": _parse_listing_faculty_list_profile,
+    "anchor-card": _parse_listing_anchor_card,
 }
 
 
@@ -344,7 +386,8 @@ def _parse_listing(dept_slug: str, dept_name: str, html: str, layout: str) -> li
 _RESEARCH_HEADING_RE = re.compile(
     r"^(?:"
     r"(?:Main\s+|Major\s+|Current\s+)?Research\s+Interests?"
-    r"|Research\s+Areas?|Research\s+Focus|Research\s+Description|Research"
+    r"|Research\s+Areas?(?:\s+of\s+Interest)?"
+    r"|Research\s+Focus|Research\s+Description|Research"
     r")\s*:?\s*$",
     re.I,
 )
@@ -526,8 +569,30 @@ def _fetch_playwright(urls: list[str], *, headless: bool, max_attempts: int = 3)
         except Exception as e:
             print(f"  warmup failed: {e}")
 
+        # Track per-dept warmup so we only hit each listing once.
+        warmed: set[str] = set()
+
+        def dept_prefix(u: str) -> str:
+            # e.g. "/phys/" from https://medicine.nus.edu.sg/phys/about-us/...
+            m = re.match(r"https?://[^/]+/([^/]+)/", u)
+            return m.group(1) if m else ""
+
         for i, url in enumerate(todo, 1):
             html = ""
+            # Per-dept warmup: if this is our first profile fetch for a given
+            # subsite, hit that subsite's listing first so Incapsula gives us
+            # a scoped session cookie. Without this, phys profiles get stuck
+            # in a challenge loop even though the listing fetched fine.
+            slug = dept_prefix(url)
+            if slug and slug not in warmed:
+                warmed.add(slug)
+                # Use the listing we already know about: /<slug>/ root.
+                warm_url = f"{BASE}/{slug}/"
+                try:
+                    page.goto(warm_url, wait_until="load", timeout=45_000)
+                    page.wait_for_timeout(3_000)
+                except Exception:
+                    pass
             for attempt in range(1, max_attempts + 1):
                 try:
                     page.goto(url, wait_until="load", timeout=60_000)
