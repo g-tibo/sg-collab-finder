@@ -33,6 +33,8 @@ SOURCES = [
     "nus_sci.json",
     "nus_cde.json",
     "nus_soc.json",
+    "nus_dent.json",
+    "tll.json",
 ]
 
 

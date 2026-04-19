@@ -26,10 +26,14 @@ export type Faculty = {
 // last whitespace-separated token, which matches how most researchers are
 // looked up in directories.
 function lastNameKey(name: string): string {
-  if (name.includes(",")) {
-    return name.split(",")[0].trim().toLowerCase();
+  // Drop parenthesized content first — some records carry Chinese characters
+  // in parens ("Luke Ong (翁之昊)"). Without this, the last whitespace token
+  // becomes "(翁之昊)" and the record sorts under "翁" instead of "Ong".
+  const stripped = name.replace(/\([^)]*\)/g, " ").replace(/\s+/g, " ").trim();
+  if (stripped.includes(",")) {
+    return stripped.split(",")[0].trim().toLowerCase();
   }
-  const parts = name.trim().split(/\s+/);
+  const parts = stripped.split(/\s+/);
   return parts[parts.length - 1].toLowerCase();
 }
 

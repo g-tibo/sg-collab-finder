@@ -233,11 +233,14 @@ def _to_record(rec: dict, bio: str, research: str) -> Faculty:
     out: Faculty = {
         "id": fid,
         "name": name,
-        "institution": "Duke-NUS",
+        # Duke-NUS is an NUS graduate medical school (see nus.edu.sg/education),
+        # so we group it under the NUS institution and keep the Duke-NUS name
+        # in the department prefix for clarity.
+        "institution": "NUS",
         "profile_url": prof_url,
     }
     if dept:
-        out["department"] = dept
+        out["department"] = f"Duke-NUS Medical School — {dept}"
     if title:
         out["title"] = title
     if email and "@" in email:
