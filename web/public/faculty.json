@@ -5421,22 +5421,6 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/7ec9b417-40c1-4556-b673-c36aa7cfa400/content"
   },
   {
-    "id": "ntu-cceb-chen-wei-ning-william",
-    "name": "Chen Wei Ning, William",
-    "institution": "NTU",
-    "department": "School of Chemistry, Chemical Engineering and Biotechnology (CCEB)",
-    "title": "Michael Fam Chair Professor in Food Science & Technology",
-    "roles": [
-      "Director, Food Science and Technology Program",
-      "[email protected]"
-    ],
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp01164",
-    "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/chenweiningwilliam.jpg?sfvrsn=8bbb3fd8_3",
-    "lab_url": "http://www3.ntu.edu.sg/home/WNChen/William_Home.htm"
-  },
-  {
     "id": "ntu-mse-chen-xiaodong",
     "name": "Chen Xiaodong",
     "institution": "NTU",
@@ -19590,6 +19574,18 @@
     "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2021/01/default-avatar-profile-icon-grey-1.jpg"
   },
   {
+    "id": "nus-math-an-xinliang",
+    "name": "AN Xinliang",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/13247-an-xinliang",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Nonlinear wave equations, mathematical physics, geometric analysis and general relativity"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matax.jpg"
+  },
+  {
     "id": "nus-yll-nursing-ang-eng-tat",
     "name": "ANG Eng Tat",
     "institution": "NUS",
@@ -19612,6 +19608,19 @@
     "summary": "Psychological resilience\n\nOncology-hematology nursing\n\nPalliative and end-of-life care\n\nAdvance care planning",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/ang-wei-how-darryl/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2023/09/AWHD-1-150x150.jpg"
+  },
+  {
+    "id": "nus-stat-adrian-roellin",
+    "name": "Adrian Roellin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://aroellin.github.io/",
+    "title": "Professor",
+    "research_areas": [
+      "Stein’s Method and Applications",
+      "Mathematical Modeling of Infectious Diseases"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2022/09/Adrian-20092022.jpg"
   },
   {
     "id": "nus-yll-phys-ajay-sriram-mathuru",
@@ -19644,6 +19653,83 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2025/08/Dr-Alan-Prem-Kumar-2025-scaled.jpg"
   },
   {
+    "id": "nus-stat-alex-r-cook",
+    "name": "Alex R Cook",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://sph.nus.edu.sg/faculty-directory/cook-alex-richard/",
+    "title": "Professor",
+    "roles": [
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Bayesian inference",
+      "Statistical modelling of infectious diseases and ecological processes",
+      "Design of experiments"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/AlexCook-min-scaled.jpg"
+  },
+  {
+    "id": "nus-stat-alexander-giessing",
+    "name": "Alexander Giessing",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://agiessing.github.io/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "High-dimensional Statistics",
+      "Gaussian and Bootstrap Approximations",
+      "Analysis of missing/incomplete Data",
+      "Quantile Regression",
+      "Semiparametric Inference",
+      "and Empirical Process Theory"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2024/07/Giessing-scaled.jpg"
+  },
+  {
+    "id": "nus-pharm-alexander-vinogradov",
+    "name": "Alexander Vinogradov",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/alexander-vinogradov/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Alexander-Vinogradov-scaled.jpg"
+  },
+  {
+    "id": "nus-stat-alexandre-hoang-thiery",
+    "name": "Alexandre Hoang Thiery",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://alexxthiery.github.io/",
+    "title": "Associate Professor",
+    "roles": [
+      "Dean’s Chair Professor (2022-2025)"
+    ],
+    "research_areas": [
+      "Monte Carlo methods",
+      "Computational Statistics",
+      "Inverse problems",
+      "Data Assimilation",
+      "Machine Learning"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/AlexThiery-min-scaled.jpg"
+  },
+  {
+    "id": "nus-phys-alexey-berdyugin",
+    "name": "Alexey Berdyugin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/berdyugin-alexey/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2022/09/alexey-1.jpg"
+  },
+  {
     "id": "nus-yll-phys-amanda-wong",
     "name": "Amanda Wong",
     "institution": "NUS",
@@ -19654,6 +19740,64 @@
     "summary": "Blended learning design and implementation\n\nInterdisciplinary and transdisciplinary learning\n\nUtility of questions in teaching and learning\n\nGenerative AI in teaching and learning strategies",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/amanda-wong/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/08/Educator-Track_-07-Amanda-Wong-e1725865172242.jpg"
+  },
+  {
+    "id": "nus-phys-andrew-a-bettiol",
+    "name": "Andrew A. Bettiol",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/bettiol-andrew-a/",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Resources & Exec/Admin Staff)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/andrewbettiol2023-1.jpg"
+  },
+  {
+    "id": "nus-phys-andrew-wee-thye-shen",
+    "name": "Andrew WEE Thye Shen",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/wee-thye-shen-andrew/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/andrewwee2023-1-1.jpg"
+  },
+  {
+    "id": "nus-phys-andrivo-rusydi",
+    "name": "Andrivo Rusydi",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/rusydi-andrivo/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/rusydi.jpg"
+  },
+  {
+    "id": "nus-chem-ang-wee-han",
+    "name": "Ang Wee Han",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/ang-wee-han/",
+    "title": "Professor",
+    "roles": [
+      "Vice Dean (Special Duties)",
+      "Associate Provost (NUS Multidisciplinary and Interdisciplinary Masters’ Programmes)"
+    ],
+    "research_areas": [
+      "Inorganic/Organometallic Chemistry",
+      "Medicinal Chemistry"
+    ],
+    "summary": "We are interested in the development of therapeutic metallopharmaceuticals and techniques to investigate the interactions of transition metal-based drugs with their biological targets.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/AngWeeHan-s.jpg",
+    "orcid": "0000-0003-2027-356X"
+  },
+  {
+    "id": "nus-phys-anjan-soumyanarayanan",
+    "name": "Anjan Soumyanarayanan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/soumyanarayanan-anjan/",
+    "title": "Assistant Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/anjan.jpg"
   },
   {
     "id": "nus-yll-phys-anthony-khong",
@@ -19679,6 +19823,44 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/antonia-1.gif"
   },
   {
+    "id": "nus-phys-antonio-helio-castro-neto",
+    "name": "Antonio Helio Castro-Neto",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/castro-neto-antonio-helio/",
+    "title": "Professor",
+    "roles": [
+      "Distinguished Professor"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/antonio.jpg"
+  },
+  {
+    "id": "nus-phys-ariando",
+    "name": "Ariando",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/ariando/",
+    "title": "Professor",
+    "roles": [
+      "Deputy Head (Research & Graduate Studies)",
+      "Provost’s Chair Professor (2024-2027)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2025/06/ariando-2.jpg"
+  },
+  {
+    "id": "nus-math-bao-huanchen",
+    "name": "BAO Huanchen",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/15831-bao-huanchen",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Representation theory of Lie algebras, Lie superalgebras, quantum groups",
+      "their connections to geometry and categorification."
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matbh.jpg"
+  },
+  {
     "id": "nus-yll-bch-ban-hon-kim-kenneth",
     "name": "Ban Hon Kim, Kenneth",
     "institution": "NUS",
@@ -19696,6 +19878,30 @@
     "summary": "* Prostate and Breast Cancer Genetics. * Mouse Models of Cancer. * Transposon Mutagenesis for Cancer Gene Discovery and Validation. * Cell Cycle Regulation, Cellular Senescence, Cell Fate Determination",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/ban-hon-kim-kenneth/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-1-1.jpg"
+  },
+  {
+    "id": "nus-math-bao-weizhu",
+    "name": "Bao Weizhu",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/819-bao-weizhu",
+    "title": "Professor (Provost's Chair)",
+    "roles": [
+      "Vice Dean, Faculty of Science"
+    ],
+    "research_areas": [
+      "Bose-Einstein condensation, multiscale modelling and simulation, CFD, numerical analysis/scientific computing"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2020/02/matbaowz.jpg"
+  },
+  {
+    "id": "nus-phys-barbaros-ozyilmaz",
+    "name": "Barbaros Özyilmaz",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/ozyilmaz-barbaros/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/s-BArbaros-1.jpg"
   },
   {
     "id": "nus-yll-bch-barry-halliwell",
@@ -19724,6 +19930,15 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2022/01/Ben-Wainwright-380x507-1.jpg"
   },
   {
+    "id": "nus-pharm-brandon-i-morinaka",
+    "name": "Brandon I Morinaka",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/asst-prof-brandon-i-morinaka/",
+    "title": "Assistant Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Brandon-Morinaka-023c-scaled.jpg"
+  },
+  {
     "id": "nus-yll-bch-brian-kennedy",
     "name": "Brian Kennedy",
     "institution": "NUS",
@@ -19734,6 +19949,27 @@
     "summary": "Research in the Kennedy lab is directed at understanding the biology of ageing and translating research discoveries into new ways of delaying, detecting, preventing and treating human ageing and associated diseases.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/brian-kennedy/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/briankennedy.jpg"
+  },
+  {
+    "id": "nus-math-cai-zhenning",
+    "name": "CAI Zhenning",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/8935-cai-zhenning",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Modeling and computation of the rarefied gas dynamics, mixed quantum-classical dynamics and computational fluid dynamics."
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matcz.jpg"
+  },
+  {
+    "id": "nus-pharm-chai-li-lin-christina",
+    "name": "CHAI Li Lin, Christina",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/prof-chai-li-lin-christina/",
+    "title": "Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2021/06/Christina-Chai-050c-scaled.jpg"
   },
   {
     "id": "nus-yll-nursing-chan-yah-shih-erean-chen",
@@ -19813,6 +20049,34 @@
     "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2020/02/Celine.png"
   },
   {
+    "id": "nus-pharm-chan-chun-yong-eric",
+    "name": "Chan Chun Yong, Eric",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/prof-chan-chun-yong-eric/",
+    "title": "Professor",
+    "roles": [
+      "NUS Provost’s Innovation Chair Professorship"
+    ],
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Eric-Chan-032c.jpg"
+  },
+  {
+    "id": "nus-stat-chan-hock-peng",
+    "name": "Chan Hock Peng",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "http://blog.nus.edu.sg/hockpeng/main/",
+    "title": "Professor",
+    "roles": [
+      "Head of Department"
+    ],
+    "research_areas": [
+      "Change-Point Detection",
+      "Sequential Testing"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/ChanHockPeng-min-scaled.jpg"
+  },
+  {
     "id": "nus-yll-pcm-chan-hui-minn",
     "name": "Chan Hui Minn",
     "institution": "NUS",
@@ -19861,6 +20125,44 @@
     "summary": "Maintaining the integrity of the genome is essential for the survival of a cell and genomic instability is associated with many human diseases including cancers. A cell ensures the integrity of its genome with an intricate interplay of epigenetic mechanisms to safeguard nuclear processes, including chromosome segregation, repair of DNA damage lesions and gene expression. Our lab aims to investigate the epigenetic mechanisms at the molecular level by:\n\n* Identifying and characterizing factors that epigenetically control essential chromatin functions that have direct implication to genomic stability. * Elucidating how different epigenetic mechanisms interplay to control faithful inheritance of chromatin information through the cell cycle. * Investigating the genetic and epigenetic regulation of functional sub-nuclear compartments.\n\nOur lab employs the powerful genetics, cytology and biochemistry of the model organism fission yeast to address these important issues. Results obtained will be extended to elucidate epigenetic mechanisms operating in the mammalian cells, to facilitate the development of therapy for human diseases and cancers.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/chen-ee-sin/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-2-1.jpg"
+  },
+  {
+    "id": "nus-chem-chen-wei",
+    "name": "Chen Wei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/chen-wei/",
+    "title": "Professor",
+    "roles": [
+      "VICE DEAN (RESEARCH",
+      "PROVOST’S CHAIR PROFESSOR (2023-2026)",
+      "National Research Foundation Investigatorship"
+    ],
+    "research_areas": [
+      "Material Science"
+    ],
+    "summary": "The broad objective of my research is to have molecular-scale understanding of the interface properties for molecular, organic and graphene electronics, to provide design rules for effective interface engineering approaches to improve device performance and materials efficiency, with particular emphasis on the interface-controlled interface engineering for organic and 2D materials based functional devices , and interface-controlled nanocatalysis for energy and environmental issues.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2023/03/ChenWei-s1.jpg",
+    "orcid": "0000-0002-1131-3585"
+  },
+  {
+    "id": "nus-stat-chen-ying",
+    "name": "Chen Ying",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://discovery.nus.edu.sg/1457-chen-ying/about",
+    "title": "Associate Professor",
+    "roles": [
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Quantitative Finance",
+      "Risk Management",
+      "Local Parametric Estimation",
+      "Independent Component Analysis",
+      "Heavy-tailed Distribution"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/ChenYing-min-scaled.jpg"
   },
   {
     "id": "nus-yll-phys-chen-zhi-xiong",
@@ -19912,6 +20214,25 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/chewft-1.jpg"
   },
   {
+    "id": "nus-chem-chi-chunyan",
+    "name": "Chi Chunyan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/chi-chunyan/",
+    "title": "Professor",
+    "roles": [
+      "Assistant Head (Graduate Programme)"
+    ],
+    "research_areas": [
+      "Organic Synthesis",
+      "Materials Chemistry",
+      "Polymer Science"
+    ],
+    "summary": "We are interested in the development of novel pi-structures and synthesis of high performance conjugated materials for organic electronics and sensors.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2023/03/ChiChunyan-s.jpg",
+    "orcid": "0000-0003-4677-3546"
+  },
+  {
     "id": "nus-dbs-chii-jou-joe-chan",
     "name": "Chii Jou (Joe) Chan",
     "institution": "NUS",
@@ -19928,6 +20249,24 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/01/joechan.jpg"
   },
   {
+    "id": "nus-chem-chin-wee-shong",
+    "name": "Chin Wee Shong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/chin-wee-shong/",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Administration)"
+    ],
+    "research_areas": [
+      "Nanomaterials",
+      "Spectroscopy"
+    ],
+    "summary": "Our research focuses on the fabrication and applications of nanostructures and their hybrids. We explore methodologies to synthesize size-, morphology- and phase-controllable nanomaterials, and to fabricate them into heterostructured or hybrid materials for specific applications. Current projects include synthesis of doped and layered oxide/hydroxide nanocomposites for energy, sensor and photocatalytic applications.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/Chin_Wee_Song2-s1.jpg",
+    "orcid": "0000-0002-5406-4689"
+  },
+  {
     "id": "nus-yll-pcm-chin-zhen-hui",
     "name": "Chin Zhen Hui",
     "institution": "NUS",
@@ -19940,6 +20279,59 @@
     "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/chin-zhen-hui-1.jpg"
   },
   {
+    "id": "nus-pharm-chiu-ngar-chee-gigi",
+    "name": "Chiu Ngar Chee, Gigi",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/a-prof-chiu-ngar-chee-gigi/",
+    "title": "Associate Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/10/Gigi-Chiu-002c.jpg"
+  },
+  {
+    "id": "nus-chem-chng-shu-sin",
+    "name": "Chng Shu Sin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/chng-shu-sin/",
+    "title": "Associate Professor",
+    "roles": [
+      "Vice Dean (Student Life and Alumni Relations)",
+      "Associate Director (Singapore Center for Environmental Life Sciences Engineering (SCELSE-NUS))"
+    ],
+    "research_areas": [
+      "Membrane Assembly",
+      "Protein and Lipid Biochemistry"
+    ],
+    "summary": "My group focuses on understanding how biological membranes are assembled in cells using bacterial outer membranes as models. Specifically, we are interested to elucidate the mechanisms of inter-membrane lipid trafficking in Gram-negative bacteria and mycobacteria and to identify protein targets in these bacteria for antibiotics discovery.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/ChngShuSin-s.jpg",
+    "orcid": "0000-0001-5466-7183"
+  },
+  {
+    "id": "nus-stat-choi-kwok-pui",
+    "name": "Choi Kwok Pui",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://blog.nus.edu.sg/kpchoi/",
+    "title": "Professor",
+    "research_areas": [
+      "Computational Biology",
+      "Poisson Approximation"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/ChoiKwokPui-min-scaled.jpg"
+  },
+  {
+    "id": "nus-math-chong-chi-tat",
+    "name": "Chong Chi Tat",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#chong-chi-tat",
+    "title": "University Professor",
+    "research_areas": [
+      "Recursion/Computability Theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matcct.jpg"
+  },
+  {
     "id": "nus-yll-pcm-chris-tsoi-tung",
     "name": "Chris Tsoi Tung",
     "institution": "NUS",
@@ -19950,6 +20342,15 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-chris-tsoi-tung/",
     "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/chris-tsoi-1.jpg"
+  },
+  {
+    "id": "nus-phys-christian-kurtsiefer",
+    "name": "Christian Kurtsiefer",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/kurtsiefer-christian/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/christian.jpg"
   },
   {
     "id": "nus-dbs-christoph-winkler",
@@ -19981,6 +20382,105 @@
     "summary": "Dementia\n\nStroke\n\nClinical Trials",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-znw8xatg5fvy",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Christopher-Chen-Li-Hsian-2E1.jpg"
+  },
+  {
+    "id": "nus-math-chu-delin",
+    "name": "Chu Delin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/687-chu-delin",
+    "title": "Associate Professor",
+    "research_areas": [
+      "numerical linear algebra and applications, scientific computing, numerical analysis"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matchudl.jpg"
+  },
+  {
+    "id": "nus-stat-chua-alvin-j-k",
+    "name": "Chua Alvin J. K.",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/chua-alvin-jk/",
+    "title": "Assistant Professor",
+    "roles": [
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Gravitational-wave astrophysics and data analysis",
+      "data science and machine learning",
+      "applied and computational statistics"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2024/03/DSC_7010-scaled-1.jpg"
+  },
+  {
+    "id": "nus-math-chua-jing-kang-alvin",
+    "name": "Chua Jing Kang, Alvin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#chua-jing-kang-alvin",
+    "title": "Assistant Professor",
+    "roles": [
+      "Joint appointment, Physics Department"
+    ],
+    "research_areas": [
+      "Gravitational-wave astrophysics and data analysis",
+      "data science and machine learning",
+      "applied and computational statistics."
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2022/08/DSC_7010-scaled.jpg"
+  },
+  {
+    "id": "nus-chem-chua-lay-lay",
+    "name": "Chua Lay-Lay",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/chua-lay-lay/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Polymer Science",
+      "Materials Science",
+      "Nanomaterials"
+    ],
+    "summary": "My research program focuses on materials and processing development to advance the science and technology of polymer organic semiconductors including organic polymer−graphene or polymer-swcnt hybrids. Several device chemistry aspects that is central to Organic Electronics (light-emitting diodes, solar cells, thermoelectric generators, photodiodes, batteries and sensors, including structure-morphology–property relations and energy-level engineering.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2023/03/ChuaLayLay.jpg",
+    "orcid": "0000-0001-6611-2126"
+  },
+  {
+    "id": "nus-math-chua-seng-kee",
+    "name": "Chua Seng Kee",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/379-chua-seng-kee-@-sai-seng-kee",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Sobolev spaces, Fourier analysis, classical real analysis"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matcsk.jpg"
+  },
+  {
+    "id": "nus-chem-chuah-gaik-khuan",
+    "name": "Chuah Gaik Khuan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/chuah-gaik-khuan/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Surface Science",
+      "Catalysis",
+      "Green Chemistry"
+    ],
+    "summary": "Our main research area is on heterogeneous catalysis:",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/ChuahGaikKhuan-s1.jpg",
+    "orcid": "0000-0002-4739-9405"
+  },
+  {
+    "id": "nus-pharm-chui-wai-keung",
+    "name": "Chui Wai Keung",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/a-prof-chui-wai-keung/",
+    "title": "Associate Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/10/Chui-Wai-Keung-031c-scaled.jpg"
   },
   {
     "id": "nus-yll-pcm-cornelia-chee",
@@ -20042,6 +20542,34 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Catherine-Dong-150x150.jpg"
   },
   {
+    "id": "nus-phys-dagomir-kaszlikowski",
+    "name": "Dagomir Kaszlikowski",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/kaszlikowski-dagomir/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/dagomir.jpg"
+  },
+  {
+    "id": "nus-stat-daniel-bartl",
+    "name": "Daniel Bartl",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://sites.google.com/site/danielbartlmath/",
+    "title": "Assistant Professor",
+    "roles": [
+      "Joint Appointment"
+    ],
+    "research_areas": [
+      "Data Science",
+      "High-dim Stats",
+      "Optimal Transport",
+      "Probability",
+      "Quantitative Finance"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2026/01/Dr-Bartl3-scaled.jpg"
+  },
+  {
     "id": "nus-dbs-danwei-huang",
     "name": "Danwei Huang",
     "institution": "NUS",
@@ -20080,6 +20608,38 @@
     "summary": "Cardiovascular pharmacology\n\nPathogenic mechanisms of inflammasomes in acute (i.e. stroke) and chronic (i.e. vascular cognitive impairment) ischemic brain injury\n\nTargeting inflammasomes in cardiovascular and neurodegenerative diseases",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-xsz4q9u253aj",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/06/DFann.jpg"
+  },
+  {
+    "id": "nus-stat-david-john-nott",
+    "name": "David John Nott",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://blog.nus.edu.sg/davidnott/",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head"
+    ],
+    "research_areas": [
+      "Bayesian Model Selection",
+      "Bayesian Nonparametrics",
+      "Hierarchical Models",
+      "Markov Chain Monte Carlo",
+      "Spatio-temporal Modelling"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/DavidNott-min-scaled.jpg"
+  },
+  {
+    "id": "nus-math-david-renshaw-hansen",
+    "name": "David Renshaw Hansen",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/23606-david-renshaw-hansen/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Algebra & Number Theory",
+      "Representation Theory & Automorphic forms"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2022/12/DSC_7041-scaled-e1670398438442.jpg"
   },
   {
     "id": "nus-yll-medphc-dean-ho",
@@ -20172,6 +20732,45 @@
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/DING-Lingwen-circle-a4af9c6d81fec1ed0b977fb19719e70f-kc8g2rnhtjum.jpg"
   },
   {
+    "id": "nus-math-dinh-tien-cuong",
+    "name": "Dinh Tien Cuong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#dinh-tien-cuong",
+    "title": "Professor",
+    "research_areas": [
+      "Dynamics of several complex variables, Pluripotential theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matdtc.jpg"
+  },
+  {
+    "id": "nus-phys-duane-loh-ne-te",
+    "name": "Duane Loh (Ne-Te)",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/loh-duane/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/duane.jpg"
+  },
+  {
+    "id": "nus-phys-dzmitry-matsukevich",
+    "name": "Dzmitry Matsukevich",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/matsukevich-dzmitry/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/dzmitry-1.jpg"
+  },
+  {
+    "id": "nus-pharm-ee-pui-lai-rachel",
+    "name": "EE Pui Lai, Rachel",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/a-prof-ee-pui-lai-rachel/",
+    "title": "Associate Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/10/Rachel-Ee-1c-scaled.jpg"
+  },
+  {
     "id": "nus-yll-nursing-eng-sze-li-erica",
     "name": "ENG Sze Li, Erica",
     "institution": "NUS",
@@ -20198,6 +20797,24 @@
     "summary": "Variability in drug response\n\nDrug transporters\n\nEarly phase clinical trials",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-qxdjlmkse1tv",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Prof.-LEE-Jon-Deoon-Edmund-4E1.jpg"
+  },
+  {
+    "id": "nus-phys-edward-teo",
+    "name": "Edward Teo",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/teo-ho-khoon-edward/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/edwardteo-1.jpg"
+  },
+  {
+    "id": "nus-phys-ernest-tan-ying-zhe",
+    "name": "Ernest TAN Ying Zhe",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/ernest-tan-ying-zhe/",
+    "title": "Assistant Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/tanyz2.jpg"
   },
   {
     "id": "nus-dbs-eunice-jingmei-tan",
@@ -20258,6 +20875,21 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-qy1f9orn3w4c",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Boon-Cher-GOH.jpg"
+  },
+  {
+    "id": "nus-math-gan-wee-teck",
+    "name": "Gan Wee Teck",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/2099-gan-wee-teck",
+    "title": "Tan Chin Tuan Centennial Professor",
+    "roles": [
+      "Head"
+    ],
+    "research_areas": [
+      "Langland’s program and automorphic representations"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matgwt.jpg"
   },
   {
     "id": "nus-yll-bch-gan-yunn-hwen",
@@ -20337,6 +20969,43 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/gerw.jpg"
   },
   {
+    "id": "nus-chem-ge-shaozhong",
+    "name": "Ge Shaozhong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/ge-shaozhong/",
+    "title": "Associate Professor",
+    "roles": [
+      "Dean’s Chair Professor (2022-2025)"
+    ],
+    "research_areas": [
+      "Organometallic Chemistry",
+      "Organic Chemistry",
+      "Homogeneous Catalysis"
+    ],
+    "summary": "Organometallic Chemistry, Organic Chemistry, Homogeneous Catalysis, Asymmetric Catalysis. The GE Research Group at NUS aims to discover and understand transition-metal-catalyzed reactions of organic molecules. We will focus on the development of practical first-row metal-catalyzed reactions that address problems encountered in the synthesis of complex organic molecules and drug discovery. Our approaches to reaction discovery will involve identification and synthesis of potential organometallic intermediates, the systematic study of their reactivity, and the detailed kinetic and mechanistic study. Ultimately, our goal is to provide synthetic organic chemists with new catalysts and new organic reactions of practical applications in chemical and pharmaceutical industry. Currently, we are focusing on the development of base metal-catalyzed hydrofunctionalization of unsaturated organic molecules.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/Ge_Shaozhong1-s.jpg",
+    "orcid": "0000-0003-1045-1940"
+  },
+  {
+    "id": "nus-pharm-giorgia-pastorin",
+    "name": "Giorgia Pastorin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/giorgia-pastorin/",
+    "title": "Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Giorgia-Pastorin-1c-scaled.jpg"
+  },
+  {
+    "id": "nus-pharm-gloryn-chia",
+    "name": "Gloryn Chia",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/asst-prof-gloryn-chia/",
+    "title": "Assistant Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Gloryn-Chia-1c.jpg"
+  },
+  {
     "id": "nus-yll-phys-goh-jor-ming",
     "name": "Goh Jor Ming",
     "institution": "NUS",
@@ -20349,6 +21018,18 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Research-Track_03-Goh-Jor-Ming-scaled.jpg"
   },
   {
+    "id": "nus-math-goh-jun-le",
+    "name": "Goh Jun Le",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/4337-goh-junle",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Mathematical Logic & Theoretical Computer Science"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2022/07/DSC_6991-1-scaled.jpg"
+  },
+  {
     "id": "nus-yll-pcm-goh-kar-cheng",
     "name": "Goh Kar Cheng",
     "institution": "NUS",
@@ -20359,6 +21040,43 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-goh-kar-cheng-2/",
     "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2022/07/Photo-Dr-Goh-Kar-Cheng.jpeg"
+  },
+  {
+    "id": "nus-math-goh-say-song",
+    "name": "Goh Say Song",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#goh-say-song",
+    "title": "Professor",
+    "roles": [
+      "Dean, Office of Admissions"
+    ],
+    "research_areas": [
+      "Wavelet theory and applications, univalent functions"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matgohss.jpg"
+  },
+  {
+    "id": "nus-phys-goki-eda",
+    "name": "Goki Eda",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/eda-goki/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/goki.jpg"
+  },
+  {
+    "id": "nus-phys-gong-jiangbin",
+    "name": "Gong Jiangbin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/gong-jiangbin/",
+    "title": "Professor",
+    "roles": [
+      "Head of Department",
+      "Provost’s Chair Professor (2020-2026)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/Gong-Jiangbin252.jpg"
   },
   {
     "id": "nus-dbs-greg-tucker-kellogg",
@@ -20382,6 +21100,34 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-z8vk6hdm3rqa",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/04/Bazan-3.jpg"
+  },
+  {
+    "id": "nus-math-han-shaoning",
+    "name": "HAN Shaoning",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/27229-shaoning-han",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Optimization",
+      "Data Science & Machine Learning"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2024/08/nus_profile_shaoning_han-scaled-e1724137884152.jpg"
+  },
+  {
+    "id": "nus-math-han-fei",
+    "name": "Han Fei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/1759-han-fei",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Graduate Programmes)"
+    ],
+    "research_areas": [
+      "Differential geometry, topology and mathematical physics"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/mathanf.jpg"
   },
   {
     "id": "nus-yll-phys-hanry-yu",
@@ -20424,6 +21170,27 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/SchwarzHerbert-e1727750852826.jpg"
   },
   {
+    "id": "nus-pharm-ho-han-kiat",
+    "name": "Ho Han Kiat",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/a-prof-ho-han-kiat/",
+    "title": "Associate Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/10/Ho-Han-Kiat-3c.jpg"
+  },
+  {
+    "id": "nus-phys-ho-wen-wei",
+    "name": "Ho Wen Wei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/ho-wen-wei/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2022/08/howenwei-1.jpg"
+  },
+  {
     "id": "nus-yll-phys-hooi-shing-chuan",
     "name": "Hooi Shing Chuan",
     "institution": "NUS",
@@ -20453,6 +21220,45 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2023/01/hu-chunyi.jpg"
   },
   {
+    "id": "nus-fst-huang-dejian",
+    "name": "Huang Dejian",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/huang-dejian",
+    "title": "Professor",
+    "roles": [
+      "Deputy Head of Department"
+    ],
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2020/03/NUS_1037-1-scaled-e1665026463304-683x1024.jpg"
+  },
+  {
+    "id": "nus-stat-huang-dongming",
+    "name": "Huang Dongming",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://blog.nus.edu.sg/stahd/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "High-dimensional Statistics",
+      "Statistical Learning",
+      "Bayesian Statistics"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/11/Selected-scaled-e1604371129971.jpg"
+  },
+  {
+    "id": "nus-math-huang-hao",
+    "name": "Huang Hao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/20748-hao-huang/",
+    "title": "Associate Professor (Dean's Chair)",
+    "research_areas": [
+      "Extremal combinatorics, probabilistic/algebraic methods, spectral graph theory, structural graph theory",
+      "applications in theoretical computer science"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2021/09/DSC_6922-scaled.jpg"
+  },
+  {
     "id": "nus-yll-phys-huang-hua",
     "name": "Huang Hua",
     "institution": "NUS",
@@ -20463,6 +21269,33 @@
     "summary": "Ion Channelopathy\n\nPatch clamp Electrophysiology\n\nNucleic Acid Therapeutics",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/huang-hua/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/Huang-Hua.jpg"
+  },
+  {
+    "id": "nus-chem-huynh-han-vinh",
+    "name": "Huynh Han Vinh",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/huynh-han-vinh/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Organometallic Chemistry",
+      "Catalysis"
+    ],
+    "summary": "Our research is centered on the chemistry of N-heterocyclic carbenes (NHCs) and related strong donor ligands. Specific foci are:",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/HuynhHVinh-s.jpg",
+    "orcid": "0000-0003-4460-6066"
+  },
+  {
+    "id": "nus-math-ian-andrei-gleason-freidberg",
+    "name": "Ian Andrei Gleason Freidberg",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#ian-andrei-gleason-freidberg",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Algebra & Number Theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2025/08/Ian-Andrei-Gleason-Freidberg1-scaled-e1755581058615.jpg"
   },
   {
     "id": "nus-yll-medphc-inthrani-raja-indran",
@@ -20548,6 +21381,15 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/JasonLee-e1727751327768.jpg"
   },
   {
+    "id": "nus-phys-jeroen-anton-van-kan",
+    "name": "Jeroen Anton van KAN",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/van-kan-jeroen-anton/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/jeroen.jpg"
+  },
+  {
     "id": "nus-yll-medphc-jerold-chun",
     "name": "Jerold CHUN",
     "institution": "NUS",
@@ -20558,6 +21400,47 @@
     "summary": "Understanding how the brain works and creating meaningful therapies to treat brain diseases is the goal of my research. Many lessons can be gained from an understanding of how the brain is impacted by the immune system and inflammation, an approach that we have been pursuing for over 25 years and has led to new insights that include components of V(D)J recombination genes in the brain, analogous DNA fragmentation and cell death, and identification of key lysophospholipid receptors shown to be involved in lymphocyte trafficking. This basic research has contributed to the development of genuine therapeutics for the inflammatory neuroimmune disease, multiple sclerosis, and involves direct CNS effects, as well as immunological effects, in multiple sclerosis models",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-utxfz3cbhvyr",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/j-chun-crop.jpg"
+  },
+  {
+    "id": "nus-math-ji-hui",
+    "name": "Ji Hui",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#ji-hui",
+    "title": "Professor",
+    "roles": [
+      "Director, Centre for Data Science and Machine Learning"
+    ],
+    "research_areas": [
+      "Applied and computational harmonic analysis, imaging sciences, computational vision",
+      "machine learning"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matjh.jpg"
+  },
+  {
+    "id": "nus-phys-ji-wei",
+    "name": "Ji Wei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/ji-wei/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/jiwei2023-1.jpg"
+  },
+  {
+    "id": "nus-chem-jiang-donglin",
+    "name": "Jiang Donglin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/jiang-donglin/",
+    "title": "Professor",
+    "roles": [
+      "Provost’s Chair Professor (2022-2025)"
+    ],
+    "research_areas": [
+      "2D Organic Polymers",
+      "Covalent Organic Frameworks"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/Jiang_Donglin1-s.jpg"
   },
   {
     "id": "nus-dbs-jiao-chunlei",
@@ -20623,6 +21506,18 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Tenure-Track_Prof_JohnWang-e1725865937901.jpg"
   },
   {
+    "id": "nus-phys-jose-ignacio-latorre",
+    "name": "José Ignacio Latorre",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/jose-ignacio-latorre/",
+    "title": "Professor",
+    "roles": [
+      "Provost’s Chair Professor (2024-2027)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/jose.jpg"
+  },
+  {
     "id": "nus-yll-medphc-judy-sng-chia-ghee",
     "name": "Judy SNG Chia Ghee",
     "institution": "NUS",
@@ -20636,6 +21531,18 @@
     "summary": "Digital Platform Development\n\nEpigenetic regulation of neuroplasticity in neurodevelopment & diseases",
     "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-jl8wcaiys3tr",
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Dr-Sng-Chia-Ghee-Judy-5E1.jpg"
+  },
+  {
+    "id": "nus-math-julian-david-sester",
+    "name": "Julian David Sester",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#julian-david-sester",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Quantitative Finance"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2024/06/DSC_6996-scaled.jpg"
   },
   {
     "id": "nus-yll-bch-julius-fredens",
@@ -20703,6 +21610,29 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/04/seok-kwon-1.jpg"
   },
   {
+    "id": "nus-phys-kai-dieckmann",
+    "name": "Kai Dieckmann",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/dieckmann-kai/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/kai-Dieckmann.jpg"
+  },
+  {
+    "id": "nus-chem-kang-hway-chuan",
+    "name": "Kang Hway Chuan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/kang-hway-chuan/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Theoretical Chemistry",
+      "Computational Chemistry"
+    ],
+    "summary": "Surface chemistry and physics and computational chemistry are my main interests. My specific foci include:",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/KangHwayChuan-s.jpg"
+  },
+  {
     "id": "nus-yll-bch-kevin-white",
     "name": "Kevin White",
     "institution": "NUS",
@@ -20731,6 +21661,15 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchkhe.jpg"
   },
   {
+    "id": "nus-fst-kim-jung-eun",
+    "name": "Kim Jung Eun",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/kim-jung-eun",
+    "title": "Assistant Professor",
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2020/03/NUS_1061-scaled-e1665041626162-681x1024.jpg"
+  },
+  {
     "id": "nus-yll-phys-koh-dow-rhoon",
     "name": "Koh Dow Rhoon",
     "institution": "NUS",
@@ -20743,6 +21682,15 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/KohDowRhoon-1.jpg"
   },
   {
+    "id": "nus-pharm-koh-hwee-ling",
+    "name": "Koh Hwee Ling",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/a-prof-koh-hwee-ling/",
+    "title": "Associate Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Koh-Hwee-Ling-023c-scaled.jpg"
+  },
+  {
     "id": "nus-dbs-koh-lian-pin",
     "name": "Koh Lian Pin",
     "institution": "NUS",
@@ -20752,6 +21700,27 @@
     "summary": "Department of Biological Sciences Faculty of Science National University of Singapore 6 Science Drive 2 Block S16, #08-01 Singapore 117546 Email: cncs@nus.edu.sg\n\nLegal\n\nBranding Guidelines\n\nContact Us",
     "profile_url": "https://www.nus.edu.sg/cncs/koh-lian-pin/",
     "photo_url": "https://www.nus.edu.sg/cncs/wp-content/uploads/2022/10/cropped-CoBrand-CNCS_H_Transparent1-1-1-240x77.png"
+  },
+  {
+    "id": "nus-chem-koh-ming-joo",
+    "name": "Koh Ming Joo",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/koh-ming-joo/",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Research)",
+      "Dean’s Chair Professor (2024-2027)",
+      "National Research Foundation Investigatorship"
+    ],
+    "research_areas": [
+      "Sustainable Catalysis",
+      "Organic Chemistry",
+      "Medicinal Chemistry"
+    ],
+    "summary": "Chemical manufacturing is one of the key pillars of the global economy and plays a crucial role in the modern human society. Chemical catalysis is an indispensable tool to promote reactions that enable access to various classes of chemicals, ranging from small-molecule medicines to polymeric materials. Despite considerable advances made in this area, much of it depends on the use of exorbitant and scarce noble metals (such as palladium) to prepare catalysts. Considering the rapidly dwindling abundance of precious metals, this approach cannot continue much longer. More industries have begun an earnest search for sustainable and cost-effective alternatives that are not subject to devastating fluctuations caused by price speculation, a well-known attribute of the precious metal market.\n\nFurthermore, such precious metal-derived catalysts are only capable of mediating a limited range of reactions. As a result, longer synthetic sequences often have to be employed to convert a starting material to the desired target product. Unfortunately, each step in a chemical synthesis process consumes energy, resources and time, and generates waste (spent carbon-based solvents and other by-products) that has to be treated or incinerated. Based on the National Environment Agency (NEA) statistics, about 27,500,000 litres of spent solvents are collected annually in Singapore and subsequently used as supplementary fuel for toxic waste incinerators! Consequently, this leads to more CO2 and other toxic emissions that contribute to global warming, climate change, rising sea levels and other undesirable environmental problems. A lengthy and inefficient chemical synthesis process also means that manpower costs inevitably rise due to a greater demand for workers to carry out the tasks.\n\nTo address the aforementioned challenges, our group focuses on the research of sustainable catalysis, where we develop catalyst systems derived mainly from abundant base metals such as iron and nickel. Our efforts have led to the discovery of new multi-tasking and energy-efficient catalysts that are capable of mediating unprecedented chemical transformations, which significantly enhance the efficiency and shorten the steps required to access a target chemical product. These catalysts are employed in innovative approaches to transform cheap and abundant feedstock chemicals to value-added products with lower carbon footprint.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/KohMingJoo-s.jpg",
+    "orcid": "0000-0002-2534-4921"
   },
   {
     "id": "nus-yll-pcm-kua-ee-heok",
@@ -20816,6 +21785,34 @@
     "summary": "Community Mental Health\n\nPsychogeriatrics Caregiver Support",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lee-kow-jun/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2025/09/Lee-Kow-Jun-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-math-li-qianxiao",
+    "name": "LI Qianxiao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#li-qianxiao",
+    "title": "Associate Professor (NUS Presidential Young Professor)",
+    "roles": [
+      "Singapore NRF Fellow"
+    ],
+    "research_areas": [
+      "Theory and algorithms for machine learning",
+      "stochastic optimization"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2021/07/liqianxiao.jpg"
+  },
+  {
+    "id": "nus-phys-li-xinwei",
+    "name": "LI Xinwei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/li-xinwei/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2023/07/lixw1-1.jpg"
   },
   {
     "id": "nus-yll-nursing-li-yuan-jennifer",
@@ -20910,6 +21907,15 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/04/LO-Chue-Har-150x150.jpg"
   },
   {
+    "id": "nus-phys-loh-huanqian",
+    "name": "LOH Huanqian",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/loh-huanqian/",
+    "title": "Assistant Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/lohhq2.jpg"
+  },
+  {
     "id": "nus-yll-medphc-low-chian-ming",
     "name": "LOW Chian Ming",
     "institution": "NUS",
@@ -20979,6 +21985,21 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/lamsh.jpg"
   },
   {
+    "id": "nus-chem-lam-yulin",
+    "name": "Lam Yulin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/lam-yulin/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "BIOORGANIC CHEMISTRY",
+      "GREEN CHEMISTRY"
+    ],
+    "summary": "Our research focuses on bioorganic and medicinal chemistry, specifically the synthesis and biological evaluation of novel organic compounds and natural product derivatives as potential therapeutic agents.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/LamYulin-s.jpg",
+    "orcid": "0000-0003-0984-9492"
+  },
+  {
     "id": "nus-yll-patho-lau-kah-weng",
     "name": "Lau Kah Weng",
     "institution": "NUS",
@@ -21022,6 +22043,15 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Laura-Tham-SCHMIDT-150x150.jpg"
   },
   {
+    "id": "nus-phys-lee-ching-hua",
+    "name": "Lee Ching Hua",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/lee-ching-hua/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/leechinghua.jpg"
+  },
+  {
     "id": "nus-yll-patho-lee-jie-lin-jaslyn",
     "name": "Lee Jie Lin Jaslyn",
     "institution": "NUS",
@@ -21046,6 +22076,30 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/seowchong.jpg"
   },
   {
+    "id": "nus-math-lee-si-ying",
+    "name": "Lee Si Ying",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/29646",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Algebra and Number Theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2025/08/Lee-Si-Ying1-scaled-e1755580940312.jpg"
+  },
+  {
+    "id": "nus-math-lee-soo-teck",
+    "name": "Lee Soo Teck",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/293-lee-soo-teck",
+    "title": "Professor",
+    "research_areas": [
+      "Representation theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matleest.jpg"
+  },
+  {
     "id": "nus-yll-patho-leong-sai-mun",
     "name": "Leong Sai Mun",
     "institution": "NUS",
@@ -21058,6 +22112,75 @@
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Leong-Sai-Mun2b-circle-8d706512f25e2a298ab080523b7ac312-gq75h2tziv3n.jpg"
   },
   {
+    "id": "nus-math-leung-ka-hin",
+    "name": "Leung Ka Hin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/298-leung-ka-hin",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Ordered rings, ring theory, quadratic forms, combinatoric designs"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matlkh.jpg"
+  },
+  {
+    "id": "nus-math-leung-man-chun",
+    "name": "Leung Man Chun",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/415-leung-man-chun",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Partial differential equations, Riemannian geometry, analysis on manifolds"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matlmc.jpg"
+  },
+  {
+    "id": "nus-stat-li-cheng",
+    "name": "Li Cheng",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "http://blog.nus.edu.sg/stalic/",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Head",
+      "Dean's Chair"
+    ],
+    "research_areas": [
+      "Scalable Bayesian methods",
+      "Bayesian nonparametrics",
+      "Quasi-Bayesian inference",
+      "High dimensional modeling"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/LiCheng-min-scaled.jpg"
+  },
+  {
+    "id": "nus-fst-li-dan",
+    "name": "Li Dan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/li-dan",
+    "title": "Associate Professor",
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2020/03/NUS_1064-scaled-e1665025103106-681x1024.jpg"
+  },
+  {
+    "id": "nus-stat-li-jinzhou",
+    "name": "Li Jinzhou",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://jinzhou-li.github.io/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professor"
+    ],
+    "research_areas": [
+      "Causality",
+      "Selective Inference",
+      "Statistical Genetics"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2025/08/Li-Jinzhou-scaled-1.jpg"
+  },
+  {
     "id": "nus-yll-bch-li-ronghui",
     "name": "Li Ronghui",
     "institution": "NUS",
@@ -21068,6 +22191,20 @@
     "summary": "Stem cells-based modeling of developmental processes and the generation of novel cells or tissues for regenerative medicine.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/li-ronghui/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2025/07/thumbnail_WechatIMG4131.jpg"
+  },
+  {
+    "id": "nus-chem-li-xiaoyan",
+    "name": "Li Xiaoyan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/li-xiaoyan/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Surface Chemistry",
+      "Computational Chemistry and AI/ML"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2025/07/LI-Xiaoyan-1.jpg",
+    "orcid": "0009-0003-2325-7538"
   },
   {
     "id": "nus-yll-phys-lim-hsiu-kim-lina",
@@ -21125,6 +22262,20 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/linqs-1.jpg"
   },
   {
+    "id": "nus-stat-lin-zhenhua",
+    "name": "Lin Zhenhua",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://blog.nus.edu.sg/zhenhua/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Functional",
+      "Non-Euclidean",
+      "High-Dimensional Data Analysis"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/Lin-Zhenhua-min-scaled.jpg"
+  },
+  {
     "id": "nus-dbs-lin-zhewang",
     "name": "Lin Zhewang",
     "institution": "NUS",
@@ -21177,6 +22328,19 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Liou-Yih-Cherng.jpg"
   },
   {
+    "id": "nus-pharm-liu-boxiang",
+    "name": "Liu Boxiang",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/dr-liu-boxiang/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS",
+      "Presidential Young Professorship"
+    ],
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2023/04/Liu-Boxiang-1c-scaled.jpg"
+  },
+  {
     "id": "nus-yll-phys-liu-chuang",
     "name": "Liu Chuang",
     "institution": "NUS",
@@ -21189,15 +22353,93 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/08/Chuang-LIU.jpg"
   },
   {
-    "id": "nus-dbs-loh-ne-te-duane",
-    "name": "Loh Ne-Te Duane",
+    "id": "nus-fst-liu-shao-quan",
+    "name": "Liu Shao Quan",
     "institution": "NUS",
-    "department": "Department of Biological Sciences",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/liu-shao-quan",
     "title": "Associate Professor",
-    "research_areas": [],
-    "summary": "",
-    "profile_url": "https://www.dbs.nus.edu.sg/staffs/loh-ne-te-duane/",
-    "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/duaneloh-1.jpg"
+    "roles": [
+      "Assistant Head of Department (No longer accepting PhD students)"
+    ],
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2020/03/NUS_1026-1-scaled-e1665025516514-682x1024.jpg"
+  },
+  {
+    "id": "nus-pharm-liu-shi",
+    "name": "Liu Shi",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/asst-prof-liu-shi/",
+    "title": "Assistant Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2023/07/Liu-Shi.jpg"
+  },
+  {
+    "id": "nus-chem-liviu-ungur",
+    "name": "Liviu Ungur",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/liviu-ungur/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Quantum Chemistry",
+      "Single-Molecule Magnets",
+      "Non-Collinear Magnetism"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/LiviuUngur-s.jpg",
+    "orcid": "0000-0001-5015-4225"
+  },
+  {
+    "id": "nus-phys-lo-hoi-kwong",
+    "name": "Lo Hoi Kwong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/lo-hoi-kwong/",
+    "title": "Professor",
+    "roles": [
+      "Provost’s Chair Professor (2025-2028)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2025/04/lo-hoi-kwong-1.jpg"
+  },
+  {
+    "id": "nus-chem-loh-kian-ping",
+    "name": "Loh Kian Ping",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/loh-kian-ping/",
+    "title": "Professor",
+    "research_areas": [
+      "Surface Science",
+      "Perovskites",
+      "Energy Storage"
+    ],
+    "summary": "General interests include:",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/LohKianPing-s.jpg",
+    "orcid": "0000-0002-1491-743X"
+  },
+  {
+    "id": "nus-stat-loh-wei-liem",
+    "name": "Loh Wei Liem",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.stat.nus.edu.sg/our-people/faculty-members/#loh-wei-liem",
+    "title": "Professor",
+    "research_areas": [
+      "Statistics",
+      "Applied Probability"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/LohWeiLiem-min-scaled.jpg"
+  },
+  {
+    "id": "nus-math-loke-hung-yean",
+    "name": "Loke Hung Yean",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#loke-hung-yean",
+    "title": "Professor",
+    "research_areas": [
+      "Representations of Lie groups"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matlhy.jpg"
   },
   {
     "id": "nus-dbs-long-yuchen",
@@ -21260,6 +22502,65 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/lowbc-1.jpg"
   },
   {
+    "id": "nus-chem-lu-jiong",
+    "name": "Lu Jiong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/lu-jiong/",
+    "title": "Professor",
+    "roles": [
+      "Assistant Head (International Relations and Infrastructure)",
+      "DEAN’S CHAIR PROFESSOR (2023-2026)",
+      "National Research Foundation Investigatorship"
+    ],
+    "research_areas": [
+      "MATERIAL SCIENCE",
+      "ATOMIC-SCALE IMAGING",
+      "PRINTABLE MATERIALS",
+      "ADVANCED CATALYSIS"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/Lu_Jiong1-s.jpg",
+    "orcid": "0000-0002-3690-8235"
+  },
+  {
+    "id": "nus-chem-lu-jun",
+    "name": "Lu Jun",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/lu-jun/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "research_areas": [
+      "Chirality",
+      "Plasmonics",
+      "Nanophotonics",
+      "Nano-Therm"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2025/01/LUJun.png",
+    "orcid": "0000-0001-7029-855X"
+  },
+  {
+    "id": "nus-chem-lu-yixin",
+    "name": "Lu Yixin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/lu-yixin/",
+    "title": "Professor",
+    "roles": [
+      "Head of Department",
+      "Provost’s Chair Professor (2025 – 2028)"
+    ],
+    "research_areas": [
+      "Synthetic Organic Chemistry",
+      "Medicinal Chemistry"
+    ],
+    "summary": "Main areas of study are asymmetric catalysis/synthesis, & medicinal chemistry. Current interests include: asymmetric phosphine catalysis, asymmetric construction of axial chirality, photoredox-organo/transition metal cooperative catalysis, total synthesis, and transition metal catalysis.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/LuYixin-s.jpg",
+    "orcid": "0000-0002-5730-166X"
+  },
+  {
     "id": "nus-yll-medphc-lucas-lim-jun-hao",
     "name": "Lucas LIM Jun Hao",
     "institution": "NUS",
@@ -21283,6 +22584,15 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/10/luomin2.jpg"
   },
   {
+    "id": "nus-phys-mankei-tsang",
+    "name": "Mankei Tsang",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/tsang-mankei/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/mankei.jpg"
+  },
+  {
     "id": "nus-yll-phys-manoor-prakash-hande",
     "name": "Manoor Prakash Hande",
     "institution": "NUS",
@@ -21295,6 +22605,35 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/ManoorPrakashHande-e1727749787425.jpg"
   },
   {
+    "id": "nus-phys-marc-hon",
+    "name": "Marc Hon",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/marc-hon/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2024/11/Marc-Hon-L.jpg"
+  },
+  {
+    "id": "nus-stat-maria-de-iorio",
+    "name": "Maria De Iorio",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://mariadeiorio.com/",
+    "title": "Professor",
+    "roles": [
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Bayesian statistics",
+      "Bayesian nonparametrics",
+      "Biostatistics and Computational methods"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2021/07/Maria.jpg"
+  },
+  {
     "id": "nus-yll-bch-marie-veronique-clement",
     "name": "Marie-Veronique, Clement",
     "institution": "NUS",
@@ -21305,6 +22644,15 @@
     "summary": "* Reactive oxygen species and regulation of cell survival and cell death. The first interest of our research group is to understand the role of intracellular reactive oxygen species such as superoxide (O 2 . – ) and hydrogen peroxide (H 2 O 2 ) in the regulation of apoptosis and the regulation of cell response to death triggers.\n\n* Superoxide dependent survival pathways in tumor cells. Our second interest is to assess if intracellular production of O 2 . – could be a common denominator to oncogene associated survival pathways in tumor cell. A better understanding of these O 2 . – .-producing pathway(s) may be of critical importance to improve our understanding of cancer development, and most importantly may help to design new approaches to cancer therapy.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/marie-veronique-clement/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchmvc.jpg"
+  },
+  {
+    "id": "nus-phys-mark-breese",
+    "name": "Mark Breese",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/breese-mark-b-h/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/markbreese2023-1.jpg"
   },
   {
     "id": "nus-yll-nursing-mary-jeanette-ignacio",
@@ -21322,6 +22670,18 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Jeanette-IGNACIO-150x150.jpg"
   },
   {
+    "id": "nus-math-matteo-mucciconi",
+    "name": "Matteo Mucciconi",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/27439-matteo-mucciconi",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Probability, Combinatorics"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2025/02/DSC_7437-scaled-e1739256787203.jpg"
+  },
+  {
     "id": "nus-yll-bch-matthew-chang",
     "name": "Matthew Chang",
     "institution": "NUS",
@@ -21332,6 +22692,34 @@
     "summary": "Synthetic Biology, Metabolic Engineering, Microbiome Engineering, Synthetic Genomics",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/chang-matthew/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/Matthew-Chang.2025.1.jpeg"
+  },
+  {
+    "id": "nus-math-mcinnes-brett-t",
+    "name": "Mcinnes, Brett T",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/171-mcinnes-brett-t",
+    "title": "Professor",
+    "research_areas": [
+      "Applications of differential geometry in cosmology, particle theory, string theory."
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matmcinn.jpg"
+  },
+  {
+    "id": "nus-stat-michael-choi",
+    "name": "Michael Choi",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://mchchoi.github.io/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Markov processes",
+      "stochastic algorithms",
+      "statistical physics",
+      "applied probability",
+      "stochastic optimization and information theory"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2022/01/Photo-MichaelChoi.jpg"
   },
   {
     "id": "nus-yll-medphc-mitchell-lai-kim-peng",
@@ -21373,6 +22761,15 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/henry.jpg"
   },
   {
+    "id": "nus-phys-murray-douglas-barrett",
+    "name": "Murray Douglas Barrett",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/barrett-murray-douglas/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/murray.jpg"
+  },
+  {
     "id": "nus-dbs-nalini-puniamoorthy",
     "name": "Nalini Puniamoorthy",
     "institution": "NUS",
@@ -21412,6 +22809,31 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2025/04/Neelima-crop.jpg"
   },
   {
+    "id": "nus-phys-ng-hui-khoon",
+    "name": "Ng Hui Khoon",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/ng-hui-khoon/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2022/01/nghk1-1.jpg"
+  },
+  {
+    "id": "nus-math-ng-kah-loon",
+    "name": "Ng Kah Loon",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/772-ng-kah-loon",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Head (Undergraduate Program)",
+      "Associate Dean, Faculty of Science"
+    ],
+    "research_areas": [
+      "Graph theory and applications of Discrete Mathematics to Biology"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2023/06/DSC_1907-scaled.jpg"
+  },
+  {
     "id": "nus-yll-patho-ng-siok-bian",
     "name": "Ng Siok Bian",
     "institution": "NUS",
@@ -21438,6 +22860,15 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/patho/team-member/nga-min-en/",
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/nga-min-en-1-circle-8ca9949723643804be0940a64f06654c-u4ncfehr9s3g.jpg"
+  },
+  {
+    "id": "nus-math-nguyen-hung-minh-tan",
+    "name": "Nguyen Hung Minh Tan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#nguyen-hung-minh-tan",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2023/07/DSC_7193-scaled-e1739761021117.jpg"
   },
   {
     "id": "nus-yll-bch-nguyen-nam-long",
@@ -21566,6 +22997,24 @@
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/OON-Ming-Liang_crop1-circle-4107ef11b91978873091efe0099cc602-kgfl5u9p7jht.jpg"
   },
   {
+    "id": "nus-chem-ou-pengfei",
+    "name": "Ou Pengfei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/ou-pengfei/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "research_areas": [
+      "Computational Catalysis",
+      "Electrochemistry",
+      "AI/ML"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2024/06/OuPengfei.jpg",
+    "orcid": "0000-0002-3630-0385"
+  },
+  {
     "id": "nus-yll-medphc-peh-hong-yong",
     "name": "PEH Hong Yong",
     "institution": "NUS",
@@ -21593,6 +23042,57 @@
     "summary": "Molecular genetics Microbial biotechnology Molecularbasis for bacterial pathogenesis Protein engineering DNA and protein delivery systems Vectors for gene therapy and DNA vaccines",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/pan-shen-quan/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/pansg.jpg"
+  },
+  {
+    "id": "nus-fst-pang-bo",
+    "name": "Pang Bo",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/pang-bo",
+    "title": "Assistant Professor",
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2024/07/Pang-Bo-1-683x1024.jpg"
+  },
+  {
+    "id": "nus-math-pang-yu-hin-peter",
+    "name": "Pang Yu Hin, Peter",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#pang-yu-hin-peter",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Differential geometry, differential equations"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matpyh.jpg"
+  },
+  {
+    "id": "nus-chem-park-somin",
+    "name": "Park Somin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/park-somin/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "research_areas": [
+      "Advanced Materials",
+      "Surface Chemistry"
+    ],
+    "summary": "The Park Group aims to develop new strategies to control the surface of organic and hybrid semiconductor materials. Combining innovative functional organic material synthesis and advanced multi-spectroscopic surface characterization, we will focus to investigate underlying fundamental knowledge of surface interaction, carrier dynamics, and holistic energetic landscapes across the interfaces. Leveraging our understanding of surface chemistry, organic modification, and optoelectronic properties, our group will develop practical multi-layered photonic devices. Furthermore, we will harness the new functionalities enabled by surface modification for broad impacts across pressing applications, including flexible electronics, artificial intelligence, efficient lighting, and sensing.\n\nRepresentative Publications",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2024/05/Park_Somin.jpg",
+    "orcid": "0000-0001-7677-5564"
+  },
+  {
+    "id": "nus-phys-peter-ho",
+    "name": "Peter Ho",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/ho-peter/",
+    "title": "Professor",
+    "roles": [
+      "Vice Provost (Undergraduate Studies & Technology-Enhanced Learning)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/peterho.jpg"
   },
   {
     "id": "nus-dbs-peter-ng-kee-lin",
@@ -21672,6 +23172,25 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/prakash.jpg"
   },
   {
+    "id": "nus-stat-prateek-bansal",
+    "name": "Prateek Bansal",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://behaviourscience.org/",
+    "title": "Assistant Professor",
+    "roles": [
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Discrete Choice Models",
+      "Approximate Bayesian Inference",
+      "Modelling Eye-tracking and Neural Data",
+      "Cognitive Psychology",
+      "Data fusion"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2025/04/Prateek-Bansal-pic-1.jpg"
+  },
+  {
     "id": "nus-yll-medphc-priya-paranthaman",
     "name": "Priya PARANTHAMAN",
     "institution": "NUS",
@@ -21693,6 +23212,26 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/07/PriyaP.jpg"
   },
   {
+    "id": "nus-chem-qiu-yunyan",
+    "name": "Qiu Yunyan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/qiu-yunyan/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "research_areas": [
+      "Polymer Chemistry",
+      "Organic Synthesis",
+      "Supramolecular Chemistry",
+      "Catalysis"
+    ],
+    "summary": "We plan to apply synthetic organic, polymer, macrocyclic and supramolecular chemistry to the design and synthesis of functional dynamic materials and catalysts for environmental, energy, and nature-inspired biomedical applications. Our interdisciplinary research program addresses challenges in materials sustainability and healthcare issues through the marriage of fundamental and applied sciences. The methodological development of how to install mechanical bonds precisely into polymers and polymer networks, along with investigation of the mechanical bond in detail in terms of its impact on materials properties, will be the central themes of our research. In particular, we are interested in employing the mechanical bond to tune materials properties and tame catalysis/polymerization processes.\n\nWe are looking for creative, dedicated, and highly motivated individuals to join our laboratory!\n\nPotential postdoctoral researchers, graduate students, undergraduate students, and research assistants who are interested in exploring new chemistry are encouraged to apply directly by contacting Dr. Qiu. Please check details in Dr. Qiu’s personal website here .",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2022/04/QiuYunyan-s.jpg",
+    "orcid": "0000-0001-9279-4714"
+  },
+  {
     "id": "nus-yll-bch-qu-kun",
     "name": "Qu Kun",
     "institution": "NUS",
@@ -21703,6 +23242,15 @@
     "summary": "Infectious diseases caused by zoonotic viruses have imposed a tremendous burden on human health and social economy. The continuing COVID-19 pandemic is a prime example. In combination with methods from virology, computer science and cryo-electron microscopy, our lab is dedicated to unravelling the in-situ assembly and transmission mechanisms of these viruses at cellular and molecular levels, and facilitating the development of novel vaccines and therapeutic targets.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/qu-kun/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2022/05/KQU.png"
+  },
+  {
+    "id": "nus-phys-quek-su-ying",
+    "name": "Quek Su Ying",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/quek-su-ying/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/queksy.jpg"
   },
   {
     "id": "nus-yll-medphc-r-manjunatha-kini",
@@ -21731,6 +23279,19 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/01/Tanushri-ROY-150x150.jpg"
   },
   {
+    "id": "nus-math-raghavan-dilip",
+    "name": "Raghavan, Dilip",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/2979-dilip-raghavan",
+    "title": "Associate Professor (Dean's Chair Professor)",
+    "research_areas": [
+      "Set theory, mathematical logic",
+      "general topology"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matrd.jpg"
+  },
+  {
     "id": "nus-yll-medphc-rajkumar-ramamoorthy",
     "name": "Rajkumar RAMAMOORTHY",
     "institution": "NUS",
@@ -21747,6 +23308,15 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/04/Raj-1.png"
   },
   {
+    "id": "nus-phys-ramanathan-mahendiran",
+    "name": "Ramanathan Mahendiran",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/mahendiran-ramanathan/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/mahendiran.jpg"
+  },
+  {
     "id": "nus-yll-pcm-rasaiah-munidasa-winslow",
     "name": "Rasaiah Munidasa Winslow",
     "institution": "NUS",
@@ -21757,6 +23327,21 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-rasaiah-munidasa-winslow/",
     "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2021/01/default-avatar-profile-icon-grey.jpg"
+  },
+  {
+    "id": "nus-math-ren-weiqing",
+    "name": "Ren Weiqing",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/3166-ren-weiqing",
+    "title": "Professor",
+    "roles": [
+      "Deputy Head (Research and Academic Affairs)"
+    ],
+    "research_areas": [
+      "Professor Deputy Head (Research and Academic Affairs)"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2023/06/DSC_1406-scaled-e1710733973843.jpg"
   },
   {
     "id": "nus-yll-phys-reshma-taneja",
@@ -21854,6 +23439,30 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/01/SIAH-Chiew-Jiat-Rosalind-150x150.jpg"
   },
   {
+    "id": "nus-phys-sow-chorng-haur",
+    "name": "SOW Chorng Haur",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/sow-chorng-haur/",
+    "title": "Professor",
+    "roles": [
+      "Vice-Dean (Outreach and Admissions)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/s-sow-1-1.jpg"
+  },
+  {
+    "id": "nus-math-sun-rongfeng",
+    "name": "SUN Rongfeng",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/1719-sun-rongfeng",
+    "title": "Professor",
+    "research_areas": [
+      "Probability theory and statistical mechanics"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matsr.jpg"
+  },
+  {
     "id": "nus-yll-medphc-saima-hilal",
     "name": "Saima HILAL",
     "institution": "NUS",
@@ -21899,6 +23508,21 @@
     "summary": "Our group is interested to determine mechanistic basis of ecosystem functioning from molecular to organismal and landscape scales. We are interested to understand complex relationships in agro-ecosystems and environmental systems in order to provide transnational tools and explanations for policy and management decisions. We are taking a multidisciplinary approach by incorporating hydrology, robotics and AI, meta-genomics, metabolomics, computational, and high-resolution imaging to study these interesting biological systems.\n\nOur group studies how microbial communities or “microbiomes” and their life on interfaces of solid, liquid or air as “biofilms” drive the processes occurring in natural environments such as surface freshwater or plant surfaces. Members of these species share resources such as metabolites or metabolic signals and they have diverse interactions with their hosts and immediate environments, all based on ecological principles.\n\nWe are taking a multidisciplinary approach by incorporating hydrology, meta-genomics, metabolomics, computational, and high-resolution imaging to study these interesting biological systems.\n\nMore details on on-going research themes are available on our website.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/sanjay-swarup/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/IMG8018-copy.jpg"
+  },
+  {
+    "id": "nus-math-scarlett-jonathan",
+    "name": "Scarlett, Jonathan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/12327-jonathan-mark-scarlett",
+    "title": "Associate Professor",
+    "roles": [
+      "Joint appointment, Computer Science"
+    ],
+    "research_areas": [
+      "Information theory, machine learning, high-dimensional statistics"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matjms.jpg"
   },
   {
     "id": "nus-dbs-seow-teck-keong",
@@ -21955,6 +23579,34 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Shefaly-Shorey-150x150.jpg"
   },
   {
+    "id": "nus-stat-shen-shuting",
+    "name": "Shen Shuting",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.stat.nus.edu.sg/our-people/faculty-members/#shen-shuting",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "High-dimensional inference with applications in modern data science",
+      "Distributed and Federated Data Analysis"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2025/07/ShenShuting-scaled-1.jpg"
+  },
+  {
+    "id": "nus-math-shen-zuowei",
+    "name": "Shen Zuowei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#shen-zuowei",
+    "title": "Distinguished Professor",
+    "roles": [
+      "Director, Institue for Mathematical Sciences"
+    ],
+    "research_areas": [
+      "Approximation theory, wavelet theory and applications, mathematical Imaging"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2023/05/Shen-Zuowei-1.jpg"
+  },
+  {
     "id": "nus-yll-bch-shi-jiahai",
     "name": "Shi Jiahai",
     "institution": "NUS",
@@ -21965,6 +23617,43 @@
     "summary": "Red blood cell biogenesis\n\nRed cell therapy and gene therapy",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/shi-jiahai/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2022/04/sjh3.png"
+  },
+  {
+    "id": "nus-phys-slaven-garaj",
+    "name": "Slaven Garaj",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/garaj-slaven/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/garaj.jpg"
+  },
+  {
+    "id": "nus-math-soh-yong-sheng",
+    "name": "Soh Yong Sheng",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/16052-yong-sheng-soh",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Mathematical foundation of machine learning and its applications in data analysis"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matsys.jpg"
+  },
+  {
+    "id": "nus-stat-somabha-mukherjee",
+    "name": "Somabha Mukherjee",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.somabha.com/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Non-parametric testing and variable selection",
+      "high-dimensional central limit theorems",
+      "shape-restricted regression",
+      "inference in Markov random fields",
+      "random graphs and statistical physics"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2022/03/Somabha1-scaled.jpg"
   },
   {
     "id": "nus-yll-pcm-soo-shuenn-chiang",
@@ -21989,6 +23678,21 @@
     "summary": "Investigations into diversification of calcium channel function via alternative splicing and RNA editing and their implications in neurological disorders such as anxiety or fear and in cardiovascular disorders such as hypertension and heart failure.\n\nInvestigations into physiological significance of alternative splicing and RNA editing of CaV channels in hippocampal learning and memory and cerebellar motor learning, and in feeding behavior and circadian rhythm.\n\nInvestigations into the implications of functional coupling between galectin-1, galectin-3 or filamin A and Cav1.2 channel in the cardiovascular system, and in heart failure and hypertension.",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/soong-tuck-wah/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/SoongTuckWah-e1727750082157.jpg"
+  },
+  {
+    "id": "nus-math-stephan-frank",
+    "name": "Stephan, Frank",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/1097-stephan-frank-christian",
+    "title": "Professor",
+    "roles": [
+      "Joint appointment, Computer Science"
+    ],
+    "research_areas": [
+      "Theoretical computer science and mathematical logic"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matsfc.jpg"
   },
   {
     "id": "nus-dbs-stephen-brian-pointing",
@@ -22018,6 +23722,80 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/11/d.png"
   },
   {
+    "id": "nus-phys-steven-touzard",
+    "name": "Steven Touzard",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/steven-touzard/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2022/01/Steven-Touzard2.jpg"
+  },
+  {
+    "id": "nus-stat-subhroshekhar-ghosh",
+    "name": "Subhroshekhar Ghosh",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://subhro-ghosh.github.io/",
+    "title": "Associate Professor",
+    "roles": [
+      "Dean's Chair",
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Stochastics",
+      "including problems from mathematical statistics and the math of data"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2021/09/NUS_outdoor-scaled.jpg"
+  },
+  {
+    "id": "nus-stat-sun-baoluo",
+    "name": "Sun Baoluo",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://sites.google.com/site/blsunnus/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Causal Inference",
+      "Missing Data",
+      "Statistical Learning"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/SunBaoluo-min-scaled.jpg"
+  },
+  {
+    "id": "nus-math-sun-yeneng",
+    "name": "Sun Yeneng",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#sun-yeneng",
+    "title": "Xu Foundation Dean and Professor",
+    "roles": [
+      "Dean, Faculty of Science"
+    ],
+    "research_areas": [
+      "Analysis, probability theory and their applications in economics and finance"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matsuny.jpg"
+  },
+  {
+    "id": "nus-chem-suresh-valiyaveettil",
+    "name": "Suresh Valiyaveettil",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/valiyaveettil-suresh/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Organic Synthesis",
+      "Polymer Science",
+      "Materials Science"
+    ],
+    "summary": "My research interests include synthesis, characterisation and applications of functional polymers, nanomaterials, nanosafety/ nanotoxicity, microplastics, cellulose materials for environmental applications, circularity and sustainability of materials.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/Suresh_Valiyaveettil2-s.jpg",
+    "orcid": "0000-0001-6990-660X"
+  },
+  {
     "id": "nus-yll-patho-susan-hue-swee-shan",
     "name": "Susan Hue Swee Shan",
     "institution": "NUS",
@@ -22042,6 +23820,27 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Educator-Track_TA_Swapna-e1725864840317.jpg"
   },
   {
+    "id": "nus-stat-swapnil-mishra",
+    "name": "Swapnil Mishra",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.smishra.dev/",
+    "title": "Assistant Professor",
+    "roles": [
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Infectious Disease Modelling",
+      "Hierarchical Bayesian Modelling",
+      "Renewal Processes",
+      "Stochastic Point Processes",
+      "Generative Deep Learning",
+      "Online Information Diffusion",
+      "Bayesian Phylogenetics"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2025/04/v6Swapnil-Mishra_Photo-1-e1748576559269.jpg"
+  },
+  {
     "id": "nus-yll-nursing-tam-wai-san-wilson",
     "name": "TAM Wai San, Wilson",
     "institution": "NUS",
@@ -22056,6 +23855,48 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/Wilson-1-150x150.jpg"
   },
   {
+    "id": "nus-math-to-wing-keung",
+    "name": "TO Wing Keung",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/454-to-wing-keung",
+    "title": "Professor",
+    "research_areas": [
+      "Differential geometry, several complex variables"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/mattowk.jpg"
+  },
+  {
+    "id": "nus-math-tan-choon-ee-roger",
+    "name": "Tan Choon Ee, Roger",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#tan-choon-ee-roger",
+    "title": "Associate Professor",
+    "roles": [
+      "NUS Associate Vice President"
+    ],
+    "research_areas": [
+      "Sensitivity Analysis of Matrix Eigensystems, Numerical Linear Algebra, Numerical Partial Differential Equations"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/mattance.jpg"
+  },
+  {
+    "id": "nus-math-tan-eng-chye",
+    "name": "Tan Eng Chye",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/Tan_Eng_Chye/about",
+    "title": "Professor",
+    "roles": [
+      "NUS President"
+    ],
+    "research_areas": [
+      "Representation theory of Lie groups and Lie algebras, invariant theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/mattanec.jpg"
+  },
+  {
     "id": "nus-yll-patho-tan-hui-min",
     "name": "Tan Hui Min",
     "institution": "NUS",
@@ -22066,6 +23907,27 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/patho/team-member/tan-hui-min-2/",
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Tan-HM-300x300-circle-b75b23d7fd588ea51c17809371d3fc3c-93kv1dg0cnmy.jpg"
+  },
+  {
+    "id": "nus-math-tan-kai-meng",
+    "name": "Tan Kai Meng",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/732-tan-kai-meng",
+    "title": "Professor",
+    "research_areas": [
+      "Representation theory of symmetric groups and related algebras"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2023/06/DSC_2138-1-scaled.jpg"
+  },
+  {
+    "id": "nus-pharm-tan-kar-tong",
+    "name": "Tan Kar Tong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/tan-kar-tong/",
+    "title": "Assistant Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2024/01/Tan-Kar-Tong-1.jpg"
   },
   {
     "id": "nus-yll-patho-tan-kong-bing",
@@ -22099,6 +23961,44 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtant.jpg"
   },
   {
+    "id": "nus-phys-tan-meng-chwan",
+    "name": "Tan Meng Chwan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/tan-meng-chwan/",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Dean (Outreach and Admissions)"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/tanmc.jpg"
+  },
+  {
+    "id": "nus-math-tan-ser-peow",
+    "name": "Tan Ser Peow",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/331-tan-ser-peow",
+    "title": "Professor",
+    "research_areas": [
+      "Geometric topology, geometric structures on manifolds"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/mattansp.jpg"
+  },
+  {
+    "id": "nus-stat-tan-siew-li-linda",
+    "name": "Tan Siew Li, Linda",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "http://blog.nus.edu.sg/lindatan/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Bayesian statistics",
+      "variational approximation and stochastic optimization methods",
+      "statistical network modelling"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/LindaTan-min-scaled.jpg"
+  },
+  {
     "id": "nus-yll-bch-tan-tin-wee",
     "name": "Tan Tin Wee",
     "institution": "NUS",
@@ -22109,6 +24009,35 @@
     "summary": "Current research areas include multilingualisation of Internet, music notation on the Internet, Internet communication protocols, VRML, Java, advanced Internet technologies, building regional advanced research networks, biocomputing and bioinformatics. In straddling two major technologies, IT and Biotechnology, he hopes to help Singapore establish a niche as a major technology player in Bioinformatics.\n\n* Bioinformatics * Advanced Internet Network Protocols and Applications in Biological Sciences\n\nIn particular, we are pursuing the following projects: 1) Biodatabases; Large-scale workflow integration; grid computing; immunomics & vaccine informatics. 2) Computer protocols, applications and standards for biological entities, nomenclature, pathways, diagramming and software tools interfacing. 3) Advanced Internet research network engineering for bioinformatics applications. 4) Internet protocols for bioinformatics and multilingual internet names.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/tan-tin-wee/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtantw.jpg"
+  },
+  {
+    "id": "nus-math-tan-yan-fu-vincent",
+    "name": "Tan Yan Fu, Vincent",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#tan-yan-fu-vincent",
+    "title": "Professor",
+    "roles": [
+      "Joint appointment, Electrical & Computer Engineering"
+    ],
+    "research_areas": [
+      "Network information theory, Machine learning, Statistical signal processing"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/eletyfv.jpg"
+  },
+  {
+    "id": "nus-stat-tan-yan-shuo",
+    "name": "Tan Yan Shuo",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://sites.google.com/view/yanshuotan/home",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Statistical machine learning",
+      "theory and methodology of decision trees and random forests",
+      "causal inference"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2022/07/Yan-Shuo-Tan.jpg"
   },
   {
     "id": "nus-dbs-tan-yong-zi",
@@ -22142,6 +24071,36 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/02/AndrewTan-e1727751106816.jpg"
   },
   {
+    "id": "nus-chem-tan-zhi-kuang",
+    "name": "Tan Zhi Kuang",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/tan-zhi-kuang/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Material Chemistry",
+      "Semiconductors",
+      "Nanomaterials"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/TanZhiKuang-s1.jpg",
+    "orcid": "0000-0003-1399-1790"
+  },
+  {
+    "id": "nus-math-tan-victor",
+    "name": "Tan, Victor",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/309-tan-victor",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Undergraduate Program)"
+    ],
+    "research_areas": [
+      "Automorphic forms and representations, algebraic number theory, modular forms and elliptic functions, combinatorial designs and difference sets"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/mattanv.jpg"
+  },
+  {
     "id": "nus-yll-bch-tang-bor-luen",
     "name": "Tang Bor Luen",
     "institution": "NUS",
@@ -22154,6 +24113,15 @@
     "summary": "Small GTPases, SNAREs and cell adhesion molecules and their cellular and physiological roles in CNS neurons and glia.\n\nConventional and unconventional membrane trafficking components and mechanisms in bacterial and viral infection.\n\nSirtuins in neurodegeneration and aging.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/tang-bor-luen/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtbl2-1.jpg"
+  },
+  {
+    "id": "nus-pharm-tang-wei",
+    "name": "Tang Wei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/asst-prof-tang-wei/",
+    "title": "Assistant Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Tang-Wei-c.jpg"
   },
   {
     "id": "nus-yll-bch-tay-mei-sian-yvonne",
@@ -22190,6 +24158,22 @@
     "summary": "Tumour pathology especially of the upper gastrointestinal tract",
     "profile_url": "https://medicine.nus.edu.sg/patho/team-member/teh-ming/",
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/TEH-Ming-2-circle-f88db1c0b1ce06f3466ecef56bd8e09d-r5j0el928wxt.jpg"
+  },
+  {
+    "id": "nus-stat-teo-yik-ying",
+    "name": "Teo Yik Ying",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://sph.nus.edu.sg/faculty-directory/teo-yik-ying/%20",
+    "title": "Professor",
+    "roles": [
+      "Joint Appointment"
+    ],
+    "research_areas": [
+      "Statistical Genetics",
+      "Genomewide Association Studies"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/TeoYikYing-min-scaled.jpg"
   },
   {
     "id": "nus-yll-pcm-terri-chen",
@@ -22232,6 +24216,15 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchth.jpg"
   },
   {
+    "id": "nus-phys-thomas-osipowicz",
+    "name": "Thomas Osipowicz",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/osipowicz-thomas/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/thomas.jpg"
+  },
+  {
     "id": "nus-dbs-thorsten-wohland",
     "name": "Thorsten Wohland",
     "institution": "NUS",
@@ -22255,6 +24248,15 @@
     "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2020/02/Tian-Cheong-Sing.png"
   },
   {
+    "id": "nus-pharm-tian-chong",
+    "name": "Tian Chong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Pharmacy and Pharmaceutical Sciences",
+    "profile_url": "https://pharmacy.nus.edu.sg/team/asst-prof-tian-chong/",
+    "title": "Assistant Professor",
+    "photo_url": "https://pharmacy.nus.edu.sg/wp-content/uploads/sites/6/2019/11/Tian-Chong-011c.jpg"
+  },
+  {
     "id": "nus-dbs-todd-peter-alan",
     "name": "Todd, Peter Alan",
     "institution": "NUS",
@@ -22273,6 +24275,43 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/todd.jpg"
   },
   {
+    "id": "nus-stat-toh-kim-chuan",
+    "name": "Toh Kim Chuan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "http://blog.nus.edu.sg/mattohkc/%20",
+    "title": "Provost’s Chair Professor",
+    "roles": [
+      "Courtesy Appointment"
+    ],
+    "research_areas": [
+      "Scientific Computing",
+      "Numerical Optimization"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/Toh-Kim-Chuan-min-scaled.jpg"
+  },
+  {
+    "id": "nus-phys-tok-eng-soon",
+    "name": "Tok Eng Soon",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/tok-eng-soon/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/tokes.jpg"
+  },
+  {
+    "id": "nus-math-tong-xin-thomson",
+    "name": "Tong Xin, Thomson",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/7749-xin-tong",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Mathematical aspects of data assimilation and nonlinear systems."
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/mattxin.jpg"
+  },
+  {
     "id": "nus-yll-bch-too-heng-phon",
     "name": "Too Heng-Phon",
     "institution": "NUS",
@@ -22283,6 +24322,27 @@
     "summary": "Bioanalytics (qPCR, bionanotechnology), MicroRNA, GDNF, Metabolic Engineering of Isoprenoids, Gene Delivery, Stem Cells.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/too-heng-phon/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtoohp.jpg"
+  },
+  {
+    "id": "nus-math-tran-chieu-minh",
+    "name": "Tran Chieu Minh",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#tran-chieu-minh",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Mathematical Logic & Theoretical Computer Science and Combinatorics& Graph Theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2022/07/DSC_6990-scaled.jpg"
+  },
+  {
+    "id": "nus-phys-travis-lee-nicholson",
+    "name": "Travis Lee Nicholson",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/nicholson-travis-lee/",
+    "title": "Assistant Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/travis.jpg"
   },
   {
     "id": "nus-yll-phys-tsai-shih-yin",
@@ -22330,6 +24390,15 @@
     "summary": "Read More\n\nFaculty\n\nFaculty by Research Ecology, Evolution and Biodiversity Cell, Molecular and Developmental Biology BioPhysical Sciences\n\nEcology, Evolution and Biodiversity",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/utkur-mirsaidov/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/utkur.jpg"
+  },
+  {
+    "id": "nus-phys-valerio-scarani",
+    "name": "Valerio Scarani",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/scarani-valerio/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/valerio-list-1.jpg"
   },
   {
     "id": "nus-dbs-veerasekaran-s-o-p-arumugam",
@@ -22458,6 +24527,85 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Vivien-Wu-150x150.jpg"
   },
   {
+    "id": "nus-phys-wang-jian-sheng",
+    "name": "Wang Jian-Sheng",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/wang-jian-sheng/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/wangjiansheng.jpg"
+  },
+  {
+    "id": "nus-math-wang-lihan",
+    "name": "Wang Lihan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/29865-lihan-wang",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Differential Equations and Probability, Data Science and Machine Learning"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2025/08/Wang-Lihan2-scaled-e1755572967884.jpg"
+  },
+  {
+    "id": "nus-stat-wang-wanjie",
+    "name": "Wang Wanjie",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "http://blog.nus.edu.sg/staww/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "High-dimensional Statistical Inference",
+      "Sparse and Weak Signals Inference",
+      "Statistical Learning Theory",
+      "Matrix Recovery",
+      "Methodology on Genetics and Genomics Random Matrix Theory"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/WangWanjie-min-scaled.jpg"
+  },
+  {
+    "id": "nus-phys-wang-xuesen",
+    "name": "Wang Xuesen",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/wang-xuesen/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/wangxs.jpg"
+  },
+  {
+    "id": "nus-phys-wang-zhisong",
+    "name": "Wang Zhisong",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/wang-zhisong/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2019/10/wangzs1.jpg"
+  },
+  {
+    "id": "nus-math-weber-marko",
+    "name": "Weber, Marko",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/15935-marko-hans-weber",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Markets with frictions, systemic risk, financial stability"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matmhw.jpg"
+  },
+  {
+    "id": "nus-math-wei-daren",
+    "name": "Wei Daren",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/24558-daren-wei/about",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Homogeneous dynamics, Entropy type invariants and Ergodic theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2023/06/DSC_7184-scaled.jpg"
+  },
+  {
     "id": "nus-dbs-wei-jiangbo",
     "name": "Wei Jiangbo",
     "institution": "NUS",
@@ -22467,6 +24615,18 @@
     "summary": "RNA at the Nexus of Genetic Information Flow: We investigate the intricate interaction of RNA modifications with epigenetic mechanisms across various biological contexts, and probe the potential inheritability of epigenetic effects caused by RNA modifications, especially in repeat RNAs and small RNAs like tRFs. We uncover novel translational prospects in human diseases and animal/plant development by harnessing the RNA-centric regulatory framework.\n\nRNA at the Nexus of Genetic Information Flow: We investigate the intricate interaction of RNA modifications with epigenetic mechanisms across various biological contexts, and probe the potential inheritability of epigenetic effects caused by RNA modifications, especially in repeat RNAs and small RNAs like tRFs. We uncover novel translational prospects in human diseases and animal/plant development by harnessing the RNA-centric regulatory framework.\n\nAdvancing Precision Medicine through RNA Modifications: We examine how RNA modifications and their associated effectors respond to cellular signaling pathways, external stimuli, and drug treatment, and search for instances of synthetic lethality between specific biological processes and distinct RNA modifications. We explore therapeutic implications and synergistic effects by co-targeting these pathways with RNA modifications, paving the way for precision medicine approaches.\n\nAdvancing Precision Medicine through RNA Modifications: We examine how RNA modifications and their associated effectors respond to cellular signaling pathways, external stimuli, and drug treatment, and search for instances of synthetic lethality between specific biological processes and distinct RNA modifications. We explore therapeutic implications and synergistic effects by co-targeting these pathways with RNA modifications, paving the way for precision medicine approaches.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/wei-jiangbo/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2023/12/Jiangbo_photo_updated-scaled.jpg"
+  },
+  {
+    "id": "nus-phys-wister-wei-huang",
+    "name": "Wister Wei Huang",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/wister-wei-huang/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2024/06/wister-huang-wei-1.jpg"
   },
   {
     "id": "nus-yll-phys-wong-lik-wei",
@@ -22481,6 +24641,20 @@
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Educator-Track_Inst_Wong-Lik-Wei-e1725864485614.jpg"
   },
   {
+    "id": "nus-chem-wong-ming-wah-richard",
+    "name": "Wong Ming Wah, Richard",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/wong-ming-wah-richard/",
+    "title": "Professor",
+    "research_areas": [
+      "Theoretical Chemistry",
+      "Computational Chemistry"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/RichardWong-s.jpg",
+    "orcid": "0000-0003-2162-1220"
+  },
+  {
     "id": "nus-yll-phys-wong-siew-peng-esther",
     "name": "Wong Siew Peng Esther",
     "institution": "NUS",
@@ -22491,6 +24665,26 @@
     "summary": "I have extensive experience working on autophagy and neurodegeneration research using mammalian cellular systems, pathological and aging animal models. My research investigates the physiological roles of autophagy in maintaining health and how autophagy becomes compromised in aging and neurodegenerative pathologies. In Centre for Healthy Longevity, I look at ways to improve autophagy to delay aging, promote better cellular homeostasis to extend longevity and mitigate age-related pathologies. I am overseeing the animal intervention studies platform under Healthy Longevity Translational Research Programme (HL TRP) to test the effects of repurposed drugs and natural products on frailty, healthspan and lifespan in aged mice. I am also involved in the HL TRP stem cell platform to use iPSCs, different types of stem cells and organoids to test geroprotectors on regenerative medicines.",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/wong-siew-peng-esther/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2023/05/EstherWong-e1725865825238.jpg"
+  },
+  {
+    "id": "nus-chem-wu-jie",
+    "name": "Wu Jie",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/wu-jie/",
+    "title": "Associate Professor",
+    "roles": [
+      "Assistant Head (M.Sc. Programme and Enterprise)",
+      "DEAN’S CHAIR PROFESSOR (2023-2026)"
+    ],
+    "research_areas": [
+      "Photocatalysis",
+      "Continuous-Flow Synthesis",
+      "Green Chemistry"
+    ],
+    "summary": "The research program in WU group have broadly and deeply involved in two research fields of organic synthesis, including photocatalysis and flow automated synthesis. Our long-term goal is to advance otherwise difficult or ineffective chemical reactions using advanced flow techniques, as well as to develop new chemical strategies to aid the automated multistep synthesis. The research program in my lab can be divided into five parts: 1) Development of engineered flow reactors. A centerpiece of research in my group relies on the unique advantages provided by micro-tubing reactors. 2) Exploring new fundamental reactions that directly transform natural gas feedstocks into value-added fine chemicals by harvesting visible-light as energy input. This project takes advantage of the super efficiency of biphasic gas/liquid reactions and enhanced photo-irradiation in micro-tubing reactors. 3) Development of photo-mediated hydrogen atom transfer strategies for C-H, Si-H, and B-H functionalization to convert readily available alkanes, hydrosilanes, and boranes into valuable products in an atom- and step-economic fashion. 4) Development of novel heterogeneous photocatalysts. This project aims to take advantage of the heterogeneous catalysis in flow reactors for sustainable chemical manufacturing. 5) Development of end-to-end automated platform for the synthesis of organic molecules. Our group’s research is truly multidisciplinary including both organic chemistry and engineering aspects, which provides opportunities to learn areas of research outside of traditional organic synthesis. Students in my group will get trained on photocatalysis, continuous-flow synthesis, multistep synthesis, and green chemistry. They will build in-depth chemistry background and strong problem-solving techniques. The advantages of continuous flow processing are increasingly being appreciated both by industry and academia, and students expertise in this field will find enormous job opportunities.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/WuJie-s2.jpg",
+    "orcid": "0000-0002-9865-180X"
   },
   {
     "id": "nus-dbs-wu-jinlu",
@@ -22511,6 +24705,24 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/wujl.jpg"
   },
   {
+    "id": "nus-chem-wu-jishan",
+    "name": "Wu Jishan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/wu-jishan/",
+    "title": "Professor",
+    "roles": [
+      "Provost’s Chair Professor (2024-2027)"
+    ],
+    "research_areas": [
+      "Materials Chemistry",
+      "Supramolecular Chemistry"
+    ],
+    "summary": "Diradicaloids, aromaticity, and topological molecular carbons.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/Wu_Jishan2-s.jpg",
+    "orcid": "0000-0002-8231-0437"
+  },
+  {
     "id": "nus-yll-bch-xavier-chee-wezen",
     "name": "Xavier Chee Wezen",
     "institution": "NUS",
@@ -22521,6 +24733,41 @@
     "summary": "My research harnesses the power of computational techniques to revolutionize drug discovery. By integrating high-performance computing and machine learning with conventional computer-aided methods, my lab aims to streamline the drug discovery pipeline, potentially reducing the time and cost associated with bringing new therapeutics to market. A key area of our work involves developing cutting-edge ultra-large virtual screening platforms. These innovative tools efficiently explore vast chemical spaces, dramatically accelerating the process of uncovering novel inhibitors for a range of diseases. We primarily focus on antimicrobials, cancer therapeutics, and compounds that could impact the aging process. Additionally, I’m also interested in computational techniques to design small molecules targeting RNA, an emerging and exciting field in pharmaceutical research. This work not only pushes the boundaries of computational chemistry but also holds the promise of developing more effective treatments for some of society’s most pressing health challenges. Through these advanced computational approaches, my lab hopes to advance the field of computational drug discovery and pave the way for faster, more efficient development of life-changing medicines.\n\nMajor research interests:\n\nComputer-aided drug design\n\nSmall molecule therapeutics development",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/xavier-chee-wezen/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2024/09/xavierchee.jpg"
+  },
+  {
+    "id": "nus-stat-xia-yingcun",
+    "name": "Xia Yingcun",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.stat.nus.edu.sg/our-people/faculty-members/#xia-yingcun",
+    "title": "Professor",
+    "roles": [
+      "Deputy Head"
+    ],
+    "research_areas": [
+      "Semiparametrics",
+      "Nonlinear time series",
+      "Epidemic Modelling",
+      "Dimension Reduction Space"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/XiaYingcun-min-scaled.jpg"
+  },
+  {
+    "id": "nus-chem-xu-guo-qin",
+    "name": "Xu Guo Qin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/xu-guo-qin/",
+    "title": "Professor",
+    "roles": [
+      "Director (NUS Suzhou Research Institute)"
+    ],
+    "research_areas": [
+      "Surface Science",
+      "Photocatalysis"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/XuGuoQin-s.jpg",
+    "orcid": "0000-0003-4671-7923"
   },
   {
     "id": "nus-dbs-xue-shifeng",
@@ -22551,6 +24798,15 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/02/siang-fei-crop.jpg"
   },
   {
+    "id": "nus-phys-yan-jie",
+    "name": "Yan Jie",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/yan-jie/",
+    "title": "Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/yanjie.jpg"
+  },
+  {
     "id": "nus-dbs-yang-daiwen",
     "name": "Yang Daiwen",
     "institution": "NUS",
@@ -22560,6 +24816,75 @@
     "summary": "",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/yang-daiwen/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/yangdw.jpg"
+  },
+  {
+    "id": "nus-math-yang-lei",
+    "name": "Yang Lei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/27138-lei-yang/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Dynamical Systems"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2024/08/photo-lei-yang-scaled-e1723437952131.jpg"
+  },
+  {
+    "id": "nus-math-yang-yue",
+    "name": "Yang Yue",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/463-yue-yang",
+    "title": "Professor",
+    "research_areas": [
+      "Recursion theory, Models of arithmetic"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2022/08/Yang-Yue-scaled.jpg"
+  },
+  {
+    "id": "nus-chem-yao-shao-qin",
+    "name": "Yao Shao Qin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/yao-shao-qin/",
+    "title": "Professor",
+    "research_areas": [
+      "Catalomics",
+      "Small Molecule Microarrays",
+      "Drug Delivery",
+      "Chemical Biology"
+    ],
+    "summary": "Chemical biology and medicinal chemistry . We are interested in developing powerful strategies in Chemical Biology and Chemical Proteomics that enable organism-wide, high-throughput studies of enzymes, e.g. the so-called “catalomics”.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/YaoShaoQin-s2.jpg",
+    "orcid": "0000-0003-4715-769X"
+  },
+  {
+    "id": "nus-math-yao-yao",
+    "name": "Yao Yao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": " https://discovery.nus.edu.sg/20749-yao-yao/ ",
+    "title": "Associate Professor (Dean's Chair)",
+    "roles": [
+      "Joint appointment, Vice-Dean, NUS Graduate School"
+    ],
+    "research_areas": [
+      "Partial differential equations, fluid dynamics"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2021/09/DSC_6924-scaled.jpg"
+  },
+  {
+    "id": "nus-stat-yao-zhigang",
+    "name": "Yao Zhigang",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://zhigang-yao.github.io/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Interaction Between Statistics and Geometry",
+      "Non-Euclidean Statistics"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/YaoZhigang-min-scaled.jpg"
   },
   {
     "id": "nus-yll-phys-yap-suen-mei-celestial-therese",
@@ -22572,6 +24897,39 @@
     "summary": "Cancer progression, with a focus on mechanisms of tumour cell dissemination and survival\n\nSignaling pathways in cancer and inflammatory diseases\n\nEducation-related research: special interests in medical education & graduate research training",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/educator-track/yap-suen-mei-celestial-therese/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2020/01/team-1.jpg"
+  },
+  {
+    "id": "nus-stat-yap-von-bing",
+    "name": "Yap Von Bing",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.stat.nus.edu.sg/our-people/faculty-members/#yap-von-bing",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Computational Biology",
+      "Molecular Evolution",
+      "Phylogenetics",
+      "Sequential Analysis",
+      "Quantitative Reasoning"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2022/01/YapVonBing_paint-1-e1748576453358.jpg"
+  },
+  {
+    "id": "nus-chem-yeo-boon-siang-jason",
+    "name": "Yeo Boon Siang, Jason",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/yeo-boon-siang-jason/",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Education)"
+    ],
+    "research_areas": [
+      "Electrocatalysis"
+    ],
+    "summary": "A major scientific objective for the 21 st century is to develop a sustainable and environmentally friendly energy economy. To contribute to this goal, we develop efficient and robust materials to catalyze energy conversion reactions. Systems of interest include reduction of carbon dioxide to multi-carbon chemicals and fuels such as n-propanol, and water splitting. We apply state-of-the-art analytical tools such as operando spectroscopy to understand the mechanistic and structural aspects of these processes. This knowledge will then be exploited to design and synthesize systems with improved functionality.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/Jason_Yeo2-s1.jpg",
+    "orcid": "0000-0003-1609-0867"
   },
   {
     "id": "nus-yll-bch-yeong-foong-may",
@@ -22630,6 +24988,37 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/12/Ying2021-scaled.jpg"
   },
   {
+    "id": "nus-chem-ying-kai-loh",
+    "name": "Ying Kai Loh",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/ying-kai-loh/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship",
+      "National Research Foundation Fellow"
+    ],
+    "research_areas": [
+      "Reactive Carbon Chemistry"
+    ],
+    "summary": "Carbon obeys the octet rule − a fundamental principle in chemistry. Can this rule be broken to create stable carbon species with fewer than eight valence electrons? In our lab, we challenge the octet rule, to make octet-defying carbon species by design. These organic molecules can mimic the behaviour of transition metals. Hence, we seek to harness them as powerful transition metal surrogates, opening new possibilities to a green and sustainable future.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2025/05/LohYingkai-scaled-e1748222431358.jpg",
+    "orcid": "0000-0003-4019-5458"
+  },
+  {
+    "id": "nus-chem-yip-hon-kay-john",
+    "name": "Yip Hon Kay, John",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/yip-hon-kay-john/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Inorganic Materials Chemistry",
+      "Supramolecular Chemistry"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/John_Yip1-s.jpg"
+  },
+  {
     "id": "nus-dbs-yu-hao",
     "name": "Yu Hao",
     "institution": "NUS",
@@ -22660,6 +25049,45 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/11/YHJ-1.png"
   },
   {
+    "id": "nus-math-yu-hui",
+    "name": "Yu Hui",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#yu-hui",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Regularity theory of elliptic partial differential equations and free boundary problems"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2021/10/DSC_6930-scaled.jpg"
+  },
+  {
+    "id": "nus-stat-yu-tao",
+    "name": "Yu Tao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.stat.nus.edu.sg/tao-yu/",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Neuroinformatics",
+      "Bioinformatics and Biostatistics",
+      "Statistical Inference for High-Dimensional Model",
+      "Non- and Semi-parametric Estimation & Inference"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/YuTao-min-scaled.jpg"
+  },
+  {
+    "id": "nus-math-yusuf-baris-kartal",
+    "name": "Yusuf Baris Kartal",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://www.math.nus.edu.sg/people/regular-faculty/#yusuf-baris-kartal",
+    "title": "Assistant Professor (NUS Presidential Young Professor)",
+    "research_areas": [
+      "Symplectic topology, Floer theory, homogical mirror symmetry, non-commutative geometry"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2025/08/Yusuf-Baris-Kartal2-scaled-e1755592658245.jpg"
+  },
+  {
     "id": "nus-dbs-yusuke-toyama",
     "name": "Yusuke Toyama",
     "institution": "NUS",
@@ -22673,6 +25101,18 @@
     "summary": "Dr Toyama had a formal training in physics and engineering during graduate (Osaka Univ.) and undergraduate (Hokkaido Univ.) school in Japan. In 2003, he earned a Ph.D. in Engineering where his doctoral work was focused on plasma physics and laser driven nuclear fusion. He then embraced biophysics and mechanobiology during his postdoctoral carrier at Duke Univ. under supervision of Prof. Glenn Edwards (Physics department) and Prof. Dan Kiehart (Biology department). Dr Toyama joined Department of Biological Sciences at National University of Singapore as an Assistant Professor in 2010, and promoted as an Associate Professor in 2018. He also has an appointment as a Principal Investigator in Mechanobiology Institute since 2010.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/yusuke-toyama/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/toyama.jpg"
+  },
+  {
+    "id": "nus-phys-yvonne-y-gao",
+    "name": "Yvonne Y. Gao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/yvonne-y-gao/",
+    "title": "Associate Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/yvvonegao.jpg"
   },
   {
     "id": "nus-yll-nursing-zakir-hussain-abdul-salam",
@@ -22740,6 +25180,86 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Jaafar-Head-Hi-Res-copy-scaled-e1642499847493.jpg"
   },
   {
+    "id": "nus-phys-zhang-chun",
+    "name": "Zhang Chun",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/zhang-chun/",
+    "title": "Associate Professor",
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2021/03/zhangchun.jpg"
+  },
+  {
+    "id": "nus-fst-zhang-dachuan",
+    "name": "Zhang Dachuan",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/zhang-dachuan",
+    "title": "Assistant Professor",
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2025/07/Zhang-Dachuan-683x1024.jpg"
+  },
+  {
+    "id": "nus-math-zhang-de-qi",
+    "name": "Zhang De-Qi",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/416-zhang-deqi",
+    "title": "Professor",
+    "research_areas": [
+      "Algebraic Geometry"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matzdq.jpg"
+  },
+  {
+    "id": "nus-stat-zhang-jin-ting",
+    "name": "Zhang Jin-Ting",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://blog.nus.edu.sg/stazjt2020/",
+    "title": "Professor",
+    "research_areas": [
+      "Nonparametric Regression and Density Estimation",
+      "Functional Data Analysis and Longitudinal Data Analysis",
+      "Nonparametric Mixed-effects Models for Longitudinal Data"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/ZhangJinTing-min-scaled.jpg"
+  },
+  {
+    "id": "nus-math-zhang-lei",
+    "name": "Zhang Lei",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/5166-zhang-lei",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Number theory and representation theory"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matzhlei.jpg"
+  },
+  {
+    "id": "nus-math-zhang-louxin",
+    "name": "Zhang Louxin",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/822-zhang-louxin",
+    "title": "Professor",
+    "research_areas": [
+      "Applied discrete Mathematics, theoretical computer science, computational Biology and Bioinformatics"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matzlx.jpg"
+  },
+  {
+    "id": "nus-math-zhang-tengren",
+    "name": "Zhang Tengren",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/13411-zhang-tengren",
+    "title": "Associate Professor",
+    "research_areas": [
+      "Low dimensional topology, Lie theory, geometric structures"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matzt.jpg"
+  },
+  {
     "id": "nus-yll-bch-zhang-yang",
     "name": "Zhang Yang",
     "institution": "NUS",
@@ -22752,6 +25272,116 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2023/11/yang.jpg"
   },
   {
+    "id": "nus-stat-zhang-yao",
+    "name": "Zhang Yao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://yaozhang24.github.io/yaozhang.github.io/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professor"
+    ],
+    "research_areas": [
+      "Predictive Inference",
+      "Causal Inference",
+      "Machine Learning",
+      "Artificial Intelligence",
+      "Physical and Biomedical Data Science"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2021/07/zhang-yao.png"
+  },
+  {
+    "id": "nus-chem-zhao-yu",
+    "name": "Zhao Yu",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/zhao-yu/",
+    "title": "Professor",
+    "roles": [
+      "Assistant Dean (Graduate Studies)"
+    ],
+    "research_areas": [
+      "Organic Synthesis",
+      "Organometallic Synthesis",
+      "Catalysis"
+    ],
+    "summary": "Research interests of our lab lie in the discovery and development of efficient, selective as well as economical catalytic methods for chemical synthesis, with an emphasis on asymmetric catalysis. Application of the new methods toward the synthesis of molecules with a complex structure and/or useful functions will serve as a testament of the efficacy of the method development. Ultimately, the goal is to provide new chemical tools to bear on contemporary problems in the applied areas such as pharmaceuticals, chemical biology and material science.",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/ZhaoYu-s1.jpg",
+    "orcid": "0000-0002-2944-1315"
+  },
+  {
+    "id": "nus-chem-zhao-ziqing-winston",
+    "name": "Zhao Ziqing, Winston",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/zhao-ziqing/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "research_areas": [
+      "Biophysical Chemistry",
+      "Single-Molecule/Super-Resolution Imaging",
+      "Chromatin Dynamics"
+    ],
+    "summary": "The research in my group intersects optical imaging, molecular biology and physical chemistry, with a specific focus on developing and applying advanced imaging-based methodologies to quantitatively probe the biophysics of chromatin dynamics in single human cells. In particular, we are interested in understanding how molecular processes that modulate genome organization, accessibility and expression are regulated in space and time . By integrating approaches from optical microscopy/spectroscopy ( e.g. super-resolution imaging, single-molecule tracking and fluorescence correlation spectroscopy), omic technologies, correlative strategies and computational analysis, our work aims to illuminate the physico-chemical driving forces (such as biomolecular phase separation) that govern chromatin dynamics and cell nuclear architecture in vivo . Current efforts in the group are focused on chromatin remodeling and nuclear membrane–chromatin interactions, as well as the physiological implications of their misregulation in human health and diseases (particularly cancer and aging-associated disorders).\n\nWe are constantly looking for talented individuals from diverse backgrounds in life sciences, chemistry, biophysics, physics, bioengineering or related fields to join us.\n\nProspective postdoctoral fellows and Ph.D./M.Sc./undergraduate students please email Winston directly here .",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/WinstonZhao.jpg",
+    "orcid": "0000-0002-1233-9867"
+  },
+  {
+    "id": "nus-stat-zhou-doudou",
+    "name": "Zhou Doudou",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://doudouzhou.github.io/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Machine Learning",
+      "High-dimensional Statistics",
+      "Electronic Health Records (EHR) Data Analysis",
+      "Reinforcement Learning",
+      "Change-point Detection"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2024/07/Doudou-scaled.jpg"
+  },
+  {
+    "id": "nus-fst-zhou-jiangtao",
+    "name": "Zhou Jiangtao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/zhou-jiangtao",
+    "title": "Assistant Professor",
+    "roles": [
+      "Presidential Young Professor"
+    ],
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2025/07/Zhou-Jiangtao-683x1024.jpg"
+  },
+  {
+    "id": "nus-stat-zhou-wang",
+    "name": "Zhou Wang",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Statistics and Data Science",
+    "profile_url": "https://www.stat.nus.edu.sg/our-people/faculty-members/#zhou-wang",
+    "title": "Professor",
+    "research_areas": [
+      "Brownian motion",
+      "Stochastic Loewner Evolution"
+    ],
+    "photo_url": "https://www.stat.nus.edu.sg/wp-content/uploads/sites/8/2020/06/ZhouWang-min-scaled.jpg"
+  },
+  {
+    "id": "nus-fst-zhou-weibiao",
+    "name": "Zhou Weibiao",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Food Science and Technology",
+    "profile_url": "https://www.fst.nus.edu.sg/our_people/faculty-members/zhou-weibiao",
+    "title": "Professor",
+    "roles": [
+      "Head of Department (No longer accepting PhD students)"
+    ],
+    "photo_url": "https://www.fst.nus.edu.sg/wp-content/uploads/sites/9/2020/03/NUS_1032-1-scaled-e1665026273436.jpg"
+  },
+  {
     "id": "nus-yll-bch-zhou-yilong",
     "name": "Zhou Yilong",
     "institution": "NUS",
@@ -22762,5 +25392,67 @@
     "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/zhou-yilong/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2025/05/IMG_5389.jpeg"
+  },
+  {
+    "id": "nus-math-zhu-chengbo",
+    "name": "Zhu Chengbo",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Mathematics",
+    "profile_url": "https://discovery.nus.edu.sg/402-zhu-chengbo",
+    "title": "Professor",
+    "roles": [
+      "Deputy Director, Institute for Mathematical Sciences"
+    ],
+    "research_areas": [
+      "Representation theory of Lie groups"
+    ],
+    "photo_url": "https://www.math.nus.edu.sg/wp-content/uploads/sites/4/2019/11/matzhucb.jpg"
+  },
+  {
+    "id": "nus-chem-zhu-ru-yi",
+    "name": "Zhu Ru-Yi",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/zhu-ru-yi/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "research_areas": [
+      "Chemical Biology",
+      "Nucleic Acid Chemistry",
+      "Organic Synthesis",
+      "Catalysis"
+    ],
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2021/05/Zhu_Ruyi-s.jpg",
+    "orcid": "0000-0001-5908-2555"
+  },
+  {
+    "id": "nus-chem-zhu-ye",
+    "name": "Zhu Ye",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Chemistry",
+    "profile_url": "https://chemistry.nus.edu.sg/people/zhu-ye/",
+    "title": "Assistant Professor",
+    "research_areas": [
+      "Chemical Synthesis",
+      "Catalysis",
+      "Drug Discovery"
+    ],
+    "summary": "Chemical synthesis of biologically relevant molecules remains the rate-limiting step in drug discovery and development despite the tremendous progress that has been made in academia and industry. Our research focuses on inventing and developing enabling chemical tools to address significant synthetic challenges facing biomedical sciences and pharmaceutical industry, thus accelerating creation of potential new medicines. To achieve this goal, our effort will be directed towards:",
+    "photo_url": "https://chemistry.nus.edu.sg/wp-content/uploads/sites/3/2020/03/ZhuYe-s-1.jpg",
+    "orcid": "0000-0002-8566-576X"
+  },
+  {
+    "id": "nus-phys-zou-liujun",
+    "name": "Zou Liujun",
+    "institution": "NUS",
+    "department": "Faculty of Science — Department of Physics",
+    "profile_url": "https://www.physics.nus.edu.sg/faculty/zou-liujun/",
+    "title": "Assistant Professor",
+    "roles": [
+      "NUS Presidential Young Professorship"
+    ],
+    "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2024/06/zoulj1.jpg"
   }
 ]
