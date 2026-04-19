@@ -9,7 +9,7 @@ export default function BrowsePage() {
   const [inst, setInst] = useState("");
   const [dept, setDept] = useState("");
 
-  const deptOptions = useMemo(() => (inst ? departments(inst) : departments()), [inst]);
+  const deptOptions = useMemo(() => (inst ? departments(inst) : []), [inst]);
   const results = useMemo(
     () => search(q, { institution: inst || undefined, department: dept || undefined }),
     [q, inst, dept],
@@ -28,7 +28,7 @@ export default function BrowsePage() {
         </p>
       </section>
 
-      <section className="mb-4 grid gap-3 md:grid-cols-[1fr_auto_auto]">
+      <section className={`mb-4 grid gap-3 ${inst ? "md:grid-cols-[1fr_auto_auto]" : "md:grid-cols-[1fr_auto]"}`}>
         <input
           value={q}
           onChange={(e) => setQ(e.target.value)}
@@ -45,16 +45,18 @@ export default function BrowsePage() {
             <option key={i} value={i}>{i}</option>
           ))}
         </select>
-        <select
-          value={dept}
-          onChange={(e) => setDept(e.target.value)}
-          className="rounded-lg border border-black/15 dark:border-white/15 bg-white dark:bg-neutral-900 px-3 py-2 text-sm"
-        >
-          <option value="">All departments</option>
-          {deptOptions.map((d) => (
-            <option key={d} value={d}>{d}</option>
-          ))}
-        </select>
+        {inst && (
+          <select
+            value={dept}
+            onChange={(e) => setDept(e.target.value)}
+            className="rounded-lg border border-black/15 dark:border-white/15 bg-white dark:bg-neutral-900 px-3 py-2 text-sm"
+          >
+            <option value="">All departments</option>
+            {deptOptions.map((d) => (
+              <option key={d} value={d}>{d}</option>
+            ))}
+          </select>
+        )}
       </section>
 
       <p className="text-xs text-black/50 dark:text-white/40 mb-3">
