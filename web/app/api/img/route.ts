@@ -4,6 +4,7 @@ import { NextRequest, NextResponse } from "next/server";
 // being abused as an open image proxy.
 const ALLOWED_HOSTS = new Set<string>([
   "www.ntu.edu.sg",
+  "dr.ntu.edu.sg",
   "www.a-star.edu.sg",
   "www.dbs.nus.edu.sg",
   "www.nus.edu.sg",
