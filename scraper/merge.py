@@ -14,6 +14,9 @@ TARGET = ROOT.parent / "web" / "public" / "faculty.json"
 SOURCES = [
     "ntu_sbs.json",
     "astar_imcb.json",
+    "astar_gis.json",
+    "astar_bii.json",
+    "astar_sign.json",
     "nus_dbs.json",
 ]
 

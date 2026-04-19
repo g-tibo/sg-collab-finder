@@ -1,5 +1,24 @@
 [
   {
+    "id": "astar-gis-adaikalavan-ramasamy",
+    "name": "Adaikalavan Ramasamy",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Principal Scientist",
+    "roles": [
+      "Bioinformatics Consulting and Training Platform (BISCUIT)"
+    ],
+    "research_areas": [
+      "Bioinformatics Consulting and Training Platform (BISCUIT)"
+    ],
+    "summary": "Dr. Ramasamy’s research focuses on the application of next-generation sequencing (NGS) with single-cell and spatial transcriptomics to understand gene expression, tissue organisation and cellular heterogeneity and regulatory interactions in health and disease. His group develops and applies computational workflows for large-scale transcriptomic analyses, emphasizing reproducibility, data visualization, and accessibility for the broader genomics community. His group is also passionate about training and empowering others in genomics data science.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/adaikalavan-ramasamy",
+    "lab_url": "",
+    "scholar_url": "https://scholar.google.com/citations?user=8FZtwR0AAAAJ",
+    "orcid": "https://orcid.org/0000-0002-7598-2892",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/adai-website-revamp.png?sfvrsn=4d862553_1"
+  },
+  {
     "id": "astar-imcb-adrian-teo",
     "name": "Adrian Teo",
     "institution": "A*STAR",
@@ -17,6 +36,37 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-adriankeekeongteo.jpg?sfvrsn=7218e6c2_1"
+  },
+  {
+    "id": "astar-gis-alexander-lezhava",
+    "name": "Alexander Lezhava",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Group Leader",
+    "roles": [
+      "Centre for Genome Diagnostics"
+    ],
+    "research_areas": [
+      "Centre for Genome Diagnostics"
+    ],
+    "summary": "Dr Alexander Lezhava, assumed the appointment as Group Leader, in the Translational Research Group 1 (TR1), at the Genome Institute of Singapore (GIS), in August 2013, Programme Director in POLARIS since October 2016, and Senior Group Leader in the Centre for Genome Diagnostics (CGD) in August 2021. He has instrumentally brought the two arms TR1 and POLARIS together into CGD, combining both diagnostics and clinical laboratory. As a Senior Group Leader, Dr Lezhava, leads TR1, now known as Translation Diagnostics, in promoting the smooth transition from basic research to advances in science and technology, and hence, to innovation. Mainly focusing on molecular diagnostics, the mission of TR1 is to provide and market molecular diagnostic discoveries aligned with the industry needs and further develop these together with commercial partners. Dr Lezhava, as the Programme Director of POLARIS programme, now known as Clinical Diagnostic Lab (Transforming Disease Management through Personalised Profiling) actively pushed Clinical Diagnostic Lab to new heights in RIE2025. His key missions are for Clinical Diagnostic Lab to maintain its CAP accreditation on top of forging closer links with genomic initiatives at A*STAR as well as industry partners. Clinical Diagnostic Lab has become a supportive platform for clinical decision-making through molecular genomics. It has gradually evolved and is currently fully capable to serve a clinical community across Singapore and SEA region. In addition, Dr Lezhava serves the institute as a Management Representative for ISO accredited research groups and is the Chairman for GIS Confidentiality Compliance Committee. Under Dr Lezhava’s leadership, both TR1 and the New Generation Sequencing groups achieved ISO 13485 accreditation since 2015. This now has further expanded with two additional research groups. Simultaneously, his role as the IBC chairman is significant in ensuring safety guidelines are optimised. The IBC reviews and regulates human research work in GIS to ensure compliance to regulations. Prior to his current appointment, Dr Lezhava was a Research Director with Dx Assays from 2011 to 2013. His other earlier positions were a Senior Scientist followed by a Unit Leader under RIKEN, Japan from 2006 to 2010. He started out as a Senior Researcher with K.K. DNAform, Biotech company in 2002. Dr Lezhava’s research interest is in Translational research, Molecular Diagnostics, Genomics technology development, and he has published as many as 50 research papers, holds four patents, and approximately 40 technical disclosures. For his outstanding contributions to research, he has received the Suzuken Memorial Foundation award in 2007, and Letter of Appreciation from the President of RIKEN in 2009. Dr Lezhava graduated with a PhD from the Hiroshima University, Faculty of Engineering, Department of Fermentation Technology, and Master of Science from Tbilisi State University, Faculty of Biology, Department of Genetics, in 1996 and 1990 respectively. His philosophy is “Professionalism and Teamwork of the Group are keys for successful activities”. Therefore as a group leader and a Programme Director, his task is to attract motivated individuals with a strong background from both industry and academia.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/alexander-lezhava",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/al.png?sfvrsn=b637a2ae_1"
+  },
+  {
+    "id": "astar-sign-anand-andiappan",
+    "name": "Anand Andiappan",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Anand Kumar Andiappan obtained his undergraduate degree from St. Peters Engineering College, Anna University in 2006 where he studied Industrial Biotechnology. He started his research career in the department of Biological Sciences in NUS, specialising in genetics of atopy and allergies in Singapore. He then moved to A*STAR in 2012 where he started as a post-doc at Olaf Rotzschke laboratory where he published the comprehensive study on atopic sensitisation and allergies in Singapore. Together with NUH, they also characterised multiple functional candidates for allergic diseases like BDNF, ORMDL3, CTLA-4, FCER1A. He then started his laboratory in SIgN in July 2018 on receiving the NMRC Young Investigator award (OF-YIRG). Currently his lab focuses on molecular profiling of biomarkers for allergies, infection and respiratory disorders (AIR biomarkers). He recently was also awarded a career development award (CDA) from A*STAR for “Novel Treatment Directions for Atopic Dermatitis in Asia: From Clinical Phenotypes to Molecular Endotypes”. Research focus: Currently his lab focuses on molecular profiling of biomarkers for allergies, infection and respiratory disorders (AIR biomarkers). Understanding the underlying pathophysiology of complex diseases is essential to strategize targeted therapy and effective treatment. Here we use gene expression and protein characterisation at the specific cell-type level to come up with immunopathophysiology of these allergic and respiratory phenotypes.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/anand-andiappan",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/photo83f0438c19e54b8586202436131fb572.jpg?sfvrsn=f166f728_2"
   },
   {
     "id": "astar-imcb-anand-jeyasekharan",
@@ -88,20 +138,41 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-benjamintan.jpg?sfvrsn=83a45586_1"
   },
   {
-    "id": "astar-imcb-bin-tean-teh",
-    "name": "Bin Tean Teh",
+    "id": "astar-gis-benson-chen",
+    "name": "Benson Chen",
     "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Research Scientist",
     "roles": [
-      "Chromatin therapeutics"
+      "Laboratory of EpiMetaGenomics 6808 8027"
     ],
     "research_areas": [
-      "Chromatin therapeutics"
+      "EpiMetaGenomics 6808 8027"
     ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-binteanteh.jpg?sfvrsn=aa2fa631_1"
+    "summary": "While every cell within the body shares identical genetic information, the epigenome, which contains various biochemical modifications on DNA or histones, is dynamically modulated by diverse environmental signals to regulate gene expression in different tissues and cell types. More recently, large-scale epigenetic profiling studies from various consortia, such as ENCODE (Encyclopedia of DNA elements), Roadmap Epigenomics Projects, and the Cancer Genome Atlas (TCGA) program, have identified millions of putative enhancers from > 1,000 human cell/ tissue types and begun to shed light on the altered chromatin landscape during disease progression. However, the functionality of putative enhancers is largely uncharacterized. This lack of functional annotation has hampered our ability to interpret and explore the mechanisms of putative risk variants in human disease. In addition to the host genome, trillions of bacteria live inside the gastrointestinal tract (the gut microbiota) and are the major source of diverse environmental signals. Although correlations have been made between the development of different chronic diseases and the imbalance of the gut microbiota, it is still unclear how the gut microbiota contributes to gene dysregulation and leads to the onset and progression of human diseases. We have developed several advanced functional perturbation approaches for in vitro and in vivo studies to dissect the complex interactions between the gut microbiota and the host genome. Our primary research aims to 1) discover functional enhancers under different physiological conditions, 2) understand how the environmental conditions modulate host epigenome, and 3) establish a predictive model to evaluate the effects of human genetic variants modulated by environmental signals. We are in the early stage of achieving precision medicine. Understanding the interactions between the gut microbiota and the host, metabolite regulation within the gut microbiota, and how epigenetic regulation is affected will be crucial and necessary to help achieve this goal. We welcome talented postdoctoral fellows, computational biologists, and students to join us. For more information, please visit our lab website ( https://bensonchenlab.com ).",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/benson-chen",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/benson-chen-website-revamp.png?sfvrsn=c734b5cc_1"
+  },
+  {
+    "id": "astar-bii-bond-peter-j",
+    "name": "Bond Peter J.",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Senior Principal Investigator",
+    "roles": [
+      "Research Group: Multiscale Simulation, Modelling and Design"
+    ],
+    "research_areas": [
+      "Multiscale Simulation",
+      "Modelling and Design"
+    ],
+    "summary": "Peter J. Bond is a Senior Principal Investigator of the Multiscale Simulation, Modeling and Design (MSMD) group at the Bioinformatics Institute (BII) A*STAR, Singapore, and Adjunct Associate Professor at the National University of Singapore (NUS). His research interests include host-pathogen interactions, receptor signaling, and virus dynamics. Following his graduation in Biochemistry at the University of Oxford in 2001, Peter moved to the Laboratory of Molecular Biophysics to read for a DPhil, supported by a Wellcome Trust Prize Studentship, and was subsequently awarded an EMBO Long-Term Fellowship hosted at the Max Planck Institute of Biophysics in Frankfurt. In 2010, he became a University Lecturer at the University of Cambridge, before moving to Singapore in late 2013.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/bsmd/msmd",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-pete.png?sfvrsn=94758ef9_4"
   },
   {
     "id": "astar-imcb-camilo-libedinsky",
@@ -137,6 +208,77 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-carolinewee.jpg?sfvrsn=159ffad7_1"
+  },
+  {
+    "id": "astar-bii-chen-jinmiao",
+    "name": "Chen Jinmiao",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Senior Principal Scientist",
+    "roles": [
+      "Research Group: Single-Cell Multi/Spatial-Omics and Precision Immunology"
+    ],
+    "research_areas": [
+      "Single-Cell Multi",
+      "Spatial-Omics and Precision Immunology"
+    ],
+    "summary": "Dr. Jinmiao Chen, a Senior Principal Scientist I at the Bioinformatics Institute (BII), leads cutting-edge research focused on AI-powered single-cell and spatial omics analysis. Her work is instrumental in advancing precision medicine by developing tools and methodologies that make complex biological data more accessible and interpretable for scientists worldwide. Research Focus Dr. Chen’s research centers around the integration of artificial intelligence with omics technologies to decipher cellular mechanisms at unprecedented resolution. She has made significant strides in the development of computational tools and omics databases that address the challenges posed by the complexity, scalability, and accessibility of single-cell and spatial omics data. Achievements and Recognition Dr. Chen’s contributions have earned her numerous accolades, including being named an EMBO Global Investigator (2024-2027), a Highly Cited Researcher by Clarivate Analytics (2020-2023), and an A*STAR Fellow (2023-2026). Her work is also recognized in the SG 100 Women in Tech initiative. Collaboration and Impact Dr. Chen's work stands at the forefront of integrating AI with biological research, and her contributions are poised to make a lasting impact on the field of precision medicine, offering new tools and insights that are accessible to a wide range of researchers. Beyond her publications and tool development, Dr. Chen is dedicated to sharing her findings and tools with the broader scientific community. The DISCO Data Hub and the ezSingleCell platform established by her lab offer open-access resources for single-cell and spatial omics. These platforms facilitate collaboration, data sharing, and analysis across institutions worldwide. Their global reach ensures that valuable data and tools are accessible to researchers everywhere, accelerating the pace of discovery.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/ciid/asasoafpi",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/image.jpeg?sfvrsn=a0f4a884_0"
+  },
+  {
+    "id": "astar-gis-chen-kok-hao",
+    "name": "Chen Kok Hao",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Group Leader",
+    "roles": [
+      "Laboratory of Imagenomics"
+    ],
+    "research_areas": [
+      "Imagenomics"
+    ],
+    "summary": "We are a group of researchers interested in developing and applying a new kind of 'in situ omics' technology for spatially resolved systems biology. We use state of the art microscopy, fluidics, and Next-gen Sequencing, combined with cutting edge computational tools to analyze genomics, transcriptomics, and other information of single cells from and within complex tissues. Such 'in situ omics' data can reveal molecularly defined cell types, gene networks, as well as cellular signaling events within their spatial context, all of which are critical for understanding tissue biology and disease mechanisms. For more information, visit our lab website https://khchenlab.github.io/. Currently, we have several opportunities for talented researchers to work on the design, execution, and analysis of single-cell spatial transcriptomics experiments involving healthy and pathological tissues. If you are interested, contact us (email:chenkh@gis.a-star.edu.sg).",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/kok-hao-chen",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/chen-kok-hao-cropped_faculty-website-revamp.png?sfvrsn=68cc26d6_1"
+  },
+  {
+    "id": "astar-sign-cheng-i-wang",
+    "name": "Cheng-I Wang",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Tests in animal models are underway to establish the properties of the antibodies in vivo",
+      "This technology is now being applied to our enterovirus project"
+    ],
+    "summary": "Dr Cheng-I Wang joined SIgN in 2009 as head of the human monoclonal antibody technology platform, focusing on the discovery and development of human antibodies against infection and immune disorders. Prior to joining SIgN, Dr Wang had worked in the field of drug discovery for a number of biotechnology and pharmaceutical companies in the US. His research has been focusing on designing novel functions into protein and antibody molecules using a combination of structure-based rational design and combinatorial approaches. Dr Wang received his Ph.D. in Chemistry from Washington University and postdoctoral training in the Department of Pharmaceutical Chemistry at the University of California, San Francisco. Research focus: Research Focus Our laboratory explores the therapeutic and prophylactic potential of human monoclonal antibodies against infection and autoimmune diseases using a wide range of antibody discovery technologies. Using EBV-immortalized B cells we have successfully isolated multiple Chikungunya virus-neutralizing monoclonal antibodies from an infected individual. Tests in animal models are underway to establish the properties of the antibodies in vivo. We are applying the same technology to isolate auto-antibodies recognizing pro-inflammatory cytokines in both healthy donors and autoimmune patients. Another antibody technology we are currently exploring utilizes sophisticated cell sorting techniques in conjunction with recombinant antibody technology. Recombinant antibodies from antigen-specific memory B cells are displayed on the surface of the mammalian cells, allowing target specific monoclonal antibodies to be isolated by FACS. This technology is now being applied to our enterovirus project. The ability to isolate human monoclonal antibodies not only allows us to discover potential therapeutics but also facilitates our understanding of the human B cell response to different diseases.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/cheng-i-wang",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/cheng-i.jpg?sfvrsn=96c10e2b_2"
+  },
+  {
+    "id": "astar-gis-chew-wei-leong",
+    "name": "Chew Wei Leong",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Group Leader",
+    "roles": [
+      "Laboratory of Synthetic Biology & Genome Editing"
+    ],
+    "research_areas": [
+      "Synthetic Biology & Genome Editing"
+    ],
+    "summary": "We build technologies to rewrite the genome | Our research broadly covers synthetic biology and technology development, with focus on genome-editing, immunology, and gene therapy. To invent genome engineering technologies, we capitalize on nucleic acid manipulation, protein engineering, directed evolution, and high-throughput methodologies. Our overarching motivation is to establish safe and efficacious genome therapeutics for routine human use. Lab Website Pubmed Google Scholar * We are recruiting; email and come chat!",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/wei-leong-chew",
+    "lab_url": "http://chewlab.github.io",
+    "scholar_url": "https://scholar.google.com/citations?user=5B8BCiEAAAAJ&hl=en",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/cwl.png?sfvrsn=6ac29257_1"
   },
   {
     "id": "astar-imcb-chit-fang-cheok",
@@ -261,6 +403,25 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-crystaljingjingyeo.jpg?sfvrsn=d252d62_1"
   },
   {
+    "id": "astar-gis-daniel-tan",
+    "name": "Daniel Tan",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Clinician Scientist",
+    "roles": [
+      "Laboratory of Translational Cancer Biology"
+    ],
+    "research_areas": [
+      "Translational Cancer Biology"
+    ],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/daniel-tan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/daniel-tan-website-revamp.png?sfvrsn=82f0bf4f_1"
+  },
+  {
     "id": "astar-imcb-darren-lim",
     "name": "Darren Lim",
     "institution": "A*STAR",
@@ -368,6 +529,20 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-faridghadessy.jpg?sfvrsn=e85bef3b_1"
   },
   {
+    "id": "astar-sign-florent-ginhoux",
+    "name": "Florent Ginhoux",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Dendritic Cell and Macrophage Ontogeny"
+    ],
+    "summary": "Florent Ginhoux graduated in Biochemistry from the University Pierre et Marie CURIE (UPMC), Paris VI, obtained a Masters degree in Immunology from the Pasteur Institute in 2000 and his PhD in 2004 from UPMC, Paris VI. As a postdoctoral fellow, he joined the Laboratory of Miriam Merad in the Mount Sinai School of Medicine (MSSM), New York. In 2008, he became an Assistant Professor in the Department of Gene and Cell Medicine, MSSM and member of the Immunology Institute of MSSM. He joined the Singapore Immunology Network (SIgN), A*STAR in May 2009 as a Junior Principal Investigator. He is now a Senior Principal Investigator and an EMBO Young Investigator and his laboratory is focusing on the ontogeny and differentiation of macrophages and dendritic cells in both humans and mice. Research focus: Dendritic Cell and Macrophage Ontogeny Dendritic cells (DCs), monocytes and macrophages play crucial and distinct roles in tissue homeostasis and immunity, but also contribute to a broad spectrum of pathologies and are thus attractive therapeutic targets. Potential intervention strategies aiming at manipulation of these cells will require in-depth insights of their origins and the mechanisms that govern their homeostasis. The focus of the laboratory is to understand the ontogeny of DCs, monocytes and macrophages, their differentiation pathways and how their unique ontogeny dictates their immune functions. Our approach encompasses the integration of high dimensional platforms such as RNAseq, single cell transcriptome analysis using microfluidic RNA sequencing and deep immunophenotypic assessment using state of the art 18 parameters flow cytometry or Cytometry by Time-Of-Flight mass spectrometry (CyTOF) (In collaboration with Dr Evan Newell, SIgN). Such high density molecular profiling at the single level and at unprecedented dimensionality and complexity will provide new insights in the biology of DC, monocyte and macrophage cell populations. Defining macrophage and DC populations on the criteria of their origin may aid our understanding of their discrete roles in tissue immunity and homeostasis, as ontogeny of DC and macrophage subsets likely underlie their functional specializations.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/joint-principal-investigators/florent-ginhoux",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/florent.jpg?sfvrsn=3871e36b_2&MaxWidth=190&MaxHeight=230&ScaleUp=true&Quality=High&Method=ResizeFitToAreaArguments&Signature=ABA0AE723E3D32AAB8211244AD4880DA78CFC9E5"
+  },
+  {
     "id": "astar-imcb-fong-tian-wong",
     "name": "Fong Tian Wong",
     "institution": "A*STAR",
@@ -408,6 +583,23 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-haiyan.jpg?sfvrsn=e49bec33_1"
   },
   {
+    "id": "astar-bii-huber-roland-g",
+    "name": "Huber Roland G.",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Principal Investigator",
+    "roles": [
+      "Research Group: Function and Structure of RNA"
+    ],
+    "research_areas": [
+      "Function and Structure of RNA"
+    ],
+    "summary": "Dr. Roland G. Huber studied computational biology at the University of Innsbruck and at Yale University. After obtaining his PhD he commenced postdoctoral research at A*STAR in Singapore and was appointed as principal investigator in 2019. His group at the Bioinformatics Institute is primarily interested in the interplay of structure and function of RNA in gene regulation and infectious disease using statistical modeling, multi-omics data, and molecular simulations to reveal the structures and functional mechanisms of folded RNA and RNA-protein complexes. The group has previously worked on a variety of tropical and emerging infectious diseases including Dengue, Zika, and SARS-CoV-2. Other areas of interest are multi-omics and metagenomic analysis, particularly in the fields of animal health & aquaculture, and human immunology & ageing. Roland G. Huber’s research focuses on the structure and function of RNA. The key focus in on integrating sequence, structural, and computational methods to elucidate key functional regions of viral and human RNA. RNA adopts a wide diversity of structure, but at the same time exhibits a high degree of flexibility and a plurality of interactions. This makes functional RNA structures challenging to approach with classical biomolecular structure elucidation techniques alone, and calls for new integrative data analysis approaches.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/bsfd/fsrna",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-roland.tmb-medium.png?Culture=en&sfvrsn=e7e42397_1"
+  },
+  {
     "id": "astar-imcb-huynh-the-hung",
     "name": "Huynh The Hung",
     "institution": "A*STAR",
@@ -422,6 +614,39 @@
     "summary": "",
     "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-huynhthehung.jpg?sfvrsn=d8df38b9_1"
+  },
+  {
+    "id": "astar-gis-iain-tan",
+    "name": "Iain Tan",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Clinician Scientist",
+    "roles": [
+      "Laboratory of Applied Cancer Genomics"
+    ],
+    "research_areas": [
+      "Applied Cancer Genomics"
+    ],
+    "summary": "Translational Research is a team sport! Find out more about my team and our research philosophy at the link below: Video : Pursue your Passion ! (SYA 2014) Our Research Focus: We're a translational research team. Our approach is to identify specific situations where advances in science & technology can be exploited to overcome current challenges in the clinical management of cancer. We focus on 3 areas: 1. Real-time diagnostics -- non-invasive testing with circulating cell free DNA. This research is performed in partnership with Dr. Sarah Ng from the Genomic Innovation lab. A. Early detection of cancer recurrence : We're working on finding new diagnostic methods for early detection of cancer recurrence. Cancer patients always face the risk of their cancer returning even after it has been removed. With colorectal cancer, if we pick it up early, there's still chance we can cure our patients, even if the cancer comes back. We're seeking to develop the most accurate, reliable, ultra-sensitive test that can detect recurrence at its earliest stages. B. Inform choice of the right drug combination for the right patient at the right time. Drug resistance is a major problem in the clinic. During treatment, Cancer constantly evolves and acquires different genetic alterations leading to escape from therapeutic control. ctDNA offers a route to identify evolving alterations in real time thus equipping physicians with knowledge to stay ahead by individualizing the most optimal drug combination to control each patient's cancer across time. 2. Metastasis : In the clinic, current targeted therapies are able to shrink tumors (tumor regression) but have generally failed to prevent metastasis. Cancer is fatal because it invades and metastasizes to distant organs. Working together with Dr. Clarinda Chua (medical oncologist, NCCS), A/P Dasgupta and Dr. Tam Wai Leong (GIS), we are using patient-derived models to study mechanisms of metastasis & drug resistance and identify treatment strategies designed specifically to prevent metastasis. 3. Immuno-oncology: Our approach uses patient-derived immune cells (tumor infiltrating and peripheral immune cells) with corresponding patient derived tumor models. We seek to characterize effective and ineffective immune response in colorectal cancer and develop individualized immunotherapeutic approaches leveraging on genomic and experimental characterization of immune cells, tumor cells from the same patient. Our research platform puts together a strong translational research team comprising Dr. Koo Si-Lin (medical oncologist, NCCS), A/P Dasgupta Ram & Dr. Paul Choi (GIS) and Dr. Evan Newell (SIGN).",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/iain-tan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/iain-tan-website-revamp.png?sfvrsn=8aafa79f_1"
+  },
+  {
+    "id": "astar-sign-immanuel-kwok",
+    "name": "Immanuel Kwok",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Systems Immunology and Immune Engineering"
+    ],
+    "summary": "Dr Immanuel Kwok graduated from Nanyang Technological University in 2020 with a PhD in Immunology for his work in Dr Ng Lai Guan’s group at the Singapore Immunology Network, A*STAR, where he used a combination of mouse models, high dimensional cytometry and sequencing tools to characterise the developmental heterogeneity of neutrophils. He then continued as a postdoctoral fellow to discover the existence of two discrete neutrophil progenitors in mouse and humans, using single-cell sequencing and bioinformatic approaches to augment his research. He was awarded the A*STAR Career Development Fund in 2021 to use spatial-omics method to understand and modulate haematopoiesis and stem cell expansion. In December 2024, Immanuel was promoted to Group Leader to start his laboratory after being awarded the National Medical Research Council (NMRC) Young Investigator Research Grant (OF-YIRG) and the SRIS Joint Research Grant in 2024. Under these funding, he aims to develop novel therapeutic tools and targets modulating immune cells in human cancers and fibrotic skin diseases. Research focus: Systems Immunology and Immune Engineering The immune system is a complex yet fascinating orchestration of well-defined players with in-built adapting mechanisms vital for survival throughout evolution. Research over the past 100 years have only begun to dissect its intricate interactions and processes of each immune player in homeostatic and disease conditions. With such a wide variety of cell types and interacting partners, it is critical to understand immune responses using a system-based approach, where deducing the crosstalk between players underlie the consequential phenotypes of diseases. Our research integrates single-cell sequencing, spatial-omics, and transgenic mouse models to determine molecular mechanisms driving pathological states in myeloid cells and the targetable pathways that modulate these states. We focus our efforts through 2 specific areas: (1) Understanding the mechanisms governing reprogramming of tumour neutrophils through CRISPR/Cas9 editing systems . Based on our recent findings, we seek to establish an in-depth understanding of myeloid cell reprogramming within the tumour microenvironment. Using genetic editing tools and adoptive cell transfer experiments, our research aims to elucidate the key pathways and cell-cell interactions governing the acquisition of pro-tumoral functions in neutrophils. (2) Understanding the localised role of dermal mast cells in keloid scars . Using single cell, spatial technologies and in vitro culture screening assays, we aim to determine the function of mast cells in pathogenesis and identify novel gene targets to inhibit keloid formation. Our interests extend beyond fibrotic skin diseases, as we apply our systems-based approach to understand disease mechanisms and engineer the appropriate immune responses.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/immanuel-kwok",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/immanuel_gl2-small.jpg?sfvrsn=e0f447fa_1"
   },
   {
     "id": "astar-imcb-jayantha-gunaratne",
@@ -497,20 +722,44 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-john-connolly.jpg?sfvrsn=56cd10ad_1"
   },
   {
-    "id": "astar-imcb-johnny-ong",
+    "id": "astar-gis-johnny-ong",
     "name": "Johnny Ong",
     "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Clinician Scientist",
     "roles": [
-      "Advanced cancer translational therapeutics"
+      "Laboratory of Applied Human Genetics"
     ],
     "research_areas": [
-      "Advanced cancer translational therapeutics"
+      "Applied Human Genetics"
     ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-johnnyong.jpg?sfvrsn=dd8c1460_1"
+    "summary": "Advanced cancer translational therapeutics Our laboratory is an interdisciplinary laboratory, with a specific focus on peritoneal and sarcoma malignancies. The dual-hatting of surgeon–scientists in the Department of Sarcoma, Peritoneal and Rare Tumours (SPRinT), NCCS, gives our laboratory an intrinsic advantage by combining our clinical practice with laboratory research, effectively paving the way for bench-to-bedside translational research. We are a group of young and enthusiastic team of researchers with a vision of making an impact on patients’ lives through sound scientific research and to harness technology to transit scientific research to clinical care beyond proof of concept. Our laboratory’s area of expertise harnesses this advantage, allowing for a) multi-sampling of surgically collected samples to correct for intra-tumoral heterogeneity, b) rapid transfer of tissues to prevent degradation, and c) generation of in vivo mouse models of human samples. Our approach to solving clinical questions with translational relevance and addressing hypotheses is illustrated in Figure 1. There are three main pillars to our laboratory - translational therapeutics, innovation and academic pursuits. Translational Therapeutics In 2022, we detailed the identification of a key paracrine factor (PAI-1) found within the fluid microenvironment of the peritoneal cavity, which can be directly targeted via ligand inhibition, providing proof of concept of therapeutic perturbation in peritoneal metastases (PM) ( Hendrikson et al., 2022 ), which was published in Cell Reports Medicine and featured as the cover image of the journal issue. Building upon this, we included paracrine inhibition as a key therapeutic strategy in tackling PM in our review article in Journal of Clinical Oncology ( Gwee et al., 2022 ). Recently, we highlighted the potential utility of our novel antibody in the treatment of colorectal PM in Clinical Cancer Research ( Ong et al., 2025 ). Innovation Our patent describing the use of biomarkers for molecular stratification of PM patients to predict response to PAI-1 ligand inhibition is currently in the National phase review in 5 countries (China, USA, Europe, Singapore and Taiwan). We have also filed for a PCT for novel biologics that target PAI-1 in June 2025. Academic Pursuits Our team has published extensively in the field of peritoneal disease and sarcomas. To date, we have published close to 45 articles including publications in high impact factor journals. We are also highly committed in nurturing the next generation of scientists and clinician scientists. Within our laboratory, we have formulated an informal program to stimulate the interests of surgical residents and junior doctors to pursue scientific research that can accommodate their hectic schedules. We have had significant success in this area; we have mentored more than 40 residents, junior doctors and medical students, many of which have published in Top 10/ 20% journals and presented in local and international conferences by working together with us. Selected Publications Wu KZ, Ding RH, Zhao Z... Ong C-AJ* , Fong ELS* (2025) Hydrogel-mediated preservation of live tumour explants for drug development in peritoneal metastases. Adv Mater 37 (33): e2418647 (* Co-corresponding authors, JIF: 26.8) Ong C-AJ*^ , Zhao JJ*, Liu Y* et al. (2025) Spatial heterogeneity, stromal phenotypes, and therapeutic vulnerabilities in colorectal cancer peritoneal metastasis. Clin Cancer Res 31 (12): 2515-2529 (* Equal contribution, ^ Co-corresponding authors, JIF: 10.2) Sundar R, Chia DKA, Zhao JJ... Ong C-AJ et al. (2024) Phase 1 PIANO trial-PIPAC-oxaliplatin and systemic nivolumab combination for gastric cancer peritoneal metastases: clinical and translational outcomes. ESMO Open 9 (9): 103681(JIF: 8.3) Zhao JJ*, Ong C-AJ* , Srivatsava S et al. (2024) Spatially resolved niche and tumor microenvironmental alterations in gastric cancer peritoneal metastases. Gastroenterology 167 (7):",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/johnny-ong",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/2018_johnnyong_10638-professional_faculty-page.png?sfvrsn=d385f554_1"
+  },
+  {
+    "id": "astar-gis-jonathan-goke",
+    "name": "Jonathan Göke",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Assistant Director",
+    "roles": [
+      "Assistant Director, AI & Compute Senior Group Leader",
+      "Laboratory of Computational Transcriptomics"
+    ],
+    "research_areas": [
+      "Computational Transcriptomics",
+      "AI & Compute Senior Group Leader"
+    ],
+    "summary": "The Laboratory of Computational Transcriptomics (PI: Jonathan Göke) develops computational methods for high throughput, long read RNA sequencing data. The team combines machine learning, statistics, and algorithms to identify new RNAs, quantify RNA expression, and profile RNA modifications. We work together with experimental teams and clinicians to apply these methods to cell lines, model systems and patient samples to study the role of RNA expression and modifications in cancer and neurodegenerative diseases such as Alzheimer’s disease. Dr Jonathan Göke is a group leader at the Genome Institute of Singapore and Adjunct Associate Professor at the Department of Statistics and Data Science at the National University of Singapore. He obtained his PhD in Computer Science and Mathematics from the Max Planck Institute for Molecular Genetics/Freie Universität Berlin (Germany). Dr Göke has received scholarships from the Max Planck Society and the German Academic Exchange Service (DAAD), he was selected as GIS Fellow (2014-2016) and A*STAR Fellow (2024-2027). In 2024, Dr Göke received the Young Scientist Award by the Singapore National Academy of Science and the National Research Foundation “for his pioneering work in developing computational methods for long read RNA sequencing data that have enabled the profiling of RNA transcription and modifications at unprecedented resolution and accuracy.” ➡️ To find out more about the Laboratory of Computational Transcriptomics, visit the lab website for latest news on publications, preprints, conference talks and job offers: https://www.jglab.org ➡️ Visit the GitHub page for code and documentation: https://github.com/goekelab ➡️ Follow news from the team on X , and Jonathan Göke on Bluesky , X , or Linkedin Postdoc positions and PhD scholarships available! Please contact Jonathan Göke for details In the News A*STAR Research (1/2025): 'Guiding stars at scientific frontiers' Straits Times (10/2024): '4 young scientists in Singapore receive award for pushing boundaries in their fields' Channel News Asia (10/2024): 'Young Scientist Award: Dr Daniel Ting and Dr Jonathan Göke on use of AI in ophthalmology, RNA research' National Research Foundation (10/2024): ‘The President’s Science and Technology Awards 2024: Young Scientist Awards (YSA)’ A*STAR Research (6/2024): ‘Charting activity in genetic cityscapes’ Asian Scientist (03/2023): 'AI Can Help Identify Diseases Early' GenomeWeb (6/2021): ‘Nature Papers Present Method to Uncover Differential RNA Modifications, Neutrophils in Innate Immune Response’",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/jonathan-göke",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/jonathan-goke-website-revamp-2f64d0307-5bce-4774-a004-b8062bbdb3d2.png?sfvrsn=6c3a8602_1"
   },
   {
     "id": "astar-imcb-jonathan-loh-yuin-han",
@@ -565,6 +814,102 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-limkahleong.jpg?sfvrsn=bbe1d84a_1"
   },
   {
+    "id": "astar-sign-kenji-kabashima",
+    "name": "Kenji Kabashima",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "Kyoto University Graduate School of Medicine",
+    "roles": [],
+    "research_areas": [],
+    "summary": "In our department, we have focused on skin immunology and allergy. We have made great achievements on the pathogenesis of the allergic skin diseases, especially atopic dermatitis, by in vivo imaging using two-photon microscopy and gene-targeted mice. Other research interests include pathogenesis of itch, elucidation of the significant role of regulatory T cells in the skin, and cancer immunology. We consider that all basic researches should be evaluated in the perspective of clinical impacts, because we should give research profits back to clinical dermatology in the end. For graduate students, clinical motivation is mandatory to start basic research, which in turn broadens their capacity as physician-scientists.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/joint-principal-investigators/kenji-kabashima",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/kenji.jpg?sfvrsn=5742d264_2&MaxWidth=190&MaxHeight=230&ScaleUp=true&Quality=High&Method=ResizeFitToAreaArguments&Signature=E958E0A8C252E0E2A88FBF06704668A712D69BAC"
+  },
+  {
+    "id": "astar-gis-khor-chiea-chuen",
+    "name": "Khor Chiea Chuen",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Chief Technology Officer",
+    "roles": [
+      "Chief Technology Officer Associate Director, Population Health",
+      "Laboratory of Complex Disease Genetics"
+    ],
+    "research_areas": [
+      "Complex Disease Genetics",
+      "Population Health"
+    ],
+    "summary": "Many a time, we observe (and sometimes even comment) that a friend's child bears a striking resemblance to his/her parent. This is a profound testimony to the contribution of hereditable elements which shape our being. We now go one little step further and ask: 'Are some of the diseases afflicting us linked, in one way or another, to our genetic makeup?\" Although I qualified as a medical doctor, I realized that my calling was to pursue medical research in a full-time manner. My interest has always been to study the determinants which predispose otherwise healthy human beings to disease, and to see if the information so gathered can be used to help patients. Unfortunately, we do not fully understand how disease processes work. I enjoy conducting genetic studies because more often than not, the findings illuminate medical science, and have an opportunity to change clinical practise for the better in the long term. My laboratory practise spans many areas of human genetics studied across diverse human traits and disease conditions, with the long term goal of translating genetic findings into predictive medicine to improve healthcare in Singapore. I also serve as Acting Platform Leader for the Institute's Combined Genotyping and Sequencing Service. ---------------------------------------------------- Research program team-mates Zheng Li, M.D., PhD (Staff Scientist) Soo Hui Meng (Laboratory Manager) Sim Kar Seng (Bioinformatics Manager) Xie Zhicheng, PhD (Senior Research Officer) Peh Su Qin (Senior Research Officer) ----------------------------------------------------- GIS combined Genotyping and Sequencing Platform Genotyping service team-mates Meah Wee Yang (Laboratory Manager) Mok Shi Qi (Research Officer; Illumina GWAS lead) Chen Xiao Yin (Senior Research Officer; Illumina GWAS co-lead, sequencing library preparations) Heng Khai Koon (Senior Research Officer; Affymetrix GWAS lead) Zhang Zhenshui (Senior Research Officer; Sample extractions and QC) Next-Generation Sequencing service team-mates Low Hwee Meng (Assistant Laboratory Manager; Oxford Nanopore and long read platforms) Jo Ong Chin Thing (Senior Research Officer; Administrative Lead) Lee Yen Ling (Senior Research Officer; Illumina platform and QC lead) Desmond Ng Poh Yong (Senior Research Officer; Sequencing Library preparation) Dawn Choi (Senior Research Officer; Sequencing Library preparation) Alumni Dennis Tan Eng Kiat (Research Officer) Current position: PhD student, University of Western Australia Wong Chang Hua (Senior Research Officer; Sequenom lead) Goh Yufen (Research Officer) Masahiro Miyake, M.D. (Visiting Scholar from Kyoto University) Toh Kai Yee (Research Officer) Current Position: Executive, School of Public Health, National University of Singapore Seng Zi Jing (Laboratory Officer) Current Position: Research Officer and Graduate Student, Nanyang Technological University Zhang Jingyao (Research Fellow) Current Position: Research Fellow, GIS-ATRECA laboratory",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/chiea-chuen-khor",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/cc-khor139.png?sfvrsn=5aff3ba6_1"
+  },
+  {
+    "id": "astar-bii-koh-winston",
+    "name": "Koh Winston",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Assistant Principal Investigator",
+    "roles": [
+      "Research Group: Molecular Innovations and AI Integration"
+    ],
+    "research_areas": [
+      "Molecular Innovations and AI Integration"
+    ],
+    "summary": "Winston is a bioengineer who obtained his PhD and MS in Bioengineering from Stanford University, after completing his BS in Bioengineering at Imperial College London. After his PhD, Winston joined Molecular Stethoscope, a startup based on his doctoral work, where he worked as a research scientist and scientific consultant. Returning to Singapore and A*STAR, Winston pursued postdoctoral training in the Molecular Engineering Lab under the leadership of Prof Sydney Brenner. His work in the lab led him to receive the NMRC OF-YIRG award, enabling him to spearhead research on RNA-based liquid biopsies, an emerging field that focuses on non-invasive diagnostic testing, since then Winston's work has been covered applications on prenatal, cancer, and infectious disease diagnostics. He combines liquid biopsies with bioinformatics techniques to achieve accurate and efficient diagnostic outcomes. Alongside his expertise in non-invasive diagnostics, Winston has also delved into machine learning applications for clinical genomics data. He serves as a scientific consultant for local startups, assisting them in operationalizing artificial intelligence for multi-modal genomic datasets, such as single-cell RNA sequencing. Driven by his commitment to sustainability, medicine, and biological applications, Winston's current research focuses on harnessing the power of generative AI in the field of molecular engineering. The vision is to develop innovative technologies that not only address clinical needs but also contribute to the broader context of sustainability.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/bsfd/miaii",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/winston-koh.jpg?sfvrsn=902f8bff_0"
+  },
+  {
+    "id": "astar-sign-kong-peng-lam",
+    "name": "Kong Peng Lam",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Studying immune cell and receptor signaling",
+      "Deciphering immune contribution to and resolution of diseases",
+      "Developing and engineering immuno-therapeutics against various human ailments"
+    ],
+    "summary": "Kong-Peng Lam obtained his BA (summa cum laude) at the University of Minnesota and his M.A., M. Phil and PhD at Columbia University in the USA. Thereafter he joined the Institute for Genetics at the University of Cologne in Germany as a postdoctoral research scientist, where he was awarded both the European Molecular Biology Organisation (EMBO) and Human Frontier Science Program (HFSP) long-term fellowships to study B cell development using conditional gene knockout approaches. He returned to Singapore in 1998 and assumed the position of Principal Investigator at the Institute of Molecular and Cell Biology (IMCB). In 2002-3, he attended the Sloan Fellow Program at Stanford University Graduate School of Business where he graduated with an MSc (Management) degree. He was seconded to Singapore’s Agency for Science, Technology and Research (A*STAR) Biomedical Research Council (BMRC) where he served as Director (2003), Deputy Executive Director (2004) and Executive Director (2005-2006). He contributed to the establishment of Biopolis and was instrumental in setting up its key infrastructure. He also played a major role in procuring the national funding for biomedical research for 2006 to 2010 under the S&T2010 plan. Kong-Peng returned to full-time research and was the founding Executive Director of the Singapore Immunology Network (SIgN) from 2006 to 2008. He conceptualised its research programs and set up its physical laboratories. He joined the Bioprocessing Technology Institute (BTI) as Scientific Director in 2009 and was its Executive Director from 2011 to 2020. Under his leadership, BTI expanded its research in Biologics Discovery & Development, Cell Therapy and Analytical Science & Technology and established major research collaborations with international and local biopharma and biotech companies such as GSK, Amgen, SCIEX, Waters, Bio-Rad, Organo, Biosana, Prestige, and Esco-Aster. Kong-Peng was re-appointed Executive Director of SIgN in July 2020 to re-shape and reposition the institute for RIE2025. Kong-Peng was awarded NUS Outstanding Researcher Award, the Singapore Youth Award in Science & Technology (2000), and the Arthur Kornberg Memorial Medal (2010). He currently served as Vice-President of the Asian Federation of Biotechnology (AFOB) and is also a member of the Scientific Advisory Board of MiRXES, a local biotech that focussed on miRNA as diagnostics. Research focus: Studying immune cell and receptor signaling Deciphering immune contribution to and resolution of diseases Developing and engineering immuno-therapeutics against various human ailments",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/kong-peng-lam",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/lam-kong-peng.jpg?sfvrsn=59e5a40a_3"
+  },
+  {
+    "id": "astar-bii-lawrence-carin",
+    "name": "Lawrence Carin",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Distinguished Principal Scientist",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Lawrence Carin studied electrical engineering at the University of Maryland, College Park, where he earned BS, MS and PhD degrees. His field of study for the PhD was electrophysics. Since earning the PhD, he has self-trained in computer science and applied statistics, and over the last two decades has focused on development of fundamental machine learning (ML) and AI methodology. From 1989-1995 he was an assistant and then associate professor at Brooklyn Polytechnic University (now part of NYU). From 1995-2026 he was an associate professor and then full professor at Duke University, where he also held Distinguished Professor endowed chairs. In addition to his research activities, he served in administrative roles, as the Department Chair in the ECE Department at Duke, and as the Vice President for Research at Duke. He was also the Provost at KAUST. He was the founder of two startups: Signal Innovation Group, which focused on security applications of AI and was acquired by BAE Systems, and Infinia ML, which employed large language models and was acquired by Aspirion. Lawrence Carin has focused on fundamental methodology connected to ML and AI. Areas of emphasis include nonparametric Bayesian ML methods, and more recently deep learning. Significant recent attention has been placed on causal inference. In addition to these fundamental areas of ML/AI, he has directed significant research toward applying such technology to human health, in neuroscience, pathology, ophthalmology, radiology, dermatology and infectious disease.",
+    "profile_url": "https://www.a-star.edu.sg/bii/people",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/larry-carin541bd213-3f4a-4653-9dec-2a418495f3a6.jpg?sfvrsn=8e18201f_1"
+  },
+  {
+    "id": "astar-bii-lee-hwee-kuan",
+    "name": "Lee Hwee Kuan",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Deputy Director (Training and Talent) / Senior Principal Scientist",
+    "roles": [
+      "Research Group: Computer Vision and Pattern Discovery"
+    ],
+    "research_areas": [
+      "Computer Vision and Pattern Discovery"
+    ],
+    "summary": "Dr. Lee Hwee Kuan is a Senior Principal Investigator of the Imaging Informatics division in Bioinformatics Institute. His current research work involves developing of computer vision aglorithms for clinical and biological studies. Dr. Lee obtained his Ph.D. in 2001 in Theoretical Physics from Carnegie Mellon University with a thesis on liquid-liquid phase transitions and quasicrystals. He then held a joint postdoctoral position with Oak Ridge National Laboratory (USA) and University of Georgia where he worked on developing advanced Monte Carlo methods and nano-magnetism. In 2003, with an award from the Japan Society for Promotion of Science, Hwee Kuan moved to Tokyo Metropolitan University where he developed solutions to extremely long time scaled problems and a reweighting method for nonequilibrium systems. In 2005, Dr. Lee returned to Singapore and join Data Storage Institute, A*STAR on investigating novel recording methods such as hard disk recording via magnetic resonance. In 2006, Dr. Lee transferred to BII, A*STAR as Principal Investigator and he leaded the Imaging Informatics Division.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/ciid/cvpd",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-hweekuan.tmb-medium.png?Culture=en&sfvrsn=3c8e0d5e_1"
+  },
+  {
     "id": "astar-imcb-leonard-yeo",
     "name": "Leonard Yeo",
     "institution": "A*STAR",
@@ -602,6 +947,100 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-lesliebeh.jpg?sfvrsn=fa0e5bb7_2"
   },
   {
+    "id": "astar-gis-lim-weng-khong",
+    "name": "Lim Weng Khong",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Research Scientist",
+    "roles": [
+      "Laboratory of Genome Variation Analytics"
+    ],
+    "research_areas": [
+      "Genome Variation Analytics"
+    ],
+    "summary": "Our work focuses on developing tools and workflows that improve clinical variant interpretation. We are particularly interested in the development of improved in silico prediction tools that expand our ability to identify disease-causing variants, especially non-coding ones. Apart from that, due to our strong collaboration with clinicians, we aim to develop and validate clinical genome analytics workflows that incorporate emerging tools and sequencing technologies (e.g., machine learning, long-read sequencing, etc.). As part of Singapore’s National Precision Medicine program, we lead efforts aimed at identifying clinically significant variants present in large-scale sequencing of Singaporeans to better understand the burden of genetic disorders in our population. We are also interested in integration of electronic health records in population health studies in support of genotype-phenotype associations. Example projects Primate Conservation Sequencing Consortium - Working closely with our partners in Mandai Nature and Illumina, we are contributing whole-genome sequences of non-human primates from the Singapore Zoo to this international consortium aimed at creating a comprehensive resource of genomic data to support primate conservation and human biomedical research. Population survey of genetic disease risk - By studying large-scale whole-genome sequencing datasets generated by Singapore’s precision medicine programs (e.g., SG10K, SG100K), we are identifying genetic disorders with high carrier frequencies among Singaporeans of diverse ancestries. To support this, we are developing clinical variant annotation and prioritisation workflows capable of analysing population-scale genome datasets. Long-read sequencing for clinical genomics - Long-read sequencing is making inroads in the field of clinical genetics through its ability to identify variants in ‘challenging’ genomic regions, and complex structural variants. We are developing tools to prioritise such variants, separating potentially disease-causing ones from the vast numbers of candidate variants.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/weng-khong-lim",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/lim-weng-khong-website-revamp.png?sfvrsn=4c5850dd_1"
+  },
+  {
+    "id": "astar-gis-liu-jian-jun",
+    "name": "Liu Jian Jun",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Distinguished Principal Scientist",
+    "roles": [
+      "Laboratory of Human Genomics"
+    ],
+    "research_areas": [
+      "Human Genomics"
+    ],
+    "summary": "The main research interest of Prof Jianjun Liu’s lab is to understand the genetic basis of human disease inheritance and susceptibility. Mainly focusing on complex diseases, his lab pursues collaborative research to discover genetic variants that influence disease susceptibility, progression and treatment outcome by employing both candidate gene-based and genome-wide association analyses. Largely working on Asian populations, his laboratory researches on diverse disease phenotypes, including cancers, autoimmune and inflammatory diseases, neurological and psychiatric disorders, metabolic and cardiovascular diseases, and infectious diseases, which have led to the discovery of many novel susceptibility genes for human complex diseases. Prof Liu’s research also covers pharmacogenomics, particularly the discovery of biomarkers for adverse drug reactions (ADRs) in Asian populations. Recently, Prof Liu has expanded his research to population genomics, for example the SG10K project where 10,000 Singaporeans are being subjected to whole genome sequencing (WGS) analysis. Such population genomic researches are not only driving various precision medicine programs around the world to explore the application of large-scale genomic data in improving clinical and health services, but also facilitating the understanding of genetic structure of modern human populations as well as the extent and distribution of disease predisposing genetic variation in current populations as the result of a long and complicated evolutionary, migratory, and demographic history of human species. In addition, Prof Liu’s lab is also exploring new research directions. For example, his lab is exploring EMR-based genomics where large-scale EMR information and genomic data are being integrated to advance understanding on disease development. Another new direction of research is genome-genome interaction analysis, for example pathogen-host genome interaction in infectious diseases as well as the interaction between germline and somatic mutation in in cancer development. Prof Liu’s lab has also been funded to provid support for many national research programs in Singapore. In particular, he has led the genetic studies of Singapore’s Translational & Clinical Research (TCR) programs on Heart Failure, Parkinson’s Disease and Schizophrenia as well as A*STAR Strategic Position Funding (SPF) programs on cardiovascular disease (ATTRaCT) and pharmacogenomics (SAPhIRE). More recently, his lab has been supporting the large-scale genotyping and WGS analysis for Singapore’s Large Collaborative Grant (LCG) on T2D related complications and the National Precision Medicine program. Publications Wu, D., J. Dou, X. Chai, C. Bellis, A. Wilm, C.C. Shih, W.W.J. Soon, N. Bertin, C.B. Lin, C.C. Khor, M. DeGiorgio, S. Cheng, L. Bao, N. Karnani, W.Y.K. Hwang, S. Davila, P. Tan, A. Shabbir, A. Moh, E.K. Tan, J.N. Foo, L.L. Goh, K.P. Leong, R.S.Y. Foo, C.S.P. Lam, A.M. Richards, C.Y. Cheng, T. Aung, T.Y. Wong, H.H. Ng, S.K. Consortium, J. Liu, and C. Wang \"Large-Scale Whole-Genome Sequencing of Three Diverse Asian Populations in Singapore.\" Cell, 2019. 179(3): p. 736-749 e15.2019/10/19. Abstract Xu M, Yao Y, Chen H, Zhang S, Cao SM, Zhang Z, Luo B, Liu Z, Li Z, Xiang T, He G, Feng QS, Chen LZ, Guo X, Jia WH, Chen MY, Zhang X, Xie SH, Peng R, Chang ET, Pedergnana V, Feng L, Bei JX, Xu RH, Zeng MS, Ye W, Adami HO, Lin X, Zhai W, Zeng YX, Liu J \"Genome sequencing analysis identifies Epstein-Barr virus subtypes associated with high risk of nasopharyngeal carcinoma.\" Nat Genet 2019 Jul ; 51(7) : 1131-1136 Abstract Lam, M., C.Y. Chen, Z. Li, A.R. Martin, J. Bryois, X. Ma, H. Gaspar, M. Ikeda, B. Benyamin, B.C. Brown, R. Liu, W. Zhou, L. Guan, Y. Kamatani, S.W. Kim, M. Kubo, A. Kusumawardhani, C.M. Liu, H. Ma, S. Periyasamy, A. Takahashi, Z. Xu, H. Yu, F. Zhu, C. Schizophrenia Working Group of the Psychiatric Genomics, C. Indonesia Schizophrenia, R.o.s.n.-C. Genetic, N. the, W.J. Chen, S. Faraone, S.J. Gl",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/jian-jun-liu",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/liu-jianjun_667x888-hi-resa035802a-bcfd-4cd7-8b64-4c546c6eb819.png?sfvrsn=8793f630_1"
+  },
+  {
+    "id": "astar-gis-liu-jinyue",
+    "name": "Liu Jinyue",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Research Scientist",
+    "roles": [
+      "Laboratory of Single-Cell Spatial Neuromics"
+    ],
+    "research_areas": [
+      "Single-Cell Spatial Neuromics"
+    ],
+    "summary": "Single-Cell Spatial Neuromics We apply and develop nucleic acid-based technologies to investigate the human brain, so as to improve mental health and enhance lives. Our interests span brain development, function and disease. Through a comprehensive analysis of cellular architecture and interactions under physiologically relevant contexts, we strive to identify molecular hubs that can be tuned to improve outcomes for complex brain disorders. ** We are recruiting! Join us and take a deep-dive into the brain. Contact us at liu_jinyue@gis.a-star.edu.sg **",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/jinyue-liu",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/liu-jinyue-website-revamp.png?sfvrsn=9cd6665d_1"
+  },
+  {
+    "id": "astar-bii-loo-lit-hsin",
+    "name": "Loo Lit Hsin",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Senior Principal Investigator",
+    "roles": [
+      "Research Group: Complex Cellular Phenotype Analysis"
+    ],
+    "research_areas": [
+      "Complex Cellular Phenotype Analysis"
+    ],
+    "summary": "Dr. Loo Lit Hsin is a Senior Principal Investigator at the Bioinformatics Institute (BII), A*STAR, Singapore. He is also an adjunct Assistant Professor at the Department of Pharmacology, Yong Loo Lin School of Medicine, National University of Singapore. Dr. Loo’s background is in computational and systems pharmacology/toxicology. He was the recipient of the Lush Prize – Science Award (2016), Award for Excellence in Postdoctoral Research (2010) and the Alfred Gilman Award (2009) by the University of Texas Southwestern (UTSW) Medical Center, and the Doctoral Award in Mathematical Sciences and Engineering (2005) by Drexel University. Dr. Loo was a postdoctoral fellow in the Bauer Center for Genomics Research at Harvard University (2005), and then in the Department of Pharmacology at the UTSW Medical Center, USA (2005-2010).",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/ciid/ccpa",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-lithsin.tmb-medium.png?Culture=en&sfvrsn=941db318_1"
+  },
+  {
+    "id": "astar-sign-mai-chan-lau",
+    "name": "Mai Chan Lau",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "The lab's core objective is to establish advanced AI tools that have three primary functions:",
+      "1. Extraction of Spatial Features with Clinical Significance :",
+      "The prognostic role of macrophage polarization in the colorectal cancer microenvironment",
+      "2. Prediction of Spatial Omics Signals from Histological H&E Images :",
+      "3. Integration of Multiple Spatial Omics Data :",
+      "[ The promise and challenge of spatial omics in dissecting tumour microenvironment and the role of AI ]",
+      "WEB TOOLS 1. H&E 2.0 [in collaboration with Drs. Joe Yeong (IMCB) & Minh Nguyen (BII)]"
+    ],
+    "summary": "Dr Mai Chan Lau earned her PhD from the National University of Singapore in 2015, focusing on high-performance GPU research. During her postdoctoral work at Singapore Immunology Network (SIgN, A*STAR), she made significant contributions to important immune studies, leveraging her expertise in single-cell bioinformatics. This experience sparked her interest in exploring new aspects of tumor-immune heterogeneity in the tumor microenvironment (TME). Motivated by the potential clinical impact of addressing these questions, Mai Chan joined Prof. Shuji Ogino's laboratory at Harvard Medical School in the United States in 2018. There, she delved into studying tumor-immune interactions in the tissue space through the analysis of histological H&E and multiplexed immunofluorescence images. Her novel spatial analysis method, “Tumor-Immune Partitioning and Clustering (TIPC)”, earned her the Poster of Distinction at the 2019 Harvard Medical School Pathology Retreat. It also resulted in a provisional patent coversheet. In 2021, she returned to Singapore and joined Dr. Joe Yeong's laboratory at the Institute of Molecular and Cell Biology (IMCB, A*STAR). There, she expanded her research to include spatial transcriptomics in the field of spatial immunology. In 2022, Mai Chan was jointly recruited to oversee the Computational Immunology Platform at SIgN and the \"Spatial & Single-cell Omics Immunology\" group at BII (Bioinformatics Institute, A*STAR). Mai Chan's contributions to AI-based biomedical research have gained recognition both locally and internationally. She has served as a program committee member for Clinical Translation of Medical Image Computing & Computer-Assisted Intervention in consecutive years, 2022 and 2023. Additionally, she holds an editorial board position for the World Scientific Annual Review of Cancer Immunology journal. Research focus: The lab's core objective is to establish advanced AI tools that have three primary functions: 1. Extraction of Spatial Features with Clinical Significance : The lab focuses on developing techniques that allow for the identification and extraction of spatial features within tissue samples that hold clinical relevance. By leveraging these AI-driven methods, researchers can uncover critical patterns and characteristics that contribute to the understanding of disease progression, treatment response, and patient outcomes Case report: Understanding the impact of persistent tissue-localization of SARS-CoV-2 on immune response activity via spatial transcriptomic analysis of two cancer patients iwth COVID-19 co-morbidity Tumor-Immune Partitioning and Clustering (TIPC) algorithm reveals distinct signatures of tumor-immune cell interactions within the tumor microenvironment The prognostic role of macrophage polarization in the colorectal cancer microenvironment Prognostic Significance of Immune Cell Populations Identified by Machine Learning in Colorectal Cancer Using Routine Hematoxylin and Eosin–Stained Sections Spatial Organization and Prognostic Significance of NK and NKT-like Cells via Multimarker Analysis of the Colorectal Cancer Microenvironment 2. Prediction of Spatial Omics Signals from Histological H&E Images : One of the lab's key areas of expertise lies in leveraging AI algorithms to predict various spatial omics signals directly from commonly available, low-cost histological H&E images. By doing so, researchers can accelerate the process of generating valuable insights from existing histopathological data. This approach saves time and resources that would otherwise be required for specialized, expensive spatial omics profiling techniques. [ 818 Using deep learning approaches with mIF images to enhance T cell identification for tumor -automation of infiltrating lymphocytes (TILs) scoring on H&E images ]. 3. Integration of Multiple Spatial Omics Data : The lab focuses on developing AI-based approaches to integrate and analyze multiple types of spatial omics data. By combining data from dif",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/joint-principal-investigators/mai-chan-lau",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/lmc-portrait.jpg?sfvrsn=919d8bbf_10&MaxWidth=190&MaxHeight=230&ScaleUp=true&Quality=High&Method=ResizeFitToAreaArguments&Signature=A76654C296F6105A58589C4639DDE49C7E404B19"
+  },
+  {
     "id": "astar-imcb-manikandan-lakshmanan",
     "name": "Manikandan Lakshmanan",
     "institution": "A*STAR",
@@ -624,6 +1063,133 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-manikandanlakshmanan.jpg?sfvrsn=4d475303_2"
   },
   {
+    "id": "astar-gis-marie-loh-chiew-shia",
+    "name": "Marie Loh Chiew Shia",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Research Scientist",
+    "roles": [
+      "Laboratory of DNA methylation and Population Epigenetics"
+    ],
+    "research_areas": [
+      "DNA methylation and Population Epigenetics"
+    ],
+    "summary": "Molecular epidemiology is a powerful branch of epidemiology and medical science that focuses on the contribution of omics and environmental factors to the etiology, distribution and prevention of disease within and across populations. Specifically, I have a long-standing interest in ethnic differences in disease risk and prognosis. My research focuses on combining population health with molecular phenotyping and laboratory-based approaches to advance knowledge and understanding in complex diseases, with the overarching aim is to improve health in Asian populations via new and effective strategies for risk stratification, disease prediction and prevention. In my research, I focus on DNA methylation, a mechanism that has been established to play a key role in the determination of genomic function and the coordination of gene expression. Disturbances in DNA methylation have also been implicated in the development of various complex diseases such as cancer and T2D. Indeed, epigenetic mechanisms such as methylation is a signature of environment and life course exposure, and not only about underlying genetics.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/marie-loh-chiew-shia",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/marie_loh-website-revamp8686f19b-a319-418a-a09a-7cda2165eb0a.png?sfvrsn=cfe2379c_1"
+  },
+  {
+    "id": "astar-bii-maurer-stroh-sebastian",
+    "name": "Maurer-Stroh Sebastian",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Executive Director",
+    "roles": [
+      "Executive Director, Senior Principal Investigator",
+      "Research Group: Protein Sequence Analysis"
+    ],
+    "research_areas": [
+      "Protein Sequence Analysis"
+    ],
+    "summary": "Sebastian Maurer-Stroh studied theoretical biochemistry at the University of Vienna and wrote his master and PhD thesis at the Institute of Molecular Pathology (IMP). After FEBS and Marie Curie fellowships at the VIB-SWITCH lab in Brussels, he has been leading a group of experts in protein sequence analysis as a senior principal investigator in the A*STAR Bioinformatics Institute (BII) since 2007. He is Executive Director of BII since January 2021. His protein function analysis skills are supporting A*STAR’s efforts at the public-private interface and through computational analysis and modelling his team is critically contributing to national and global viral pathogen surveillance. He is also adjunct Professor at the National University of Singapore (NUS) and infectious disease expert for A*STAR ID labs and the National Public Health Laboratory of the Ministry of Health, Singapore. Sebastian Maurer-Stroh's research interests lies in mapping the uncharted islands in functional protein sequence space. This includes inferring functions for uncharacterized genes/proteins based on remote evolutionary relationships, prediction of the 3-dimensional structure of proteins, identification of biologically important residues and disease-related mutations, as well as developing predictors for short functional motifs in protein sequences.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/bsfd/psa",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-sebastian.tmb-medium.png?Culture=en&sfvrsn=2b4cde8a_1"
+  },
+  {
+    "id": "astar-sign-meera-k-shenoy",
+    "name": "Meera K Shenoy",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "These same factors are also transferred during gestation and labor"
+    ],
+    "summary": "Dr. Shenoy received her Bachelor of Science in Microbiology with Departmental and College Honors from the University of Washington. She went on to pursue a PhD in Biomedical Sciences at the University of California San Francisco (UCSF) under the mentorship of Dr. Susan Lynch, a world-renowned expert in the human microbiome. Dr. Shenoy identified respiratory and intestinal microbial communities with unique metabolic capacities that co-associated with immune responses, morbidity, and mortality in HIV-infected patients with bacterial pneumonia. During this time, she was supported by three fellowships, including the UCSF Discovery Fellowship, which recognizes young scientists with a track-record of research excellence and community leadership. Subsequently, Dr. Shenoy pursued her postdoctoral studies under the mentorship of Dr. Meghan Koch, an expert in neonatal health and mucosal immunology, at the Fred Hutchinson Cancer Center in Seattle, USA. Dr. Shenoy pioneered innovative methods for working with neonatal mice and their lactating mothers, to elucidate a novel role for microbiota-reactive IgG in promoting neonatal health. She discovered that ingestion of breastmilk IgG during the first of week of life directly calibrates host-microbiota mutualism in the neonatal intestine, priming healthy immune responses towards the developing microbiota and limiting intestinal morbidities later in life. For this work, Dr. Shenoy received a number of awards, recognizing the technical and conceptual innovations required to elucidate early life interactions between the offspring and its microbiome. In November 2024, Dr. Shenoy joined A*STAR-SIgN and started her research group, focusing on how maternal factors and environmental signals shape early life interactions between the microbiome and host immune system. Research focus: The mammalian host co-exists with trillions of microbes, not only tolerating them, but also reaping numerous benefits from their shared space. As such, mammals have evolved complex immune systems to mediate close interactions with the microbiota, maintaining a careful balance to benefit from microbial functionality while mitigating the inherent risks of living in close contact with other organisms. However, in early life, many of these mechanisms are not yet in place, presenting the question of how the immune system learns to generate healthy interactions with the microbiota during this critical period of development. Two key factors in shaping early life mammalian immunity and host-microbiota mutualism are mother’s health during gestation and the acquisition of mother’s breastmilk following birth. In addition to nutrients and comfort, breastfeeding provides the offspring with immunological signals, including cytokines, antibodies, microbes, and even maternal immune cells. These same factors are also transferred during gestation and labor. A key goal of our group is to investigate how maternal cells and products, first antigen exposures, and environmental signals shape the development of the nascent microbiome, homeostatic immune responses, and lifelong health. In turn, we are also interested in how the demands of childbearing shape maternal immunity, the microbiota, and long-term health. The female body, immune system, and microbiota undergo a vast array of changes over the course of a lifetime, and the process of gestation, lactation, and involution requires remarkable plasticity of female tissues and their functions. Despite being essential for life, the effects of these changes on female health and longevity are still poorly understood. We aim to define host-microbiota interactions in the context of childbearing and understand how this affects maternal health.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/meera-k-shenoy",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/meera-shenoy-headshot-(small).jpg?sfvrsn=dba0ae6a_1"
+  },
+  {
+    "id": "astar-sign-melissa-ng",
+    "name": "Melissa Ng",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Mechanisms of immune regulation, resolution and tolerance:",
+      "Research in the lab broadly follow three main themes:",
+      "(1) Understanding the mechanisms driving tolerance and immune resolution at steady state",
+      "(2) Breaking of tolerance and/or imperfect resolution in chronic inflammatory diseases",
+      "(3) Engineering tolerance and resolution"
+    ],
+    "summary": "Dr Melissa Ng attained her Bachelors in Science (Biomedical Science) from Imperial College London in 2012. She then moved to the University of California, San Francisco (UCSF), where she worked under Dr Trevor Burt for her Ph.D. uncovering the role of Helios driving the preferential differentiation of regulatory T cell differentiation in early life. In 2019, Melissa obtained her Ph.D. and returned to Singapore Immunology Network (SIgN) for her postdoctoral work under Dr Ng Lai Guan, where she studied how neutrophils undergo deterministic reprogramming in the tumor microenvironment, adopting a pro-angiogenic, phenotype that supports tumor growth. In 2024, Melissa started her own research group after the award of the Career Development Fund (CDF) in 2020 and National Medical Research Council (NMRC) Young Investigator Research Grant (OF-YIRG) in 2024. Her current research ties together her broad expertise across both innate and adaptive arms of the immune system and will utilize cutting edge sequencing and in vitro/vivo functional assays to study the mechanisms of immune regulation, resolution and tolerance. Research focus: Mechanisms of immune regulation, resolution and tolerance: The immune system exists in a finely tuned balance between sterilizing immunity and tolerance, where activation of a highly inflammatory response is eventually resolved with a return to homeostasis to minimize collateral damage to the host. Consequently, failure to control inflammation and re-establish tolerance is central to the pathology of chronic diseases such as autoimmunity and chronic respiratory diseases. On the flip side, hijacking of immune resolution or tolerance mechanisms in cancer lead to increased tumor growth due to aberrant angiogenesis and immunosuppression. Understanding the mechanisms by which immune regulation, resolution and tolerance are enacted in homeostasis will be critical towards combating chronic diseases. Research in the lab broadly follow three main themes: (1) Understanding the mechanisms driving tolerance and immune resolution at steady state Tolerance of self, microbial and other innocuous antigens begin in early life. Regulatory T cells (Tregs) play a significant role maintaining tolerance, and the absence of FOXP3 expressing regulatory T cells lead to miscarriage, preterm births and autoimmunity. Circulating and tissue Treg numbers are highly elevated in early life, yet, yet output from the thymus is unchanged compared to adults. Understanding the spatial and temporal requirements for Treg conversion in the periphery in fetal/neonates will aid in modulation of Treg responses to enact tolerance to peripherally encountered antigens. (2) Breaking of tolerance and/or imperfect resolution in chronic inflammatory diseases Bronchopulmonary dysplasia (BPD) is a severe lung disease of preterm infants, and remains the most common complication associated with prematurity. Systemic inflammation precedes the symptomatic onset of BPD, thus representing a therapeutic window of opportunity to divert the disease course. Currently, corticosteroids constitute the proven clinical modality to combat inflammation in BPD, but can result in neurological deficits and greater mortality in treated groups. As such, there is a critical need for immunomodulatory drugs that specifically target local lung inflammation without detrimental systemic side effects. Utilizing a 2-hit model of BPD, the failure and/or dysregulation of tolerance and resolution mechanisms can be tracked as the disease progresses. (3) Engineering tolerance and resolution Specific modulation of the immune system to favor tolerance or disease resolution represents an attractive target in settings of chronic inflammatory disease, as current treatments focus on symptomatic relief or targeting ongoing inflammation without achieving cure. The lab aims to investigate methods of engineering immune cells with capabilities such as the enhanced secretion of pro-resolving soluble mediato",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/melissa-ng",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/melissa-ng-head-shot-small.png?sfvrsn=8420dfc5_1"
+  },
+  {
+    "id": "astar-gis-mile-sikic",
+    "name": "Mile Sikic",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Assistant Director",
+    "roles": [
+      "Assistant Director, AI & Compute Group Leader",
+      "Laboratory of AI in Genomics"
+    ],
+    "research_areas": [
+      "AI in Genomics",
+      "AI & Compute Group Leader"
+    ],
+    "summary": "LinkedIn: https://www.linkedin.com/in/milesikic/ X: https://twitter.com/msikic We are a group of computer scientists dedicated to advancing the field of genomics through the development of cutting-edge AI and classical algorithms. Our primary objective is to decode the language of DNA and RNA and leverage this knowledge to pioneer new AI innovations inspired by genomics. Our focus areas include: A) DNA/RNA Foundation Models Our mission is to craft robust DNA and RNA foundation models, meticulously fine-tuning them to excel in various downstream tasks. These tasks include predicting RNA structural features, detecting modifications in DNA or RNA nucleotides, and classifying species within metagenomics samples. To achieve these goals, we harness a wide range of data inputs, including DNA and RNA sequences, as well as raw sequenced signals. B) De Novo Assembly of Complex Genomes We take pride in developing AI models and classical algorithms for strings and graphs related to de novo assembly. We aim to revolutionize and expedite the de novo assembly methods for both single genomes and metagenomes. Notably, we are pioneers in the utilization of graph neural networks for de novo assembly. Our ambitions extend to creating innovative methodologies for assembling polyploid and cancer genomes. C) RNA Structure Prediction We aim to accurately predict RNA structures and assess their druggability by harnessing state-of-the-art AI techniques. Our toolkit includes models inspired by Alphafold, large language models, and diffusion models, all combined with high-throughput experimental data. D) Genomics Analytics Beyond our innovative method development, we collaborate closely with experts in genomics to undertake critical genomics analyses. These collaborations involve de novo assembly of reference genomes, constructing pangenomes, and in-depth analysis of metagenomes, epigenomes, and RNA-sequenced data.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/mile-sikic",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/mile_sikic_2-website-revamp.png?sfvrsn=8712b5dd_1"
+  },
+  {
+    "id": "astar-gis-ng-shi-yan",
+    "name": "NG-Shi-Yan",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Director of Research Group Leader",
+    "roles": [
+      "Laboratory of Neural Organoids and Precision Neurobiology"
+    ],
+    "research_areas": [
+      "Neural Organoids and Precision Neurobiology"
+    ],
+    "summary": "The Ng laboratory pioneers the use of human stem cell-derived brain and spinal organoids to decode the mechanisms of neurodegenerative and neurological diseases. By integrating stem cell biology, organoid engineering and multi-omics approaches, we develop robust human models that capture the complexity of disease biology – with the ultimate goal of identifying and advancing disease-modifying therapies. Disease Modeling 2.0: Functionally Integrating the Nervous System with Immune Cells and Peripheral Tissues Tissues and organs do not function in insolation. The brain and spinal cord, for example, are intimately associated with resident immune cells such as microglia, while peripheral organs are dynamically regulated by networks of peripheral nerves, including sympathetic and parasympathetic neurons, that finetune physiological responses. Our research aims to functionally integrate human immune cells with brain organoids and human autonomic neurons with peripheral tissues (e.g. cardiac tissues) to create physiologically-integrated models that more faithfully recapitulate human biology. These next-generation models will enable mechanistic studies that provide a transformative platform for uncovering disease mechanisms and accelerating therapeutic discovery. Selected Publications Chooi WH, Winanto, Zeng Y, Lee CY, Lim ZQ, Gautam P, Chu JJH, Loh YH, Alonso S, Ng SY # (2024). Enterovirus-A71 preferentially infects and replicates in human motor neurons, inducing neurodegeneration by ferroptosis. Emerg Microbes Infect. 13(1):2382235. # corresponding author Feng J, Chuah YH, Liang Y, Cipta NO, Zeng Y, Warrier T, Elsayed Elfar GAR, Yoon J, Grinchuk OV, Tay EXY, Lok KZ, Zheng ZQ, Khong ZJ, Chong ZS, Teo J, Sanford EM, Neo CJY, Chui HY, Leung JY, Wang LC, Lim YT, Zhao T, Sobota RM, Crasta KC, Tergaonkar V, Taneja R, Ng SY , Cheok CF, Ling SC, Loh YH, Ong DST (2024). PHF1 regulates genome topology and DNA replication in neural stem cells via cohesion. Nucleic Acids Res. 52(12):7063-7080. Leow DMK, Ng YK, Wang LC, Koh HWI, Zhao T, Khong ZJ, Tabaglio T, Narayanan G, Giadone RM, Sobota RM, Ng SY , Teo AKK, Parson SH, Rubin LL, Ong WY, Darras BT, Yeo CJJ (2024). Hepatocyte-intrinsic SMN deficiency drives metabolic dysfunction and liver steatosis in spinal muscular atrophy. J Clin Invest. 134(12):e173702. Nguyen TD, Chooi WH, Jeon H, Chen J, Roxby DN, Tan JZY, Lee CY, Ng SY , Chew SY, Han J (2024). Label-free and high-throughput removal of residual undifferentiated cells from iPSC-derived spinal cord progenitor cells. Stem Cells Transl Med. 13(4):387-398. Goh M, Fu L, Seetoh WG, Koay A, Huang H, Tan SM, Tay SH, Chin EJ, Abdullah N, Ng SY , Lakshmanan M, Aramugam P (2024). Mono-2-ethylhexylphthalate (MEHP) is a potent agonist of human TRPA1 channel. Chemosphere 349:140740. Harley J, Santosa MM, Ng CY, Grinchuk OV, Hor JH, Liang Y, Lim VJW, Tee WW, Ong DST, Ng SY # (2024). Telomere shortening induces aging-associated phenotypes in hiPSC-derived neurons and astrocytes. Biogerontology 25(2):341-360. # corresponding author Kwokdinata C, Ramanujam V, Chen J, de Oliveira PN, Nai MH, Chooi WH, Lim CT, Ng SY , David L, Chew SY (2023). Encapsulation of Human Spinal Cord Progenitor Cells in Hyaluronan-Gelatin Hydrogel for Spinal Cord Injury Treatment. ACS Appl Mater Interfaces doi: 10.1021/acsami.3c07419. Ho WY, Chak LL, Hor JH, Liu F, Diaz-Garcia S, Chang JC, Sanford EM, Rodriguez MJ, Alagappan D, Lim SM, Cho YL, Shimizu Y, Sun AX, Tyan SH, Koo E, Kim SH, Ravits J, Ng SY , Okamura K, Ling SC (2023). FUS-dependent microRNA deregulations identify TRIB2 as a druggable target for ALS motor neurons. iScience 26(11):108152. Lee CY, Chooi WH, Ng SY , Chew SY (2023). Modulating neuroinflammation through molecular, cellular and biomaterial-based approaches to treat spinal cord injury. Bioeng Transl Med. Aug 31; 8(2):e10389. Chooi WH, Ng CY, Ow V, Ng W, Hor JH, Low KE, Malleret B, Xue K, Ng SY # (2023). Defined alginate hydrogels support spinal cord organoid deriv",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/ng-shi-yan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/ngsy_45_162x220.png?sfvrsn=98203e46_1"
+  },
+  {
+    "id": "astar-bii-neerja-karnani",
+    "name": "Neerja Karnani",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Head of Clinical Data Engagement",
+    "roles": [
+      "Head of Clinical Data Engagement, Senior Principal Investigator",
+      "Research Group: Clinical Data Engagement"
+    ],
+    "research_areas": [
+      "Clinical Data Engagement"
+    ],
+    "summary": "Karnani Neerja is a molecular epidemiologist and clinical data scientist with 20 years of experience working with academia, industry and national platforms. She started her research career at University of Virginia, USA, where she contributed to the first functional annotation draft of the human genome (ENCODE consortium). She moved to Singapore in 2013 to join A* STAR’s Singapore Institute for Clinical Sciences (SICS). As the Systems Biology lead at SICS, she developed the multi-omics roadmap for Singapore’s National Birth (GUSTO) and Pre-conception (S-PRESTO) cohorts and identified biomarkers of metabolic and mental health adversities in expecting mothers and their offspring. These findings have been patented and licensed by prominent nutrition industries and are being translated into future interventions. She has also contributed to the research landscape and scientific vision of these cohorts by serving on their executive committees for over 6 years. Beyond the developmental and pregnancy cohorts, she is involved in Singapore National Precision Medicine (NPM) program’s SG10K-Health study and serves on its science and data access committees. To advance her interest in population health analysis and to connect it with the real-world data, she joined A*STAR’s Bioinformatics Institute (BII) in April 2021 as the Head of Clinical Data Engagement. Her team is developing omics based nextgen mobile applications that can provide patient health journey and actionable intervention roadmap for clinicians. Her contributions to the biomedical informatics field were recently highlighted by GovInsider in its special report on ‘Women in GovTech 2021’.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/datahub-division/clinical-data-engagement",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii-neerja-karnani.jpg?sfvrsn=f0611986_1"
+  },
+  {
     "id": "astar-imcb-nick-barker",
     "name": "Nick Barker",
     "institution": "A*STAR",
@@ -641,6 +1207,84 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-nickbarker.jpg?sfvrsn=69789c6a_2"
+  },
+  {
+    "id": "astar-gis-nicolas-bertin",
+    "name": "Nicolas Bertin",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Group Leader",
+    "roles": [
+      "Genome Research Informatics and Data Science Platform (GRIDS)"
+    ],
+    "research_areas": [
+      "Genome Research Informatics and Data Science Platform (GRIDS)"
+    ],
+    "summary": "By explicitly recognizing the importance of individual and population-level genetic variations and other molecular factors in determining or predicting clinical outcomes, Precision Medicine (PM) promises to transform how we assess disease risk, deliver more accurate diagnoses, and tailor appropriate therapies while minimizing treatment-related side effects. To address the challenge of big data analytics and integrative omics for PM, four institutions have come together to form the Centre for Big Data and Integrative Genomics (c-BIG). As the Programme Manager for c-BIG, Dr. Bertin coordinates efforts and tracks progress across the centre's four partner institutions (GIS, BII, IHPC, I2R), oversees the deployment of the multi-institutional centre’s data acquisition, storage, and analytic capacities for large-scale clinical and research omics, and drives industry collaborations related to c-BIG infrastructure. Links NPM (A*STAR) : https://www.a-star.edu.sg/gis/our-science/precision-medicine-and-population-genomics/npm NPM (PRECISE) : https://www.npm.sg/research/research-highlights/ Genome Research Informatics and Data Science (GRIDS) Platform : https://www.a-star.edu.sg/gis/our-science/genome-informatics-and-ai/grids",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/nicolas-bertin",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/nicolas-bertin-website-revamp.png?sfvrsn=959cecfc_1"
+  },
+  {
+    "id": "astar-gis-niranjan-nagarajan",
+    "name": "Niranjan Nagarajan",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Associate Director",
+    "roles": [
+      "Associate Director, AI & Compute Senior Group Leader",
+      "Laboratory of Metagenomic Technologies and Microbial Systems"
+    ],
+    "research_areas": [
+      "Metagenomic Technologies and Microbial Systems",
+      "AI & Compute Senior Group Leader"
+    ],
+    "summary": "The main focus in Prof. Nagarajan’s lab is in the development of cutting-edge genome analytic tools for studying the function of diverse microbial communities and their impact on human health. His team conducts research at the interface of genetics, computer science and microbiology, in particular using a systems biology approach to understand host-microbiome-pathogen interactions in various disease conditions. His lab was one of the first to develop hybrid assembly tools for genome-resolved metagenomics and leveraging them for microbial surveillance in hospital environments. The lab has conducted several studies to understand the role of environmental and human microbiomes in antimicrobial resistance (AMR) transmission. The lab has also pioneered the use of new approaches to study Asian skin microbiomes and understand their role in various skin conditions. Lab Webpage",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/niranjan-nagarajan",
+    "lab_url": "https://csb5.github.io/",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/nn.png?sfvrsn=7f440072_1"
+  },
+  {
+    "id": "astar-sign-olaf-rotzschke",
+    "name": "Olaf Rotzschke",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Figure 1: House dust mite-induced allergies in Singapore ( Andiappan et al",
+      "Our studies indicated however that they are instrumental in triggering an effective IgE-mediated allergen response",
+      "IgE is the only immunoglobulin that can be generated outside of germinal centres directly in the mucosal tissue",
+      "It thus acts as an important activation barrier preventing the unwanted triggering of the allergen-response pathway",
+      "Figure 2: Basophil anergy as control element for IgE production ( Puan et al",
+      "2017, Allergy 72:373 ; https://doi.org/10.1111/all.12952 )",
+      "Figure 3: Effect of FUT6 deficiency on allergic reactions ( Puan et al",
+      "2021, Commun Biol"
+    ],
+    "summary": "Olaf Rötzschke obtained his PhD in 1993 at the University of Tübingen, Germany, where he studied biochemistry. He started his career at the Max-Planck Institute of Biology in the group of Hans-Georg Rammensee, where he isolated the first natural T cell antigen and defined the binding motifs of MHC molecules. In 1993 he joined the group of Jack Strominger at Harvard University, carrying out studies on the immune-modulation and antigen-presentation. In 2000 he moved to the Max-Delbrück-Center in Berlin focusing on regulatory T cells (Treg) and MHC ligand-exchange. He joined SIgN as Principal Investigator in July 2008 and in 2018 became also Head of two SIgN Immunomonitoring Platforms (‘Mass Cytometry’ and ‘Multiplex Analysis of Proteins’). Research focus: Allergy and Immune-regulation One central aspect of the current research is the functional and genetic characterization of allergy-related pathways in humans. Basis for these studies is a cohort of 600 Singaporean residents for which the group established a database comprising more than 3000 data entries per individual (Figure 1A). One of the key-results of this investigation was the identification of house dust mites (HDM) as a major public health problem in Singapore (Figure 1B). Nearly 80% of the local population were sensitized by this allergen, of which about half developed symptoms of airway-allergy symptoms of allergic rhinitis and/or asthma (Figure 1C). The dominance of dust mite allergens is evident in exceedingly strong IgE titer (Figure 1D) and the penetration of the tropical-urban environment by this allergen is so strong, that non-allergic migrants typically develop symptoms within 8 years after coming to Singapore. Figure 1: House dust mite-induced allergies in Singapore ( Andiappan et al. 2014, Allergy 69:501 ; https://doi.org/10.1111/all.12364 ) The central role of Basophils Basophils are often considered to be a cell subset of minor significance. Our studies indicated however that they are instrumental in triggering an effective IgE-mediated allergen response. IgE is the only immunoglobulin that can be generated outside of germinal centres directly in the mucosal tissue. Upon stimulation with allergen/IgE-complex, basophils can support the local IgE production by providing crucial IL-4 (Figure 1A). Analysis of our cohort data revealed now that basophils can acquire an ‘anergic’ state that renders them insensitive for this stimulation (Figure 2B). This ‘basophil anergy’ is mediated by the down-regulation of SYK, a key-kinase acting as gate-keeper of the IgE/FcER1 signalling pathway. Notably, basophil anergy was found to be a mandatory transitional state separating non-responsiveness (caused by the lack of specific IgE) from the normal allergen-responsiveness of an individual. It thus acts as an important activation barrier preventing the unwanted triggering of the allergen-response pathway. Figure 2: Basophil anergy as control element for IgE production ( Puan et al. 2017, Allergy 72:373 ; https://doi.org/10.1111/all.12952 ). Additional evidence for the crucial role basophils was derived from a study reporting a previously unknown homing defect of the cells. Flow cytometry analysis revealed that about 10% of the individuals lack the expression of CD15s on their basophils (Figure 3B). This phenotype indicates that sialyl-Lewis X (sLeX) is missing on the surface, a small glucan crucial for the evasion from the blood vessels (Figure 3A). CD15s neg basophils are found to be unable to ‘roll’ on the endothelial lining, a failure that could be traced back to genetic defects in the fucosyltransferase 6 (FUT6), which completes the sLeX synthesis by mediating the transfer of fucose residue . Using this genetic link to analyse about 500,000 annotated genomes provided by the Welcome Sanger Institute and 23andMe, respectively, we could confirm that these defects are indeed associated with a retainment of basophils within the blood vessels and a reduced itch sensitivity to mo",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/olaf-rötzschke",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/olaf2.jpg?sfvrsn=80f64ffd_2"
+  },
+  {
+    "id": "astar-bii-p-mukkesh-kumar",
+    "name": "P Mukkesh Kumar",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Lead Research Officer",
+    "roles": [
+      "Research Group: Data Management"
+    ],
+    "research_areas": [
+      "Data Management"
+    ],
+    "summary": "Dr P Mukkesh Kumar is the Head of Data Management Platform at A*STAR’s Bioinformatics Institute (BII) and Singapore Institute for Clinical Sciences (SICS), leading the Multi-modal Data Management, Data Curation & Data Stewardship, Healthcare Data Analytics & Reporting and Healthcare Software Development teams. Dr P Mukkesh Kumar is a PhD alumnus of the NUS Saw Swee Hock School of Public Health, he has developed a predictive care framework for diabetes & maternal health, combining coalitional game theory concepts with machine learning. Forging collaborations with the National University Hospital (NUH) in Value-based Healthcare Strategy, the Early Screening for Gestational Diabetes Mellitus in a Low Risk Population (EaGeR) pilot study conducted at NUH for the real world deployment of early pregnancy GDM predictor AI model. Working in close partnership with Singapore’s Ministry of Health (MOH), Dr P Mukkesh Kumar is developing the core OMOP data curation team at A*STAR to support MOH-TRUST Strategic Research Data Contributors. Dr P Mukkesh Kumar has been mentoring the Data Managers at US Boston Children’s Hospital/Harvard Medical School for multi-centre clinical research studies, building talent and capabilities in the global research ecosystem.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/datahub-division/dm",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_api_mukkesh.jpg?sfvrsn=cae1246c_1"
   },
   {
     "id": "astar-imcb-pierce-chow",
@@ -738,6 +1382,44 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-qunxiangong.jpg?sfvrsn=a311f76c_2"
   },
   {
+    "id": "astar-gis-rajkumar-s-o-dorajoo",
+    "name": "Rajkumar s/o Dorajoo",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Research Scientist",
+    "roles": [
+      "Laboratory of Metabolic Disease and Ageing Genomics"
+    ],
+    "research_areas": [
+      "Metabolic Disease and Ageing Genomics"
+    ],
+    "summary": "Laboratory of metabolic disease and ageing genomics The obesity crisis is a major healthcare concern in both developed and developing nations worldwide. Obesity is not only a problem in childhood and adulthood but it also tracks into older ages. At the same time, we are in the midst of an ageing population crisis with many nations, including Singapore, facing massive healthcare burdens due to prolonged lifespan spent in poor health. How inherent genetic risks contribute to accelerate ageing processes, especially in Asian populations is not well understood. My research is focused towards using a breath of genomic data to understand biological processes of accelerated ageing and how these may impact upon health outcomes later in life. The group routinely performs large-scale genetic association studies through genome-wide association studies (GWAS) and more detailed sequencing studies for metabolic traits such as obesity levels and ageing related biomarkers such as telomere length attrition. These have enabled identification of numerous germline genetic risk variants for various metabolic and ageing related traits. Our genetic studies for telomere length attrition has also highlighted potential ethnic-specific genetic associations that may be uniquely relevant to the Asian population. Leveraging on longitudinal datasets such as the Singapore Chinese Health Study with over 25 years of prospectively collected phenotypes, we follow up identified genetic findings with powerful statistical tools to ascertain potentially functional roles for specific metabolic and ageing biomarkers with risks of incident diseases (common cancers, cardiovascular diseases, type 2 diabetes mellitus), major mortalities and overall longevity and healthy ageing status. Understanding precise biological dysfunctions that contribute to disease and ageing outcomes requires additional detailed investigations at the disease relevant tissues and cells. The group extends genetic findings through detailed omics interrogations in primary tissues and cell-types from appropriate patient samples. These include determination of ageing biomarkers together with genome-wide transcriptomic evaluations of sputum immune cell-types to understand a potential role for telomere length attrition in immune competence, which we had reported to be especially relevant to increased respiratory disease and mortality risks. Other primary studies involve detailed RNA-sequencing evaluations of various adipose tissues from bariatric weight-loss surgery patients and kidney transcriptomic studies in renal decline patients. The group actively seeks to integrate germline genetic information, multiple layers of detailed omics data with improved ageing molecular phenotypes to provide added insights to metabolic dysfunctions in relation to ageing processes and outcomes.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/rajkumar-dorajoo",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/rajkumar_dorajoo-website-revamp.png?sfvrsn=863a3d7a_1"
+  },
+  {
+    "id": "astar-gis-ramanuj-dasgupta",
+    "name": "Ramanuj Dasgupta",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Group Leader",
+    "roles": [
+      "Laboratory of Precision Oncology and Cancer Evolution"
+    ],
+    "research_areas": [
+      "Precision Oncology and Cancer Evolution"
+    ],
+    "summary": "Precision Oncology Laboratory: “giving the right drugs, to the right patient, at the right time” Overall goal of the DasGupta lab is to implement the next-generation functional genomic technologies on individualised patient-derived models to query novel genetic and therapeutic vulnerabilities in solid cancers. The major research focus is to establish novel 'Precision Oncology' platforms (such as patient-derived tumor organoids and primary cancer cell lines) that can be used to: a) study the impact of tumor heterogeneity on the evolutionary mechanisms of tumour metastasis and treatment-resistance; b) identify novel transcriptomic/epigenetic biomarkers of treatment response and tumor progression; c) identify novel therapeutic targets and drug candidates for the precision targeting of specific oncogenic pathways and immune-modulatory response; d) dissect the function of the tumor microenvironment in modulating response to chemo/targeted therapies and immune-oncology drugs. The DasGupta lab uses a variety of genomic tools to address these questions, including single cell and bulk-transcriptomics, epigenomics, and functional/chemical genomic tools, such as high-throughput/high-content screening (HTS/HCS) technologies. Additionally, the DasGupta lab is also interested in the identification and functional characterization of non-coding RNAs (ncRNAs), especially lncRNAs and tRNA-derived small RNAs (tsRNAs) in the control of cancer stem cells, oncogenic pathways and embryonic stem cell biology. RESEARCH PROJECTS in the DGLAB, 1. PRECISION ONCOLOGY Major focus in the DasGupta lab is to investigate the role of intra-tumor heterogeneity (ITH) and cancer stem cells (CSCs) in tumor metastasis and evolution of treatment resistance: We are employing structural and functional genomic approaches to identify drivers of metastasis and chemo-resistance in patient-derived in vitro organoid and in vivo xenograft models of colorectal, oral and breast cancers (Chia, Low et al., Nat Comm., 2017; Tan et al., Nat Med 2017). In parallel, we are uncovering novel therapeutic targets as well as therapeutic/drug combinations that can preferentially target the destruction of resistant or metastatic cancer cells. Using genomic characterization of patient-derived tumor models, we are developing novel prediction algorithms to predict sensitivity to standard-of-care drugs (Chia, Low et al., Nat Comm., 2017; Tan et al., Nat Med 2017). In separate studies, we have focused on identifying therapeutic vulnerabilities in TKI-resistant HSNCC that are wild type for T790M, a common mutation associated with resistance against TKIs. Finally, we are collaborating with Dr. Hao Fan’s lab at the BII to identify novel small molecule inhibitors of Wnt-b-catenin signaling using in silico screening and in vitro/in vivo validation assays (Low et al., 2018, manuscript in preparation). 2. SINGLE CELL TRANSCRIPTOMICS We are using single cell genomic technologies to characterise the function/impact of intra-tumor heterogeneity in tumor progression towards metastatic and treatment resistant disease. We do so by employing single cell RNA-seq to map the trajectories of individual cells as they evolve under the selection pressure of drugs and/or metastasis, and investigate the role of clonal/Darwinian selection, epigenetic plasticity and adaptation in tumor progression (Sharma et al., 2018 manuscript in preparation). Additionally we are exploring the function of epigenetic regulation in modulation of specific gene signatures to identify upstream drivers of metastatic and resistant phenotypes. We have also initiated single cell RNA-seq to understand ITH in HCC and breast cancers in order to identify how the tumor microenvironment (TME), including the immune/stromal environment, changes upon treatment with cancer drugs. Additionally we are building capacity for single cell ATAC-seq to investigate epigenetic heterogeneity and plasticity during tumor evolution under selection pressure of drugs a",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/ramanuj-dasgupta",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/ram-website-revamp.png?sfvrsn=969780cf_1"
+  },
+  {
     "id": "astar-imcb-ravisankar-rajarethinam",
     "name": "Ravisankar Rajarethinam",
     "institution": "A*STAR",
@@ -795,6 +1477,56 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-sarahluo.jpg?sfvrsn=701e4eee_1"
   },
   {
+    "id": "astar-bii-selvarajoo-kumar",
+    "name": "Selvarajoo Kumar",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Senior Principal Investigator",
+    "roles": [
+      "Research Group: Computational Biology & Omics Lab"
+    ],
+    "research_areas": [
+      "Computational Biology & Omics Lab"
+    ],
+    "summary": "Kumar is heading the Computational Biology & Omics laboratory at BII, A*STAR. He is also an adjunct Associate Professor at the Yong Loo Lin School of Medicine, NUS and School of Biological Sciences, NTU. Prior, he was an Associate Professor in Systems Biology at the Institute for Advanced Biosciences, Keio University, Japan. He serves the editorial board of Frontiers in Immunology, Genomics (Elsevier) and Scientific Reports (Nature Research). He has lead teams in Computational Biology, Systems Biology, Bioinformatics and Statistical Genetics. In particular, he has used original ideas, utilizing fundamental physical and statistical laws, to investigate multi-dimensional datasets, deterministic and stochastic modelling of complex protein signaling and metabolic networks. He has authored over 80 scientific articles, largely as corresponding author, which includes a single-authored book on Immuno Systems Biology (Springer) and edited book for the reputable Methods in Molecular Biology series. He has obtained several research grants, and has been an international grant reviewer. He has also presented invited/keynote talks at numerous international conferences. In 2013, 2015 and 2018, he founded and chaired the Symposium on Complex Biodynamics and Networks (cBio). Computational Biology, Systems Biology, Bioinformatics, Data Analytics, Genomics, Cancer & Immunology, Synthetic Biology",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/bsfd/cbol",
+    "lab_url": "https://www.cbio-kumar.org/home",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-kumarselvarajoo.png?sfvrsn=1392e27c_0"
+  },
+  {
+    "id": "astar-gis-seow-yiqi",
+    "name": "Seow Yiqi",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Group Leader",
+    "roles": [
+      "Laboratory of Diagnostic Accessibility"
+    ],
+    "research_areas": [
+      "Diagnostic Accessibility"
+    ],
+    "summary": "Nucleic acid diagnostics has proven its worth during the Covid-19 pandemic and there are a growing number of indications that can be diagnosed with nucleic acid analytes. However, while new diagnostic biomarkers such as methylated DNA and single cell transcriptome are being shown to improve diagnostic capabilities for diseases, current methods can be cost-prohibitive for routine diagnostics. Seow Yiqi is looking at the workflow for nucleic acid diagnostics and asking if there are technologies that can make nucleic acid diagnostics more affordable and deployable, thus allowing patients to access these new biomarkers more affordably. He has developed and licenced out a nucleic acid extraction kit; an unbiased metagenomic sequencing workflow for affordable rapid identification of pathogens; and developed lyophilization nucleic acid detection reagents. He is also keen to support companies by assisting in developing in-house nucleic acid extraction, lyophilization, sequencing kit development and nucleic acid processing capabilities to enhance their product portfolio.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/yiqi-seow",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/pi-photo-mar-2024-yiqiseowa4fd3392-3259-4c7f-87bf-37aa012a222b.png?sfvrsn=a41ba0b2_1"
+  },
+  {
+    "id": "astar-sign-shanshan-howland",
+    "name": "Shanshan Howland",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "The Immunogenomics Platform supports the SIgN community by providing expertise in all areas of functional genomics"
+    ],
+    "summary": "Shanshan Howland obtained her B.Sc. and M.Sc. from Stanford University, studying Chemical Engineering with a focus on biological applications. In 2008, she received her Ph.D. in Biological Engineering from Massachusetts Institute of Technology, working at the interface of protein engineering and cancer immunology under the supervision of Dane Wittrup. Upon her return to Singapore as an A*STAR scholar, she researched the role of pathogenic CD8 T cells in malaria in Laurent Renia’s lab in SIgN. After a year in industry, she re-joined SIgN in 2018, heading the Immunogenomics Platform. Research focus: The Immunogenomics Platform supports the SIgN community by providing expertise in all areas of functional genomics.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/shanshan-howland",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/shanshan.jpg?sfvrsn=80f98251_2"
+  },
+  {
     "id": "astar-imcb-shawn-chen-xiaoyuan",
     "name": "Shawn Chen Xiaoyuan",
     "institution": "A*STAR",
@@ -809,6 +1541,21 @@
     "summary": "",
     "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-shawnchen.jpg?sfvrsn=20d8c5dc_2"
+  },
+  {
+    "id": "astar-sign-shengli-xu",
+    "name": "Shengli Xu",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Investigating the role of B cells in health and disease",
+      "Developing immunotherapeutics against multiple myeloma"
+    ],
+    "summary": "Shengli Xu obtained his Bachelor's degree in Biology and Master's degree in Physiology at Nankai University, China, in 1991 and 1994, respectively. After working as a lecturer at the Medical School of Nankai University for three years, he joined the Institute of Molecular and Cell Biology (IMCB), Singapore and conducted his PhD work in 1998. Shengli obtained his PhD in Immunology from the National University of Singapore (NUS) in 2003. From 2003 to 2008, he worked as a Research Fellow at IMCB and a Senior Research Fellow at Singapore Immunology Network (SIgN). In 2009, he joined Bioprocessing Technology Institute (BTI) as a Research Scientist and subsequently became a Senior Lead Research Scientist and a Group Leader. In 2020, Shengli rejoined SIgN to lead the B Cell Immunology Group. He is also an adjunction assistant professor at the Department of Physiology, NUS. His research interests include B cell immunology and immunotherapy. Research focus: Investigating the role of B cells in health and disease Developing immunotherapeutics against multiple myeloma",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/shengli-xu",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/shengli-xu.jpg?sfvrsn=9bdebaba_2"
   },
   {
     "id": "astar-imcb-sherry-aw",
@@ -830,20 +1577,35 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-sherryaw.jpg?sfvrsn=adfb01dc_2"
   },
   {
-    "id": "astar-imcb-shi-yan-ng",
-    "name": "Shi Yan Ng",
+    "id": "astar-gis-shobha-vasudevan",
+    "name": "Shobha_VASUDEVAN",
     "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Group Leader",
     "roles": [
-      "Metabolism and Neurological Diseases"
+      "Laboratory of Regulatory Translatomics and RNA Signaling"
     ],
     "research_areas": [
-      "Metabolism and Neurological Diseases"
+      "Regulatory Translatomics and RNA Signaling"
     ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-shiyanng.jpg?sfvrsn=24129c1b_1"
+    "summary": "Our laboratory focuses on the role of post-transcriptional mechanisms in clinically resistant cancer cells, such as quiescent cancer cells, to develop effective therapeutics. Tumors demonstrate heterogeneity, harboring a small subpopulation that switch from rapid proliferation to a specialized, reversibly arrested state of quiescence that decreases their susceptibility to chemotherapy. Quiescent cancer cells resist conventional therapeutics and lead to tumor persistence, resuming cancerous growth upon chemotherapy removal. Our data revealed that post-transcriptional mechanisms are altered, with modification of noncoding RNAs, associated complexes and ribosomes. These control vital genes in cancer and are important for tumors to resist therapies and anti-tumor immunity, enabling persistence of quiescent cancer cells. Quiescence is understudied and these hidden RNA mechanism changes that are induced by tumor stress conditions, are unexplored, but are unique vulnerabilities in refractory cancer cells that we target to improve patient survival. Based on our studies, we utilize RNA mechanism inhibitors to block such unique, survival adaptations, to limit tumor persistence. The primary goal of our research is to characterize the specialized post-transcriptional gene expression and their mechanisms that underlie persistence of resistant cancer cells. A complementary focus is to develop RNA-based therapeutics against these mechanisms and their regulation in response to quiescent conditions and chemotherapy-induced signaling. We identified post-transcriptional effectors associated with mRNAs, circular RNAs (circRNAs), and noncoding RNAs by developing in vivo crosslinking-coupled RNA affinity purification methods to purify endogenous RNA-protein complexes (RNPs). Our recent studies revealed mechanistic changes in G0: uncovering inhibition of conventional translation and its replacement by noncanonical mechanisms that promote specific gene expression in G0 to elicit chemoresistance. These specialized mechanisms, including specific post-transcriptional regulators, are driven by modifications of mRNAs, associated regulator noncoding RNAs and RNPs, and ribosomes, which are induced by G0- and chemotherapy-induced signaling. These investigations reveal gene expression control by RNA regulators and non-canonical translation mechanisms that cause tumor persistence. Based on our data demonstrating altered RNPs, modifications, and specific translation in G0, we propose that transiently quiescent, chemoresistant subpopulations in cancers are maintained by specialized post-transcriptional mechanisms that permit selective gene expression, necessary for chemotherapy survival and tumor persistence. We characterize the specialized gene expression program in quiescent, chemoresistant cancers, and its underlying post-transcriptional and translational regulators that contribute to G0 and tumor persistence. We concurrently investigate RNA modifications and mechanisms of noncoding RNAs, RNPs, and ribosomes in G0 that contribute to chemoresistance, using cancer cell lines, in vivo models, patient samples, and stem cells. An important direction is to identify unique RNA markers and develop novel therapeutic approaches that block or utilize disease-specific RNA mechanisms such as block with inhibitors or antisense, or use selective translation as mRNA and circRNA therapeutics, of targets that encode for critical immune and tumor survival regulators—and thereby curtail chemoresistance. There are four core directions of our research using cancer cell lines, in vivo models, and patient samples: Uncover rules that govern survival mRNA expression due to RNA usage changes, such as translation frame, interactions, chemical changes, and RNA signaling in therapy-resistant cancer that have the most successful system for coordinated expression and cellular processes. Characterize the regulation of and influence on the environment and cellular process that leads to precis",
+    "profile_url": "https://t984-p547-blue-admin.prd.cwp2.sg/gis/our-people/faculty-staff/members/shobha-vasudevan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/shobha-vasudevan_website-2.png?sfvrsn=aa9f004b_1"
+  },
+  {
+    "id": "astar-sign-shu-zhen-chong",
+    "name": "Shu Zhen Chong",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Dr Chong obtained her undergraduate degree in Life Sciences (Biomedical Science) from the National University of Singapore (NUS). In 2008, she was awarded the NGS Integrative Sciences and Engineering Programme Scholarship and pursued her PhD at the NUS Immunology Programme under the supervision of Professor David Michael Kemeny. She subsequently continued her post-doctoral training in 2012 at the Singapore Immunology Network (SIgN) in the laboratory of Dr Lai Guan Ng. As a post-doctoral fellow, she studied the mechanisms that governed monocyte trafficking and function in different tissue compartments and identified a transitional pre-monocyte population (TpMos) in the bone marrow that was important for replenishing the mature monocyte pool. In 2022, she started her laboratory after being awarded the National Medical Research Council (NMRC) Young Investigator Research Grant (OF-YIRG) in 2018 and the A*STAR Career Development Award (CDA) in 2020. Under these grant funding, she aims to understand how prenatal exposures such as gestational diabetes can modify the fetal development of mononuclear phagocytes towards future disease susceptibility. Research focus: Developmental Origins of Mononuclear Plasticity in Health and Diseases Tissue macrophages belong to the mononuclear phagocyte arm of the innate immune system and execute critical roles in organ homeostasis and immune defense. Upon an inflammatory trigger, tissue macrophages are often replaced by monocyte-derived cells that carry out specific functions tailored towards the course of infection or disease. Consequently, a dynamic reshaping of the tissue macrophage niche occurs with each distinct pathogen or injury, resulting in important downstream immune and physiological consequences. The fundamental goal of our research is to determine the mechanisms that are required to support a robust macrophage-monocyte replacement process in order to avoid downstream immunopathology. We are also interested in understanding the developmental origins of immune dysregulation and how this leads to both infectious and metabolic disease susceptibility. To gain novel insights into these mechanisms, we will be investigating the impact of gestational diabetes on both the maternal and fetal immune repertoire in vivo, due to its increasing incidence in Singapore and its associated risk factors for health complications in both mother and child. Our long-term vision is to identify immune mechanisms of susceptibility that can be targeted at these early stages and explore gaps in metabolite needs to reduce these immune dysregulations.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/shu-zhen-chong",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/shu-zhen-chong.jpg?sfvrsn=94de71de_2"
   },
   {
     "id": "astar-imcb-shuang-liu",
@@ -863,6 +1625,25 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-shuangliu.jpg?sfvrsn=8885c6a8_1"
+  },
+  {
+    "id": "astar-gis-sonia-chothani",
+    "name": "Sonia Chothani",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Research Scientist",
+    "roles": [
+      "Laboratory of RNA Translation"
+    ],
+    "research_areas": [
+      "RNA Translation"
+    ],
+    "summary": "Translation of mRNA is a fundamental process in gene expression, yet its extent, role and regulation in human diseases remain unclear. Our group focuses on developing and applying data-driven approaches to uncover hidden translation events including previously unannotated proteins that play critical roles in human disease. Using high-throughput data (including Ribosome profiling/Ribo-seq) and computational approaches, we are redefining the landscape of translated regions and thus potential functional proteins throughout the genome. Emerging research across the field has shown many human transcripts produce multiple distinct translated products, leading to at least a 40% increase in identified translated regions including 1000s found in long non-coding RNAs. Furthermore, we show detection of widespread gene expression changes due to translation efficiency changes in disease pathways that were previously missed in traditional RNA-based target discovery screens. These findings have highlighted a largely untapped search space for new biomarkers, therapeutic targets and antigens for targeted therapy. We are actively recruiting Postdoctoral Fellows, Research Officers, and PhD students with interests in RNA biology, computational genomics, or translational research. For inquiries, please contact Sonia Chothani . For more information visit the lab website: https://www.chothanilab.org/ About the PI Dr. Sonia Chothani is driven by a deep passion in translating data-driven insights into improved diagnostics and therapies for human diseases. Her training includes B.Tech in Biotechnology from Indian Institute of Technology Madras, India, M.S. in Computational Biology from Carnegie Mellon University, Pittsburgh. Her early research experience spans roles in both industry and academic settings (Philips Research North America, GIS/A*STAR), which shaped her interdisciplinary approach. She then received a joint Ph.D. from Duke University and the National University of Singapore (NUS) through the Integrated Biology and Medicine program at Duke-NUS Medical School, Singapore further deepening her commitment to translational medicine. LinkedIn",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/sonia-chothani",
+    "lab_url": "",
+    "scholar_url": "https://scholar.google.com/citations?user=HdP8YrIAAAAJ&hl=en&oi=ao",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/img_3555-website25534132-c0f0-4295-bd83-d79a6e3b2f62.png?sfvrsn=df7a9d81_1"
   },
   {
     "id": "astar-imcb-soo-yong-tan",
@@ -901,6 +1682,76 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-ajaymathuru.jpg?sfvrsn=5d51bc39_2"
   },
   {
+    "id": "astar-gis-tam-wai-leong",
+    "name": "Tam Wai Leong",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Deputy Executive Director",
+    "roles": [
+      "Deputy Executive Director Associate Director, Precision Medicine",
+      "Laboratory of Translational Cancer Biology"
+    ],
+    "research_areas": [
+      "Translational Cancer Biology",
+      "Precision Medicine"
+    ],
+    "summary": "Visit our Lab Website @ https://www.tamlab.org/ LinkedIn: https://sg.linkedin.com/in/wai-leong-tam-7632375 ***Career Opportunities*** ***We are recruiting BIOINFORMATICIAN, POSTDOCS, and GRADUATE STUDENTS!*** The Tam Laboratory harnesses functional genomics to understand dysregulation in cellular metabolism and cell state perturbations for revealing principles of cancer stemness, resistance and metastasis. Cancer progression is orchestrated by complex alterations in gene functions and cellular behaviors. Perturbations in cell states, such as stemness vs differentiation programs, epithelial vs mesenchymal transitions, treatment resistance vs naïve responses, and localized vs metastatic phenotypes, underlie disease progression and clinical outcomes. Leveraging on genome-scale functional genomic approaches, and in close collaboration with clinician partners, we seek to gain insights into the precise control of cancer cell states, and specific targeting of metabolic pathways, for the development of selective therapeutics against cancer resistance and metastasis. We apply advanced integrative methodologies that include genomics, transcriptomics, computational analyses, metabolomics, high-throughput chemical-genetic screens, whole-genome engineering, biophysics and organoids, for enabling discoveries with clear translational or intervention value. Research Themes Cell state plasticity : Transitions between cell states (stemness vs differentiated, epithelial vs mesenchymal) contribute towards the adaptations of cancer cells during malignant progression. Our ongoing research focuses on how cancer stemness drive resistance, and how the epithelial-mesenchymal transition promotes metastasis (Challenge 1) . How do we engineer vulnerabilities into cancer cells that will cause them to gain susceptibility to therapy through exploiting the principles of synthetic lethality? Can we rewire stemness and differentiation programs in cancer cells? How does tumor microenvironmental cells influence cellular plasticity? Metabolic regulation : Cancer is a metabolic disease. Metabolic alteration is a hallmark of malignancy recognized almost a century ago. The preponderance of cancer cells to utilize glucose was first observed by Otto Warburg in the 1920s, but it is now clear that the Warburg effect represents only the tip of the iceberg pertaining to the wide range of metabolic derangements accompanying malignant transformation and progression. Our research program seeks to investigate unique metabolic adaptations that are crucial for determining a spectrum of pliable cell states, and extending into metabolic crosstalk of the tumor microenvironment. In view of tumor heterogeneity, principles of how distinct metabolic alterations arise from variations in phenotypic cell states need to be more precisely defined (Challenge 2) . Transitions between cell states contribute towards the adaptations of cancer cells during malignant progression. Our recent findings below have exemplified how the disruption of metabolic processes may be exploited to target specific cell states or prevent the acquisition of aggressive phenotypes. Niche biology : Cancer cells utilize nutrients in a cell-autonomous manner, but cell-extrinsic factors arising from the tumor microenvironment have been recently observed. The notion that stromal and tumor cells engage in metabolic exchange is nascent. For instance, lactate produced as a by-product of fibroblast cells can be used as an energy source by lung carcinoma cells to fuel their biosynthetic needs. From an opposite perspective, however, the manner by which nutrients secreted by the microenvironmental cells may program metabolic addiction in tumor cells to induce therapeutic vulnerability has not been explored (Challenge 3) . Understanding the extent and nature of such metabolic exchanges between tumor and microenvironment cells is timely; it can inform on the use therapeutics to target metabolic vulnerabilities, including their imp",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/wai-leong-tam",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/twl17268357399-2a0e-443b-8aed-f54b753cd99c.png?sfvrsn=f73c7142_1"
+  },
+  {
+    "id": "astar-bii-tan-ming-zhen",
+    "name": "Tan Ming Zhen",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Assistant Principal Investigator",
+    "roles": [
+      "Research Group: BioMedical Data Architecture & Repository"
+    ],
+    "research_areas": [
+      "BioMedical Data Architecture & Repository"
+    ],
+    "summary": "Dr Tan Ming Zhen graduated from the National University of Singapore in 2012 with a B.Eng. (Hons) and B.Soc.Sci (Hons). He then moved on to the NUS Graduate School for Integrative Sciences to pursue his PhD in Engineering, which he obtained in 2017. During his PhD, he worked on several research projects involving mathematical modelling, image processing, and statistics. After completing his PhD, he joined a local FinTech start-up as the Head of Technology, developing the code base for passive investment. In 2021, Dr Tan Ming Zhen joined the Bioinformatics Institute as Assistant Principal Investigator, where he is currently researching data management support and privacy-protection technologies. Dr Tan has previously worked on the diffeomorphic metric mapping of brain surfaces and volumes, as well as keeping a real-time dashboard for manipulating datasets, visual data exploration tools, and implementing statistical tests. His current area of study is synthetic data and its potential use as a privacy-protection tool. More specifically, he is researching methods for generating high-fidelity synthetic data from real-world data sets, and hopes to improve their potential as surrogates for code development and research.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/datahub-division/biomed-dar",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii-pi-mingzhen.jpg?sfvrsn=b7f4cd3b_2&MaxWidth=215&MaxHeight=215&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=C34E416337500B4023A5C907C8AAF2EC39C85217"
+  },
+  {
+    "id": "astar-bii-tan-yaw-sing",
+    "name": "Tan Yaw Sing",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/bii/people",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-yawsing.png?sfvrsn=3f9c224c_0"
+  },
+  {
+    "id": "astar-gis-teh-bin-tean",
+    "name": "Teh Bin Tean",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Group Leader",
+    "roles": [
+      "Laboratory of Biodiversity Genomics"
+    ],
+    "research_areas": [
+      "Biodiversity Genomics"
+    ],
+    "summary": "Translational Cancer Research",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/bin-tean-teh",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/teh-bin-tean-website-revamp.png?sfvrsn=f132a79d_1"
+  },
+  {
     "id": "astar-imcb-tim-hu",
     "name": "Tim Hu",
     "institution": "A*STAR",
@@ -915,6 +1766,44 @@
     "summary": "",
     "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-nov2024-tim-hu.jpg?sfvrsn=f5be960e_1"
+  },
+  {
+    "id": "astar-gis-tony-lim-kiat-hon",
+    "name": "Tony Lim Kiat Hon",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Clinical Director",
+    "roles": [
+      "Centre for Genome Diagnostics"
+    ],
+    "research_areas": [
+      "Centre for Genome Diagnostics"
+    ],
+    "summary": "",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/tony-kiat-hon-lim",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/tony-lim-website-revampe426f586-9178-48e5-adee-f9baae4af6bd.png?sfvrsn=ee62cf8_1"
+  },
+  {
+    "id": "astar-gis-torsten-wuestefeld",
+    "name": "Torsten Wuestefeld",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Group Leader",
+    "roles": [
+      "Laboratory of In Vivo Genetics & Gene Therapy"
+    ],
+    "research_areas": [
+      "In Vivo Genetics & Gene Therapy"
+    ],
+    "summary": "Liver regeneration/disease, epigenetics, aging One hallmark of aging is the accumulation of senescent cells; this parallels the regenerative decline and the rise in cancer incidences. The reduction in the regenerative capacity is linked to epigenetic changes in the genome. Chronic liver damage together with an attenuated regenerative response can lead to cirrhosis, liver failure or cancer. So far the only curative treatment for liver failure is organ transplantation. Unfortunately the amount of donor organs is limited and does not meet the demand. We are working in the field of regenerative biology with the focus on understanding the process of liver regeneration. We are especially interested in identifying and understanding epigenetic and age dependent changes, resulting in regenerative decline and liver disease. Using our recently developed new system for performing in vivo RNAi screens in mice, in combination with state-of-the-art omics technology we want to identify new therapeutic targets to improve endogenous liver regeneration and/or attenuate the age dependent decline in the regenerative capacity. The ultimate goal is to translate this knowledge into new therapies to suppress liver failure and allow healthy aging in humans.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/torsten-wuestefeld",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/torsten-website-revamp.png?sfvrsn=578ebfb6_1"
   },
   {
     "id": "astar-imcb-valerie-yang",
@@ -934,6 +1823,24 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-valerieshiwenyang.jpg?sfvrsn=2fb96fc4_2"
+  },
+  {
+    "id": "astar-bii-verma-chandra-s",
+    "name": "Verma Chandra S.",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Deputy Director (Research)",
+    "roles": [
+      "Deputy Director (Research), Senior Principal Scientist III",
+      "Research Group: Atomistic Simulations and Design in Biology"
+    ],
+    "research_areas": [
+      "Atomistic Simulations and Design in Biology"
+    ],
+    "summary": "Chandra Verma joined the Bioinformatics Institute (BII) A*STAR, Singapore, in November 2003. He heads the division of Biomolecular Modelling and Design and leads a group that applies physics-based models to understand the links between protein sequence, structure and biological function. His group works closely with experimental laboratories where the hypotheses generated are tested. In addition, the group is also involved in designing peptides and small molecules (through virtual screening) both for interrogating biology as well as for therapeutic purposes. Prior to joining Singapore, he worked at the Structural Biology Laboratory in York, UK. He obtained his undergraduate degree at the Indian Institute of Technology, India and his D. Phil at the University of York. He has cofounded two spinoffs: Sinopsee Therapeutics combines a yeast-based platform and modelling with colleagues in A*STAR at IMCB and BTI to screen for and develop new molecules against targets in oncology and opthalmology. Series A funding is being explored for a novel potential therapeutic (eye drop). & Aplomex (design small molecules, peptides, proteins/enzymes and antibodies). Group Members",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/bsmd/asdb",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-chandra.tmb-medium.png?Culture=en&sfvrsn=2af43f55_1"
   },
   {
     "id": "astar-imcb-vinay-tergaonkar",
@@ -990,6 +1897,63 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-teowanyee.jpg?sfvrsn=121ae1df_1"
   },
   {
+    "id": "astar-gis-wan-yue",
+    "name": "Wan Yue",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Executive Director",
+    "roles": [
+      "Executive Director Associate Director, RNA & DNA Technologies",
+      "Laboratory of RNA Genomics and Structure"
+    ],
+    "research_areas": [
+      "RNA Genomics and Structure",
+      "RNA & DNA Technologies"
+    ],
+    "summary": "My research aims to identify functional RNA elements in transcriptomes through genome-wide detection of RNA structures. RNA play an important role in regulating cellular gene expression. Its ability to fold into complex secondary and tertiary structures is fundamental to its function in the cell. In almost every step of its life cycle, RNA structure has been found to influence diverse processes including transcription, translation mRNA transcript and decay. Alterations in RNA structure have been implicated in several diseases. Despite the importance of RNA structure, structural information for most cellular RNAs, such as mRNAs, is lacking due to the low throughput nature of RNA structure probing and difficulties in probing long RNAs. To fully assess the impact of RNA structure in biology, I aim to utilize and extend high throughput ways to probe RNA structures in solution by coupling structure probing to high throughput sequencing. This enables us to probe RNA structures for thousands of RNAs simultaneously. This expansion of RNA structural data will likely enhance our understanding of how RNA function in different cellular systems, as well as open doors to potentially targeting these structural elements in diseases.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/yue-wan",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/wy_edited.png?sfvrsn=e76be6a1_1"
+  },
+  {
+    "id": "astar-bii-wang-dennis",
+    "name": "Wang Dennis",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Senior Principal Scientist",
+    "roles": [
+      "Research Group: Data Science for Population Health"
+    ],
+    "research_areas": [
+      "Data Science for Population Health"
+    ],
+    "summary": "Dennis Wang is a Senior Principal Scientist at the A*STAR Singapore Institute for Clinical Sciences and Bioinformatics Institute, and also the Academy of Medical Sciences Professor (Chair in Data Science) at Imperial College London. Having worked in both academia and industry, he enjoys mentoring early-career data scientists and clinical researchers wanting to make an impact on human health using data-driven techniques. Prior to the pandemic, he was a researcher at the University of Sheffield, AstraZeneca and Microsoft Research. He obtained his Bachelor of Science in Computer Science and Microbiology from The University of British Columbia, and his MPhil in Computational Biology and PhD in Biostatistics from the University of Cambridge.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/datahub-division/dsfph",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_dennis-wang.jpg?sfvrsn=dc78f205_1"
+  },
+  {
+    "id": "astar-gis-wang-zhenxun",
+    "name": "Wang Zhenxun",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Research Scientist",
+    "roles": [
+      "Laboratory of Ocular Functional Genomics"
+    ],
+    "research_areas": [
+      "Ocular Functional Genomics"
+    ],
+    "summary": "Dr. Wang graduated with a PhD from Cold Spring Harbor School of Biological Sciences in 2012 and underwent postdoctoral training at the Genome Institute of Singapore, initially working to dissect key metabolic networks in cancers, and later focusing on investigating disease mechanisms in glaucoma. He was appointed Senior Research Scientist in 2021. Glaucoma is a group of eye diseases that lead to the degeneration of retina ganglion cells in the optic nerve. As such, it is the leading cause of blindness worldwide. However, how and why this degeneration occurs is not well understood. My lab is interested in deeply understanding the pathophysiology of different glaucoma subtypes in order to find new ways of preventing and curing the disease. Whole exome sequencing undertaken on large patient cohorts are a powerful new approach to find clinically-relevant genetic participants in glaucoma. To this end, we have found recurrent mutations in specific genes that are strongly associated with the risk of developing specific subtypes of glaucoma. To obtain insights in the disease process and understand how these mutations confer risk, we study the functional consequences of these mutations to ascertain their roles in glaucoma.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/zhenxun-wang",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/wang-zhenxun-website-revamp.png?sfvrsn=2f5cd09_1"
+  },
+  {
     "id": "astar-imcb-wanjin-hong",
     "name": "Wanjin Hong",
     "institution": "A*STAR",
@@ -1009,20 +1973,25 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-wanjinhong.jpg?sfvrsn=8c0efe1d_1"
   },
   {
-    "id": "astar-imcb-weimiao-yu",
-    "name": "Weimiao Yu",
+    "id": "astar-sign-wei-wu",
+    "name": "Wei Wu",
     "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Cell morphology and migration in pathology for drug response"
-    ],
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
     "research_areas": [
-      "Cell morphology and migration in pathology for drug response"
+      "Rules , adaptations and tools in antigen presentation (JPR, 2021; MCP, 2021; JPR, 2019)",
+      "Personalised peptide antigen discovery and specificities (Nat Comm, 2020; Front Immunol, 2021)",
+      "Vaccine delivery tools (Comm Biol, 2021)",
+      "Immunotherapy targets and T-cell antigens (Nature, 2017; Cell reports 2021)",
+      "Membrane interactome screening (Mol Immunol, 2021)",
+      "Click-chemistry tools (Nat Comm, 2020)",
+      "Gut extracellular hormone processing and enzyme specificities (Cell, 2020)",
+      "Fibroblast and tumor reciprocal activation (MCP, 2018)"
     ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-oct-2024-weimiaoyu.jpg?sfvrsn=7abb027b_1"
+    "summary": "Wei Wu received her PhD from the National University of Singapore in 2014 with dual-training in cancer biology and mass spectrometry (MS). In this period, she was supported by the President’s Graduate Fellowship and was the recipient of three international Young Investigator Awards in Berlin, Yokohama and Beijing, each time showcasing her ability to combine MS technologies with the pursuit of mechanisms in cancer biology. During her postdoc in the Netherlands with world renowned protein scientist Albert Heck, Wei developed diverse and sensitive affinity tools to measure signaling in the tumor micro-environment (TME), and became interested in paracrine impacts mediated through secretion and cell-cell contact. In 2017, she started her group in Utrecht University with a niche in cancer antigen discovery and TME crosstalk, focusing on the extracellular factors needed for immunosurveillance and T cell function. In this period, her extensive collaborations with Dutch scientists in tumor immunology only intensified her interest, in providing mechanistic resolution and technological solutions, towards better immunotherapy and pre-emptive intervention. Since 2021, Wei served as a nominated representative from central Europe in the world Human Proteome Organisation (HUPO) council, and was appointed to the international executive committee of the HUPO Human Immuno-Peptidome Project (HUPO-HIPP). In 2022, she moved back to Singapore to join A*STAR-SIgN, focusing on cancer antigen targeting and understanding tissue microenvironmental crosstalk. Research focus: Cancer antigen targeting The lab focuses on identification of novel tumor-surface signatures that may be exploited for immunotherapy. In a three-pronged approach, the goal is to target tumor vulnerabilities and dependencies in antigen presentation, membrane proteins and cell-surface protein-protein interactions, to engineer novel immuno-therapeutic routes. By applying hypothesis-free mass spectrometry discovery in novel model systems, recent findings include: Rules , adaptations and tools in antigen presentation (JPR, 2021; MCP, 2021; JPR, 2019) Personalised peptide antigen discovery and specificities (Nat Comm, 2020; Front Immunol, 2021) Vaccine delivery tools (Comm Biol, 2021) Immunotherapy targets and T-cell antigens (Nature, 2017; Cell reports 2021) Membrane interactome screening (Mol Immunol, 2021) Tissue microenvironmental crosstalk Crosstalk between different cell types in the tissue microenvironment is critical in health and disease. The complexity in inter-cellular signaling depends on a myriad of long- and short-range communication channels that may be contact dependent or independent. By coupling novel affinity tools with ultra-sensitive innovations in mass spectrometry, the goal is to dissect the paracrine influence of different cell types during normal tissue homeostasis, and sustenance of a malignant tumor niche. Through hypothesis-free screening of secreted cytokines , extracellular vesicles and extracellular matrix components , recent tools and findings in physiology and crosstalk include: Click-chemistry tools (Nat Comm, 2020) Gut extracellular hormone processing and enzyme specificities (Cell, 2020) Fibroblast and tumor reciprocal activation (MCP, 2018) Breast cancer stratification from plasma EVs (Comm Biol, 2019) Immuno-suppressive TME in neuroblastoma",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/wei-wu",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/wei-wu.jpg?sfvrsn=a9824ab1_3"
   },
   {
     "id": "astar-imcb-weiping-han",
@@ -1042,6 +2011,40 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-weipinghan.jpg?sfvrsn=1ee41695_1"
+  },
+  {
+    "id": "astar-bii-wong-wing-cheong",
+    "name": "Wong Wing Cheong",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Head of BioMedical Data Architecture & Repository",
+    "roles": [
+      "Research Group: BioMedical Data Architecture & Repository"
+    ],
+    "research_areas": [
+      "BioMedical Data Architecture & Repository"
+    ],
+    "summary": "Wong Wing Cheong received his undergraduate degree in Computer Engineering from NTU. He joined A*STAR under the joint MSc in Bioinformatics from A*STAR/NUS and subsequently completed his Dr. Rer. Nat (suma cum laude) in Computer Science from Leipzig University. He has been a Principal Investigator with BII since 2014 and is currently the Head/Principal Investigator of the BioMed DAR group since 2019.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/datahub-division/biomed-dar",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/wong-wing-cheong.jpg?sfvrsn=d52e9814_0"
+  },
+  {
+    "id": "astar-bii-woo-xing-yi",
+    "name": "Woo Xing Yi",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Head of Research Data Integration",
+    "roles": [
+      "Research Group: Research Data Integration"
+    ],
+    "research_areas": [
+      "Research Data Integration"
+    ],
+    "summary": "Xing Yi Woo obtained her PhD in Chemical Engineering from the Joint-PhD program of University of Illinois at Urbana Champaign and National University of Singapore. She did her postdoctoral fellowship in the Genome Institute of Singapore under the mentorship of Professors Edison Liu and Guillaume Bourque. Subsequently, she joined The Jackson Laboratory as a computational scientist and made significant contributions in a wide range of computational projects, including analysis pipeline development, clinical curation and downstream analysis of large-scale datasets of cancer and patient-derived xenografts. She has led analysis projects in cancer resources and consortiums, and contributed to publications in high impact journals, including Nature Genetics, Proceedings of the National Academy of Sciences, Cancer Research and Genome Research.",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/datahub-division/rdi",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-xingyi.tmb-medium.jpg?Culture=en&sfvrsn=144518c_1"
   },
   {
     "id": "astar-imcb-xavier-guezennec",
@@ -1134,22 +2137,6 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-nov2024-wang-yibin.jpg?sfvrsn=c7be9ded_1"
   },
   {
-    "id": "astar-imcb-yiqi-seow",
-    "name": "Yiqi Seow",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Genetic control and specific delivery of genes for therapy and health"
-    ],
-    "research_areas": [
-      "Genetic control and specific delivery of genes for therapy and health"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-yiqiseow.jpg?sfvrsn=2d6f8035_1"
-  },
-  {
     "id": "astar-imcb-yu-fu",
     "name": "Yu Fu",
     "institution": "A*STAR",
@@ -1167,6 +2154,70 @@
     "scholar_url": "",
     "orcid": "",
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photo-mar-2024-yufu.jpg?sfvrsn=75f2f4d9_1"
+  },
+  {
+    "id": "astar-gis-yu-qiang",
+    "name": "Yu Qiang",
+    "institution": "A*STAR",
+    "department": "Genome Institute of Singapore (GIS)",
+    "title": "Senior Group Leader",
+    "roles": [
+      "Laboratory of Precision Cancer Medicine"
+    ],
+    "research_areas": [
+      "Precision Cancer Medicine"
+    ],
+    "summary": "Dr. Qiang Yu's research at the Genome Institute of Singapore focuses on uncovering mechanisms of cancer progression, immune evasion, and therapeutic resistance. They integrate genomics, epigenetics, and immunology to develop precision cancer therapies. Dr. Yu's lab was the first to discover DZNep as a histone methylation inhibitor, a breakthrough in targeting epigenetic regulators in cancer. This work provided foundational insights into inhibiting EZH2, a key component of the Polycomb repressive complex 2 (PRC2), leading to new therapeutic strategies for epigenetically driven cancers. The team also uncovered the non-catalytic function of EZH2, demonstrating its role in promoting tumor growth independently of its histone methyltransferase activity. Additionally, they explore genomic biomarkers and targeted therapies, identifying chromosome 1q21.3 amplification as a trackable biomarker and therapeutic target for breast cancer recurrence, along with novel oncogenic signaling pathways. These findings are being translated into clinical applications. A significant recent focus of the team is the tumor microenvironment, particularly in understanding the immune suppressive tumor microenvironment of solid tumors. They have shown how cancer-associated fibroblasts (CAFs) contribute to therapy resistance in colorectal cancer. The team has also identified EZH2-mediated immune deficiency as a key mechanism leading to anti-HER2 immunotherapy and hypoxia-driven epigenetic reprogramming of T cell effector activity in breast cancer. Their latest work revealed P4HA1 as a critical regulator of CD8+ T cell differentiation, with targeting P4HA1 promoting the expansion of T cell progenitors toward an immune memory phenotype, enhancing systemic anti-tumor immunity. This discovery has significant implications for improving T cell-based immunotherapies and overcoming immune exhaustion in cancer. Based on this finding, they are developing novel T cell technology platforms to empower T cell therapy, such as CAR T cell therapy for solid tumors. Through these discoveries, Dr. Yu's team is pioneering new approaches to precision medicine, epigenetic therapy, and immune-based cancer treatments, bridging fundamental cancer biology with translational applications.",
+    "profile_url": "https://www.a-star.edu.sg/gis/our-people/faculty-staff/members/qiang-yu",
+    "lab_url": "",
+    "scholar_url": "",
+    "orcid": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/yu-qiang-website-revamp.png?sfvrsn=7bea6148_1"
+  },
+  {
+    "id": "astar-bii-yu-weimiao",
+    "name": "Yu Weimiao",
+    "institution": "A*STAR",
+    "department": "Bioinformatics Institute (BII)",
+    "title": "Principal Scientist",
+    "roles": [
+      "Research Group: Intelligent Digital and Molecular Pathology"
+    ],
+    "research_areas": [
+      "Intelligent Digital and Molecular Pathology"
+    ],
+    "summary": "Dr. Yu Weimiao, an expert in bioimage informatics and computational digital pathology, leads two pioneering groups as a joint Principal Investigator at BII and IMCB. After his Ph.D. in image processing and machine vision from the National University of Singapore, Dr. Yu has been with A*STAR since 2007, advancing to lead the Computational Digital Pathology Lab at BII and the Computational & Molecular Pathology Lab at IMCB. His research, published in top peer reviewed journals like Nature Cell Biology, Nature Materials, Nature Communications, Bioinformatics, focuses on AI-driven computational biomedical image analysis and quantitative imaging informatics. Dr. Yu’s teams, with over 18 years of experience, excel in developing robust cellular image analysis and molecular diagnosis solutions for clinical application. They integrate diverse methodologies, including signal processing, machine learning, and AI, to create accurate and efficient digital pathology algorithms. Their collaborations with hospitals, biotech, and pharmaceutical companies enhance their expertise in medical algorithm development and validation, aimed at improving patient care. His previous research outcomes were successfully commercialized and made an impact in the medical diagnosis and drug discovery. An entrepreneur as well, Dr. Yu co-founded A!maginostic Pte. Ltd. to advance the application of AI in clinical diagnostics. He collaborates closely with Singapore General Hospital, National University Hospital, and Tan Tock Seng Hospital, ensuring a seamless R&D pipeline. His world-class joint lab for immunodiagnosis at the tissue level provides intelligent, quantitative imaging analysis solutions, including ImmunoHistoChemistry, Hematoxylin & Eosin, and Multiplex Fluorescence stained images. This integrated platform enables comprehensive profiling of patient immune signatures, aiding in diagnosis, prognosis, and drug response studies. THE JOINT LAB OF EXCELLENCE IS PARKED AT A*STAR RESEARCH SUPPORT CENTER: https://www.rsc.a-star.edu.sg/technologyplatforms/scientific-side-menu/scientific-information/histopathology/model-based-digital-pathology-services",
+    "profile_url": "https://www.a-star.edu.sg/bii/research/ciid/cdpl",
+    "lab_url": "",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider41/default-album/pi-images/bii_pi-weimiao.png?sfvrsn=51469897_0"
+  },
+  {
+    "id": "astar-sign-rong-en-tay-profile",
+    "name": "rong en tay profile",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "My group uses two approaches to uncover targets:"
+    ],
+    "summary": "Dr Tay Rong En graduated from Harvard University in 2019 with a PhD in Immunology for his work in Professor Kai Wucherpfennig’s group at the Dana-Farber Cancer Institute, where he used functional small molecule and CRISPR screening approaches to identify HDAC3 and CARM1 as novel epigenetic regulators of CD8 T cell effector function. Upon returning to Singapore Immunology Network, he applied his expertise using screening strategies to search for novel immunotherapy targets for hepatocellular carcinoma as a postdoctoral fellow in the groups of Prof Laurent Renia and Dr Olaf Rötzschke, in close collaboration with Prof Toh Han Chong from the National Cancer Centre. For his work on discovering and validating novel targets for HCC immunotherapy, Dr Tay was awarded a Young Individual Researcher Grant from the National Medical Research Council and a pre-pilot award from the Singapore Therapeutics Development Review. In October 2023, Dr Tay started his own research group as a Group Leader, where he continues his work on hits from his screening approaches in HCC and beyond. Research focus: Our research focuses on the systematic discovery and validation of novel therapeutic targets for immunotherapy of solid tumours using focused functional genetic and pharmacological screens, beginning with hepatocellular carcinoma. Hepatocellular carcinoma (HCC) is the primary form of liver cancer and a highly lethal disease (>900,000 new cases and >800,000 deaths globally every year), with most cases occurring in East and Southeast Asia. HCC is most commonly detected at an advanced stage that is typically fatal within a year if left untreated. Although recent successes with combination immunotherapies have revolutionised treatment options for HCC, about two-thirds of patients with advanced HCC still do not respond to any kind of therapy. A critical gap in the rational design of the next generation of effective HCC immunotherapeutics is the paucity of knowledge of dominant immunosuppressive molecular pathways specific to the liver and to the HCC tumour microenvironment. My group uses two approaches to uncover targets: High-throughput functional phenotypic in vitro screening of drugs for their ability to block the immunosuppression of activated CD8 T cells by liver-resident cells. Click here for an example from my previous work where we used a similar approach to discover a novel role for the epigenetic regulator HDAC3 in regulating CD8 T cell cytotoxicity. Focused CRISPR-Cas9 genetic screening of potential target molecules on tumour-infiltrating CD8 T cells in mouse models of HCC. Click here for an example from my previous work where we used a similar approach to identify the epigenetic regulator CARM1 as a potential target for immunotherapy in a mouse model of melanoma that is highly resistant to immunotherapy. By combining these two approaches, we aim to discover immunosuppressive molecular drivers and pathways intrinsic to the liver and specific to the HCC tumour microenvironment, respectively. More recently, we have developed a high-throughput platform for magnetic particle imaging (MPI) of adoptively transferred immune cells labelled with magnetic nanoparticles. This platform uses a custom-built MPI device developed by our partner, Dr Tay Zhi Wei (formerly from IBB, currently moved to National Institute of Advanced Industrial Science and Technology, Japan) and is capable of imaging 5 mice in one sitting for at least two weeks following cell transfer, enabling the longitudinal monitoring of their dynamics in real-time and accelerating research in cell therapies for solid tumours. Overall, our research aims to generate validated, high-confidence targets for the downstream development of rationally engineered therapeutics and cell therapy products in partnership with clinicians driving clinical trials and with industry partners.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/rong-en-tay",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/ret_profile.jpg?sfvrsn=d21eda01_4"
+  },
+  {
+    "id": "astar-sign-wang-liang-wei-profile",
+    "name": "wang liang wei profile",
+    "institution": "A*STAR",
+    "department": "Singapore Immunology Network (SIgN)",
+    "title": "",
+    "roles": [],
+    "research_areas": [
+      "Our research is broadly organized into the two following Themes:"
+    ],
+    "summary": "Dr Wang Liang Wei is an expert in the metabolic biology of lymphocytes and lymphomas. Liang Wei concentrated in immunology and virology at the University of Cambridge, UK, and attained a BA in Natural Sciences in 2013. During his time at Cambridge, Liang Wei worked closely with Dr Mark Wills and Dr Inmaculada Montanuy Sellart at Addenbrooke’s Hospital to investigate micro-RNA regulation of T cell-mediated immunity against human cytomegalovirus. Liang Wei then went on to complete a one-year post-baccalaureate stint with Associate Professor Ren Ee Chee and Dr Ko Hui Ling at the Singapore Immunology Network (SIgN), studying hepatitis B virus core promoter transactivation by non-canonical transcription factors. Liang Wei then moved to Boston, USA to embark on his doctoral studies in the PhD Program in Virology at Harvard University. Under the tutelage of Asst Prof Benjamin Gewurz and Professor Vamsi Mootha, Liang Wei focused on the metabolic reprogramming of primary human B cells in response to Epstein-Barr virus (EBV) infection and transformation. He obtained his PhD in Virology in 2019 and returned to SIgN for his post-doctoral stint with Dr Olaf Rötzschke, where he studied EBV gene expression in non-B lymphomas. Since 2021, Liang Wei has obtained competitive funding to initiate and advance immunometabolic studies in lymphoproliferative models of disease and professional antibody-secreting cells. Liang Wei was promoted to Group Leader in 2023 and maintains active research interests in the biochemistry of immunometabolic pathways and the resulting molecular/cellular-biological phenotypes that underpin homeostasis and transformation. Research focus: My group implements and integrates complementary approaches, such as the introduction of chemical perturbations, the use of myriad CRISPR systems for gene regulation, metabolite manipulation and tracing, and employment of newly developed genetic tools for redox interrogation. These approaches are supported by the use of sophisticated analytical techniques, particularly highly quantitative mass spectrometry, for specificity and sensitivity. Importantly, we perform cross-validation of our findings in diverse experimental systems, such as primary human cells and tissues, cell lines and suitable mouse models, to achieve robustness. Our research is broadly organized into the two following Themes: Theme 1: Lymphocyte activation entails dramatic rewiring of their metabolic programmes to provide substrates for growth (increase in cell size), proliferation (increase in cell numbers) and functionalization (production of bioactive molecules). Lymphomas and lymphoproliferative disorders (LPDs) essentially augment those phenotypes, thereby driving extraordinarily high demand for nutrients. In so doing, lymphoma and LPD cells can develop unique metabolic vulnerabilities. In this Theme, we aim to delineate metabolic dependencies in lymphomas and LPDs, focusing on less-studied or Asian-prevalent subtypes. We will then characterize, investigate and exploit these metabolic Achilles’ heels for development towards therapeutic products. Theme 2: Professional antibody-secreting cells (ASCs) i.e., plasmablasts and plasma cells, are crucial components of the immune system responsible for producing antibodies that protect against pathogens. In fact, certain ASCs can produce hundreds to thousands of antibodies per second for decades. These cells foreseeably bear enormous metabolic burdens. Yet, it is not well-understood how metabolic pathways impact ASC function and longevity. In this Theme, we look to identify, characterize and exploit targetable ASC metabolic pathways that regulate secretory and glycosylation capacities and cellular lifespan.",
+    "profile_url": "https://www.a-star.edu.sg/sign/people/principal-investigators/wang-liang-wei",
+    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider26/people/wang-liang-wei-profile.png?sfvrsn=464942a8_3"
   },
   {
     "id": "ntu-sbs-ajai-vyas",

@@ -23,14 +23,30 @@ def _cache_path(url: str) -> Path:
     return CACHE_DIR / f"{h}.html"
 
 
-def get(url: str, *, force: bool = False, sleep: float = 0.4) -> str:
-    """GET with disk cache. Raises on non-200."""
+def get(url: str, *, force: bool = False, sleep: float = 0.4, retries: int = 4) -> str:
+    """GET with disk cache. Raises on non-200. Retries on transient timeouts.
+
+    A*STAR's Sitefinity backend intermittently stalls past 30s under load;
+    exponential-backoff retries salvage those runs without re-fetching pages
+    already in the disk cache.
+    """
     p = _cache_path(url)
     if p.exists() and not force:
         return p.read_text(encoding="utf-8", errors="replace")
-    r = requests.get(url, headers={"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"}, timeout=30)
-    r.raise_for_status()
-    p.write_text(r.text, encoding="utf-8")
-    if sleep:
-        time.sleep(sleep)
-    return r.text
+    last_err: Exception | None = None
+    for attempt in range(retries):
+        try:
+            r = requests.get(
+                url,
+                headers={"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9"},
+                timeout=60,
+            )
+            r.raise_for_status()
+            p.write_text(r.text, encoding="utf-8")
+            if sleep:
+                time.sleep(sleep)
+            return r.text
+        except (requests.Timeout, requests.ConnectionError) as e:
+            last_err = e
+            time.sleep(2 * (attempt + 1))
+    raise last_err  # type: ignore[misc]
