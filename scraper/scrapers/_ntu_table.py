@@ -168,6 +168,139 @@ def parse_row(
     return rec
 
 
+def iter_col_rows(soup: BeautifulSoup):
+    """Yield (left_col, info_col) for Bootstrap row layouts (col-md-3 + col-md-9).
+
+    Used by some NTU CoE pages (e.g. MAE) where each faculty is rendered as a
+    two-column row instead of a `<tr>`.
+    """
+    for col in soup.select("div.col-md-9.col-sm-12"):
+        if not col.find("strong"):
+            continue
+        text = col.get_text(" ", strip=True).lower()
+        if "email" not in text and "profile" not in text:
+            continue
+        # Sibling col-md-3 holds the photo.
+        parent = col.parent
+        left = parent.select_one("div.col-md-3.col-sm-12") if parent else None
+        yield left, col
+
+
+def parse_card(card: Tag, *, base: str, institution: str, department: str,
+               id_prefix: tuple[str, ...], fallback_profile: str) -> Faculty | None:
+    """Parse an `img-card--academic` block (CEE, MSE)."""
+    title_a = card.select_one(".img-card__title a")
+    if not title_a:
+        return None
+    raw = clean_text(title_a.get_text(" ", strip=True))
+    if not raw:
+        return None
+    raw = re.sub(r"^(prof\.?|dr\.?|a/?p|asst\.? prof\.?|assoc\.? prof\.?)\s+", "", raw, flags=re.I)
+    if not raw or len(raw.split()) < 2:
+        return None
+    name = _reformat_name(raw)
+    profile_url = title_a.get("href") or fallback_profile
+    if profile_url and not profile_url.startswith("http"):
+        profile_url = urljoin(base, profile_url)
+
+    img = card.select_one(".img-card__img img")
+    photo = urljoin(base, img["src"]) if img and img.get("src") else ""
+
+    summary_text = ""
+    appointments = ""
+    keywords_text = ""
+    for desc in card.select(".img-card__desc"):
+        label_el = desc.find("strong")
+        label = clean_text(label_el.get_text(" ", strip=True)).lower().rstrip(":") if label_el else ""
+        # Strip the label out of the desc text.
+        body = clean_text(desc.get_text(" ", strip=True))
+        if label:
+            body = re.sub(rf"^{re.escape(label_el.get_text())}\s*:?\s*", "", body, flags=re.I)
+        if "appointment" in label:
+            appointments = body
+        elif "keyword" in label or "interest" in label:
+            interests = desc.select_one(".interests")
+            keywords_text = clean_text(interests.get_text(" ", strip=True)) if interests else body
+        elif not summary_text:
+            summary_text = body
+
+    title_line = appointments.split(",")[0].strip() if appointments else ""
+    roles = [appointments] if appointments and appointments != title_line else []
+    research_areas = split_keywords(keywords_text)[:8] if keywords_text else []
+    summary_parts = []
+    if summary_text:
+        summary_parts.append(summary_text)
+    if keywords_text:
+        summary_parts.append("Research interests: " + keywords_text)
+    summary = " ".join(summary_parts)[:4000]
+
+    return {
+        "id": slugify(*id_prefix, name),
+        "name": name,
+        "institution": institution,
+        "department": department,
+        "title": title_line,
+        "roles": roles,
+        "research_areas": research_areas,
+        "summary": summary,
+        "email": "",
+        "profile_url": profile_url,
+        "photo_url": photo,
+    }
+
+
+def parse_profile_row(row: Tag, *, base: str, institution: str, department: str,
+                      id_prefix: tuple[str, ...], fallback_profile: str) -> Faculty | None:
+    """Parse a `div.profile-row` block (EEE)."""
+    name_el = row.select_one(".profile-row-name .name-text") or row.select_one(".profile-row-name a")
+    if not name_el:
+        return None
+    raw = clean_text(name_el.get_text(" ", strip=True))
+    raw = re.sub(r"^(prof\.?|dr\.?|a/?p|asst\.? prof\.?|assoc\.? prof\.?)\s+", "", raw, flags=re.I)
+    if not raw or len(raw.split()) < 2:
+        return None
+    name = _reformat_name(raw)
+    a = row.select_one(".profile-row-name a")
+    profile_url = (a.get("href") if a else "") or fallback_profile
+    if profile_url and not profile_url.startswith("http"):
+        profile_url = urljoin(base, profile_url)
+
+    img = row.select_one(".profile-row-image-wrap img")
+    photo = urljoin(base, img["src"]) if img and img.get("src") else ""
+
+    designation = row.select_one(".profile-row-designation")
+    title_line = clean_text(designation.get_text(" ", strip=True)) if designation else ""
+    short_title = title_line.split(",")[0].strip()
+    roles = [title_line] if title_line and title_line != short_title else []
+
+    # The last <p> in profile-row-org that isn't an office or email is keywords.
+    keywords_text = ""
+    for p in row.select(".profile-row-org p"):
+        if "office" in (p.get("class") or []):
+            continue
+        if p.find("a", href=lambda h: h and "email-protection" in h):
+            continue
+        t = clean_text(p.get_text(" ", strip=True))
+        if t and not keywords_text:
+            keywords_text = t
+    research_areas = split_keywords(keywords_text)[:8] if keywords_text else []
+    summary = ("Research interests: " + keywords_text)[:4000] if keywords_text else ""
+
+    return {
+        "id": slugify(*id_prefix, name),
+        "name": name,
+        "institution": institution,
+        "department": department,
+        "title": short_title,
+        "roles": roles,
+        "research_areas": research_areas,
+        "summary": summary,
+        "email": "",
+        "profile_url": profile_url,
+        "photo_url": photo,
+    }
+
+
 def iter_rows(soup: BeautifulSoup):
     """Yield (left_td, info_td) for each faculty row in the page.
 
