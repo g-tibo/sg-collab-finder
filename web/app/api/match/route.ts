@@ -12,17 +12,63 @@ type MatchOut = { matches: { id: string; rationale: string }[] };
 
 const MODEL = "claude-haiku-4-5-20251001";
 
-function compactDirectory() {
-  // Keep payload small. We send one line per faculty with just the fields
-  // Claude needs to rank relevance. The full record is reattached client-side.
-  return FACULTY.map((f) => ({
+// How many pre-filtered candidates to send to Claude. Rate-limit budget on
+// Haiku tier 1 is 50k input tokens/min; ~150 compact records is ~25k tokens.
+const SHORTLIST_SIZE = 150;
+
+const STOPWORDS = new Set([
+  "a","an","and","are","as","at","be","by","for","from","has","have","in","into",
+  "is","it","of","on","or","that","the","this","to","was","were","will","with",
+  "we","our","its","their","they","i","my","you","your","can","could","would",
+  "should","but","not","no","do","does","did","using","use","used","based",
+  "about","more","some","any","other","many","new","study","studies","research",
+  "project","work","interest","interests","area","areas","topic","topics",
+  "looking","find","want","wants","need","needs","develop","developing",
+]);
+
+function tokenize(s: string): string[] {
+  return (s.toLowerCase().match(/[a-z][a-z-]+/g) ?? [])
+    .filter((t) => t.length > 2 && !STOPWORDS.has(t));
+}
+
+function shortlist(query: string) {
+  // Simple token-overlap scoring with a small boost for research_areas (the
+  // most specific signal) and a tiny boost for title. Strong matches in
+  // summary contribute too but are diluted by length.
+  const qTokens = new Set(tokenize(query));
+  if (qTokens.size === 0) {
+    return FACULTY.slice(0, SHORTLIST_SIZE);
+  }
+  const scored = FACULTY.map((f) => {
+    const areas = (f.research_areas ?? []).join(" ").toLowerCase();
+    const summary = (f.summary ?? "").toLowerCase();
+    const title = (f.title ?? "").toLowerCase();
+    const roles = (f.roles ?? []).join(" ").toLowerCase();
+    let score = 0;
+    for (const t of qTokens) {
+      if (areas.includes(t)) score += 5;
+      if (roles.includes(t)) score += 2;
+      if (title.includes(t)) score += 1;
+      if (summary.includes(t)) score += 1;
+    }
+    return { f, score };
+  });
+  scored.sort((a, b) => b.score - a.score);
+  // If nothing matched at all, fall back to a random slice so we still send
+  // *something* — otherwise the user's broad/off-domain query returns empty.
+  if (scored[0].score === 0) return FACULTY.slice(0, SHORTLIST_SIZE);
+  return scored.slice(0, SHORTLIST_SIZE).map((s) => s.f);
+}
+
+function compactDirectory(records: typeof FACULTY) {
+  return records.map((f) => ({
     id: f.id,
     name: f.name,
     institution: f.institution,
     department: f.department ?? "",
     title: f.title ?? "",
     research_areas: (f.research_areas ?? []).slice(0, 8),
-    summary: (f.summary ?? "").slice(0, 600),
+    summary: (f.summary ?? "").slice(0, 500),
   }));
 }
 
@@ -48,7 +94,7 @@ export async function POST(req: NextRequest) {
 
   const client = new Anthropic({ apiKey });
 
-  const directory = compactDirectory();
+  const directory = compactDirectory(shortlist(project));
 
   const system = `You rank potential academic collaborators for a researcher based in Singapore.
 You will receive (a) a project description and (b) a JSON array of faculty records.
