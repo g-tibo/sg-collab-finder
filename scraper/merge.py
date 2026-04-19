@@ -29,6 +29,7 @@ SOURCES = [
     "astar_sign.json",
     "nus_dbs.json",
     "nus_yll.json",
+    "dukenus.json",
 ]
 
 
