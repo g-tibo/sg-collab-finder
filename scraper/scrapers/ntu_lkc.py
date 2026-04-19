@@ -5,9 +5,9 @@ The faculty A-Z directory renders each person as a 3-column `<tr>`:
     <td>Title line 1<br>Title line 2<br>...</td>
     <td>email</td>
 
-No research interests on the listing page — we keep the multi-line title
-block as `roles` so matching still picks up thematic leads (e.g. "Vertical
-Theme Lead (Pathology)", "Provost's Chair in Metabolic Disorder").
+No research interests or photos on the listing page. For entries whose
+profile link points to DR-NTU we follow through and grab the og:image
+headshot from the profile page (disk-cached).
 """
 
 from __future__ import annotations
@@ -17,6 +17,7 @@ import re
 from pathlib import Path
 from urllib.parse import urljoin
 
+import requests
 from bs4 import BeautifulSoup
 
 from scrapers._http import get
@@ -26,6 +27,64 @@ from schema import Faculty, clean_text, slugify
 
 BASE = "https://www.ntu.edu.sg"
 URL = f"{BASE}/medicine/our-people/faculty"
+
+_OG_IMAGE_RE = re.compile(
+    r'<meta[^>]*property=["\']og:image["\'][^>]*content=["\']([^"\']+)["\']',
+    re.I,
+)
+_CRIS_ID_RE = re.compile(r"/cris/rp/(rp\d+)", re.I)
+_DISCOVER_URL = "https://dr.ntu.edu.sg/server/api/discover/search/objects?query={}"
+
+
+def _photo_from_og(url: str) -> str:
+    """New-style DR-NTU `/entities/person/<slug>` URLs embed og:image."""
+    try:
+        html = get(url)
+    except Exception:
+        return ""
+    m = _OG_IMAGE_RE.search(html)
+    if not m:
+        return ""
+    photo = m.group(1)
+    if not photo or "default" in photo.lower() or "logo" in photo.lower():
+        return ""
+    return photo
+
+
+def _photo_from_cris(rp_id: str) -> str:
+    """Old-style `/cris/rp/<rp_id>` URLs are SPAs; follow the DSpace REST API
+    to find the person's thumbnail bitstream."""
+    try:
+        data = json.loads(get(_DISCOVER_URL.format(rp_id)))
+        objs = data.get("_embedded", {}).get("searchResult", {}).get("_embedded", {}).get("objects", [])
+    except Exception:
+        return ""
+    for wrapper in objs:
+        obj = wrapper.get("_embedded", {}).get("indexableObject", {})
+        if obj.get("entityType") != "Person":
+            continue
+        thumb_href = obj.get("_links", {}).get("thumbnail", {}).get("href")
+        if not thumb_href:
+            continue
+        try:
+            thumb = json.loads(get(thumb_href))
+        except requests.HTTPError:
+            # No thumbnail bitstream (404); skip this person.
+            return ""
+        except Exception:
+            return ""
+        return thumb.get("_links", {}).get("content", {}).get("href", "") or ""
+    return ""
+
+
+def _dr_ntu_photo(profile_url: str) -> str:
+    if "dr.ntu.edu.sg" not in profile_url:
+        return ""
+    m = _CRIS_ID_RE.search(profile_url)
+    if m:
+        return _photo_from_cris(m.group(1))
+    return _photo_from_og(profile_url)
+
 
 _TITLE_PREFIX = re.compile(
     r"^(prof\.?|dr\.?|a/?p|asst\.? prof\.?|assoc\.? prof\.?|ms\.?|mr\.?|mrs\.?)\s+",
@@ -95,7 +154,15 @@ def scrape() -> list[Faculty]:
             continue
         seen.add(rec["id"])
         out.append(rec)
-    print(f"[ntu_lkc] {len(out)} faculty")
+    print(f"[ntu_lkc] {len(out)} faculty, fetching DR-NTU photos...")
+
+    with_photo = 0
+    for rec in out:
+        photo = _dr_ntu_photo(rec.get("profile_url", ""))
+        if photo:
+            rec["photo_url"] = photo
+            with_photo += 1
+    print(f"[ntu_lkc] attached {with_photo}/{len(out)} photos from DR-NTU")
     return out
 
 

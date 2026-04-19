@@ -10,6 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OUT_DIR = ROOT / "out"
 TARGET = ROOT.parent / "web" / "public" / "faculty.json"
+OVERRIDES = ROOT / "overrides.json"
 
 SOURCES = [
     "ntu_sbs.json",
@@ -92,6 +93,20 @@ def main() -> None:
         records = json.loads(p.read_text(encoding="utf-8"))
         print(f"  {src}: {len(records)} records")
         all_records.extend(records)
+
+    # Apply manual overrides keyed by record id. These let us enrich profiles
+    # the scrapers can't fully capture (richer summaries, curated keyword
+    # lists, corrections). Overrides are a shallow merge per record.
+    if OVERRIDES.exists():
+        patches = json.loads(OVERRIDES.read_text(encoding="utf-8"))
+        applied = 0
+        for rec in all_records:
+            patch = patches.get(rec.get("id"))
+            if patch:
+                rec.update(patch)
+                applied += 1
+        if applied:
+            print(f"  applied {applied}/{len(patches)} overrides from overrides.json")
 
     # Dedup cross-institution joint/adjunct appointments.
     all_records, dropped = _dedup(all_records)

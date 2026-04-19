@@ -1,0 +1,19 @@
+{
+  "ntu-sbs-guillaume-thibault": {
+    "research_areas": [
+      "Endoplasmic Reticulum (ER) Stress",
+      "Unfolded Protein Response (UPR)",
+      "Lipid Homeostasis",
+      "Cellular Senescence and Aging",
+      "Wound Healing and Host-Microbe Interactions",
+      "Neurodegeneration",
+      "Single-cell Transcriptomics",
+      "Knowledge Graphs for Biology"
+    ],
+    "summary": "The Thibault Lab studies how cells sense and respond to stress, with a focus on the endoplasmic reticulum (ER), the organelle responsible for protein folding and lipid regulation. Dysregulation of ER proteostasis is a common feature of metabolic disease, neurodegeneration, chronic inflammation, and aging. We dissect how the unfolded protein response (UPR) decides between cellular adaptation and programmed death, and how distinct stressors — lipid imbalance, oxidative injury, cold, and infection — engage different UPR branches to reshape gene expression, organelle function, and tissue physiology. Using a cross-species strategy spanning yeast, C. elegans, mammalian cells, and mouse models, we investigate how ER stress responses are rewired during cellular senescence, in impaired wound healing and polymicrobial skin infection (including host–Enterococcus faecalis interactions), and in retinal degeneration. We complement wet-lab experiments with single-cell RNA-seq of injured tissues and with bioinformatic pipelines that mine transcriptional signatures across organisms. The group also develops large-scale knowledge graphs (PlantConnectome, Yeast Knowledge Graph) that aggregate the literature into queryable networks, and contributes to synthetic-biology efforts such as SCRaMbLE-based combinatorial pathway screening. Longer term, we aim to identify interventions that selectively restore protective stress responses in disease and aging without collateral damage, and to champion open, reproducible research practices.",
+    "roles": [
+      "Associate Dean (Graduate Studies), College of Science",
+      "Principal Investigator, Thibault Lab"
+    ]
+  }
+}
