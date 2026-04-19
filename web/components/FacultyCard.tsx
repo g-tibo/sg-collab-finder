@@ -3,7 +3,7 @@ import type { Faculty } from "@/lib/faculty";
 // NTU serves images with `Cross-Origin-Resource-Policy: same-site`, which
 // blocks cross-origin embedding. Route those through our own /api/img proxy.
 // A*STAR and NUS have no such restriction and can be loaded directly.
-const HOSTS_NEEDING_PROXY = new Set(["www.ntu.edu.sg"]);
+const HOSTS_NEEDING_PROXY = new Set(["www.ntu.edu.sg", "dr.ntu.edu.sg"]);
 
 // Expand the short institution code used in the data to the full name shown
 // in the UI. Keep the data short; only the presentation layer is verbose.

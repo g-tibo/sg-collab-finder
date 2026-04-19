@@ -101,7 +101,7 @@ You will receive (a) a project description and (b) a JSON array of faculty recor
 Return STRICT JSON matching this schema:
   { "matches": [ { "id": "<faculty id>", "rationale": "<one sentence>" } ] }
 Rules:
-- Return exactly 5 matches unless the directory has fewer than 5 records.
+- Return exactly 10 matches unless the directory has fewer than 10 records.
 - Only use ids that appear in the directory.
 - Rationale must be one concrete sentence (<= 30 words) explaining the specific overlap: shared methods, systems, diseases, organisms, or techniques.
 - Prefer stronger specificity over seniority. If a record has no research_areas or summary, use it only if nothing better fits.
@@ -117,7 +117,7 @@ Rules:
   try {
     const resp = await client.messages.create({
       model: MODEL,
-      max_tokens: 1200,
+      max_tokens: 2000,
       system,
       messages: [
         {
@@ -147,7 +147,7 @@ Rules:
     }
     // Defensive: drop ids that don't exist in the directory.
     const knownIds = new Set(FACULTY.map((f) => f.id));
-    parsed.matches = (parsed.matches ?? []).filter((m) => knownIds.has(m.id)).slice(0, 5);
+    parsed.matches = (parsed.matches ?? []).filter((m) => knownIds.has(m.id)).slice(0, 10);
     return NextResponse.json(parsed);
   } catch (e: any) {
     const msg = e?.error?.message || e?.message || "Upstream error";
