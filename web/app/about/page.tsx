@@ -1,8 +1,58 @@
 import { FACULTY } from "@/lib/faculty";
 
+const STOPWORDS = new Set([
+  "of", "and", "the", "for", "in", "at", "a", "an",
+]);
+
+// Derive a short tag (e.g. "SBS", "IMCB") from a department string.
+// Prefer a parenthesized acronym; otherwise take initials of capitalized
+// significant words.
+function deptTag(dept: string): string {
+  const parens = [...dept.matchAll(/\(([^)]+)\)/g)].map((m) => m[1].trim());
+  for (const p of parens) {
+    const inner = [...p.matchAll(/\(([^)]+)\)/g)].map((m) => m[1]);
+    if (inner.length) return inner[inner.length - 1];
+    // If the parenthesized text is itself a short uppercase-ish acronym, use it.
+    if (/^[A-Z][A-Za-z]{1,8}$/.test(p)) return p;
+  }
+  // Otherwise, initials of capitalized significant words (exclude stopwords).
+  const head = dept.split(/[(]/)[0];
+  const initials = head
+    .split(/\s+/)
+    .filter((w) => w && !STOPWORDS.has(w.toLowerCase()) && /^[A-Z]/.test(w))
+    .map((w) => w[0])
+    .join("");
+  return initials || head;
+}
+
+function coverageSentence(): string {
+  const byInst: Record<string, Set<string>> = {};
+  for (const f of FACULTY) {
+    const tag = deptTag(f.department ?? "");
+    if (!tag) continue;
+    (byInst[f.institution] ??= new Set()).add(tag);
+  }
+  // Stable display order: NTU, NUS, A*STAR first; then alphabetical.
+  const order = ["NTU", "NUS", "A*STAR"];
+  const insts = Object.keys(byInst).sort((a, b) => {
+    const ai = order.indexOf(a);
+    const bi = order.indexOf(b);
+    if (ai === -1 && bi === -1) return a.localeCompare(b);
+    if (ai === -1) return 1;
+    if (bi === -1) return -1;
+    return ai - bi;
+  });
+  const parts = insts.map((inst) => {
+    const tags = [...byInst[inst]].sort();
+    return `${inst} (${tags.join(", ")})`;
+  });
+  if (parts.length <= 1) return parts.join("");
+  if (parts.length === 2) return parts.join(" and ");
+  return parts.slice(0, -1).join(", ") + ", and " + parts[parts.length - 1];
+}
+
 export default function AboutPage() {
-  const byInst: Record<string, number> = {};
-  for (const f of FACULTY) byInst[f.institution] = (byInst[f.institution] ?? 0) + 1;
+  const coverage = coverageSentence();
 
   return (
     <article className="max-w-none">
@@ -23,45 +73,27 @@ export default function AboutPage() {
         (University of Copenhagen), and adapted for the Singapore ecosystem.
       </p>
 
+      <p className="mt-4 text-black/75 dark:text-white/75">
+        It covers faculty at {coverage}. Coverage will continue to expand as
+        more institutions are added.
+      </p>
+
       <h2 className="mt-8 text-xl font-semibold">How the matching works</h2>
       <p className="text-black/75 dark:text-white/75">
         When you describe a project on the <a className="text-accent hover:underline" href="/match">AI Match</a> page,
         your description is sent to Anthropic&rsquo;s Claude API along with the
-        full directory, which Claude ranks for relevance. Nothing is stored by
-        this site — no accounts, no analytics, no query logs.
+        full directory, which Claude ranks for relevance.
       </p>
 
-      <h2 className="mt-8 text-xl font-semibold">Current coverage</h2>
-      <ul className="text-black/75 dark:text-white/75 list-disc pl-6">
-        {Object.entries(byInst).map(([inst, n]) => (
-          <li key={inst}>
-            <strong>{inst}</strong>: {n} profiles
-          </li>
-        ))}
-      </ul>
-      <p className="text-black/60 dark:text-white/60 text-sm">
-        v1 covers NTU School of Biological Sciences, A*STAR IMCB, and NUS
-        Department of Biological Sciences. Planned expansion: the rest of NTU
-        (LKCMedicine, CCEB), NUS (YLLSoM, Pharmacy, Chemistry, Physiology),
-        remaining A*STAR RIs, Duke-NUS, TLL, NNI, NCCS, SNEC, and other
-        institutions listed on the{" "}
-        <a
-          className="text-accent hover:underline"
-          href="https://en.wikipedia.org/wiki/Category:Research_institutes_in_Singapore"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Wikipedia directory
-        </a>
-        .
-      </p>
-
-      <h2 className="mt-8 text-xl font-semibold">Data source</h2>
+      <h2 className="mt-8 text-xl font-semibold">Privacy</h2>
       <p className="text-black/75 dark:text-white/75">
-        Profiles are compiled from public institutional web pages and
-        department directories. The data is a snapshot and may be out of date.
-        Links point back to the canonical institutional profile so you can
-        confirm current affiliation and contact details before reaching out.
+        All profile content here is aggregated from public academic web pages.
+        No user accounts, no tracking, no analytics. Your match queries are
+        sent to Anthropic&rsquo;s API only for the purpose of generating
+        ranked matches, and are not retained by this site. Profiles are a
+        snapshot and may be out of date — each card links back to the
+        canonical institutional page so you can confirm current affiliation
+        and contact details before reaching out.
       </p>
 
       <h2 className="mt-8 text-xl font-semibold">Corrections and removal</h2>
@@ -77,8 +109,17 @@ export default function AboutPage() {
 
       <h2 className="mt-8 text-xl font-semibold">Colophon</h2>
       <p className="text-black/75 dark:text-white/75">
-        Built with Next.js, Tailwind, and the Anthropic SDK. Maintained by
-        Guillaume Thibault (NTU SBS).
+        Created and maintained by{" "}
+        <a
+          className="text-accent hover:underline"
+          href="https://www.thibaultlab.com/biography"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Guillaume Thibault
+        </a>{" "}
+        (School of Biological Sciences, Nanyang Technological University).
+        Built with Next.js, Tailwind, and the Anthropic SDK.
       </p>
     </article>
   );
