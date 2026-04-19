@@ -18162,6 +18162,37 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/antonia-1.gif"
   },
   {
+    "id": "nus-yll-bch-ban-hon-kim-kenneth",
+    "name": "Ban Hon Kim, Kenneth",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head for Clinical Education"
+    ],
+    "research_areas": [
+      "Prostate and Breast Cancer Genetics",
+      "Mouse Models of Cancer",
+      "Transposon Mutagenesis for Cancer Gene Discovery and Validation",
+      "Cell Cycle Regulation, Cellular Senescence, Cell Fate Determination"
+    ],
+    "summary": "* Prostate and Breast Cancer Genetics. * Mouse Models of Cancer. * Transposon Mutagenesis for Cancer Gene Discovery and Validation. * Cell Cycle Regulation, Cellular Senescence, Cell Fate Determination",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/ban-hon-kim-kenneth/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-1-1.jpg"
+  },
+  {
+    "id": "nus-yll-bch-barry-halliwell",
+    "name": "Barry Halliwell",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Distinguished Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Understanding the molecular mechanisms of cell injury and death in human disease (especially cancer, neurodegeneration and cardiovascular disease) and in response to toxins. Antioxidants in nutrition, health and disease. Natural and synthetic antioxidants as therapeutic agents. Mechanism of ageing and age-related disease as studied using the Caenorhabditis elegans model and human ageing cohorts .",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/barry-halliwell/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchbh.jpg"
+  },
+  {
     "id": "nus-dbs-benjamin-wainwright",
     "name": "Benjamin Wainwright",
     "institution": "NUS",
@@ -18176,6 +18207,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2022/01/Ben-Wainwright-380x507-1.jpg"
   },
   {
+    "id": "nus-yll-bch-brian-kennedy",
+    "name": "Brian Kennedy",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Distinguished Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Research in the Kennedy lab is directed at understanding the biology of ageing and translating research discoveries into new ways of delaying, detecting, preventing and treating human ageing and associated diseases.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/brian-kennedy/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/briankennedy.jpg"
+  },
+  {
     "id": "nus-dbs-chan-woon-khiong",
     "name": "Chan Woon Khiong",
     "institution": "NUS",
@@ -18188,6 +18231,18 @@
     "summary": "Zebrafish Development; Stem Cell Biology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/chan-woon-khiong/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/chanwk-1.jpg"
+  },
+  {
+    "id": "nus-yll-bch-chen-ee-sin",
+    "name": "Chen Ee Sin",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Maintaining the integrity of the genome is essential for the survival of a cell and genomic instability is associated with many human diseases including cancers. A cell ensures the integrity of its genome with an intricate interplay of epigenetic mechanisms to safeguard nuclear processes, including chromosome segregation, repair of DNA damage lesions and gene expression. Our lab aims to investigate the epigenetic mechanisms at the molecular level by:\n\n* Identifying and characterizing factors that epigenetically control essential chromatin functions that have direct implication to genomic stability. * Elucidating how different epigenetic mechanisms interplay to control faithful inheritance of chromatin information through the cell cycle. * Investigating the genetic and epigenetic regulation of functional sub-nuclear compartments.\n\nOur lab employs the powerful genetics, cytology and biochemistry of the model organism fission yeast to address these important issues. Results obtained will be extended to elucidate epigenetic mechanisms operating in the mammalian cells, to facilitate the development of therapy for human diseases and cancers.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/chen-ee-sin/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-2-1.jpg"
   },
   {
     "id": "nus-dbs-chew-fook-tim",
@@ -18268,6 +18323,32 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/darren-2.jpg"
   },
   {
+    "id": "nus-yll-bch-deng-lih-wen",
+    "name": "Deng Lih Wen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [
+      "Finance Chair"
+    ],
+    "research_areas": [],
+    "summary": "Our lab is interested in understanding the cellular and molecular mechanism in cancer development and developing novel targets for therapeutic cancer intervention.\n\nOur current research areas are:\n\nGenomic instability and chromatin dynamics in cancer development\n\nMechanisms of therapy resistance",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/deng-lih-wen/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/DLW-e1603266376443.jpg"
+  },
+  {
+    "id": "nus-yll-bch-dennis-kappei",
+    "name": "Dennis Kappei",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "The expansion of genome size in the eukaryotic lineage is accompanied by a substantial increase in the amount of non-coding DNA elements. In the human genome, these regions comprise about 98% of the entire genome. Despite this high amount of non-coding DNA, most functional analyses have focused on the role of protein-coding genes. At the same time, protein-centric techniques traditionally dominate functional analysis. Such techniques include various immunoprecipitation approaches of the protein of interest and subsequent sequencing of the attached DNA/RNA species. While the availability of deep sequencing approaches has created a plethora of methods to analyze genome- and transcriptome-wide protein binding, these methods remain protein-centric. In particular, repetitive elements are usually excluded from analysis as mapping is ambiguous due to the short read length of current sequencing technologies and the fact that genetic manipulations are less straightforward compared to single loci. To access previously unexplored genomic elements, DNA-centric techniques that can be performed in an unbiased manner are valuable complementary approaches in the current research environment.\n\nIn an effort to establish a nucleic acid-centric approach that is generally applicable to non-coding elements, we focused on telomere-binding proteins. Telomeres are the molecular caps at the end of chromosomes and in vertebrates they consist of hundreds to thousands of repeats with the motif TTAGGG. Due to the end replication problem and active end processing telomeres shorten with every cell division, ultimately leading to cellular senescence. Cancer cells would eventually share this fate. However, they developed two mechanisms to defy telomere shortening: 85% of all tumors reactivate the expression of the reverse transcriptase telomerase which adds telomeric repeats de novo, while the other 15 % use a recombination-based mechanism, termed Alternative Lengthening of Telomeres (ALT). Telomere",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/dennis-kappei/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/07/Dennis-Kappei-1-e1594130846963.png"
+  },
+  {
     "id": "nus-dbs-eunice-jingmei-tan",
     "name": "Eunice Jingmei Tan",
     "institution": "NUS",
@@ -18288,6 +18369,18 @@
     "summary": "Members of the Rheindt Lab have in common a fascination for biodiversity and its underlying evolutionary processes. With the on-going biodiversity crisis on our planet, we are also interested in how knowledge of evolutionary processes can inform conservation.\n\nMost of our research activities focus on the mechanisms that lead to – or sometimes act against – the build-up of biodiversity, such as genetic differentiation and introgression. Birds are our main model organism because their well-known distribution and life-history make them a suitable object for evolutionary studies. Pursuing a research project at my lab usually involves the application of a variety of laboratory approaches and contemporary computational tools, with a more recent focus on phylogenomic methods using Next-Generation sequencing approaches. Fieldwork is often, but not always, an important component of my students’ work.\n\nSome of the projects the Rheindt Lab is involved in include:\n\n(1) Genetic introgression: Genetic introgression is increasingly recognized as a pervasive phenomenon in evolutionary processes such as speciation and in the introduction of novelty into the gene pool. One of our main study foci is to examine the mechanisms of introgression. In particular, we are interested in the spatio-temporal patterns of introgression given different geographic and ecological conditions, and in whether selection or neutral processes are the main driver of introgression. We employ emerging technologies such as Next-Generation Sequencing in our introgression research.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/frank-rheindt/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/frank.jpg"
+  },
+  {
+    "id": "nus-yll-bch-gan-yunn-hwen",
+    "name": "Gan Yunn Hwen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Novel strategies for targeting multidrug resistant enteric bacteria.\n\nMultidrug resistance plasmid transmission in clinical Gram-negative bacteria.\n\nBacterial sensing of host environment by two component sensor/regulator systems.\n\nIdentifying risk factors for Klebsiella induced liver abscess.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/gan-yunn-hwen/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchganyh.jpg"
   },
   {
     "id": "nus-dbs-ge-ruowen",
@@ -18364,6 +18457,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/jsivaraman.jpg"
   },
   {
+    "id": "nus-yll-bch-jan-gruber",
+    "name": "Jan Gruber",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Jan Gruber’s laboratory focuses on: Ageing, Age-dependent dieseases, Interventions against Basic / Molecular Mechanisms of Ageing C. elegans as a Model Organism Role of Mitochondria and Free Radicals in Ageing and Age-dependent Diseases Biomarkers of Oxidative Damage Computational Biology Evolution of ageing",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/jan-gruber/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-5-1.jpg"
+  },
+  {
     "id": "nus-dbs-jiao-chunlei",
     "name": "Jiao Chunlei",
     "institution": "NUS",
@@ -18377,6 +18482,58 @@
     "summary": "Discovery, engineering, and design of CRISPR and novel bacterial defense systems with the aim of developing innovative platforms for disease diagnosis and treatment.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/jiao-chunlei/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/06/JIAO-Chunlei-2-e1719817520272.jpg"
+  },
+  {
+    "id": "nus-yll-bch-julius-fredens",
+    "name": "Julius Fredens",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Synthetic genomics with a focus on novel applications in healthcare and biotechnology.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/julius-fredens/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2021/09/Julius-Fredens-2.jpeg"
+  },
+  {
+    "id": "nus-yll-bch-jungjoon-kempthorne-lee",
+    "name": "Jungjoon Kempthorne Lee",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Advancement of platform technologies for genome editing and broadening their applications.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/jungjoon-kempthorne-lee/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2024/04/IMG_0861.jpg"
+  },
+  {
+    "id": "nus-yll-bch-kevin-white",
+    "name": "Kevin White",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "The White lab works in the fields of functional genomics and systems biology, using large-scale biological data-sets to generate biological insights and create new directions in diagnostic and therapeutic development to treat cancer and other disorders. Currently, focusing on developing new approaches for accelerating precision medicine through the development of nucleic acid based therapeutics and cellular engineering.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/kevin-white/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2021/06/KW-e1625814269872.png"
+  },
+  {
+    "id": "nus-yll-bch-khoo-hoon-eng",
+    "name": "Khoo Hoon Eng",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Emeritus Professor",
+    "roles": [],
+    "research_areas": [
+      "Potential therapeutics from venoms and toxins",
+      "Role of nitric oxide in liver diseases",
+      "Medical education"
+    ],
+    "summary": "* Potential therapeutics from venoms and toxins. * Role of nitric oxide in liver diseases. * Medical education.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/khoo-hoon-eng/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchkhe.jpg"
   },
   {
     "id": "nus-dbs-koh-lian-pin",
@@ -18429,6 +18586,49 @@
     "summary": "Stomatal development, environmental signaling, transcriptional regulation, plant cell and developmental biology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/lau-on-sun/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/lauos.jpg"
+  },
+  {
+    "id": "nus-yll-bch-lee-guat-lay-caroline",
+    "name": "Lee Guat Lay, Caroline",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [
+      "Characterization of FAT10 in tumorigenesis and developing FAT10 as a target for inflammation-associated cancer",
+      "Characterization of HBV in HCC",
+      "Elucidate the role of HBX in deregulating miRNA and gene expression",
+      "Identify Biomarkers for HCC",
+      "Continual update of the pfSNP web-resource including the inclusion of new algorithm and resources",
+      "Identify SNP biomarkers for predicting population differential response to drugs"
+    ],
+    "summary": "* Characterization of FAT10 in tumorigenesis and developing FAT10 as a target for inflammation-associated cancer. * Characterization of HBV in HCC. * Elucidate the role of HBX in deregulating miRNA and gene expression. * Identify Biomarkers for HCC. * Continual update of the pfSNP web-resource including the inclusion of new algorithm and resources. * Identify SNP biomarkers for predicting population differential response to drugs.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/lee-guat-lay-caroline/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchleec.jpg"
+  },
+  {
+    "id": "nus-yll-bch-lee-seow-chong",
+    "name": "Lee Seow Chong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "I am interested in the use of technology in teaching and learning, as well as promoting students’ engagement in learning. I believe in incorporating reflective practices in my teaching. In this way, I can make small tweaks to my teaching to let students learn more effectively.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/lee-seow-chong/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/seowchong.jpg"
+  },
+  {
+    "id": "nus-yll-bch-li-ronghui",
+    "name": "Li Ronghui",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Stem cells-based modeling of developmental processes and the generation of novel cells or tissues for regenerative medicine.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/li-ronghui/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2025/07/thumbnail_WechatIMG4131.jpg"
   },
   {
     "id": "nus-dbs-lim-jun-ying",
@@ -18538,6 +18738,25 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/11/longYC-scaled.jpg"
   },
   {
+    "id": "nus-yll-bch-long-yun-chau",
+    "name": "Long Yun Chau",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Deputy Head for Lifelong Education"
+    ],
+    "research_areas": [
+      "Insulin/ insulin-like growth factor signaling and cellular nutrient sensing",
+      "Regulation of energy substrates utilization and its role in cellular signaling",
+      "Transcriptional regulation of metabolic network and gene expression",
+      "Role of NAD/ NADH metabolism in nutrient-gene communication"
+    ],
+    "summary": "* Insulin/ insulin-like growth factor signaling and cellular nutrient sensing. * Regulation of energy substrates utilization and its role in cellular signaling. * Transcriptional regulation of metabolic network and gene expression. * Role of NAD/ NADH metabolism in nutrient-gene communication. * Implications of altered metabolic program in skeletal muscle and metabolic disorders such as insulin resistance and diabetes.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/long-yun-chau/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchlongy.jpg"
+  },
+  {
     "id": "nus-dbs-low-boon-chuan",
     "name": "Low Boon Chuan",
     "institution": "NUS",
@@ -18574,6 +18793,30 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/10/luomin2.jpg"
   },
   {
+    "id": "nus-yll-bch-marie-veronique-clement",
+    "name": "Marie-Veronique, Clement",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "* Reactive oxygen species and regulation of cell survival and cell death. The first interest of our research group is to understand the role of intracellular reactive oxygen species such as superoxide (O 2 . – ) and hydrogen peroxide (H 2 O 2 ) in the regulation of apoptosis and the regulation of cell response to death triggers.\n\n* Superoxide dependent survival pathways in tumor cells. Our second interest is to assess if intracellular production of O 2 . – could be a common denominator to oncogene associated survival pathways in tumor cell. A better understanding of these O 2 . – .-producing pathway(s) may be of critical importance to improve our understanding of cancer development, and most importantly may help to design new approaches to cancer therapy.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/marie-veronique-clement/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchmvc.jpg"
+  },
+  {
+    "id": "nus-yll-bch-matthew-chang",
+    "name": "Matthew Chang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Provost's Chair Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Synthetic Biology, Metabolic Engineering, Microbiome Engineering, Synthetic Genomics",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/chang-matthew/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/Matthew-Chang.2025.1.jpeg"
+  },
+  {
     "id": "nus-dbs-mok-yu-keung-henry",
     "name": "Mok Yu-Keung Henry",
     "institution": "NUS",
@@ -18598,6 +18841,18 @@
     "summary": "Evolutionary biology; Insect biodiversity; Applied entomology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/nalini-puniamoorthy/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/DBS_NP_ProfilePicture_Dec2025-scaled-e1766543987280.jpg"
+  },
+  {
+    "id": "nus-yll-bch-nguyen-nam-long",
+    "name": "Nguyen Nam Long",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Lipids play vital roles in health and diseases. Dr. Nguyen has significant contributions to the field of lipid transport by discovery of the functions of Mfsd2a as the first lipid transporter in brain during his postdoc training. This breakthrough discovery explains the long sought for mechanism by which the essential lipid DHA enters human brains and unravels for the first time that plasma-derived lysolipids, namely LPCs, are essential for normal human brain growth and functions. The major research focuses in our lab are mechanistic characterizations of novel nutritionally regulated genes that involve in lipid, nutrient transport and metabolism. We employ gene-knockout mouse models as well as molecular cell biology, biochemistry, lipidomics techniques to mechanistically unravel the physiological functions of these novel proteins. The ultimate goals are to translate these discoveries into therapeutic applications to treat lipid-related diseases such as obesity and improve health. Staffs working in our lab are expected to gain knowledge and skills in protein and lipid biochemistry, cell culture assays as well as the physiological characterizations of knockout mice.\n\nResearch projects are available for graduate and undergraduate students. Candidates interested in joining our laboratory please directly contact Dr. Long Nguyen at bchnnl@nus.edu.sg",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/nguyen-nam-long/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/Nguyen-Nam-Long-5_2.jpg"
   },
   {
     "id": "nus-dbs-pan-shen-quan",
@@ -18661,6 +18916,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/prakash.jpg"
   },
   {
+    "id": "nus-yll-bch-qu-kun",
+    "name": "Qu Kun",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Infectious diseases caused by zoonotic viruses have imposed a tremendous burden on human health and social economy. The continuing COVID-19 pandemic is a prime example. In combination with methods from virology, computer science and cryo-electron microscopy, our lab is dedicated to unravelling the in-situ assembly and transmission mechanisms of these viruses at cellular and molecular levels, and facilitating the development of novel vaccines and therapeutic targets.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/qu-kun/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2022/05/KQU.png"
+  },
+  {
     "id": "nus-dbs-rong-li",
     "name": "Rong Li",
     "institution": "NUS",
@@ -18705,6 +18972,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Seow-Teck-Keong-scaled.jpeg"
   },
   {
+    "id": "nus-yll-bch-shi-jiahai",
+    "name": "Shi Jiahai",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Red blood cell biogenesis\n\nRed cell therapy and gene therapy",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/shi-jiahai/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2022/04/sjh3.png"
+  },
+  {
     "id": "nus-dbs-stephen-brian-pointing",
     "name": "Stephen Brian Pointing",
     "institution": "NUS",
@@ -18718,6 +18997,35 @@
     "summary": "Environmental Biotechnology, Environmental Microbiomes, Marine Microbiology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/stephen-brian-pointing/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Pointing_colour_photo-scaled.jpg"
+  },
+  {
+    "id": "nus-yll-bch-tan-may-chin-theresa",
+    "name": "Tan May Chin, Theresa",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [
+      "Sequence-specific strategies for inhibition of Hepatitis B viral gene expression",
+      "Role of microRNAs in liver diseases",
+      "Regulation of expression of sulfotransferases (SULTs)",
+      "Regulation of expression of the multidrug resistance protein (MRP/ABCC) subfamily of transporters"
+    ],
+    "summary": "* Sequence-specific strategies for inhibition of Hepatitis B viral gene expression. * Role of microRNAs in liver diseases. * Regulation of expression of sulfotransferases (SULTs). * Regulation of expression of the multidrug resistance protein (MRP/ABCC) subfamily of transporters.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/tan-theresa-may-chin/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtant.jpg"
+  },
+  {
+    "id": "nus-yll-bch-tan-tin-wee",
+    "name": "Tan Tin Wee",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Current research areas include multilingualisation of Internet, music notation on the Internet, Internet communication protocols, VRML, Java, advanced Internet technologies, building regional advanced research networks, biocomputing and bioinformatics. In straddling two major technologies, IT and Biotechnology, he hopes to help Singapore establish a niche as a major technology player in Bioinformatics.\n\n* Bioinformatics * Advanced Internet Network Protocols and Applications in Biological Sciences\n\nIn particular, we are pursuing the following projects: 1) Biodatabases; Large-scale workflow integration; grid computing; immunomics & vaccine informatics. 2) Computer protocols, applications and standards for biological entities, nomenclature, pathways, diagramming and software tools interfacing. 3) Advanced Internet research network engineering for bioinformatics applications. 4) Internet protocols for bioinformatics and multilingual internet names.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/tan-tin-wee/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtantw.jpg"
   },
   {
     "id": "nus-dbs-tan-yong-zi",
@@ -18737,6 +19045,48 @@
     "summary": "Cryo-EM, Structural Biology, Membrane Proteins, Diabetes, Cancer, Methods Development, Biochemistry",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/tan-yong-zi/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/08/tanyongzi.jpg"
+  },
+  {
+    "id": "nus-yll-bch-tang-bor-luen",
+    "name": "Tang Bor Luen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [
+      "Safety Chair"
+    ],
+    "research_areas": [],
+    "summary": "Small GTPases, SNAREs and cell adhesion molecules and their cellular and physiological roles in CNS neurons and glia.\n\nConventional and unconventional membrane trafficking components and mechanisms in bacterial and viral infection.\n\nSirtuins in neurodegeneration and aging.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/tang-bor-luen/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtbl2-1.jpg"
+  },
+  {
+    "id": "nus-yll-bch-tay-mei-sian-yvonne",
+    "name": "Tay Mei Sian, Yvonne",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Yvonne Tay’s laboratory focuses on: Characterization of non-coding RNA regulatory networks in cancer",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/tay-mei-sian-yvonne/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtmsy.jpg"
+  },
+  {
+    "id": "nus-yll-bch-thilo-hagen",
+    "name": "Thilo Hagen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [
+      "Cellular signaling and energy metabolism",
+      "Cellular stress response",
+      "Novel therapeutic approaches for obesity and cancer"
+    ],
+    "summary": "* Cellular signaling and energy metabolism * Cellular stress response * Novel therapeutic approaches for obesity and cancer",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/thilo-hagen/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchth.jpg"
   },
   {
     "id": "nus-dbs-thorsten-wohland",
@@ -18768,6 +19118,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/todd.jpg"
   },
   {
+    "id": "nus-yll-bch-too-heng-phon",
+    "name": "Too Heng-Phon",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Bioanalytics (qPCR, bionanotechnology), MicroRNA, GDNF, Metabolic Engineering of Isoprenoids, Gene Delivery, Stem Cells.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/too-heng-phon/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtoohp.jpg"
+  },
+  {
     "id": "nus-dbs-utkur-mirsaidov",
     "name": "Utkur Mirsaidov",
     "institution": "NUS",
@@ -18788,6 +19150,18 @@
     "summary": "",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/veerasekaran-s-o-p-arumugam/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2017/11/veera.jpg"
+  },
+  {
+    "id": "nus-yll-bch-vincenzo-sorrentino",
+    "name": "Vincenzo Sorrentino",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Biology of aging with a focus on the interconnection between mitochondrial homeostasis and proteostasis.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/vincenzo-sorrentino/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2023/01/Photo-Sorrentino.jpg"
   },
   {
     "id": "nus-dbs-wei-jiangbo",
@@ -18819,6 +19193,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/wujl.jpg"
   },
   {
+    "id": "nus-yll-bch-xavier-chee-wezen",
+    "name": "Xavier Chee Wezen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "My research harnesses the power of computational techniques to revolutionize drug discovery. By integrating high-performance computing and machine learning with conventional computer-aided methods, my lab aims to streamline the drug discovery pipeline, potentially reducing the time and cost associated with bringing new therapeutics to market. A key area of our work involves developing cutting-edge ultra-large virtual screening platforms. These innovative tools efficiently explore vast chemical spaces, dramatically accelerating the process of uncovering novel inhibitors for a range of diseases. We primarily focus on antimicrobials, cancer therapeutics, and compounds that could impact the aging process. Additionally, I’m also interested in computational techniques to design small molecules targeting RNA, an emerging and exciting field in pharmaceutical research. This work not only pushes the boundaries of computational chemistry but also holds the promise of developing more effective treatments for some of society’s most pressing health challenges. Through these advanced computational approaches, my lab hopes to advance the field of computational drug discovery and pave the way for faster, more efficient development of life-changing medicines.\n\nMajor research interests:\n\nComputer-aided drug design\n\nSmall molecule therapeutics development",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/xavier-chee-wezen/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2024/09/xavierchee.jpg"
+  },
+  {
     "id": "nus-dbs-xue-shifeng",
     "name": "Xue Shifeng",
     "institution": "NUS",
@@ -18844,6 +19230,51 @@
     "summary": "",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/yang-daiwen/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/yangdw.jpg"
+  },
+  {
+    "id": "nus-yll-bch-yeong-foong-may",
+    "name": "Yeong Foong May",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head for Innovation in Education"
+    ],
+    "research_areas": [
+      "Foong May’s research laboratory focuses on :",
+      "Exit from Mitosis",
+      "Spindle dynamics",
+      "Fungal pathogenicity"
+    ],
+    "summary": "Foong May’s research laboratory focuses on : * Exit from Mitosis * Spindle dynamics * Fungal pathogenicity\n\nEducation Interests : * Authentic learning * Problem-solving * Active-learning * Collaborative-learning",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/yeong-foong-may/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchyfm.jpg"
+  },
+  {
+    "id": "nus-yll-bch-yeow-zhong-yi-peter",
+    "name": "Yeow Zhong Yi, Peter",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Targeting cancer cell division and TRIM E3 ligases",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/yeow-zhong-yi-peter/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2025/08/headshot_white-Edited-Edited-1.png"
+  },
+  {
+    "id": "nus-yll-bch-yew-wen-shan",
+    "name": "Yew Wen Shan",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Associate Professor",
+    "roles": [
+      "Head of Department"
+    ],
+    "research_areas": [],
+    "summary": "As a continuation and elaboration of my interests in enzymology, my current and future research is centered on expanding the multi-faceted interface between enzymology and biological chemistry. In particular, my research is focused on the use of structural and mechanistic enzymological knowledge for protein engineering (exploring, defining and modulating substrate specificities), biocatalysis, therapeutic development (against infectious diseases, cancer and ageing) and bioremediation (towards urban sustainability). Significant contributions to the field of quorum-based therapeutic development were made through efforts in delineating the underlying principles of enzyme design and engineering. The first demonstration of the use of recombinant quorum-quenching enzymes in the disruption of biofilm formation (vis a vis reduction in bio-mass and thickness) by a major human pathogen, Acinetobacter baumannii, associated with multi-drug resistant nosocomial infections, was made. We have begun defining Synthetic Enzymology as the application of enzymological principles in Synthetic Biology (in which enzymes are often employed in the biosynthesis of compounds for purposeful function) and describe its use as an enabling platform in Synthetic Biology for the purposeful production of compounds of biomedical and commercial importance. We have also begun defining Synthetic Enzymology as a means for purposeful bioremediation, and demonstrated the feasibility and utility of synthetic cyanogenesis (cyanogenesis refers to the biosynthesis of cyanide, and synthetic cyanogenesis refers to cyanogenesis through synthetic enzymological means). This is part of the overall aim to establish synthetic lixiviant biology as a means to recover precious metals (such as gold) and remove toxic metals (such as lead and mercury) from electronic waste. Lixiviants are (bio)chemicals that can extract (or leach) metals from a source (such as ores and minerals, or electronic waste in our context).\n\nCurrent ",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/yew-wen-shan/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchyws.jpg"
   },
   {
     "id": "nus-dbs-ying-chang",
@@ -18875,6 +19306,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/yuhao.jpg"
   },
   {
+    "id": "nus-yll-bch-yu-haojie",
+    "name": "Yu Haojie",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "My research goals are to advance the understanding of the inherited basis for circulating lipid traits and non-circulating lipid traits underlying atherosclerosis and apply this understanding to the prevention of atherosclerotic cardiovascular diseases (ASCVD) in patients. While numerous efforts have been spent on this mission, my research perspective will focus on lipid metabolism in ASCVD, in which a functional genomics approach will be applied to interrogate genes regulating circulating and plaque lipid metabolism.",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/yu-haojie/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/11/YHJ-1.png"
+  },
+  {
     "id": "nus-dbs-yusuke-toyama",
     "name": "Yusuke Toyama",
     "institution": "NUS",
@@ -18899,5 +19342,29 @@
     "summary": "Evolution of terrestriality in lower vertebrate groups Evolutionary history and drivers of ichthyofaunal diversity Phenomics and systematics of percomorph fishes Conservation of marine ecosystems and threatened ichthyofauna",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/zeehan-jaafar/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Jaafar-Head-Hi-Res-copy-scaled-e1642499847493.jpg"
+  },
+  {
+    "id": "nus-yll-bch-zhang-yang",
+    "name": "Zhang Yang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Artificial intelligence and deep neural network learning\n\nProtein folding and structure prediction\n\nProtein/peptide design and drug discovery\n\nRNA design and RNA structure prediction",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/zhang-yang/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2023/11/yang.jpg"
+  },
+  {
+    "id": "nus-yll-bch-zhou-yilong",
+    "name": "Zhou Yilong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Biochemistry",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Facilities Bioinformatics Leica CM3050S Cryostat BioRad Digital PCR\n\nBioinformatics\n\nLeica CM3050S Cryostat\n\nBioRad Digital PCR",
+    "profile_url": "https://medicine.nus.edu.sg/bch/faculty/zhou-yilong/",
+    "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2025/05/IMG_5389.jpeg"
   }
 ]
