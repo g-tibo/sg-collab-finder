@@ -31,6 +31,8 @@ SOURCES = [
     "nus_yll.json",
     "dukenus.json",
     "nus_sci.json",
+    "nus_cde.json",
+    "nus_soc.json",
 ]
 
 
@@ -44,6 +46,20 @@ def _norm_name(name: str) -> str:
     tokens = [t for t in s.split() if t]
     return " ".join(sorted(tokens))
 
+
+# Titles that disqualify a record outright — holders typically don't run
+# independent research groups, so they don't belong on a collab-finder.
+# Covers Adjunct/Visiting/Honorary/Emeritus/Affiliated appointments plus
+# teaching-track (Lecturer/Instructor) and industry titles like "Flagship
+# Pioneering" that appear when a VC/entrepreneur has an honorary link.
+_EXCLUDE_TITLE_RE = re.compile(
+    r"\b("
+    r"Adjunct|Visiting|Honorary|Emeritus|Affiliated|"
+    r"Lecturer|Instructor|"
+    r"Flagship\s+Pioneering"
+    r")\b",
+    re.I,
+)
 
 # Secondary-appointment title markers. Any record whose title matches is
 # deprioritized when the same person also has a primary record elsewhere.
@@ -139,6 +155,26 @@ def main() -> None:
                 applied += 1
         if applied:
             print(f"  applied {applied}/{len(patches)} overrides from overrides.json")
+
+    # Drop non-research titles (adjunct, visiting, lecturer, etc.) outright.
+    before = len(all_records)
+    excluded: list[tuple[str, str, str]] = []
+    kept: list[dict] = []
+    for r in all_records:
+        title = r.get("title", "") or ""
+        if _EXCLUDE_TITLE_RE.search(title):
+            excluded.append((r.get("name", ""), r.get("institution", ""), title))
+        else:
+            kept.append(r)
+    all_records = kept
+    if excluded:
+        print(f"  excluded {len(excluded)} non-research titles (of {before}):")
+        by_title: dict[str, int] = {}
+        for _, _, t in excluded:
+            by_title[t] = by_title.get(t, 0) + 1
+        for t, n in sorted(by_title.items(), key=lambda kv: -kv[1]):
+            safe = t.encode("ascii", "replace").decode("ascii")
+            print(f"    {n:3d} {safe}")
 
     # Dedup cross-institution joint/adjunct appointments.
     all_records, dropped = _dedup(all_records)
