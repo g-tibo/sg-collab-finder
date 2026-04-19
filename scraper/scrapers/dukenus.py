@@ -28,6 +28,7 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import base64
 import hashlib
 import json
 import re
@@ -48,6 +49,11 @@ CACHE_DIR = ROOT / "cache"
 OUT_DIR = ROOT / "out"
 CACHE_DIR.mkdir(exist_ok=True)
 OUT_DIR.mkdir(exist_ok=True)
+
+# Photos are delivered as base64 data URIs in the list JSON — we decode
+# them to individual JPEGs under web/public/photos/dukenus/ so the JSON
+# stays small and the browser can cache the images.
+PHOTOS_DIR = ROOT.parent / "web" / "public" / "photos" / "dukenus"
 
 INDEX_PATH = CACHE_DIR / "dukenus_index.json"
 
@@ -167,6 +173,43 @@ def _should_include(rec: dict) -> bool:
     return True
 
 
+_DATA_URI_RE = re.compile(r"^data:image/(\w+);base64,(.+)$", re.S)
+
+
+def _save_photo(data_uri: str, faculty_id: str) -> str | None:
+    """Decode base64 data URI, downsize to <=400px long side, save as JPEG.
+    Returns the public path or None for empty/invalid input."""
+    if not data_uri:
+        return None
+    m = _DATA_URI_RE.match(data_uri.strip())
+    if not m:
+        return None
+    try:
+        blob = base64.b64decode(m.group(2), validate=False)
+    except Exception:
+        return None
+    if len(blob) < 2_000:
+        return None
+    from io import BytesIO
+    from PIL import Image
+    try:
+        im = Image.open(BytesIO(blob))
+        im.load()
+    except Exception:
+        return None
+    if im.mode not in ("RGB", "L"):
+        im = im.convert("RGB")
+    w, h = im.size
+    long = max(w, h)
+    if long > 400:
+        scale = 400 / long
+        im = im.resize((int(w * scale), int(h * scale)), Image.LANCZOS)
+    PHOTOS_DIR.mkdir(parents=True, exist_ok=True)
+    fname = f"{faculty_id}.jpg"
+    im.save(PHOTOS_DIR / fname, "JPEG", quality=82, optimize=True)
+    return f"/photos/dukenus/{fname}"
+
+
 def _profile_url(slug: str) -> str:
     slug = (slug or "").lstrip("/")
     if not slug:
@@ -186,8 +229,9 @@ def _to_record(rec: dict, bio: str, research: str) -> Faculty:
     summary_parts = [s for s in (bio, research) if s]
     summary = "\n\n".join(summary_parts)
 
+    fid = slugify("dukenus", name)
     out: Faculty = {
-        "id": slugify("dukenus", name),
+        "id": fid,
         "name": name,
         "institution": "Duke-NUS",
         "profile_url": prof_url,
@@ -200,10 +244,9 @@ def _to_record(rec: dict, bio: str, research: str) -> Faculty:
         out["email"] = email
     if summary:
         out["summary"] = summary
-    if research:
-        # Research is unstructured prose here; keep full text as one entry.
-        # Frontend can treat single-item list as paragraph.
-        pass
+    photo = _save_photo(rec.get("Photo") or rec.get("ProfilePictureUrl") or "", fid)
+    if photo:
+        out["photo_url"] = photo
     return out
 
 
