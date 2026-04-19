@@ -265,22 +265,6 @@
     "photo_url": "https://www.a-star.edu.sg/images/librariesprovider11/adjunct-faculty/cwl.png?sfvrsn=6ac29257_1"
   },
   {
-    "id": "astar-imcb-chit-fang-cheok",
-    "name": "Chit Fang Cheok",
-    "institution": "A*STAR",
-    "department": "Institute of Molecular and Cell Biology (IMCB)",
-    "title": "Joint Investigator",
-    "roles": [
-      "Molecular therapeutics in cancer and aging"
-    ],
-    "research_areas": [
-      "Molecular therapeutics in cancer and aging"
-    ],
-    "summary": "",
-    "profile_url": "https://www.a-star.edu.sg/imcb/people/joint-investigators",
-    "photo_url": "https://www.a-star.edu.sg/images/librariesprovider19/pis-updated-photos/pi-photos-march2024-chitfangcheok.jpg?sfvrsn=498f4211_2"
-  },
-  {
     "id": "astar-imcb-christopher-ang",
     "name": "Christopher Ang",
     "institution": "A*STAR",
@@ -18151,6 +18135,48 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/adjunct-faculty/inderjitsingh_edited.jpg?sfvrsn=dd5ee43_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=204CCFD4CAE0114AC9E4E2B5ECFDCAF7CF375F5B"
   },
   {
+    "id": "nus-yll-nursing-ang-eng-tat",
+    "name": "ANG Eng Tat",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Artificial Intelligence in Education\n\nInterprofessional collaboration\n\nGamification in medical education\n\nExperiential learning using simulation",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/ang-eng-tat/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2025/07/Eng-Tat-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-ang-wei-how-darryl",
+    "name": "ANG Wei How Darryl",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Psychological resilience\n\nOncology-hematology nursing\n\nPalliative and end-of-life care\n\nAdvance care planning",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/ang-wei-how-darryl/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2023/09/AWHD-1-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-alan-prem-kumar",
+    "name": "Alan Prem KUMAR",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [
+      "Identification of prognostic markers for metastatic cancers to support personalized treatment strategies",
+      "Functional characterization of oncogenes implicated in cancer progression and chemotherapy resistance",
+      "Development of targeted therapies for female reproductive cancers based on oncogenic pathway activation",
+      "Study of post-translational modifications (phosphorylation, acetylation, SUMOylation) of nuclear receptors",
+      "Discovery of novel therapeutic targets for female reproductive cancers"
+    ],
+    "summary": "Identification of prognostic markers for metastatic cancers to support personalized treatment strategies.\n\nFunctional characterization of oncogenes implicated in cancer progression and chemotherapy resistance.\n\nDevelopment of targeted therapies for female reproductive cancers based on oncogenic pathway activation.\n\nStudy of post-translational modifications (phosphorylation, acetylation, SUMOylation) of nuclear receptors.",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-adnjpfg5u73w",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2025/08/Dr-Alan-Prem-Kumar-2025-scaled.jpg"
+  },
+  {
     "id": "nus-dbs-antonia-monteiro",
     "name": "Antonia Monteiro",
     "institution": "NUS",
@@ -18219,6 +18245,71 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/briankennedy.jpg"
   },
   {
+    "id": "nus-yll-nursing-chan-yah-shih-erean-chen",
+    "name": "CHAN Yah Shih @ Erean Chen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Programme Director for Bachelor of Science (Nursing Practice) - Year 2"
+    ],
+    "research_areas": [],
+    "summary": "Web-based clinical pedagogy program\n\nPeer feedback\n\nCritical reflection in education\n\nClinical teaching",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/chan-yah-shih/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/CHAN-Yah-Shih-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-chen-hui-chen",
+    "name": "CHEN Hui-Chen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Programme Director for Bachelor of Science (Nursing Practice) - Year 3",
+      "Chairperson for Community Involvement Projects"
+    ],
+    "research_areas": [],
+    "summary": "Psychoeducation for patients with chronic illness\n\nEffective communication\n\nNursing education and pedagology\n\nSelf-efficacy & health behavior",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/chen-hui-chen-2/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Chen-Hui-Chen-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-cheng-ling-jie",
+    "name": "CHENG Ling Jie",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Tutor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "V alidating and valuing health and quality-of-life measures\n\nA pplying PROMs to establish population norms and minimally important differences\n\nL everaging PROMs in decision support tools for shared decision-making\n\nU sing evidence synthesis and decision-analytic modelling to inform health policy",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/cheng-ling-jie/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2024/11/Cheng-Ling-Jie-Jeremy-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-chew-han-shi-jocelyn",
+    "name": "CHEW Han Shi, Jocelyn",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Digital Phenotyping\n\nDigital Phenotyping\n\nHealth behaviours\n\nHealth behaviours",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/dr-chew-han-shi-jocelyn/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Jocelyn-Chew-Website-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-chua-wei-ling",
+    "name": "CHUA Wei Ling",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Rapid response system and clinical deterioration\n\nSepsis care\n\nInterprofessional education and collaboration\n\nPatient Safety",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/dr-chua-weiling/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/CHUA-Weiling-150x150.jpg"
+  },
+  {
     "id": "nus-dbs-chan-woon-khiong",
     "name": "Chan Woon Khiong",
     "institution": "NUS",
@@ -18243,6 +18334,20 @@
     "summary": "Maintaining the integrity of the genome is essential for the survival of a cell and genomic instability is associated with many human diseases including cancers. A cell ensures the integrity of its genome with an intricate interplay of epigenetic mechanisms to safeguard nuclear processes, including chromosome segregation, repair of DNA damage lesions and gene expression. Our lab aims to investigate the epigenetic mechanisms at the molecular level by:\n\n* Identifying and characterizing factors that epigenetically control essential chromatin functions that have direct implication to genomic stability. * Elucidating how different epigenetic mechanisms interplay to control faithful inheritance of chromatin information through the cell cycle. * Investigating the genetic and epigenetic regulation of functional sub-nuclear compartments.\n\nOur lab employs the powerful genetics, cytology and biochemistry of the model organism fission yeast to address these important issues. Results obtained will be extended to elucidate epigenetic mechanisms operating in the mammalian cells, to facilitate the development of therapy for human diseases and cancers.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/chen-ee-sin/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-2-1.jpg"
+  },
+  {
+    "id": "nus-yll-patho-cheok-chit-fang",
+    "name": "Cheok Chit Fang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Assistant Professor",
+    "roles": [
+      "Research Director (Scientific)"
+    ],
+    "research_areas": [],
+    "summary": "Identifying molecular vulnerabilities in cancers, in DNA damage response networks and cellular metabolism\n\nDeveloping novel therapeutics through in silico and SAR studies\n\nIdentifying molecular signatures predicting drug response through gene network analysis",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/cheok-chit-fang/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/CHEOK-Chit-Fang-circle-d2f4f57e7fc1cd1e80de6594d0d74223-w6usm3rg9lt7.png"
   },
   {
     "id": "nus-dbs-chew-fook-tim",
@@ -18287,6 +18392,22 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Christoph-2.jpg"
   },
   {
+    "id": "nus-yll-medphc-christopher-chen-li-hsian",
+    "name": "Christopher CHEN Li-Hsian",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [
+      "Dementia",
+      "Stroke",
+      "Clinical Trials"
+    ],
+    "summary": "Dementia\n\nStroke\n\nClinical Trials",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-znw8xatg5fvy",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Christopher-Chen-Li-Hsian-2E1.jpg"
+  },
+  {
     "id": "nus-dbs-cynthia-he",
     "name": "Cynthia He",
     "institution": "NUS",
@@ -18296,6 +18417,18 @@
     "summary": "Cell and molecular biology of parasitic\n\n(All rights reserved. Do not download movie without permission)",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/cynthia-he/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/cynthia.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-dong-yanhong-catherine",
+    "name": "DONG Yanhong, Catherine",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Neurocognition and Vascular Cognitive Impairment\n\nScience of Care for Cognitive Impairment\n\nHeart – Brain Connection\n\nBrain Training and Cognitive Intervention",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/dong-yanhong-catherine/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Catherine-Dong-150x150.jpg"
   },
   {
     "id": "nus-dbs-danwei-huang",
@@ -18321,6 +18454,33 @@
     "summary": "Research goals in fundamental and translational (used here in the broad sense of applying basic research to human/societal benefit) research in the following areas associated with fresh waters:\n\nFreshwater biodiversity and ecology Aquatic invasions Freshwater decapod crustaceans\n\nFreshwater biodiversity and ecology\n\nAquatic invasions",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/darren-yeo-chong-jinn/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/darren-2.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-david-fann-yang-wei",
+    "name": "David FANN Yang-Wei",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [
+      "Cardiovascular pharmacology",
+      "Targeting inflammasomes in cardiovascular and neurodegenerative diseases"
+    ],
+    "summary": "Cardiovascular pharmacology\n\nPathogenic mechanisms of inflammasomes in acute (i.e. stroke) and chronic (i.e. vascular cognitive impairment) ischemic brain injury\n\nTargeting inflammasomes in cardiovascular and neurodegenerative diseases",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-xsz4q9u253aj",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/06/DFann.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-dean-ho",
+    "name": "Dean HO",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Prof. Dean Ho’s research interests include the application of Augmented Artificial Intelligence (AI) to individualize and optimize combination therapy for a broad range of indications ranging from oncology to infectious diseases. In addition, he has developed novel nanocarbon-based drug delivery and imaging agents. He has led multiple clinical studies for both the Augmented AI and nanocarbon platforms.",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-8why6el3c7jq",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Prof.-Dean-Ho.jpg"
   },
   {
     "id": "nus-yll-bch-deng-lih-wen",
@@ -18349,6 +18509,86 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/07/Dennis-Kappei-1-e1594130846963.png"
   },
   {
+    "id": "nus-yll-medphc-deron-herr",
+    "name": "Deron HERR",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-5as1oz9hp0xl",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2025/03/Dr-Deron-Raymond-Herr-4E1.jpg"
+  },
+  {
+    "id": "nus-yll-patho-derrick-lian",
+    "name": "Derrick Lian",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Adjunct Associate Professor",
+    "roles": [
+      "Deputy Education Director"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/derrick-lian/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Derrick-LIAN-circle-597d733f406d031fd7e6780043e26b51-ns1jhmw2eo53.jpg"
+  },
+  {
+    "id": "nus-yll-patho-diana-lim-gkeok-stzuan",
+    "name": "Diana Lim Gkeok Stzuan",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Adjunct Associate Professor",
+    "roles": [
+      "DMOC Laboratory Director"
+    ],
+    "research_areas": [],
+    "summary": "Diagnostic molecular pathology\n\nGynaecologic pathology & molecular mechanism underlying gynaecologic cancer",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/diana-lim-gkeok-stzuan/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Diana-LIM-Gkeok-Stzuan-circle-eddacbfbb126a5c13c86a2a74ec5821b-83m9a01slfdy.jpg"
+  },
+  {
+    "id": "nus-yll-patho-ding-lingwen",
+    "name": "Ding Lingwen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Developing innovative therapeutic approaches to overcome resistance to cancer immunotherapy\n\nIdentifying genetic and epigenetic abnormalities in cancers and pre-cancers",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/ding-lingwen/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/DING-Lingwen-circle-a4af9c6d81fec1ed0b977fb19719e70f-kc8g2rnhtjum.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-eng-sze-li-erica",
+    "name": "ENG Sze Li, Erica",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Clinical Education\n\nSimulation",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/erica-eng-sze-li/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Erica-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-edmund-lee-jon-deoon",
+    "name": "Edmund LEE Jon Deoon",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [
+      "Variability in drug response",
+      "Drug transporters",
+      "Early phase clinical trials"
+    ],
+    "summary": "Variability in drug response\n\nDrug transporters\n\nEarly phase clinical trials",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-qxdjlmkse1tv",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Prof.-LEE-Jon-Deoon-Edmund-4E1.jpg"
+  },
+  {
     "id": "nus-dbs-eunice-jingmei-tan",
     "name": "Eunice Jingmei Tan",
     "institution": "NUS",
@@ -18358,6 +18598,20 @@
     "summary": "Behavioural ecology and evolutionary biology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/eunice-jingmei-tan/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/12/Eunice_J_Tan_Dec_2021.png"
+  },
+  {
+    "id": "nus-yll-patho-evelyn-koay",
+    "name": "Evelyn Koay",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Associate Professor",
+    "roles": [
+      "Honorary Fellow"
+    ],
+    "research_areas": [],
+    "summary": "Basic : Studies of the molecular mechanisms underlying chemoresistance of breast cancer patients to taxane therapy\n\nTranslational : Validation of platform/ technology for capture and isolation of circulating tumour cells (CTCs) and development of downstream molecular profiling strategies for CTCs as non-invasive “liquid” biopsy materials – bringing the technology from bench to bedside and enabling routine diagnostic applications.\n\nTranslational : Validation of platform/ technology for capture and isolation of circulating tumour cells (CTCs) and development of downstream molecular profiling strategies for CTCs as non-invasive “liquid” biopsy materials – bringing the technology from bench to bedside and enabling routine diagnostic applications.\n\nTranslational : Application of molecular platforms and techniques in diagnosis and prognosis of diseases (incl. infectious diseases, inherited diseases, haematological malignancies, solid tumors) and in guiding appropriate therapeutic treatment",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/evelyn-koay/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Evelyn-KOAY-circle-90719a31d475741e0fa54ec5331b2f00-azx7gjs5uq9v.jpg"
   },
   {
     "id": "nus-dbs-frank-rheindt",
@@ -18371,6 +18625,30 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/frank.jpg"
   },
   {
+    "id": "nus-yll-medphc-fred-wong-wai-shiu",
+    "name": "Fred WONG Wai Shiu",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-we9pugtbydla",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Wong-Wai-Shiu-Fred-5E1.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-goh-boon-cher",
+    "name": "GOH Boon Cher",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-qy1f9orn3w4c",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Boon-Cher-GOH.jpg"
+  },
+  {
     "id": "nus-yll-bch-gan-yunn-hwen",
     "name": "Gan Yunn Hwen",
     "institution": "NUS",
@@ -18381,6 +18659,40 @@
     "summary": "Novel strategies for targeting multidrug resistant enteric bacteria.\n\nMultidrug resistance plasmid transmission in clinical Gram-negative bacteria.\n\nBacterial sensing of host environment by two component sensor/regulator systems.\n\nIdentifying risk factors for Klebsiella induced liver abscess.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/gan-yunn-hwen/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchganyh.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-gautam-sethi",
+    "name": "Gautam SETHI",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor Chair of Department Safety and Health Committee",
+    "roles": [],
+    "research_areas": [
+      "Mechanism(s) of regulation of oncogenic transcription factors by carcinogens and inflammatory agents",
+      "Identification of novel pharmacological compounds that can modulate activation of these transcription factors",
+      "Preclinical development and characterization of novel compounds for cancer therapy",
+      "Identification and characterization of novel biomarkers for cancer diagnosis and prognosis",
+      "Development of cancer chemoprevention strategies"
+    ],
+    "summary": "Mechanism(s) of regulation of oncogenic transcription factors by carcinogens and inflammatory agents.\n\nIdentification of novel pharmacological compounds that can modulate activation of these transcription factors.\n\nPreclinical development and characterization of novel compounds for cancer therapy.\n\nEstablishment of orthotopic/transgenic and xenograft mouse models of various cancers for testing preclinical efficacy of novel anticancer drugs.",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-x8e9ub0zf6nj",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Gautam-Sethi-3E1.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-gavin-stewart-dawe",
+    "name": "Gavin Stewart DAWE",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [
+      "Neuropsychopharmacology of antipsychotics, antidepressants and anxiolytics",
+      "Neurobiology of amyloid precursor protein (APP)",
+      "Neural stem cells and neurogenesis"
+    ],
+    "summary": "Neuropsychopharmacology of antipsychotics, antidepressants and anxiolytics\n\nNeurobiology of amyloid precursor protein (APP)\n\nNeural stem cells and neurogenesis",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-9qn7rpo4da8v",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/HOD-Message-Gavin-Dawe-2020.jpg"
   },
   {
     "id": "nus-dbs-ge-ruowen",
@@ -18411,6 +18723,18 @@
     "summary": "",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/greg-tucker-kellogg/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Greg.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-guillermo-c-bazan",
+    "name": "Guillermo C. BAZAN",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-z8vk6hdm3rqa",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/04/Bazan-3.jpg"
   },
   {
     "id": "nus-dbs-hao-tang",
@@ -18446,6 +18770,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2023/01/hu-chunyi.jpg"
   },
   {
+    "id": "nus-yll-medphc-inthrani-raja-indran",
+    "name": "Inthrani RAJA INDRAN",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-h1j492qyobse",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/06/InthraniRI.jpg"
+  },
+  {
     "id": "nus-dbs-j-sivaraman",
     "name": "J. Sivaraman",
     "institution": "NUS",
@@ -18455,6 +18791,18 @@
     "summary": "Macromolecular Structure and Function\n\nStructural and functional studies of protein targets related to infectious diseases (host-pathogen interactions) and cancers",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/j-sivaraman/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/jsivaraman.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-jiang-ying",
+    "name": "JIANG Ying",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Cardiac Rehab\n\nChronic disease management\n\nMental health\n\nSecondary prevention",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/jiang-ying-2/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/JIANG-Ying-150x150.jpg"
   },
   {
     "id": "nus-yll-bch-jan-gruber",
@@ -18467,6 +18815,18 @@
     "summary": "Jan Gruber’s laboratory focuses on: Ageing, Age-dependent dieseases, Interventions against Basic / Molecular Mechanisms of Ageing C. elegans as a Model Organism Role of Mitochondria and Free Radicals in Ageing and Age-dependent Diseases Biomarkers of Oxidative Damage Computational Biology Evolution of ageing",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/jan-gruber/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/team-5-1.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-jerold-chun",
+    "name": "Jerold CHUN",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Understanding how the brain works and creating meaningful therapies to treat brain diseases is the goal of my research. Many lessons can be gained from an understanding of how the brain is impacted by the immune system and inflammation, an approach that we have been pursuing for over 25 years and has led to new insights that include components of V(D)J recombination genes in the brain, analogous DNA fragmentation and cell death, and identification of key lysophospholipid receptors shown to be involved in lymphocyte trafficking. This basic research has contributed to the development of genuine therapeutics for the inflammatory neuroimmune disease, multiple sclerosis, and involves direct CNS effects, as well as immunological effects, in multiple sclerosis models",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-utxfz3cbhvyr",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/j-chun-crop.jpg"
   },
   {
     "id": "nus-dbs-jiao-chunlei",
@@ -18482,6 +18842,45 @@
     "summary": "Discovery, engineering, and design of CRISPR and novel bacterial defense systems with the aim of developing innovative platforms for disease diagnosis and treatment.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/jiao-chunlei/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2024/06/JIAO-Chunlei-2-e1719817520272.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-john-climax",
+    "name": "John CLIMAX",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Honorary Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-fboy3k2ugez9",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Prof.-John-Climax.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-john-mok",
+    "name": "John MOK",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "-\n\n-",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-lvb3aj2rif9p",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/11/Mok.png"
+  },
+  {
+    "id": "nus-yll-medphc-judy-sng-chia-ghee",
+    "name": "Judy SNG Chia Ghee",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor Education Director",
+    "roles": [],
+    "research_areas": [
+      "Digital Platform Development",
+      "Epigenetic regulation of neuroplasticity in neurodevelopment & diseases"
+    ],
+    "summary": "Digital Platform Development\n\nEpigenetic regulation of neuroplasticity in neurodevelopment & diseases",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-jl8wcaiys3tr",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Dr-Sng-Chia-Ghee-Judy-5E1.jpg"
   },
   {
     "id": "nus-yll-bch-julius-fredens",
@@ -18506,6 +18905,47 @@
     "summary": "Advancement of platform technologies for genome editing and broadening their applications.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/jungjoon-kempthorne-lee/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2024/04/IMG_0861.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-koh-cho-yeow",
+    "name": "KOH Cho Yeow",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "1. - 2. -",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-9l86nqmy0rxe",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/07/Cho-Yeow.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-koh-siew-lin-serena",
+    "name": "KOH Siew Lin, Serena",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Associate Professor",
+    "roles": [
+      "Undergraduate Programmes Director for Year 2"
+    ],
+    "research_areas": [],
+    "summary": "Inter-professional Education\n\nPatient safety and Quality\n\nEvidenced-based Practice\n\nWomen and Children Health",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/professors-associate-professors/serena-koh-siew-lin/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Serena-Koh-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-kwon-seok-soga",
+    "name": "KWON Seok Soga",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [
+      "Risk assessment of consumer products",
+      "Regulatory use of safety information derived from New Approach Methodologies (NAM)"
+    ],
+    "summary": "Risk assessment of consumer products\n\nRegulatory use of safety information derived from New Approach Methodologies (NAM)",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-5uk3ynqfr8to",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/04/seok-kwon-1.jpg"
   },
   {
     "id": "nus-yll-bch-kevin-white",
@@ -18558,6 +18998,182 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/roman_carrasco.jpg"
   },
   {
+    "id": "nus-yll-nursing-lau-siew-tiang-lydia",
+    "name": "LAU Siew Tiang, Lydia",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Undergraduate Programmes)",
+      "NUS Teaching Academy Fellow (EXCO)"
+    ],
+    "research_areas": [],
+    "summary": "Education Innovation\n\nNursing Education and Assessment\n\nInnovative Technology\n\nCommunity Nursing",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/leadership-teams-directors/lau-siew-tiang-lydia/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Lydia-Lau-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-le-thi-nguyet-minh",
+    "name": "LE Thi Nguyet Minh",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Extracellular vesicles (EVs) are natural carriers of bioactive molecules in intercellular communication hence, they are also ideal vehicles for therapeutic molecules. Recently, we have developed a strategy to harness EVs from red blood cells (RBCs) for the delivery of drugs to cancer cells. RBCs are readily available from blood banks and they release a large amount of EVs hence, it is easy to purify RBCEVs in large quantities without any expensive and labor-intensive cell culture. RBCEVs mediate robust delivery of therapeutic nucleic acids and proteins to both leukemia cells and solid cancer cells for efficient oncogene inhibition. Moreover, this delivery platform is safe as RBCEVs are devoid of DNA, growth factors, and toxic substances. We have also engineered RBCEVs with peptide and antibody conjugation for targeted delivery. Our study was published in more than 20 papers. The RBCEV technology has been licensed to Carmine Therapeutics. We are currently developing multiple applications of RBCEV-mediated gene therapy for cancer, COVID-19, and other diseases. We are also investigating the mechanisms that mediate the uptake and intracellular trafficking of RBCEVs. This study will help us to develop RBCEVs into a versatile drug delivery platform with high efficiency, low toxicity, and high specificity.",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-4f85mltzqsrh",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Minh-Le-crop.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-lee-kow-jun",
+    "name": "LEE Kow Jun",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [
+      "Student Support Manager"
+    ],
+    "research_areas": [],
+    "summary": "Community Mental Health\n\nPsychogeriatrics Caregiver Support",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lee-kow-jun/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2025/09/Lee-Kow-Jun-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-li-yuan-jennifer",
+    "name": "LI Yuan, Jennifer",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Delirium prevention and management\n\nFrailty Care Model\n\nGeriatric surgical care",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/li-yuan-jennifer/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2025/03/Jennifer-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-liaw-sok-ying",
+    "name": "LIAW Sok Ying",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Head",
+    "roles": [
+      "Professor"
+    ],
+    "research_areas": [],
+    "summary": "Patient Safety\n\nRecognizing and responding to clinical deterioration\n\nInterprofessional collaboration and education\n\nManpower workforce and development",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/leadership-teams-directors/liaw-sok-ying/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Liaw-Sok-Ying-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-lim-ah-ewe-joyce",
+    "name": "LIM Ah Ewe, Joyce",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [
+      "Student Support Manager"
+    ],
+    "research_areas": [],
+    "summary": "Nursing Education\n\nNephrology Nursing\n\nCommunity Nursing",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lim-ah-ewe-joyce/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/LIM-Ah-Ewe-Joyce-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-lim-fui-ping",
+    "name": "LIM Fui Ping",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Director of Student Affairs"
+    ],
+    "research_areas": [],
+    "summary": "Skin and Wound\n\nNursing Education and teaching pedagogy\n\nRecruitment and development of nursing students",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lim-fui-ping/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Lim-Fui-Ping-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-lim-jun-wee-vincent",
+    "name": "LIM Jun Wee, Vincent",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Health Promotion and Health Behaviours\n\nChronic Disease Management\n\nCommunity Nursing\n\nPopulation Health",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lim-vincent/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2024/05/Vincent-7-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-lim-siriwan",
+    "name": "LIM, Siriwan",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "House Chair"
+    ],
+    "research_areas": [],
+    "summary": "Patient empowerment & self-management\n\nPeer mentoring\n\nClinical simulation\n\nTranslational research",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lim-siriwan/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Siriwan-Lim-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-lo-chue-har",
+    "name": "LO Chue Har",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Teaching Assistant",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Chronic Illness and Long-term Care\n\nEducation Innovation\n\nGeriatric Care and Wellness\n\nPatient Safety and Quality Care",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lo-chue-har/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/04/LO-Chue-Har-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-low-chian-ming",
+    "name": "LOW Chian Ming",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor Deputy Head of Department",
+    "roles": [],
+    "research_areas": [
+      "Neuroprotective strategies towards overactivation of NMDA receptors that leads to cell excitotoxicity",
+      "Functional roles of NMDA receptors in pain modulation, Alzheimer's disease and bipolar/Schizophrenia disorders",
+      "Personalized medicine in channelopathies",
+      "Brain Mapping/Connectomes"
+    ],
+    "summary": "Neuroprotective strategies towards overactivation of NMDA receptors that leads to cell excitotoxicity\n\nFunctional roles of NMDA receptors in pain modulation, Alzheimer's disease and bipolar/Schizophrenia disorders\n\nPersonalized medicine in channelopathies\n\nBrain Mapping/Connectomes",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-l0mprwvb82zc",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Low-Chian-Ming-1E1.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-lubna-shah",
+    "name": "LUBNA Shah",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [
+      "Student Support Manager"
+    ],
+    "research_areas": [],
+    "summary": "Mental health nursing\n\nNursing education",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/shah-lubna/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/lubna-shah-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-luk-tzu-tsun-kevin",
+    "name": "LUK Tzu Tsun, Kevin",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Tobacco cessation & control\n\nLifestyle intervention\n\nDigital health\n\nImplementation research",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/luk-tzu-tsun-kevin/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2024/11/Luk-Tzu-Tsun-Photo-150x150.jpg"
+  },
+  {
     "id": "nus-dbs-lam-siew-hong",
     "name": "Lam Siew Hong",
     "institution": "NUS",
@@ -18570,6 +19186,18 @@
     "summary": "Transcriptome, molecular and functional characterization of adaptive response in organs and tissues of fish under specific environmental stressors.\n\nTranscriptome, molecular and functional characterization of adaptive response in organs and tissues of fish under specific environmental stressors.\n\nToxicogenomics, molecular toxicology and toxicity screening applications using the zebrafish model and other organisms.\n\nToxicogenomics, molecular toxicology and toxicity screening applications using the zebrafish model and other organisms.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/lam-siew-hong/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/lamsh.jpg"
+  },
+  {
+    "id": "nus-yll-patho-lau-kah-weng",
+    "name": "Lau Kah Weng",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Biomarkers in lung and breast cancers\n\nAI-enhanced diagnostics",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/lau-kah-weng/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/LAU-Kah-Weng-1-circle-4ddb857ac0f10c11f7341348b60074c7-cx72g6znm0y9.jpg"
   },
   {
     "id": "nus-dbs-lau-on-sun",
@@ -18586,6 +19214,21 @@
     "summary": "Stomatal development, environmental signaling, transcriptional regulation, plant cell and developmental biology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/lau-on-sun/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/lauos.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-laura-tham-schmidt",
+    "name": "Laura THAM SCHMIDT",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Undergraduate Programmes Director for Year 3",
+      "Undergraduate Programmes Director for Clinical Education (Y3 & 4)"
+    ],
+    "research_areas": [],
+    "summary": "Palliative nursing\n\nGerontology\n\nCommunity Nursing\n\nHealth technology",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/laura-tham-schmidt/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Laura-Tham-SCHMIDT-150x150.jpg"
   },
   {
     "id": "nus-yll-bch-lee-guat-lay-caroline",
@@ -18607,6 +19250,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchleec.jpg"
   },
   {
+    "id": "nus-yll-patho-lee-jie-lin-jaslyn",
+    "name": "Lee Jie Lin Jaslyn",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Clinical Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/lee-jie-lin-jaslyn/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Dr-LEE-Jie-Lin-Jaslyn-v2-circle-f07495aef946294a3055a08298ddbb3c-g6oyewh0dv8x.jpg"
+  },
+  {
     "id": "nus-yll-bch-lee-seow-chong",
     "name": "Lee Seow Chong",
     "institution": "NUS",
@@ -18617,6 +19272,18 @@
     "summary": "I am interested in the use of technology in teaching and learning, as well as promoting students’ engagement in learning. I believe in incorporating reflective practices in my teaching. In this way, I can make small tweaks to my teaching to let students learn more effectively.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/lee-seow-chong/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/seowchong.jpg"
+  },
+  {
+    "id": "nus-yll-patho-leong-sai-mun",
+    "name": "Leong Sai Mun",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Unraveling the intricacies of cancer sociobiology: Investigating the influence of social relationships among cancer cells on tumor processes and therapy resistance.\n\nElucidating the role of giant cells known as Poly Aneuploid Cancer Cells (PACCs) in therapy resistance.",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/leong-sai-mun/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Leong-Sai-Mun2b-circle-8d706512f25e2a298ab080523b7ac312-gq75h2tziv3n.jpg"
   },
   {
     "id": "nus-yll-bch-li-ronghui",
@@ -18687,6 +19354,20 @@
     "summary": "Protein translation regulation, Chemical Biology, Molecular and Cell Biology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/lin-zhewang/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/05/linzhewang.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-linda-he-hong-gu",
+    "name": "Linda HE Hong-Gu",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Professor",
+    "roles": [
+      "Director, International Relations"
+    ],
+    "research_areas": [],
+    "summary": "Perioperative care and other care for children and their parents\n\nPerinatal care for mothers and fathers\n\nChronic diseases and cancer care\n\nNursing education and others",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/professors-associate-professors/he-hong-gu-linda/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Professor-He-Hong-Gu-Promotion-Photo-after-Dec-2022-150x150.jpg"
   },
   {
     "id": "nus-dbs-liou-yih-cherng",
@@ -18782,6 +19463,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/lowbc-1.jpg"
   },
   {
+    "id": "nus-yll-medphc-lucas-lim-jun-hao",
+    "name": "Lucas LIM Jun Hao",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "-\n\n-",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-h8wvxuobrsct",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/11/Lucas.jpg"
+  },
+  {
     "id": "nus-dbs-luo-min",
     "name": "Luo Min",
     "institution": "NUS",
@@ -18805,6 +19498,21 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchmvc.jpg"
   },
   {
+    "id": "nus-yll-nursing-mary-jeanette-ignacio",
+    "name": "Mary Jeanette IGNACIO",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Associate Professor",
+    "roles": [
+      "Programme Director, Graduate Certificate in Critical Care Nursing",
+      "Programme Director, Master of Science in Critical Care Nursing"
+    ],
+    "research_areas": [],
+    "summary": "Stress management\n\nCognitive integration\n\nCollaborative learning\n\nHuman factors",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/professors-associate-professors/jeanette-ignacio/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Jeanette-IGNACIO-150x150.jpg"
+  },
+  {
     "id": "nus-yll-bch-matthew-chang",
     "name": "Matthew Chang",
     "institution": "NUS",
@@ -18815,6 +19523,34 @@
     "summary": "Synthetic Biology, Metabolic Engineering, Microbiome Engineering, Synthetic Genomics",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/chang-matthew/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/Matthew-Chang.2025.1.jpeg"
+  },
+  {
+    "id": "nus-yll-medphc-mitchell-lai-kim-peng",
+    "name": "Mitchell LAI Kim Peng",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [
+      "Dementia neurochemistry and biomarkers",
+      "Pathogenic mechanisms in neurodegeneration and cerebrovascular disease",
+      "Bioactive compounds as potential anti-neuroinflammatory therapeutics"
+    ],
+    "summary": "Dementia neurochemistry and biomarkers\n\nPathogenic mechanisms in neurodegeneration and cerebrovascular disease\n\nBioactive compounds as potential anti-neuroinflammatory therapeutics",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-ilrpag65xtfv",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Dr-Lai-Kim-Peng-Mitchell-1E1.jpg"
+  },
+  {
+    "id": "nus-yll-patho-mok-yingting",
+    "name": "Mok Yingting",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Adjunct Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Molecular underpinnings of bone and soft tissue tumours\n\nDevelopment and validation of novel molecular diagnostic assays",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/mok-yingting/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/MOK-Yingting-2-circle-b59d8cad83badb5c0a98b468176f570f-sfbuora2ywlx.jpg"
   },
   {
     "id": "nus-dbs-mok-yu-keung-henry",
@@ -18843,6 +19579,46 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/DBS_NP_ProfilePicture_Dec2025-scaled-e1766543987280.jpg"
   },
   {
+    "id": "nus-yll-medphc-neelima-gupta",
+    "name": "Neelima GUPTA",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Instructor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-mlq27s4it6kr",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2025/04/Neelima-crop.jpg"
+  },
+  {
+    "id": "nus-yll-patho-ng-siok-bian",
+    "name": "Ng Siok Bian",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Professor",
+    "roles": [
+      "Research Director (Clinical)"
+    ],
+    "research_areas": [],
+    "summary": "Characterizing the microenvironment and molecular mechanism driving oncogenesis in EBV-associated NK and T-Cell Lymphomas\n\nInvestigating the role of Epstein Barr virus in oncogenesis of EBV-associated T/NK lymphoproliferative diseases",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/ng-siok-bian/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Prof-Ng_0002_e_crop4-circle-a0e59abfb33e8ad91d903153367c4158-s0vk1zg8hy5o.jpg"
+  },
+  {
+    "id": "nus-yll-patho-nga-min-en",
+    "name": "Nga Min En",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Associate Professor",
+    "roles": [
+      "Cytology Laboratory Director"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/nga-min-en/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/nga-min-en-1-circle-8ca9949723643804be0940a64f06654c-u4ncfehr9s3g.jpg"
+  },
+  {
     "id": "nus-yll-bch-nguyen-nam-long",
     "name": "Nguyen Nam Long",
     "institution": "NUS",
@@ -18853,6 +19629,90 @@
     "summary": "Lipids play vital roles in health and diseases. Dr. Nguyen has significant contributions to the field of lipid transport by discovery of the functions of Mfsd2a as the first lipid transporter in brain during his postdoc training. This breakthrough discovery explains the long sought for mechanism by which the essential lipid DHA enters human brains and unravels for the first time that plasma-derived lysolipids, namely LPCs, are essential for normal human brain growth and functions. The major research focuses in our lab are mechanistic characterizations of novel nutritionally regulated genes that involve in lipid, nutrient transport and metabolism. We employ gene-knockout mouse models as well as molecular cell biology, biochemistry, lipidomics techniques to mechanistically unravel the physiological functions of these novel proteins. The ultimate goals are to translate these discoveries into therapeutic applications to treat lipid-related diseases such as obesity and improve health. Staffs working in our lab are expected to gain knowledge and skills in protein and lipid biochemistry, cell culture assays as well as the physiological characterizations of knockout mice.\n\nResearch projects are available for graduate and undergraduate students. Candidates interested in joining our laboratory please directly contact Dr. Long Nguyen at bchnnl@nus.edu.sg",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/nguyen-nam-long/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/Nguyen-Nam-Long-5_2.jpg"
+  },
+  {
+    "id": "nus-yll-patho-nicholas-tan-jin-hong",
+    "name": "Nicholas Tan Jin Hong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Clinical Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/nicholas-tan-jin-hong/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Nicholas-TAN-Jin-Hong-circle-944ff7a029be45ac01a347db672f8ad7-jemqyogu28n0.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-nurulhuda-mustafa",
+    "name": "Nurulhuda MUSTAFA",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [
+      "Discovery and development of novel antibody-based therapeutics in cancer",
+      "Design and development of EZH2 Pro teolysis ta rgeting c himeras (Protacs) to overcome epigenetic dysregulation",
+      "Extracellular vesicles as cancer biomarkers and mediators of therapeutic resistance"
+    ],
+    "summary": "Discovery and development of novel antibody-based therapeutics in cancer\n\nDesign and development of EZH2 Pro teolysis ta rgeting c himeras (Protacs) to overcome epigenetic dysregulation\n\nExtracellular vesicles as cancer biomarkers and mediators of therapeutic resistance",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-5rc8qztpd61h",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/06/Nurulhuda.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-oh-jia-zhen-olivia",
+    "name": "OH Jia Zhen, Olivia",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Chronic Illness and Long-term Care\n\nEducation Innovation\n\nGeriatric Care and Wellness\n\nPatient Safety and Quality Care",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/oh-olivia/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/Olivia-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-patho-ooi-li-yin",
+    "name": "Ooi Li Yin",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Clinical Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/ooi-li-yin/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/OOI-Li-Yin-1-circle-771d26f33703f8187b36865d76f5412a-msey16btijcr.jpg"
+  },
+  {
+    "id": "nus-yll-patho-oon-ming-liang",
+    "name": "Oon Ming Liang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Clinical Senior Lecturer",
+    "roles": [
+      "Histology and IHC Laboratory Director"
+    ],
+    "research_areas": [],
+    "summary": "HEAD AND NECK TUMOURS",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/oon-ming-liang/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/OON-Ming-Liang_crop1-circle-4107ef11b91978873091efe0099cc602-kgfl5u9p7jht.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-peh-hong-yong",
+    "name": "PEH Hong Yong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [
+      "Resolution of inflammation by specialized pro-resolving mediators (SPMs)",
+      "SPMs and eicosanoids profiling using LC-MS/MS",
+      "Respiratory diseases such as asthma and COPD",
+      "Inflammatory diseases or inflammaging",
+      "Drug discovery and host innate immunity"
+    ],
+    "summary": "Resolution of inflammation by specialized pro-resolving mediators (SPMs)\n\nSPMs and eicosanoids profiling using LC-MS/MS\n\nRespiratory diseases such as asthma and COPD\n\nInflammatory diseases or inflammaging",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-8bszoputj2rv",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Dr-Peh-Hong-Yong.jpg"
   },
   {
     "id": "nus-dbs-pan-shen-quan",
@@ -18888,6 +19748,18 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/12/philip-johns.jpg"
   },
   {
+    "id": "nus-yll-medphc-philip-keith-moore",
+    "name": "Philip Keith MOORE",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "An investigation of the effect of H2S on atherosclerosis: We have previously reported that H2S exhibits potent vasodilator and anti-inflammatory activity suggesting that this novel gas may play a part in cardiovascular physiology and pathophysiology. This project seeks to determine whether a deficiency of vasculoprotective H2S may precipitate atherosclerotic disease. Experiments will be carried out in ApoE-/- atherosclerotic mice and combined with investigation of blood vessels obtained from human volunteers collected, after informed consent, during coronary artery surgery. The project centres upon an integrative approach involving studies both in animals and in cell culture.\n\nWe have previously reported that H2S exhibits potent vasodilator and anti-inflammatory activity suggesting that this novel gas may play a part in cardiovascular physiology and pathophysiology. This project seeks to determine whether a deficiency of vasculoprotective H2S may precipitate atherosclerotic disease. Experiments will be carried out in ApoE-/- atherosclerotic mice and combined with investigation of blood vessels obtained from human volunteers collected, after informed consent, during coronary artery surgery. The project centres upon an integrative approach involving studies both in animals and in cell culture.\n\nA study of the biological effects of novel H2S donor drugs: A number of projects are currently under way to determine the biological effects of a range of novel H2S donor agents in inflammation and cardiovascular disease. Possible target for these drugs which are currently being studied include lipopolysaccharide-evoked septic shock and adjuvant-induced knee joint arthritis. A range of techniques including cell culture and associated biochemical and molecular biological characterisation as well as studies in intact animals are ongoing.\n\nA number of projects are currently under way to determine the biological effects of a range of novel H2S donor agents in inflammation and cardi",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-xycqh23k7gb8",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Prof.-Philip-Keith-Moore.jpg"
+  },
+  {
     "id": "nus-dbs-phua-siew-cheng",
     "name": "Phua Siew Cheng",
     "institution": "NUS",
@@ -18905,6 +19777,21 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/12/DBS_profileSCP.jpeg"
   },
   {
+    "id": "nus-yll-nursing-piyanee-yobas",
+    "name": "Piyanee YOBAS",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Associate Professor",
+    "roles": [
+      "Programme Director for BSc (Nursing)(Hons)",
+      "Chair, Department Ethics Research Committee (DERC)"
+    ],
+    "research_areas": [],
+    "summary": "Stress and health\n\nMindfulness-based interventions for people with chronic illness and mental disorders\n\nPsychosocial interventions for people with chronic illness and mental disorders",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/professors-associate-professors/piyanee-klainin-yobas/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/01/Piyanee-Yobas-1-150x150.jpg"
+  },
+  {
     "id": "nus-dbs-prakash-kumar",
     "name": "Prakash Kumar",
     "institution": "NUS",
@@ -18914,6 +19801,27 @@
     "summary": "Our main research focus areas come under physiological and molecular aspects of how vegetative developmental events are regulated in plants. We use rice, Arabidopsis and the mangrove tree Avicennia officinalis for our experiments. Our research projects span physiological and molecular aspects of plant development.\n\nWe work on plant hormone signaling (with special focus on gibberellins and abscisic acid) and shoot development representing the genetic pathway of gibberellin signaling (e.g., RGL2-DOF6 protein complex inducing the expression of GATA12 gene) that affects primary seed dormancy. Additionally, we study selected gibberellin signal transduction intermediates in the regulation of primary seed dormancy.\n\nWe also aim to improve leafy vegetable species such as kailan ( Brassica oleracea var alboglabra ) by gene editing efforts to improve their phytonutrient contents (glucosinolates), vegetative growth and plant architecture.\n\nAnother key research interest in our lab is to understand the salt secretion and salt ultrafiltration mechanisms in the mangrove tree Avicennia officinalis . We focused on aquaporins and ion transporters from the mangrove. Based on this knowledge, we designed synthetic pores that can be used for biomimetic membrane preparation. We are also attempting to apply the molecular mechanisms discovered to crop plants such as rice with a view of enhancing their salinity tolerance.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/prakash-kumar/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/prakash.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-priya-paranthaman",
+    "name": "Priya PARANTHAMAN",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [
+      "Neuropsychopharmacology",
+      "Geriatrics,",
+      "Women’s health",
+      "Dr Neelima GUPTA Instructor PhD; MSc (Biotechnology) Office: MD3, Level4, Room #04-01 Research Area Keywords: -",
+      "neel@nus.edu.sg",
+      "Cancer Epigenetics (Rhabdomyosarcoma)",
+      "Pharmacogenomics",
+      "Memory and Retention- Active recall and Spaced Repetiton"
+    ],
+    "summary": "Neuropsychopharmacology\n\nGeriatrics,\n\nWomen’s health\n\nDr Neelima GUPTA Instructor PhD; MSc (Biotechnology) Office: MD3, Level4, Room #04-01 Research Area Keywords: -",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-8dujkpqmels5",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/07/PriyaP.jpg"
   },
   {
     "id": "nus-yll-bch-qu-kun",
@@ -18928,12 +19836,80 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2022/05/KQU.png"
   },
   {
+    "id": "nus-yll-medphc-r-manjunatha-kini",
+    "name": "R Manjunatha KINI",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-ql7chk1rgsx3",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Kini.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-roy-tanushri",
+    "name": "ROY Tanushri",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Programme Director for Bachelor of Science (Nursing Practice) - Year 1"
+    ],
+    "research_areas": [],
+    "summary": "Educational Leadership\n\nPatient Safety\n\nCommunity Medicine",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/tanushri-roy/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/01/Tanushri-ROY-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-rajkumar-ramamoorthy",
+    "name": "Rajkumar RAMAMOORTHY",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Senior Lecturer",
+    "roles": [],
+    "research_areas": [
+      "Management of Depression and Anxiety",
+      "Drugs of abuse",
+      "Animal Research Safety"
+    ],
+    "summary": "Management of Depression and Anxiety\n\nDrugs of abuse\n\nAnimal Research Safety",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-c32k709zstea",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/04/Raj-1.png"
+  },
+  {
+    "id": "nus-yll-nursing-ronel-tan-xian-rong",
+    "name": "Ronel Tan Xian Rong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [
+      "Co-House Chair"
+    ],
+    "research_areas": [],
+    "summary": "C ommunity health and mental well-being\n\nA dvancing nursing and healthcare education through innovative pedagogies\n\nR epresentation and resilience of the nursing profession\n\nE mpowerment and professional development of the nursing profession",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/ronel-tan-xian-rong/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2024/10/Ronel-Tan-Website-Photo-150x150.jpg"
+  },
+  {
     "id": "nus-dbs-rong-li",
     "name": "Rong Li",
     "institution": "NUS",
     "department": "Department of Biological Sciences",
     "title": "Distinguished Professor",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/rong-li/"
+  },
+  {
+    "id": "nus-yll-nursing-rooma-panchmatia",
+    "name": "Rooma PANCHMATIA",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Chronic Illness and Long-term Care\n\nEducation Innovation\n\nGeriatric Care and Wellness\n\nPatient Safety and Quality Care",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/rooma-panchmatia/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2025/08/Rooma-Photo-150x150.jpg"
   },
   {
     "id": "nus-dbs-ryan-a-chisholm",
@@ -18945,6 +19921,44 @@
     "summary": "I am a theoretical ecologist with a focus on tropical forest ecology and biodiversity. The biodiversity of planet Earth is a source of endless fascination. Understanding the drivers of biodiversity patterns and the relationship of biodiversity to ecosystem function and human wellbeing are core scientific goals. In my lab, we use quantitative tools from mathematics, statistics and computer science to seek an understanding of the causes and consequences of biodiversity at different spatial and temporal scales. We focus particularly on tropical forest tree communities, which are renowned for their high diversity.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/ryan-a-chisholm/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/ryan-1.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-seah-betsy",
+    "name": "SEAH Betsy",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Research Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Community care in older adults\n\nSustainability and development in the nursing workforce\n\nInnovations in nursing education\n\nResearch Team: Deng Xinming",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/seah-betsy/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Betsy-Seah-1-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-siah-chiew-jiat-rosalind",
+    "name": "SIAH Chiew Jiat, Rosalind",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Undergraduate Programmes Director for Clinical Education (Y1 & 2)"
+    ],
+    "research_areas": [],
+    "summary": "Mental well-being (Geriatric)\n\nFunctional health and caregiving for older adults\n\nNursing education\n\nTechonlogy in Practice and Education",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/siah-chiew-jiat-rosalind/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/01/SIAH-Chiew-Jiat-Rosalind-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-saima-hilal",
+    "name": "Saima HILAL",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "-",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-tb0fwml23cg8",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Saima.png"
   },
   {
     "id": "nus-dbs-sanjay-swarup",
@@ -18972,6 +19986,22 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Seow-Teck-Keong-scaled.jpeg"
   },
   {
+    "id": "nus-yll-nursing-shefaly-shorey",
+    "name": "Shefaly SHOREY",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Associate Professor",
+    "roles": [
+      "Vice-Dean (Administration), Yong Loo Lin School of Medicine",
+      "Director, Yeo Boon Khim Mind Science Centre",
+      "Chair, Women and Children Health Care Research Programme"
+    ],
+    "research_areas": [],
+    "summary": "Maternal, paternal, and newborn health across the perinatal period\n\nChild and adolescent health\n\nHealthcare education and training\n\nHealthcare service delivery",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/professors-associate-professors/shefaly-shorey/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Shefaly-Shorey-150x150.jpg"
+  },
+  {
     "id": "nus-yll-bch-shi-jiahai",
     "name": "Shi Jiahai",
     "institution": "NUS",
@@ -18997,6 +20027,75 @@
     "summary": "Environmental Biotechnology, Environmental Microbiomes, Marine Microbiology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/stephen-brian-pointing/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/Pointing_colour_photo-scaled.jpg"
+  },
+  {
+    "id": "nus-yll-patho-susan-hue-swee-shan",
+    "name": "Susan Hue Swee Shan",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Adjunct Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Investigating the molecular mechanism driving R-CHOP resistance in diffuse large B-cell lymphoma (DLBCL)\n\nHarnessing computational image analysis and microRNA (miRNA) expression profiling with integrative machine learning to advance pathology diagnoses and predictive analytics",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/susan-hue-swee-shan/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Susan-HUE-Swee-Shan-circle-7644ef813e206af0b6029bfbab7ce446-h7btmyodlp3j.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-tam-wai-san-wilson",
+    "name": "TAM Wai San, Wilson",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Research)"
+    ],
+    "research_areas": [],
+    "summary": "Risk factors for Cardiovascular Diseases\n\nEnvironmental Health\n\nMethodological issues in meta-analysis\n\nStatistical analyses on health data",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/leadership-teams-directors/tam-wai-san-wilson/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/Wilson-1-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-tan-chay-hoon",
+    "name": "TAN Chay Hoon",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Associate Professor Honorary Fellow",
+    "roles": [],
+    "research_areas": [
+      "REAP ( RE search in A sian P sychotropic Drug Prescription)",
+      "Active and confident ageing",
+      "MCI, Sarcopenia and ageing",
+      "Medical Educational Research"
+    ],
+    "summary": "REAP ( RE search in A sian P sychotropic Drug Prescription)\n\nActive and confident ageing\n\nMCI, Sarcopenia and ageing\n\nMedical Educational Research",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-7f82xt1laq6d",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Tan-Chay-Hoon.jpg"
+  },
+  {
+    "id": "nus-yll-patho-tan-hui-min",
+    "name": "Tan Hui Min",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Clinical Senior Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/tan-hui-min-2/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Tan-HM-300x300-circle-b75b23d7fd588ea51c17809371d3fc3c-93kv1dg0cnmy.jpg"
+  },
+  {
+    "id": "nus-yll-patho-tan-kong-bing",
+    "name": "Tan Kong Bing",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Associate Professor",
+    "roles": [
+      "Education Director"
+    ],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/tan-kong-bing/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/TAN-Kong-Bing-1-circle-a5ae7fd12eb84554fb3869052bdcf6e6-rda7olnfz93c.jpg"
   },
   {
     "id": "nus-yll-bch-tan-may-chin-theresa",
@@ -19071,6 +20170,18 @@
     "summary": "Yvonne Tay’s laboratory focuses on: Characterization of non-coding RNA regulatory networks in cancer",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/tay-mei-sian-yvonne/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchtmsy.jpg"
+  },
+  {
+    "id": "nus-yll-patho-teh-ming",
+    "name": "Teh Ming",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Emeritus Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Tumour pathology especially of the upper gastrointestinal tract",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/teh-ming/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/TEH-Ming-2-circle-f88db1c0b1ce06f3466ecef56bd8e09d-r5j0el928wxt.jpg"
   },
   {
     "id": "nus-yll-bch-thilo-hagen",
@@ -19152,6 +20263,20 @@
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2017/11/veera.jpg"
   },
   {
+    "id": "nus-yll-patho-victor-lee-kwan-min",
+    "name": "Victor Lee Kwan Min",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pathology",
+    "title": "Head of Department",
+    "roles": [
+      "Associate Professor"
+    ],
+    "research_areas": [],
+    "summary": "Investigating the molecular mechanism driving oncogenesis in osteosarcoma and soft tissue sarcoma\n\nInvestigating how targeting components of Wnt signaling pathway may impede oncogenesis process in bone and soft tissue sarcoma",
+    "profile_url": "https://medicine.nus.edu.sg/patho/team-member/victor-lee-kwan-min/",
+    "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/Victor-LEE-Kwan-Min-2-circle-809b4f48559140baad6befa7b856886d-rjfa8q91t27c.jpg"
+  },
+  {
     "id": "nus-yll-bch-vincenzo-sorrentino",
     "name": "Vincenzo Sorrentino",
     "institution": "NUS",
@@ -19162,6 +20287,107 @@
     "summary": "Biology of aging with a focus on the interconnection between mitochondrial homeostasis and proteostasis.",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/vincenzo-sorrentino/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2023/01/Photo-Sorrentino.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-vivien-lim",
+    "name": "Vivien LIM",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Job insecurity & job search\n\nImpact of work on well-being\n\nImpact of information technology on work and well-being\n\nCyberloafing and counterproductive behaviors",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/professors-associate-professors/lim-vivien/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2024/07/Vivien-Lim-Photo-Resized-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-wang-lingzhi",
+    "name": "WANG Lingzhi",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Research Associate Professor",
+    "roles": [],
+    "research_areas": [
+      "Early diagnosis of cancers based on liquid biopsies",
+      "Unleashing the power of immunotherapy and targeted therapy",
+      "Clinical pharmacokinetics and clinical trials to accelerate anticancer drug development",
+      "Research A/P Lingzhi WANG"
+    ],
+    "summary": "Cancer is a major burden of disease worldwide. Cancer is usually asymptomatic early in its disease course and the majority of patients present with advanced stage disease at the time of initial diagnosis. Thus, early diagnosis of cancerous diseases is an unmet clinical need. My research interests can be summarized as follows.\n\nEarly diagnosis of cancers based on liquid biopsies\n\nUnleashing the power of immunotherapy and targeted therapy\n\nClinical pharmacokinetics and clinical trials to accelerate anticancer drug development",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-5y947pwrsuzq",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/Wang-Lingzhi.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-wang-wenru",
+    "name": "WANG Wenru",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Professor",
+    "roles": [
+      "Director for MSc / PhD Programmes",
+      "Chair, Chronic Illness and Long-Term Care Research Programme"
+    ],
+    "research_areas": [],
+    "summary": "Chronic illness and Long-Term Care\n\nCardiovascular Health & Cardiac Rehabilitation\n\nDiabetes Management\n\nActive Aging",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/professors-associate-professors/wang-wenru/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Wang-Wenru-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-wang-ziteng",
+    "name": "WANG Ziteng",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Instructor",
+    "roles": [],
+    "research_areas": [
+      "Drug metabolism and pharmacokinetics",
+      "Physiologically based pharmacokinetic (PBPK) modelling",
+      "Clinical pharmacology",
+      "Prof. Guillermo C. BAZAN Professor PhD Office: - Research Area Keywords: -",
+      "Prof. BAZAN",
+      "chmbgc@nus.edu.sg",
+      "Prof. John CLIMAX Honorary Professor",
+      "phajc@nus.edu.sg"
+    ],
+    "summary": "Drug metabolism and pharmacokinetics\n\nPhysiologically based pharmacokinetic (PBPK) modelling\n\nClinical pharmacology\n\nProf. Guillermo C. BAZAN Professor PhD Office: - Research Area Keywords: -",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-u31rnpthj205",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2025/02/Ziteng.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-wee-yan-hui-celestine",
+    "name": "WEE Yan Hui, Celestine",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Nursing Education\n\nGerontology Nursing\n\nCommunity Nursing",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/wee-yah-hui-celestine/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/Celestine-photo-3-150x150.jpeg"
+  },
+  {
+    "id": "nus-yll-medphc-wong-peiyan",
+    "name": "WONG Peiyan",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "-",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-zo5cvlbi7qd2",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2023/05/Peiyan.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-wu-xi-vivien",
+    "name": "WU Xi, Vivien",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Innovative Healthy Ageing Interventions\n\nDigital Health empowering Older Adults and Caregivers in Managing Chronic Diseases\n\nIntergenerational Programs promoting Ageing-in-place in the Community\n\nDevelopment and validation of Clinical and Educational Assessment Tools",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/wu-xi-vivien/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Vivien-Wu-150x150.jpg"
   },
   {
     "id": "nus-dbs-wei-jiangbo",
@@ -19219,6 +20445,18 @@
     "summary": "Developmental Biology, Epigenetics, Congenital Diseases, Molecular Biology.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/xue-shifeng/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/xuesf1.jpg"
+  },
+  {
+    "id": "nus-yll-medphc-yeoh-siang-fei",
+    "name": "YEOH Siang Fei",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
+    "title": "Part-time Lecturer",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Neuropsychopharmacology of antipsychotics, antidepressants and anxiolytics\n\nNeurobiology of amyloid precursor protein (APP)\n\nNeural stem cells and neurogenesis",
+    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/",
+    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/02/siang-fei-crop.jpg"
   },
   {
     "id": "nus-dbs-yang-daiwen",
@@ -19331,6 +20569,48 @@
     "summary": "Dr Toyama had a formal training in physics and engineering during graduate (Osaka Univ.) and undergraduate (Hokkaido Univ.) school in Japan. In 2003, he earned a Ph.D. in Engineering where his doctoral work was focused on plasma physics and laser driven nuclear fusion. He then embraced biophysics and mechanobiology during his postdoctoral carrier at Duke Univ. under supervision of Prof. Glenn Edwards (Physics department) and Prof. Dan Kiehart (Biology department). Dr Toyama joined Department of Biological Sciences at National University of Singapore as an Assistant Professor in 2010, and promoted as an Associate Professor in 2018. He also has an appointment as a Principal Investigator in Mechanobiology Institute since 2010.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/yusuke-toyama/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/toyama.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-zakir-hussain-abdul-salam",
+    "name": "ZAKIR HUSSAIN Abdul Salam",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Senior Lecturer",
+    "roles": [
+      "Undergraduate Programmes Director for Year 1",
+      "Chairperson for Student Exchanges"
+    ],
+    "research_areas": [],
+    "summary": "Atrial fibrillation\n\nEnd of life care\n\nInfection control",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/zakir-hussain-abdul-salam/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2019/11/stf_zakir_hussain_abdul_salam-e1615975344338-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-zeng-yingchun-chloe",
+    "name": "ZENG Yingchun, Chloe",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Assistant Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "Artificial Intelligence (AI)\n\nCancer Care\n\nChronic Disease Management\n\nHealthcare Innovation",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/zeng-yingchun/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/Zeng-Yingchun-photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-nursing-zhou-wentao",
+    "name": "ZHOU Wentao",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Alice Lee Centre for Nursing Studies",
+    "title": "Associate Professor",
+    "roles": [
+      "Deputy Head (Postgraduate Programmes)",
+      "Programme Director for Master of Nursing"
+    ],
+    "research_areas": [],
+    "summary": "Advanced Practice Nurses Development (Education, Competencies, Practice model, Outcomes and Policies)\n\nContinuing Education and Training\n\nPatient-Centred Care",
+    "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/leadership-teams-directors/zhou-wentao/",
+    "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/01/Zhou-Wentao-150x150.jpg"
   },
   {
     "id": "nus-dbs-zeehan-jaafar",
