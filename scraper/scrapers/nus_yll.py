@@ -83,11 +83,22 @@ DEPARTMENTS: list[dict] = [
             "/nursing/our-people/our-faculty/teaching-faculty/",
         ],
     },
-    # "anchor-card" layout: bare <a><img><h3>Name</h3><p>Title</p></a>.
+    # "anchor-card" layout: bare <a><img><h3|h4>Name</h3><p>Title</p></a>.
     {
         "slug": "phys", "layout": "anchor-card",
         "name": "Department of Physiology",
         "listings": ["/phys/about-us/academic-staff/"],
+    },
+    # Psychological Medicine uses h4 and often bundles title into the heading
+    # (e.g. "Adjunct Associate Professor Cornelia Chee"). We skip the admin
+    # page and keep the physicians + research-team listings.
+    {
+        "slug": "pcm", "layout": "anchor-card",
+        "name": "Department of Psychological Medicine",
+        "listings": [
+            "/pcm/faculty-staff/expert-team-physicianspsychologist/",
+            "/pcm/faculty-staff/research-team/",
+        ],
     },
 ]
 
@@ -332,9 +343,9 @@ def _parse_listing_anchor_card(dept_slug: str, dept_name: str, html: str) -> lis
     soup = BeautifulSoup(html, "lxml")
     out: list[dict] = []
     seen: set[str] = set()
-    # Anchors that wrap both an img and an h3 are almost certainly faculty cards.
+    # Anchors that wrap both an img and an h3/h4 are almost certainly faculty.
     for a in soup.find_all("a", href=True):
-        h = a.find("h3")
+        h = a.find(["h3", "h4"])
         if not h:
             continue
         if not a.find("img"):
@@ -352,6 +363,19 @@ def _parse_listing_anchor_card(dept_slug: str, dept_name: str, html: str) -> lis
             continue
         p = a.find("p")
         title_lines = _br_lines(p) if p else []
+        # Some subsites (pcm) bundle title prefix into the heading text:
+        # "Adjunct Associate Professor Cornelia Chee". Peel off the prefix
+        # into title_lines so the name is just the person's name.
+        if not title_lines:
+            m = re.match(
+                r"^((?:Dr|Mr|Mrs|Ms|Prof|Professor|Associate\s+Professor|Assistant\s+Professor|"
+                r"Adjunct\s+(?:Associate\s+|Assistant\s+)?Professor|Visiting\s+Professor|"
+                r"Senior\s+Lecturer|Lecturer|Clinical\s+(?:Associate\s+|Assistant\s+)?Professor)\.?)\s+(.+)$",
+                name, re.I,
+            )
+            if m:
+                title_lines = [clean_text(m.group(1))]
+                name = clean_text(m.group(2))
 
         photo_url = ""
         img = a.find("img")
@@ -400,10 +424,28 @@ _STOP_HEADING_RE = re.compile(
 )
 
 
+_CHROME_CLASSES = {"sidebar", "widget", "footer", "megamenu", "breadcrumb",
+                   "breadcrumbs", "menu"}
+
+
+def _in_sidebar(node) -> bool:
+    """True if `node` is inside a sidebar/footer/breadcrumb container. Used to
+    reject headings that belong to page chrome (pcm profile pages have an
+    <h4 class="title">Research</h4> in a footer megamenu). Match exact class
+    tokens — substring matches like "ast-no-sidebar" would false-positive."""
+    for anc in node.parents:
+        if anc.name in ("nav", "aside", "footer"):
+            return True
+        classes = anc.get("class") or []
+        if any(c.lower() in _CHROME_CLASSES for c in classes):
+            return True
+    return False
+
+
 def _enrich_profile(rec: dict, html: str) -> None:
     """Extract research summary + areas from a profile page and merge into rec."""
     soup = BeautifulSoup(html, "lxml")
-    for s in soup(["script", "style", "noscript"]):
+    for s in soup(["script", "style", "noscript", "nav", "aside"]):
         s.decompose()
 
     paras: list[str] = []
@@ -412,6 +454,18 @@ def _enrich_profile(rec: dict, html: str) -> None:
         htxt = clean_text(h.get_text(" ", strip=True))
         if not _RESEARCH_HEADING_RE.match(htxt):
             continue
+        if _in_sidebar(h):
+            continue
+        # Also reject if the immediate following <ul>/<ol> is a nav-style list
+        # (pcm footer megamenu has <h4>Research</h4> followed by <ul class="nav_pro">).
+        nxt = h.find_next(["ul", "ol", "p", "div"])
+        if nxt and nxt.name in ("ul", "ol"):
+            nxt_cls = " ".join(nxt.get("class") or [])
+            nxt_classes = set((nxt.get("class") or []))
+            if nxt_classes & _CHROME_CLASSES or any(
+                c.lower().startswith("nav") for c in nxt_classes
+            ):
+                continue
         h_lvl = int(h.name[1])
         for sib in h.find_all_next():
             if sib.name in ("h1", "h2", "h3", "h4") and sib is not h:

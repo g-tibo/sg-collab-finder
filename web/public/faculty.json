@@ -18071,6 +18071,30 @@
     "photo_url": "https://www.ntu.edu.sg/images/librariesprovider119/default-album/people/faculty/adjunct-faculty/inderjitsingh_edited.jpg?sfvrsn=dd5ee43_3&MaxWidth=180&MaxHeight=220&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=204CCFD4CAE0114AC9E4E2B5ECFDCAF7CF375F5B"
   },
   {
+    "id": "nus-yll-pcm-a-prof-john-wong-chee-meng",
+    "name": "A/Prof John Wong Chee Meng",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/aprof-john-wong-chee-meng/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2024/01/prof-john-20190514_0513_MWP_HIGHRES-scaled-e1706153013923.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-a-prof-tan-chay-hoon",
+    "name": "A/Prof Tan Chay Hoon",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/aprof-tan-chay-hoon/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2021/01/default-avatar-profile-icon-grey-1.jpg"
+  },
+  {
     "id": "nus-yll-nursing-ang-eng-tat",
     "name": "ANG Eng Tat",
     "institution": "NUS",
@@ -18282,6 +18306,30 @@
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/02/CHUA-Weiling-150x150.jpg"
   },
   {
+    "id": "nus-yll-pcm-celine-wong",
+    "name": "Celine Wong",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-celine-wong/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2020/02/Celine.png"
+  },
+  {
+    "id": "nus-yll-pcm-chan-hui-minn",
+    "name": "Chan Hui Minn",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/psychologists/chan-hui-minn/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/Chan-Hui-Minn-1.jpg"
+  },
+  {
     "id": "nus-dbs-chan-woon-khiong",
     "name": "Chan Woon Khiong",
     "institution": "NUS",
@@ -18294,6 +18342,18 @@
     "summary": "Zebrafish Development; Stem Cell Biology",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/chan-woon-khiong/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/chanwk-1.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-chee-tji-tjian",
+    "name": "Chee Tji Tjian",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-chee-tji-tjian/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/De-Chee-TT-photo-1536x2048-2-e1625060684639.jpg"
   },
   {
     "id": "nus-yll-bch-chen-ee-sin",
@@ -18334,6 +18394,18 @@
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/CHEOK-Chit-Fang-circle-d2f4f57e7fc1cd1e80de6594d0d74223-w6usm3rg9lt7.png"
   },
   {
+    "id": "nus-yll-pcm-cheryl-chang",
+    "name": "Cheryl Chang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-cheryl-chang/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2022/07/Photo-Dr-Cheryl-Chang-Wai-Leng-edit.jpeg"
+  },
+  {
     "id": "nus-dbs-chew-fook-tim",
     "name": "Chew Fook Tim",
     "institution": "NUS",
@@ -18359,6 +18431,30 @@
     "summary": "Mammalian oogenesis, embryogenesis, tissue hydraulics, mechanochemical feedback in tissue self-organisation",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/chii-jou-chan/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2021/01/joechan.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-chin-zhen-hui",
+    "name": "Chin Zhen Hui",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/psychologists/chin-zhen-hui/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/chin-zhen-hui-1.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-chris-tsoi-tung",
+    "name": "Chris Tsoi Tung",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-chris-tsoi-tung/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/chris-tsoi-1.jpg"
   },
   {
     "id": "nus-dbs-christoph-winkler",
@@ -18392,6 +18488,18 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Christopher-Chen-Li-Hsian-2E1.jpg"
   },
   {
+    "id": "nus-yll-pcm-cornelia-chee",
+    "name": "Cornelia Chee",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Adjunct Associate Professor",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-cornelia-chee/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/cornelia-chee-1.jpg"
+  },
+  {
     "id": "nus-yll-phys-crasta-karen-carmelina",
     "name": "Crasta Karen Carmelina",
     "institution": "NUS",
@@ -18413,6 +18521,18 @@
     "summary": "Cell and molecular biology of parasitic\n\n(All rights reserved. Do not download movie without permission)",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/cynthia-he/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/cynthia.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-cyrus-ho-su-hui",
+    "name": "Cyrus Ho Su Hui",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-cyrus-ho-su-hui/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2024/02/rsz_11ho_su_hui_official_photo2023.jpg"
   },
   {
     "id": "nus-yll-nursing-dong-yanhong-catherine",
@@ -18657,6 +18777,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2020/01/bchganyh.jpg"
   },
   {
+    "id": "nus-yll-pcm-ganesh-kudva-kundadak",
+    "name": "Ganesh Kudva Kundadak",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-ganesh-kudva-kundadak/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2022/07/Dr.-Ganesh.png"
+  },
+  {
     "id": "nus-yll-medphc-gautam-sethi",
     "name": "Gautam SETHI",
     "institution": "NUS",
@@ -18720,6 +18852,18 @@
     "summary": "Exercise Immunology and Oncology\n\nDamage-Associated Molecular Patterns (DAMPs)\n\nExerkines, Inflammation\n\nIntegrative Exercise Physiology",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/research-track/goh-jor-ming/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Research-Track_03-Goh-Jor-Ming-scaled.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-goh-kar-cheng",
+    "name": "Goh Kar Cheng",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-goh-kar-cheng-2/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2022/07/Photo-Dr-Goh-Kar-Cheng.jpeg"
   },
   {
     "id": "nus-dbs-greg-tucker-kellogg",
@@ -19115,6 +19259,18 @@
     "photo_url": "https://www.nus.edu.sg/cncs/wp-content/uploads/2022/10/cropped-CoBrand-CNCS_H_Transparent1-1-1-240x77.png"
   },
   {
+    "id": "nus-yll-pcm-kua-ee-heok",
+    "name": "Kua Ee Heok",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Prof",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/prof-kua-ee-heok/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2020/02/Kua-Ee-Heok.png"
+  },
+  {
     "id": "nus-dbs-l-roman-carrasco",
     "name": "L. Roman Carrasco",
     "institution": "NUS",
@@ -19254,7 +19410,7 @@
     "title": "Teaching Assistant",
     "roles": [],
     "research_areas": [],
-    "summary": "Chronic Illness and Long-term Care\n\nEducation Innovation\n\nGeriatric Care and Wellness\n\nPatient Safety and Quality Care",
+    "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/lo-chue-har/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2021/04/LO-Chue-Har-150x150.jpg"
   },
@@ -19300,6 +19456,18 @@
     "summary": "Tobacco cessation & control\n\nLifestyle intervention\n\nDigital health\n\nImplementation research",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/assistant-professors/luk-tzu-tsun-kevin/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2024/11/Luk-Tzu-Tsun-Photo-150x150.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-lai-yew-min",
+    "name": "Lai Yew Min",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-lai-yew-min/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/lai-yew-min-1.jpg"
   },
   {
     "id": "nus-dbs-lam-siew-hong",
@@ -19878,7 +20046,7 @@
     "title": "Lecturer",
     "roles": [],
     "research_areas": [],
-    "summary": "Chronic Illness and Long-term Care\n\nEducation Innovation\n\nGeriatric Care and Wellness\n\nPatient Safety and Quality Care",
+    "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/oh-olivia/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/Olivia-150x150.jpg"
   },
@@ -20114,6 +20282,18 @@
     "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2024/04/Raj-1.png"
   },
   {
+    "id": "nus-yll-pcm-rasaiah-munidasa-winslow",
+    "name": "Rasaiah Munidasa Winslow",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-rasaiah-munidasa-winslow/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2021/01/default-avatar-profile-icon-grey.jpg"
+  },
+  {
     "id": "nus-yll-phys-reshma-taneja",
     "name": "Reshma Taneja",
     "institution": "NUS",
@@ -20124,6 +20304,18 @@
     "summary": "Epigenetic regulation of skeletal muscle differentiation and regeneration\n\nChromatin signalling networks in myopathies",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/reshma-taneja/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/10/Reshma-Taneja-e1727750775840.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-roger-ho-chun-man",
+    "name": "Roger Ho Chun Man",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Prof",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/prof-roger-ho-chun-man/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2022/07/RH-2020.jpg"
   },
   {
     "id": "nus-yll-nursing-ronel-tan-xian-rong",
@@ -20155,7 +20347,7 @@
     "title": "Lecturer",
     "roles": [],
     "research_areas": [],
-    "summary": "Chronic Illness and Long-term Care\n\nEducation Innovation\n\nGeriatric Care and Wellness\n\nPatient Safety and Quality Care",
+    "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/teaching-faculty/rooma-panchmatia/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2025/08/Rooma-Photo-150x150.jpg"
   },
@@ -20310,6 +20502,18 @@
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2022/04/sjh3.png"
   },
   {
+    "id": "nus-yll-pcm-soo-shuenn-chiang",
+    "name": "Soo Shuenn Chiang",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-soo-shuenn-chiang/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2019/12/soo-shuenn-chiang-1.jpg"
+  },
+  {
     "id": "nus-yll-phys-soong-tuck-wah",
     "name": "Soong Tuck Wah",
     "institution": "NUS",
@@ -20385,23 +20589,6 @@
     "summary": "Risk factors for Cardiovascular Diseases\n\nEnvironmental Health\n\nMethodological issues in meta-analysis\n\nStatistical analyses on health data",
     "profile_url": "https://medicine.nus.edu.sg/nursing/our-people/our-faculty/leadership-teams-directors/tam-wai-san-wilson/",
     "photo_url": "https://medicine.nus.edu.sg/nursing/wp-content/uploads/sites/2/2022/11/Wilson-1-150x150.jpg"
-  },
-  {
-    "id": "nus-yll-medphc-tan-chay-hoon",
-    "name": "TAN Chay Hoon",
-    "institution": "NUS",
-    "department": "Yong Loo Lin School of Medicine — Department of Pharmacology",
-    "title": "Associate Professor Honorary Fellow",
-    "roles": [],
-    "research_areas": [
-      "REAP ( RE search in A sian P sychotropic Drug Prescription)",
-      "Active and confident ageing",
-      "MCI, Sarcopenia and ageing",
-      "Medical Educational Research"
-    ],
-    "summary": "REAP ( RE search in A sian P sychotropic Drug Prescription)\n\nActive and confident ageing\n\nMCI, Sarcopenia and ageing\n\nMedical Educational Research",
-    "profile_url": "https://medicine.nus.edu.sg/medphc/about-us/academic-staff/#modal-7f82xt1laq6d",
-    "photo_url": "https://medicine.nus.edu.sg/medphc/wp-content/uploads/sites/33/2022/08/AP-Tan-Chay-Hoon.jpg"
   },
   {
     "id": "nus-yll-patho-tan-hui-min",
@@ -20540,6 +20727,18 @@
     "photo_url": "https://medicine.nus.edu.sg/patho/wp-content/uploads/sites/31/bb-plugin/cache/TEH-Ming-2-circle-f88db1c0b1ce06f3466ecef56bd8e09d-r5j0el928wxt.jpg"
   },
   {
+    "id": "nus-yll-pcm-terri-chen",
+    "name": "Terri Chen",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Ms",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/psychologists/terri-chen/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2021/01/default-avatar-profile-icon-grey-1.jpg"
+  },
+  {
     "id": "nus-yll-phys-thai-tran",
     "name": "Thai Tran",
     "institution": "NUS",
@@ -20577,6 +20776,18 @@
     "summary": "Biophysical Fluorescence\n\nThe research in my group is directed towards biophysics with an emphasis on biophysical fluorescence. This highly interdisciplinary domain requires the interaction of chemists, physicists, and biologists. Only a concerted effort of these three groups will allow us to tackle the problems in the life sciences. The close proximity of departments of biology, biochemistry, chemistry, and physics at the National University of Singapore on one side and the research institutes (RIs) on the other side, allows us to develop physical and chemical methods for the study of biological questions on one hand and to apply these methods to the frontier in biology on the other hand. Our interests lie accordingly in the different areas that interact freely to advance this research field.\n\nConstruction and development of new optical tools.\n\nOptical Spectroscopy is one of the most sensitive tools available in the life sciences. Proteins can be studied not only in ensembles but as well on the single molecule level. Besides using well established methods in our group (e.g. Fluorescence Correlation Spectroscopy, Fluorescence Resonance Energy Transfer), we also plan to develop new spectroscopy and microscopy tools and new mathematical procedures to study proteins on a single molecule level in vitro and in vivo.",
     "profile_url": "https://www.dbs.nus.edu.sg/staffs/thorsten-wohland/",
     "photo_url": "https://www.dbs.nus.edu.sg/wp-content/uploads/sites/7/2020/02/wohland.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-tian-cheong-sing",
+    "name": "Tian Cheong Sing",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-tian-cheong-sing/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2020/02/Tian-Cheong-Sing.png"
   },
   {
     "id": "nus-dbs-todd-peter-alan",
@@ -20619,6 +20830,18 @@
     "summary": "Protein Homeostasis in Aging : Aging disrupts protein homeostasis in skeletal muscle, contributing to sarcopenia—the progressive loss of muscle mass and function. Our research investigates how autophagy and proteasomal degradation regulate protein quality and reshape the muscle microenvironment through cell-nonautonomous signaling. By targeting these pathways, we aim to uncover interventions that mitigate muscle atrophy, delay sarcopenia, and promote healthier aging.\n\nSex-Specific Mechanisms in Muscle Aging : Biological sex plays a critical role in aging, yet its impact is often overlooked. Our work examines how sex-specific factors influence protein homeostasis and muscle aging trajectories. By elucidating these differences, we seek to design tailored interventions that enhance the effectiveness of anti-aging strategies across diverse populations.",
     "profile_url": "https://medicine.nus.edu.sg/phys/about-us/academic-staff/tenure-track/tsai-shih-yin/",
     "photo_url": "https://medicine.nus.edu.sg/phys/wp-content/uploads/sites/40/2024/09/Tenure-Track_AssisProf_TsaiShihYin-e1725867914583.jpg"
+  },
+  {
+    "id": "nus-yll-pcm-tsoi-wing-foo",
+    "name": "Tsoi Wing Foo",
+    "institution": "NUS",
+    "department": "Yong Loo Lin School of Medicine — Department of Psychological Medicine",
+    "title": "Dr",
+    "roles": [],
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://medicine.nus.edu.sg/pcm/faculty-staff/expert-team-physicianspsychologist/physicians/dr-tsoi-wing-foo/",
+    "photo_url": "https://medicine.nus.edu.sg/pcm/wp-content/uploads/sites/5/2021/01/default-avatar-profile-icon-grey.jpg"
   },
   {
     "id": "nus-yll-phys-tsuyoshi-hirashima",
@@ -21083,7 +21306,7 @@
     "title": "Assistant Professor",
     "roles": [],
     "research_areas": [],
-    "summary": "Facilities Bioinformatics Leica CM3050S Cryostat BioRad Digital PCR\n\nBioinformatics\n\nLeica CM3050S Cryostat\n\nBioRad Digital PCR",
+    "summary": "",
     "profile_url": "https://medicine.nus.edu.sg/bch/faculty/zhou-yilong/",
     "photo_url": "https://medicine.nus.edu.sg/bch/wp-content/uploads/sites/13/2025/05/IMG_5389.jpeg"
   }
