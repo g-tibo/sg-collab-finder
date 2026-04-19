@@ -67,11 +67,12 @@ export default function MatchPage() {
   return (
     <>
       <section className="mb-6">
-        <h1 className="text-3xl font-semibold tracking-tight">AI Match</h1>
+        <h1 className="text-3xl font-semibold tracking-tight">AI Collaborator Match</h1>
         <p className="mt-2 text-black/70 dark:text-white/70 max-w-2xl">
-          Describe your project, question, or technique. Claude ranks the 5 most
-          relevant faculty across the directory. Your description and the directory
-          are sent to the Anthropic API; nothing is stored by this site.
+          Describe your project, question, or technique. Claude will rank Singapore
+          researchers by topical fit and explain why each one might be a good match.
+          Your description and the directory are sent to the Anthropic API; nothing
+          is stored by this site.
         </p>
       </section>
 
