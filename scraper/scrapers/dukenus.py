@@ -156,7 +156,10 @@ def _should_include(rec: dict) -> bool:
     if rec.get("Employment_Status") != "Active":
         return False
     pos = (rec.get("Position_Title") or "").strip()
-    if not pos or "Adjunct" in pos:
+    # Only professorial ranks (Assistant/Associate/Full, plus Clinical/
+    # Emeritus/Visiting variants). Excludes research fellows, research
+    # assistants, research scientists, and adjunct titles.
+    if not pos.endswith("Professor") or "Adjunct" in pos:
         return False
     team = (rec.get("Lab_Section_Team") or "").strip()
     if not team or team.startswith("SingHealth Duke-NUS"):
