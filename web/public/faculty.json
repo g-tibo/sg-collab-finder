@@ -15613,6 +15613,28 @@
     "photo_url": "/photos/dukenus/dukenus-alex-sia-tiong-heng.jpg"
   },
   {
+    "id": "nus-mbi-alexander-bershadsky",
+    "name": "Alexander Bershadsky",
+    "institution": "NUS",
+    "department": "Mechanobiology Institute (MBI)",
+    "title": "Professor and Senior Principal Research Scientist",
+    "profile_url": "https://www.mbi.nus.edu.sg/alexander-bershadsky/",
+    "summary": "The Bershadsky lab studies cell motility and the mechanical forces that govern how cells attach to their substrate and to neighbouring cells. The group treats adhesion sites as mechanical sensors that read environmental cues and translate them into cellular behaviour, with particular interest in how these sensing mechanisms are disrupted in cancer cells to reduce adhesion and increase motility. Research spans focal-adhesion mechanosensitivity, microtubule regulation, actin assembly by formins, and crosstalk between the actin and microtubule cytoskeletons.",
+    "research_areas": [
+      "Cell motility",
+      "Cytoskeleton dynamics",
+      "Cell adhesion and mechanotransduction",
+      "Focal adhesions as mechanosensors",
+      "Microtubule regulation",
+      "Formin proteins and actin assembly",
+      "Actin–microtubule crosstalk"
+    ],
+    "roles": [
+      "Professor and Senior Principal Research Scientist, Mechanobiology Institute (MBI), NUS",
+      "Joseph Moss Chair of Biomedical Research in Molecular Cell Biology, Weizmann Institute of Science"
+    ]
+  },
+  {
     "id": "nus-stat-alexander-giessing",
     "name": "Alexander Giessing",
     "institution": "NUS",
@@ -15671,6 +15693,28 @@
       "NUS Presidential Young Professorship"
     ],
     "photo_url": "https://www.physics.nus.edu.sg/wp-content/uploads/sites/5/2022/09/alexey-1.jpg"
+  },
+  {
+    "id": "nus-mbi-alphee-michelot",
+    "name": "Alphée Michelot",
+    "institution": "NUS",
+    "department": "Mechanobiology Institute (MBI)",
+    "title": "Principal Research Fellow",
+    "profile_url": "https://www.mbi.nus.edu.sg/alphee-michelot/",
+    "photo_url": "https://www.mbi.nus.edu.sg/wp-content/uploads/2024/11/Alphee_Image-01.jpg",
+    "summary": "The Michelot lab investigates the organization, dynamics, and function of the cytoskeleton in cells. The group studies how regulatory proteins coordinate to assemble distinct cytoskeletal networks and how cells maintain the capacity to reorganize these networks rapidly in response to cellular demands. Work combines molecular and cell biology with physics and chemistry, using both in vitro reconstituted systems and yeast as a model organism to bridge molecular mechanism and cellular function.",
+    "research_areas": [
+      "Cytoskeleton organization and dynamics",
+      "Actin filament assembly and networks",
+      "In vitro reconstitution",
+      "Yeast cell biology",
+      "Molecular motors and force generation",
+      "Bioenergetics",
+      "Mechanobiology"
+    ],
+    "roles": [
+      "Principal Research Fellow, Mechanobiology Institute (MBI), NUS"
+    ]
   },
   {
     "id": "nus-dent-alvin-boon-keng-yeo",
