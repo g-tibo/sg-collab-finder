@@ -1,4 +1,22 @@
 {
+  "nus-dbs-rong-li": {
+    "title": "Distinguished Professor, Department of Biological Sciences; Director, Mechanobiology Institute",
+    "summary": "Professor Rong Li's lab pursues two main research thrusts: cell and tissue aging; and cellular and organismal adaptation. The aging arm studies dynamic changes of cellular components during aging and how they alter the mechanical functions of cells and tissues, aiming to prolong healthy aging and support the repair and regeneration of deteriorated functions. The adaptation arm studies the dynamics of genetic and epigenetic determinants under acute or chronic stress, and the adaptive behaviours that follow — with a long-term view toward preventing cancers associated with chronic inflammatory disease. Prof Li joined NUS in 2019 as the second Director of the Mechanobiology Institute, succeeding Prof Michael Sheetz, and brings more than 25 years of interdisciplinary research on cellular dynamics and mechanics from Johns Hopkins University, where she directed the Center for Cell Dynamics.",
+    "research_areas": [
+      "Cell and tissue aging",
+      "Cellular and organismal adaptation",
+      "Cellular dynamics and mechanics",
+      "Chromosome biology and aneuploidy",
+      "Mechanobiology",
+      "Tissue regeneration",
+      "Stress response and epigenetics"
+    ],
+    "photo_url": "https://www.mbi.nus.edu.sg/wp-content/uploads/2021/08/thumbnail_Prof-Rong-Li-Mar-2021-Headshot-1024x1024.jpg",
+    "roles": [
+      "Director, Mechanobiology Institute (MBI), NUS",
+      "Distinguished Professor, Department of Biological Sciences, NUS"
+    ]
+  },
   "ntu-sbs-guillaume-thibault": {
     "research_areas": [
       "Endoplasmic Reticulum (ER) Stress",
