@@ -3698,22 +3698,19 @@
     "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/84bf4cc0-a45a-4195-8060-0a28433fc0ac/content"
   },
   {
-    "id": "ntu-mse-chew-sing-yian",
+    "id": "ntu-cceb-chew-sing-yian",
     "name": "Chew Sing Yian",
     "institution": "NTU",
-    "department": "School of Materials Science and Engineering (MSE)",
+    "department": "School of Chemistry, Chemical Engineering and Biotechnology (CCEB)",
     "title": "Professor",
     "roles": [
-      "Professor, School of Chemistry, Chemical Engineering and Biotechnology Professor, Lee Kong Chian School of Medicine Professor, School of Materials Science & Engineering (Courtesy Appointment)"
+      "[email protected]"
     ],
-    "research_areas": [
-      "Biomedical Engineering",
-      "Developmental Biology and Regenerative Medicine",
-      "Neuroscience"
-    ],
-    "summary": "Research interests: Biomedical Engineering | Developmental Biology and Regenerative Medicine | Neuroscience",
-    "profile_url": "https://dr.ntu.edu.sg/entities/person/Chew-Sing-Yian",
-    "photo_url": "https://dr.ntu.edu.sg/server/api/core/bitstreams/064510d8-a5b8-48aa-bd80-6a7b41fecaf5/content"
+    "research_areas": [],
+    "summary": "",
+    "profile_url": "https://dr.ntu.edu.sg/cris/rp/rp00718",
+    "photo_url": "https://www.ntu.edu.sg/images/cceblibraries/people/chewsingyian.jpg?sfvrsn=f8b62a35_3",
+    "lab_url": "https://personal.ntu.edu.sg/sychew"
   },
   {
     "id": "ntu-cceb-chi-robin-yonggui",

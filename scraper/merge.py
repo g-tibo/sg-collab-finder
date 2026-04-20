@@ -72,9 +72,21 @@ def _is_primary(rec: dict) -> bool:
     return not _SECONDARY_RE.search(rec.get("title", "") or "")
 
 
+# Manual overrides for people whose courtesy appointment ends up being
+# chosen by _priority (because the courtesy-dept page has a richer
+# profile). Listed IDs are ranked *above* richness, so these records win
+# even if the other has a longer summary. Add an entry per known case.
+_FORCE_PRIMARY_IDS = {
+    # Sing Yian CHEW — primary at CCEB; MSE is a courtesy appointment.
+    "ntu-cceb-chew-sing-yian",
+}
+
+
 def _priority(rec: dict) -> tuple:
-    """Higher = better. Primary beats secondary; richer record beats thinner."""
+    """Higher = better. Forced-primary overrides win first, then primary
+    beats secondary, then richer record beats thinner."""
     return (
+        1 if rec.get("id") in _FORCE_PRIMARY_IDS else 0,
         1 if _is_primary(rec) else 0,
         len(rec.get("summary", "") or ""),
         len(rec.get("research_areas", []) or []),
